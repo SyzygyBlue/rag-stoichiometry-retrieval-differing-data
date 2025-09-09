@@ -1,0 +1,292 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Jackal's teeth",
+    "scene_id": "chapter05_jackals-teeth_2186-10-10_to_2186-10-11",
+    "chapter_number": 5,
+    "scene_number": 1,
+    "date_in_universe": "2186-10-10/2186-10-11",
+    "absolute_timeline_notes": "Night raid and firefight occur across late 10 Oct into early 11 Oct 2186 while tracking Three Shovels’ route."
+    },
+    "text_windows": {
+    "full_scene_clean": "They followed the tree line until Quincy spotted a shallow depression and hid the two-seater under brush. Battery dropped two notches; recharge later. Demmy led; Quincy followed, night-vision turning the woods ghost-green. Smells of damp leaves, rot, woodsmoke, and faint putrefaction rode the breeze. A small fire glowed—maybe bait. Creeping tree to tree, they spotted a ravager-style two-seater with a kicked-out front wheel and a body face-down nearby. One unaccounted for. Demmy signaled; then sudden struggle—Demmy and an older, stocky man in rags wrestling over a shotgun. Quincy holstered her automag to grab Demmy’s dropped shiv but was knocked back as the man swung Demmy into her. The shotgun began to come around on Quincy; she drew and fired once. The man fell, dead. Silence returned; crickets resumed. Up close, he looked like a starving skerv, not a ravager. Quincy processed the kill—revulsion mixed with a terrifying, clean focus and post-shot buzz. Demmy recovered his shiv, pocketed the casing, and handed Quincy the warm brass while testing the shotgun. He praised her for not hesitating. Quincy holstered the pistol, pocketed the casing, and stood, still buzzing. They turned to see what else the camp and vehicle might yield.",
+    "dense_recap_250w": "Quincy and Demmy conceal their buggy and stalk a small nighttime camp using low-light optics. They detect woodsmoke, a too-visible fire, a ravager-style two-seater with damaged steering, and one corpse—implying another hostile nearby. Demmy advances with his shiv and is ambushed by a stocky, older man in rags wielding a shotgun. In the close-quarters fight Demmy drops his knife; when the assailant swings the shotgun toward Quincy, she draws her .45 automag and fires once, killing him. After the shot, the forest returns to quiet. Seeing the body clearly, Quincy realizes the attacker seems more like a starving skerv than a ravager, triggering a hard internal reckoning: she acted to survive, yet the precise, adrenal clarity of the kill felt disturbingly good. Demmy calmly retrieves his shiv, lifts the shotgun, and compliments Quincy’s lack of hesitation, giving her the spent casing to pocket. With the immediate threat ended, they prepare to search the scene and the damaged ravager buggy for salvageable parts in hopes of improving their own vehicle and closing the gap to their caravan.",
+    "query_handle": "Quincy & Demmy night raid: ambush at ravager buggy; Quincy kills attacker; loot shotgun; moral shock."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Approach and concealment",
+    "what_happens": "They hide the two-seater under brush in a shallow dip and begin a stealth approach with low-light optics.",
+    "involved_entities": ["quincy", "demmy", "two-seater-buggy", "night-vision-loop"],
+    "stakes_or_conflict": "Avoid detection while hunting for a usable vehicle."
+    },
+    {
+    "order": 2,
+    "label": "Contact indicators",
+    "what_happens": "They smell putrefaction and woodsmoke and spot a too-bright campfire near a ravager buggy with a damaged front wheel and one dead body.",
+    "involved_entities": ["quincy", "demmy", "ravager-two-seater", "unidentified-dead-body"],
+    "stakes_or_conflict": "Unknown hostiles; possible trap."
+    },
+    {
+    "order": 3,
+    "label": "Ambush and struggle",
+    "what_happens": "An older man in rags grapples Demmy for a shotgun; Demmy loses his shiv as the fight pivots toward Quincy.",
+    "involved_entities": ["demmy", "older-skerv-attacker", "shotgun", "shiv"],
+    "stakes_or_conflict": "Immediate lethal threat at close range."
+    },
+    {
+    "order": 4,
+    "label": "Quincy’s shot",
+    "what_happens": "Quincy fires a single round from her automag and kills the attacker.",
+    "involved_entities": ["quincy", "automag-45", "older-skerv-attacker"],
+    "stakes_or_conflict": "Life-or-death resolved by decisive force."
+    },
+    {
+    "order": 5,
+    "label": "Aftermath and realization",
+    "what_happens": "Quincy confronts the moral weight and the adrenaline rush; Demmy recovers gear and suggests looting the scene.",
+    "involved_entities": ["quincy", "demmy", "shotgun", "brass-casing"],
+    "stakes_or_conflict": "Psychic cost vs survival pragmatism; chance to salvage."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Secure parts/vehicle to catch the caravan; keep herself and Demmy alive.",
+    "obstacles": "Hidden hostiles, low battery, damaged target vehicle, moral shock after lethal force.",
+    "tactics": "Silent movement mirroring Demmy; decisive close-range shooting; pocketing evidence; regroup to scavenge.",
+    "relationships": [
+    {"with": "demmy", "type": "ally", "state": "growing trust", "evidence": "Mirrors his stealth; saves him with a single shot; accepts his coaching."}
+    ],
+    "emotional_arc": {
+    "start": "keyed-up, alert, exhilarated",
+    "turning_points": ["Shoots attacker at close range", "Recognizes attacker appears skerv, not ravager"],
+    "end": "shaken, morally conflicted, still energized"
+    },
+    "notable_actions": ["conceals-buggy", "executes-silent-stalk", "fires-single-lethal-shot", "holsters-and-recovers", "pockets-spent-casing"],
+    "quotable_lines": [
+    "I just killed someone. And I feel more awake than I have in days."
+    ]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Scout and neutralize threats; salvage resources for escape/catch-up.",
+    "obstacles": "Grappled by attacker; loses shiv during struggle.",
+    "tactics": "Predator-quiet stalking; hand-to-hand fight for the shotgun; fast recovery and loot check.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "mentor-protege vibe", "evidence": "Compliments her non-hesitation and sets next steps to loot."}
+    ],
+    "emotional_arc": {
+    "start": "calm, focused",
+    "turning_points": ["Ambushed and nearly disarmed", "Sees Quincy’s decisive shot"],
+    "end": "steady, pragmatic"
+    },
+    "notable_actions": ["leads-approach", "engages-in-grapple", "recovers-shiv", "tests-shotgun", "directs-search"],
+    "quotable_lines": [
+    "Hey, you didn’t hesitate. Definite improvement."
+    ]
+    },
+    {
+    "id": "older-skerv-attacker",
+    "display_name": "Unidentified older man (skerv attacker)",
+    "aliases": ["stocky man in rags"],
+    "role_in_scene": "supporting",
+    "goals_now": "Seize advantage/defend camp; wield shotgun against intruders.",
+    "obstacles": "Demmy’s resistance; Quincy’s armed response.",
+    "tactics": "Grapples for weapon control; attempts to bring shotgun to bear.",
+    "relationships": [],
+    "emotional_arc": {
+    "start": "aggressive, desperate",
+    "turning_points": ["Loses control of fight", "Shot by Quincy"],
+    "end": "dead"
+    },
+    "notable_actions": ["grapples-with-demmy-over-shotgun", "threatens-quincy"],
+    "quotable_lines": [
+    "I’ll kill both of you fuckers!"
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "two-seater-buggy",
+    "name": "Quincy’s two-seater buggy",
+    "category": "vehicle",
+    "capabilities": ["electric drive", "roof solar charging (from prior scenes)"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "operational, battery low",
+    "scene_function": "Transport to raid site; hidden under brush."
+    },
+    {
+    "id": "ravager-two-seater",
+    "name": "Ravager two-seater (target)",
+    "category": "vehicle",
+    "capabilities": ["potential donor motor/parts"],
+    "owner_or_users": [],
+    "condition_or_state": "disabled (front steering damage)",
+    "scene_function": "Primary salvage objective for speed/repair."
+    },
+    {
+    "id": "automag-45",
+    "name": ".45 automag pistol",
+    "category": "weapon",
+    "capabilities": ["semi-automatic sidearm; close-quarters lethality"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "intact, used",
+    "scene_function": "Quincy fires a single decisive shot to end the fight."
+    },
+    {
+    "id": "shotgun",
+    "name": "Pump shotgun",
+    "category": "weapon",
+    "capabilities": ["close-range stopping power"],
+    "owner_or_users": ["older-skerv-attacker", "demmy (after)"],
+    "condition_or_state": "functional (implied, inspected)",
+    "scene_function": "Central to the grapple; potential loot for the pair."
+    },
+    {
+    "id": "shiv",
+    "name": "Demmy’s shiv",
+    "category": "weapon",
+    "capabilities": ["silent takedown"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "dropped then recovered",
+    "scene_function": "Demmy’s primary stealth weapon; lost in struggle."
+    },
+    {
+    "id": "night-vision-loop",
+    "name": "Low-light optic loop",
+    "category": "tool",
+    "capabilities": ["amplify ambient light for night movement"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "operational",
+    "scene_function": "Enables stealth approach and target identification."
+    },
+    {
+    "id": "brass-casing",
+    "name": "Spent .45 casing",
+    "category": "other",
+    "capabilities": ["none (memento/forensics)"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "warm, pocketed",
+    "scene_function": "Physical token of Quincy’s first direct kill; anchors her introspection."
+    }
+    ],
+    "locations": [
+    {
+    "id": "forest-edge-camp",
+    "name": "Forest edge near small camp",
+    "type": "wilderness",
+    "descriptors": ["tree line", "ghost-green optics", "damp leaves", "woodsmoke", "crickets"],
+    "in_scene_events": ["Stealth approach; firefight; post-contact looting prep."]
+    },
+    {
+    "id": "brush-depression-hide",
+    "name": "Shallow depression hide",
+    "type": "wilderness",
+    "descriptors": ["brush concealment", "battery meter dropping"],
+    "in_scene_events": ["Two-seater concealed before the raid."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "skervs",
+    "name": "Skervs (wildland survivors)",
+    "alignment": "unknown",
+    "agents_present": ["older-skerv-attacker"],
+    "motives_inferred": "Desperate self-defense or opportunistic attack for resources.",
+    "actions_in_scene": ["Ambushes Demmy with shotgun; is killed by Quincy."]
+    },
+    {
+    "id": "ravagers",
+    "name": "Ravagers",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Prior owners/users of target buggy; broader threat context.",
+    "actions_in_scene": ["Not present; their equipment shapes the salvage objective."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Survival vs conscience", "Adrenaline and becoming a hunter", "Ambiguity of enemy identities", "Pragmatism under scarcity"],
+    "motifs_symbols": ["ghost-green night vision", "spent brass as token", "too-bright campfire as lure", "predator-quiet stalking"],
+    "moral_questions": ["When self-defense kills the desperate, what is owed to the dead?", "Does repeated survival violence reshape identity?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/psychological",
+    "pacing": "brisk stealth with reflective aftermath",
+    "voice_traits": ["sensory-rich", "technical detail on weapons/vehicles", "intense interiority"],
+    "sensory_notes": ["damp leaves and rot", "thin woodsmoke", "ringing ears after the shot", "crickets resuming", "warm brass against skin"]
+    },
+    "causality": {
+    "prior_dependencies": ["Decision to hunt a damaged ravager buggy for parts to catch the caravan; Quincy previously armed with automag and optics."],
+    "outcomes": ["Attacker neutralized; potential acquisition of shotgun and salvage; Quincy crosses a moral threshold with first direct kill.", "Confirms target buggy’s steering damage."],
+    "unanswered_questions": ["Will the buggy yield usable motor/parts?", "How will Quincy’s reaction to killing affect future choices?", "Were there more hostiles nearby?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["demmy", "older-skerv-attacker"],
+    "trigger": "Ambush and struggle over a shotgun.",
+    "resolution": "Quincy shoots attacker; fight ends."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Shock at killing someone who appears to be a starving skerv and the disturbing exhilaration felt.",
+    "resolution": "Unresolved; she pockets the casing and moves to salvage."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy", "demmy", "night forest and unknown threats"],
+    "trigger": "Stealth movement toward a potentially trapped camp.",
+    "resolution": "Immediate area secured; search pending."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["death", "moral injury", "survival violence"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Demmy", "night raid", "ravager buggy", "shotgun grapple", "automag .45", "low-light optics", "spent casing", "skerv attacker"],
+    "keywords_dense": "Quincy, Demmy, night vision, stealth, ravager buggy, damaged steering, shotgun, automag .45, shiv, skerv attacker, close-quarters shooting, moral conflict, salvage",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Demmy", "Unidentified older skerv attacker"],
+    "places": ["Forest edge camp", "Shallow depression hide"],
+    "orgs": ["Skervs (wildland survivors)", "Ravagers"],
+    "terms": ["automag", "shiv", "low-light optics"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What vehicle do Quincy and Demmy target during the night raid?", "a": "A ravager-style two-seater with a damaged front wheel/steering."},
+    {"q": "Why does Quincy shoot the attacker?", "a": "He was swinging a shotgun toward her after grappling Demmy; she acted in immediate self-defense."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "jackals-teeth-1",
+    "type": "recap",
+    "text": "At night Quincy and Demmy hide their buggy and stalk a too-visible camp. They find a ravager two-seater with steering damage and one dead body, implying another hostile. An older man in rags ambushes Demmy with a shotgun; Quincy fires a single .45 round and kills him. After the shot, quiet returns. Quincy wrestles with the moral weight and the unnerving clarity she felt while shooting. Demmy recovers gear, checks the shotgun, and they prepare to loot the camp and vehicle for parts to help catch their caravan."
+    },
+    {
+    "chunk_id": "jackals-teeth-2",
+    "type": "entities_focus",
+    "text": "Leads: Quincy (POV shooter), Demmy (stealth lead), Unidentified older skerv attacker (killed). Gear: automag .45, pump shotgun, shiv, low-light optic loop, two-seater buggy (their own), ravager two-seater (target), spent .45 casing. Places: forest edge camp with small fire; shallow depression concealment. Factions: skervs (desperate), ravagers (absent but represented by vehicle). Roles: Demmy mentors stealth; Quincy executes decisive shot; attacker threatens with shotgun."
+    },
+    {
+    "chunk_id": "jackals-teeth-3",
+    "type": "style_theme_focus",
+    "text": "Gritty third-limited with sensory focus: ghost-green optics, woodsmoke, ringing ears, warm brass. Themes include survival versus conscience, adrenaline’s reshaping of self, and ambiguous enemies where a starving skerv can be both threat and victim. Motifs: too-bright campfire as lure, predator-quiet stalking, spent casing as token of transformation."
+    }
+    ]
+    }

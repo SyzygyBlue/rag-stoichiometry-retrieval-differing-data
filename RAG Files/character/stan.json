@@ -1,0 +1,18 @@
+{
+  "doc_type": "neon_titan_character_v1",
+  "source": {"dossier_file": null, "scene_refs": ["ch2-s2_open-flag-trade-day"]},
+  "identity": {"id": "stan", "display_name": "Stan", "aliases": []},
+  "affiliations": ["three-shovels-caravan"],
+  "bio": {
+    "one_liner": "Vendor-line crew; sets up testers/scales and chip reader; tries to keep the mood humane.",
+    "summary": "Works beside Quincy and Emory at the armored vendor tables, prepping scales/testers/chip reader and offering empathetic commentary during crowd tension."
+  },
+  "personality": {"traits": ["practical", "empathetic"], "flaws": ["thin-patience-under-stress"], "values": ["fairness", "throughput"]},
+  "appearance": {"style": "work gear with mixed armor at vendor line"},
+  "skills": {"tactics": ["prep-scales-testers", "process-trades"], "limitations": ["limited-control-over-crowd"]},
+  "relationships": [
+    {"with": "emory", "label": "coworker", "state": "irritated", "notes": "Snaps back at Emory’s cynicism."},
+    {"with": "quincy", "label": "coworker", "state": "warm", "notes": "Light talk about hardship and hope for calm."}
+  ],
+  "metadata_for_indexing": {"retrieval_keys": ["Stan", "vendor tables", "chip reader"], "spoiler_level": "scene_only"}
+}

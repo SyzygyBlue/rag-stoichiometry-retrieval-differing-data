@@ -1,0 +1,263 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "between-these-walls-part-2-2186-11-26",
+    "chapter_number": null,
+    "scene_number": null,
+    "date_in_universe": "2186-11-26",
+    "absolute_timeline_notes": "Evening. Continuation from Demmy’s dorm escape via vent; extended crawl through Fox River’s between-wall service ways toward below-ground levels."
+    },
+    "text_windows": {
+    "full_scene_clean": "Demmy remembers Evelyn’s promise after the library to take him somewhere secret for answers. She doesn’t contact him all day, then knocks from inside the wall during dinner. He slides the dresser aside, squeezes through the vent, and shuts it behind him so the entry won’t be obvious. In near-darkness, Evelyn hands him a penlight and warns not to aim it toward vents—residents know these crawlspaces. They move through dusty, mildewed passages between stacked containers, skirting pipes and wiring, using labeled markings and ladders at junctions. The maze is vast; Evelyn explains she and other kids grew up exploring it, though accidents made it less common. They pass forgotten toys, supplies, and a huge broken pair of scissors. Demmy reflects that a month ago he would have scavenged it to sell. At a tight cluster of pipes they squeeze around; smudged and close, Evelyn pulls him into an extended kiss. Both rattled and breathless, they agree to continue. She reveals Fox River has below-ground levels few people know about and asks him to keep that secret. When Demmy asks why she’s risking this, Evelyn says the Order is good and wants Demmy to see for himself so he can trust them—and her—without reservations. He protests that he already trusts her; she insists seeing is needed. Demmy agrees, and hand in hand they head for the ladder down.",
+    "dense_recap_250w": "Following Evelyn’s promise to show him a secret, Demmy uses a concealed vent behind his dormitory dresser to enter Fox River’s between-wall maintenance spaces. Evelyn equips him with a penlight and cautions against shining it through vents, since many residents know these crawlways. They navigate a dusty, mildewed, labeled maze of container junctions, pipes, and wiring via ladders up and down between levels, passing old toys, construction leftovers, and a massive broken pair of scissors. Demmy notes how life has changed; a month ago he would have scavenged everything. At a tight pipe cluster, an intimate moment blossoms into a long kiss before they recommit to the mission. Evelyn reveals that Fox River includes little-known below-ground levels and makes Demmy promise discretion. Asked why she’s willing to “snoop” on people she loves, Evelyn frames it not as spying but as helping Demmy verify that the Order is good, so he can join without doubt and trust her completely. Demmy insists he already trusts her, but she maintains he must see with his own eyes. The scene ends with them moving toward a ladder to descend, having agreed to continue their covert exploration to resolve Demmy’s lingering doubts prompted by previous warnings.",
+    "query_handle": "Demmy and Evelyn traverse Fox River’s secret vent maze; share a first deep kiss; descend to hidden below-ground levels so Demmy can verify the Order’s goodness."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Secret entry",
+    "what_happens": "Evelyn signals from the wall; Demmy moves the dresser, enters the vent, and conceals the entry.",
+    "involved_entities": ["demmy", "evelyn", "church-service-vents"],
+    "stakes_or_conflict": "Risk of discovery if someone checks the room."
+    },
+    {
+    "order": 2,
+    "label": "Rules of the maze",
+    "what_happens": "Evelyn gives Demmy a penlight and warns about light discipline; they crawl through labeled, dusty service ways.",
+    "involved_entities": ["demmy", "evelyn", "penlight", "church-service-vents"],
+    "stakes_or_conflict": "Light seen through vents could expose them."
+    },
+    {
+    "order": 3,
+    "label": "Shared history and artifacts",
+    "what_happens": "Evelyn explains kids grew up in these tunnels; they pass abandoned items, including a broken giant scissors.",
+    "involved_entities": ["demmy", "evelyn", "broken-forearm-scissors"],
+    "stakes_or_conflict": "Nostalgia vs. danger; Demmy’s survivor instincts shifting."
+    },
+    {
+    "order": 4,
+    "label": "Intimate pause",
+    "what_happens": "In a pipe cluster, closeness leads to a long, breathless kiss; they steady themselves to continue.",
+    "involved_entities": ["demmy", "evelyn"],
+    "stakes_or_conflict": "Emotional distraction vs. mission focus."
+    },
+    {
+    "order": 5,
+    "label": "Revelation and purpose",
+    "what_happens": "Evelyn reveals hidden below-ground levels and her goal: Demmy must see there’s nothing sinister so he can trust the Order fully.",
+    "involved_entities": ["demmy", "evelyn", "fox-river-below-levels", "the-order"],
+    "stakes_or_conflict": "Demmy’s doubts vs. Evelyn’s faith; secrecy about underground."
+    },
+    {
+    "order": 6,
+    "label": "Commitment to descend",
+    "what_happens": "Demmy agrees; they take each other’s hand and move to the ladder down.",
+    "involved_entities": ["demmy", "evelyn", "ladder-network"],
+    "stakes_or_conflict": "Deeper infiltration increases risk of discovery."
+    }
+    ],
+    "characters": [
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Follow Evelyn to verify the Order and find answers; stay hidden.",
+    "obstacles": "Disorienting maze; risk of detection; conflicting trust signals.",
+    "tactics": "Light discipline, memorizing path, physical stealth, honest questioning.",
+    "relationships": [
+    {"with": "evelyn", "type": "ally/potential romantic", "state": "accelerating trust and intimacy", "evidence": "Extended kiss; hand-in-hand descent; accepts her premise to ‘see for himself’."},
+    {"with": "the-order", "type": "institution", "state": "hopeful but skeptical", "evidence": "Agrees to look for proof despite saying he already trusts them."}
+    ],
+    "emotional_arc": {
+    "start": "uncertain, cautious, curious",
+    "turning_points": ["Kiss deepens bond and confidence", "Evelyn insists on evidence-based trust"],
+    "end": "resolved to investigate; trusting yet vigilant"
+    },
+    "notable_actions": ["conceals vent entry", "navigates crawlways", "questions motives", "agrees to descend to hidden level"],
+    "quotable_lines": [
+    "You are a great kisser.",
+    "I’ll never say a word."
+    ]
+    },
+    {
+    "id": "evelyn",
+    "display_name": "Evelyn",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Lead Demmy safely to hidden levels to prove the Order’s goodness; strengthen mutual trust.",
+    "obstacles": "Secrecy rules; danger of being seen; emotional distraction.",
+    "tactics": "Childhood knowledge of tunnels, labeled markers, light discipline, warmth and candor.",
+    "relationships": [
+    {"with": "demmy", "type": "ally/potential romantic", "state": "bold, affectionate, guiding", "evidence": "Initiates kiss; leads him by the hand; frames mission as building trust."},
+    {"with": "the-order", "type": "member/loyalist", "state": "devout confidence", "evidence": "‘The Order is good… you need to see for yourself.’"}
+    ],
+    "emotional_arc": {
+    "start": "focused, mischievous",
+    "turning_points": ["Intimate moment heightens stakes", "Reaffirms purpose to show proof"],
+    "end": "determined, trusting"
+    },
+    "notable_actions": ["signals via wall knock", "distributes penlights", "navigates labeled maze", "reveals below-ground levels", "sets purpose for proof"],
+    "quotable_lines": [
+    "If you shine it at a vent, whoever is in the room will be able to see it.",
+    "No, Demmy, you need to see for yourself."
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "penlight",
+    "name": "Pen-sized Light",
+    "category": "tool",
+    "capabilities": ["narrow-beam illumination", "discreet operation"],
+    "owner_or_users": ["evelyn", "demmy"],
+    "condition_or_state": "intact",
+    "scene_function": "Essential for navigation; drives light-discipline constraint to avoid detection."
+    },
+    {
+    "id": "ladder-network",
+    "name": "Service Ladders at Container Junctions",
+    "category": "other",
+    "capabilities": ["vertical movement between levels"],
+    "owner_or_users": ["evelyn", "demmy"],
+    "condition_or_state": "intact",
+    "scene_function": "Enables route choices and descent to hidden levels."
+    },
+    {
+    "id": "broken-forearm-scissors",
+    "name": "Oversized Broken Scissors",
+    "category": "other",
+    "capabilities": ["former cutting tool; now scrap"],
+    "owner_or_users": [],
+    "condition_or_state": "damaged (one blade broken)",
+    "scene_function": "Environmental artifact underscoring abandonment and Demmy’s changed scavenger mindset."
+    }
+    ],
+    "locations": [
+    {
+    "id": "church-service-vents",
+    "name": "Between-Walls Service Ways",
+    "type": "structure",
+    "descriptors": ["dusty, mildewed air", "pipes and wiring", "labeled junctions", "ladders up/down", "hidden grates to rooms"],
+    "in_scene_events": ["Stealth crawl with light discipline", "intimate pause near pipe cluster", "movement toward ladder down"]
+    },
+    {
+    "id": "fox-river-below-levels",
+    "name": "Fox River Below-Ground Levels",
+    "type": "structure",
+    "descriptors": ["little-known", "restricted knowledge", "accessed via service ladders"],
+    "in_scene_events": ["Target destination for verification of the Order’s integrity (descent initiated)."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "fox-river-polity",
+    "name": "Fox River",
+    "alignment": "neutral",
+    "agents_present": ["demmy", "evelyn"],
+    "motives_inferred": "Maintains extensive service infrastructure; cultural familiarity with crawlspaces.",
+    "actions_in_scene": ["No direct action; setting provides covert pathways and risks of detection."]
+    },
+    {
+    "id": "the-order",
+    "name": "The Order",
+    "alignment": "ally",
+    "agents_present": ["evelyn"],
+    "motives_inferred": "Believed by Evelyn to be fundamentally good; seeks Demmy’s wholehearted trust.",
+    "actions_in_scene": ["Subject of verification; becomes reason for clandestine tour."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["verification vs. faith", "hidden infrastructures of power", "innocence and awakening intimacy", "secrecy and surveillance", "freedom through knowledge"],
+    "motifs_symbols": ["labeled tunnel maze", "penlight and light discipline", "ladder descent", "abandoned artifacts (broken scissors)"],
+    "moral_questions": ["Is trust earned by testimony or by personal verification?", "When does secrecy protect goodness vs. conceal wrongdoing?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "intimate/cinematic",
+    "pacing": "slow-burn",
+    "voice_traits": ["sensory-rich", "tension under softness", "practical stealth details"],
+    "sensory_notes": ["smell of mildew and dust", "grit and smudges on skin", "warm breath and lavender", "muted penlight glow", "tight spaces around pipes"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Evelyn’s library promise to show Demmy a secret place.",
+    "Demmy’s confinement to dorm and earlier clandestine vent access.",
+    "Chase’s note prompting Demmy’s doubts (inferred from prior scene)."
+    ],
+    "outcomes": [
+    "Demmy agrees to evidence-based verification of the Order.",
+    "They commit to descend to hidden below-ground levels.",
+    "Romantic bond intensifies, strengthening partnership for covert action."
+    ],
+    "unanswered_questions": [
+    "What exactly lies in the below-ground levels?",
+    "Will they be detected by residents aware of the crawlspaces?",
+    "Is the Order as benign as Evelyn believes?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_environment",
+    "parties": ["demmy-and-evelyn", "maze of service ways"],
+    "trigger": "Navigating cramped, labeled tunnels with pipes, wiring, and visibility risks.",
+    "resolution": "Proceed with light discipline toward the ladder (unresolved)."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["demmy-and-evelyn", "Fox River secrecy norms"],
+    "trigger": "Revealing and using hidden below-ground access that few know about.",
+    "resolution": "They continue covertly; secrecy maintained (for now)."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["demmy"],
+    "trigger": "Tension between stated trust in Evelyn/The Order and desire for proof.",
+    "resolution": "Chooses to verify by seeing for himself."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "implied",
+    "sensitive_topics": ["covert surveillance/infiltration", "institutional secrecy"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Demmy", "Evelyn", "service tunnels", "penlight", "below-ground levels", "Fox River", "the Order", "ladder descent", "light discipline", "broken scissors"],
+    "keywords_dense": "Demmy, Evelyn, Fox River, Order, service tunnels, vents, penlight, labeled junctions, below-ground levels, ladder, clandestine, kiss, trust verification",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Demmy", "Evelyn"],
+    "places": ["Fox River", "Between-Walls Service Ways", "Fox River Below-Ground Levels"],
+    "orgs": ["The Order"],
+    "terms": ["maintenance crawlspaces", "light discipline"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "How do Demmy and Evelyn avoid detection while crawling the tunnels?", "a": "They use penlights cautiously and avoid shining them toward vents into occupied rooms."},
+    {"q": "What secret about Fox River does Evelyn reveal?", "a": "There are below-ground levels that few people know about."},
+    {"q": "Why is Evelyn taking Demmy into the hidden areas?", "a": "So he can see for himself that the Order is good and trust them without reservations."},
+    {"q": "What does Demmy do to conceal his exit from the dorm room?", "a": "He slides the dresser back against the wall and clicks the vent shut."},
+    {"q": "What significant moment shifts their relationship?", "a": "An extended, breathless kiss near a cluster of pipes before recommitting to the mission."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "between-these-walls-part-2-recap",
+    "type": "recap",
+    "text": "Evelyn summons Demmy through a hidden vent behind his dresser and leads him into Fox River’s dusty, labeled service tunnels. With penlights and strict light discipline, they navigate ladders and pipe clusters, passing abandoned artifacts. An intimate kiss cements their bond, after which Evelyn reveals there are secret below-ground levels. She insists Demmy must see for himself that the Order is good so he can trust them—and her—fully. Demmy agrees, and they head hand in hand toward a ladder to descend."
+    },
+    {
+    "chunk_id": "between-these-walls-part-2-entities",
+    "type": "entities_focus",
+    "text": "Entities: Demmy (POV, cautious but willing), Evelyn (guide, loyal to the Order). Orgs: Fox River (setting/infrastructure), The Order (object of verification). Items/Tech: penlights (stealth light), ladder network (vertical access), broken giant scissors (artifact). Locations: Between-Walls Service Ways (maze of pipes/wires with labeled junctions), Fox River Below-Ground Levels (hidden destination)."
+    },
+    {
+    "chunk_id": "between-these-walls-part-2-style-theme",
+    "type": "style_theme_focus",
+    "text": "Intimate 3rd-limited past tense with sensory grit (mildew, dust, lavender) and stealth procedure (light discipline). Themes: verification vs. faith; hidden infrastructures; burgeoning intimacy; secrecy and surveillance. Motifs: labeled maze, penlight glow, hand-in-hand descent, ladder to deeper truth, abandoned tools symbolizing Demmy’s shift from scavenger to seeker."
+    }
+    ]
+    }

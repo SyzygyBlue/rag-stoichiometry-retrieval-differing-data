@@ -1,0 +1,12 @@
+{
+  "doc_type": "neon_titan_character_v1",
+  "source": {"dossier_file": null, "scene_refs": ["ch2-s2_open-flag-trade-day"]},
+  "identity": {"id": "franklin", "display_name": "Franklin", "aliases": []},
+  "affiliations": ["three-shovels-caravan"],
+  "bio": {"one_liner": "Guard at vendor line in mixed armor; cameo presence.", "summary": "Stands guard with rifles/sidearms near the vendor tables; maintains steady posture as deterrence."},
+  "personality": {"traits": ["steady", "reliable"], "flaws": [], "values": ["security"]},
+  "appearance": {"style": "mixed armor; armed presence"},
+  "skills": {"tactics": ["perimeter-defense"], "limitations": []},
+  "relationships": [],
+  "metadata_for_indexing": {"retrieval_keys": ["Franklin", "guard"], "spoiler_level": "scene_only"}
+}

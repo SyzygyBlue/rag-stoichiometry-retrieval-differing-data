@@ -1,0 +1,81 @@
+{
+    "doc_type": "neon_titan_character_v1",
+    "source": {"dossier_file": "francis_dossier.md", "scene_refs": []},
+    "identity": {
+        "id": "francis",
+        "display_name": "Master Scrivener Francis",
+        "aliases": [],
+        "mbti": "INTJ",
+        "age_bracket": "Mid-60s",
+        "gender": "male",
+        "origin": "Fox River"
+    },
+    "affiliations": ["fox-river-administration", "margdelain-office"],
+    "bio": {
+        "one_liner": "Elderly Master Scrivener of Fox River; Margdelain’s strategist, investigator, and bureaucratic consigliere.",
+        "summary": "Francis is the Master Scrivener of Fox River, chief administrative officer and trusted aide to Chancellor Margdelain. An INTJ strategist, he manages optics, coordinates communications, and orchestrates parliamentary control. Dry-witted and evidence-driven, he enforces message discipline while conducting investigations. Cynical yet loyal, Francis represents the machinery of power behind Margdelain’s leadership.",
+        "narrative_gravity": 7
+    },
+    "personality": {
+        "traits": ["composed", "strategic", "dry-witted", "systems-driven", "loyal"],
+        "flaws": ["cynical", "callous-tendencies", "derivative-power"],
+        "values": ["institutional-mastery", "executive-loyalty", "strategic-advantage"],
+        "motivations_primary": ["support-margdelain", "control-processes"],
+        "motivations_secondary": ["leverage-information", "manage-optics"]
+    },
+    "appearance": {
+        "height_cm": 175,
+        "build": "elderly",
+        "hair": "gray",
+        "eyes": "blue-gray",
+        "notable_marks": [],
+        "style": "formal, precise mannerisms"
+    },
+    "skills": {
+        "combat": [],
+        "technical": ["vote-whipping", "financial-forensics", "multi-channel-comms", "intel-vetting"],
+        "tactics": ["message-discipline", "optics-management", "strategic-framing"],
+        "limitations": ["non-combatant", "cynical", "over-reliant-on-margdelain"]
+    },
+    "relationships": [
+        {"with": "margdelain", "label": "principal", "state": "loyal", "notes": "Trusted fixer and strategist for the Chancellor."},
+        {"with": "jeb-mctanner", "label": "liaison", "state": "friction", "notes": "Relays Margdelain’s directives, sometimes against morale."},
+        {"with": "jessop", "label": "rival/opponent", "state": "political-conflict", "notes": "Counters Jessop’s maneuvers and investigates financial anomalies."}
+    ],
+    "arc": {
+        "status_now": "Alive, operating as chancellery strategist.",
+        "pre_pivot": "Orchestrating quorum math and message discipline.",
+        "pivot_event": "fox-river-political-crises",
+        "post_pivot": "Expanded investigations and leverage efforts.",
+        "future_vector": "Continue as Margdelain’s consigliere, managing crises and optics."
+    },
+    "items_and_tech": [],
+    "themes": {
+        "keywords": ["bureaucracy", "strategy", "loyalty", "investigation", "optics"],
+        "moral_tensions": ["cynicism-vs-loyalty", "control-vs-human-cost"]
+    },
+    "text_windows": {
+        "bio_200w": "Francis is the INTJ Master Scrivener of Fox River, serving as Chancellor Margdelain’s strategist and bureaucratic consigliere. He is composed, dry-witted, and unflappable, orchestrating chamber management and investigations. Cynical but loyal, Francis ensures message discipline while converting crises into opportunities. His expertise includes financial analysis, intel vetting, and optics management. Elderly yet precise, he remains a critical force behind Margdelain’s leadership.",
+        "arc_200w": "Francis begins as the procedural mastermind of Fox River, managing quorum math and message framing. When crises erupt, such as Jessop’s narrative hijack, he reframes situations to protect Margdelain and the petition to the Metrofederacy. He uncovers financial anomalies linked to Councilman Bivualier, expanding leverage while preserving optics. His arc reinforces his role as consigliere: not the executive, but the strategist ensuring stability. Francis’s future involves ongoing loyalty to Margdelain, orchestrating crises into controlled outcomes.",
+        "skills_120w": "Francis specializes in vote-whipping, financial pattern analysis, multi-channel communications, intel vetting, and optics management. He excels at reframing crises into actionable strategies, ensuring message discipline, and supporting Margdelain’s leadership. His limitations include cynicism, callous tendencies, and dependence on Margdelain’s executive authority.",
+        "appearance_120w": "Francis is described as elderly and formal, with precise mannerisms suited to high office. His physical traits are not elaborated but his composed presence is emphasized.",
+        "relationships_180w": "Francis maintains instrumental ties. With Margdelain, he is a loyal consigliere, trusted to manage optics and strategy. With Jeb McTanner, he liaises between executive command and TRG morale, sometimes creating friction. With Jessop, he counters maneuvers and probes financial anomalies to expand leverage. These relationships highlight Francis’s role as stabilizer in crises, shaping outcomes while remaining behind the curtain."
+    },
+    "qa_pairs": [
+        {"q": "What is Francis’s role?", "a": "He is the Master Scrivener of Fox River, serving as strategist and fixer for Chancellor Margdelain."},
+        {"q": "What are Francis’s main skills?", "a": "He excels at vote-whipping, financial analysis, communications, and optics management."},
+        {"q": "How does Francis interact with Margdelain?", "a": "He is her loyal consigliere, strategist, and mood manager, guiding her through crises."}
+    ],
+    "metadata_for_indexing": {
+        "retrieval_keys": ["Francis", "Master Scrivener", "Fox River", "Margdelain"],
+        "keywords_dense": "Francis, INTJ, Fox River, Master Scrivener, strategist, consigliere, Margdelain, bureaucracy, optics, investigation",
+        "spoiler_level": "book1_end",
+        "named_entities": {
+            "people": ["Francis", "Chancellor Margdelain", "Jeb McTanner", "Jessop", "Bivualier"],
+            "places": ["Fox River"],
+            "orgs": ["Fox River Administration", "Chancellery"],
+            "terms": ["vote-whipping", "financial-forensics"]
+        }
+    },
+    "embedding_payloads": []
+}

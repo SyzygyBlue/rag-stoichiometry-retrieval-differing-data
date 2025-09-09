@@ -1,0 +1,302 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Vox Mortuorum",
+    "scene_id": "2186-12-04-vox-mortuorum-alejandro-werner-fox-river-overflight",
+    "chapter_number": 47,
+    "scene_number": 1,
+    "date_in_universe": "2186-12-04",
+    "absolute_timeline_notes": "Hours after Fox River’s destruction; news team conducts aerial survey, prepares a brief broadcast, and pivots toward an investigation."
+    },
+    "text_windows": {
+    "full_scene_clean": "“You getting this?” Alejandro asked, staring at the ruined expanse of Fox River through the quadrafan’s window. Werner, directing a mesh of drones, grimly confirmed: six-axis tri-D, sound, even simulated stench. Maggots writhed over stagnant water; clouds of flies fouled rotors; looters slogged through hip-deep carnage. Werner fought nausea while his fly-eye drones hovered and docked on command. Alejandro ordered ginger ale, shut his SAIR coursework, and steadied him. The producer had capped their StellaNet broadcast to ninety seconds—insulting against the scale of death. Alejandro proposed they do more than report: shift their careers to investigative reporting and forensic photography, register a case, and pursue whoever was powerful enough to erase a city. Werner agreed: no one cares about wildlanders; they had an obligation. They planned to land upwind on a rise for the stand-up, then grid-sweep with forensic drones for crime-scene coverage, hire a fixer and a local merc team to secure evidence, and—per Stella’s recommendation—pick up a forensic investigator before heading to Broken Bow Free City. Ransom Canyon was closer but too dangerous; ravagers don’t talk. As Werner docked drones and shuttered his silver oculars, Alejandro warmed up for the live hit, resentment simmering at the ninety-second slot. The quadrafan angled toward the ridge. “Thirty seconds…”",
+    "dense_recap_250w": "From a quadrafan over Fox River’s smoking ruins, reporter Alejandro and cameraman-sensor Werner capture a multi-drone, six-axis tri-D reconstruction of the mass-casualty site. The imagery and simulated smell overwhelm Werner as fly-eye drones transmit maggots, flies, broken pipes, water, and looters scavenging through bodies and debris. Their StellaNet producer limits them to a 90-second segment, but Alejandro argues they must go beyond broadcast: formally pivot career tracks to investigative reporting (Alejandro) and forensic photography (Werner), register the incident as an investigation, and pursue those responsible if the destruction was deliberate. Werner agrees, citing an obligation to wildlanders. They outline immediate steps: land upwind on a ridge for the stand-up; deploy a forensic drone grid for documentation focused on evidentiary coverage; secure a discretionary fund to hire a local merc team to buy and protect relevant items before looters strip the site; and, per Stella’s guidance, pick up a forensic investigator before traveling to Broken Bow Free City to develop leads (avoiding nearer Ransom Canyon due to ravager danger). As Werner docks drones and reconfigures his ocular sensors for the live hit, Alejandro rehearses, furious at condensing a mass atrocity into seconds. The scene ends with the broadcast countdown and a clear commitment to a deeper inquiry.",
+    "query_handle": "Alejandro & Werner film Fox River ruins, commit to investigative probe, plan forensic sweep and pickup of an investigator before Broken Bow."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Overflight horror",
+    "what_happens": "From a quadrafan, they witness Fox River’s devastation—maggots, flies, looters—via stitched multi-drone tri-D feeds.",
+    "involved_entities": ["alejandro", "werner", "fox-river", "fly-eye-drones", "quadrafan"],
+    "stakes_or_conflict": "Psychological toll of documenting mass death; maintaining control of sensors."
+    },
+    {
+    "order": 2,
+    "label": "Human limits",
+    "what_happens": "Werner fights nausea; Alejandro supports him with ginger ale and steadies operations.",
+    "involved_entities": ["alejandro", "werner"],
+    "stakes_or_conflict": "Health and focus vs. overwhelming sensory input."
+    },
+    {
+    "order": 3,
+    "label": "Pivot to investigation",
+    "what_happens": "They decide to switch career tracks to investigative reporting/forensic photography and register a case.",
+    "involved_entities": ["alejandro", "werner", "stellanet"],
+    "stakes_or_conflict": "Ethical duty vs. newsroom constraints and personal risk."
+    },
+    {
+    "order": 4,
+    "label": "Operational plan",
+    "what_happens": "Plan landing upwind for stand-up, forensic grid sweep, hire fixer/mercs, pick up a forensic investigator, then head to Broken Bow.",
+    "involved_entities": ["alejandro", "werner", "forensic-drones", "broken-bow"],
+    "stakes_or_conflict": "Evidence preservation vs. looters and time pressure."
+    },
+    {
+    "order": 5,
+    "label": "Broadcast countdown",
+    "what_happens": "Despite a 90-second limit, they prepare the segment; Werner docks drones; Alejandro rehearses.",
+    "involved_entities": ["alejandro", "werner", "broadcast-drone"],
+    "stakes_or_conflict": "Compression of atrocity into a short slot; live-air execution risk."
+    }
+    ],
+    "characters": [
+    {
+    "id": "alejandro",
+    "display_name": "Alejandro",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Get a safe broadcast angle; commit to and initiate a full investigation of Fox River’s destruction.",
+    "obstacles": "Producer’s 90-second cap; evaporating evidence; dangerous perpetrators; logistics of hiring help.",
+    "tactics": "Provides care for Werner, reconfigures flight and broadcast, proposes career-track change, plans forensic sweep and resource acquisition.",
+    "relationships": [
+    {"with": "werner", "type": "colleagues/friends", "state": "supportive", "evidence": "Orders ginger ale; steadies him; aligns on investigation."},
+    {"with": "stellanet", "type": "employer", "state": "strained by constraints", "evidence": "“Ninety seconds… for thousands of lives.”"}
+    ],
+    "emotional_arc": {
+    "start": "horrified, empathetic, determined",
+    "turning_points": ["Rejects mere reporting; opts for investigation.", "Accepts Stella’s requirement to pick an investigator first."],
+    "end": "focused resolve under deadline"
+    },
+    "notable_actions": ["sets flight to upwind ridge", "preps broadcast", "commits discretionary spend for merc/fixer", "initiates case registration plan"],
+    "quotable_lines": [
+    "If this was deliberate... I can't walk away.",
+    "Ninety seconds... for thousands of lives."
+    ]
+    },
+    {
+    "id": "werner",
+    "display_name": "Werner",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Maintain multi-drone tri-D capture; survive sensory overload; prepare broadcast; enable forensic documentation.",
+    "obstacles": "Simulated stench and gore; rotor fouling by flies; emotional toll.",
+    "tactics": "Automates drone docking, deploys fly-eyes, proposes forensic grid sweep, agrees to forensic photography track.",
+    "relationships": [
+    {"with": "alejandro", "type": "colleagues/friends", "state": "mutual trust", "evidence": "“I’m in, Alé… It’s our obligation.”"}
+    ],
+    "emotional_arc": {
+    "start": "overwhelmed, nauseated",
+    "turning_points": ["Accepts investigative pivot despite cost."],
+    "end": "steadying for live report"
+    },
+    "notable_actions": ["stitches thirty drone feeds", "docks drones", "shutters ocular sensors", "configures forensic drones"],
+    "quotable_lines": [
+    "I’m stitching thirty different drone feeds… Even the deathheads won’t stomach this.",
+    "If we don’t do this, who will?"
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "quadrafan",
+    "name": "Quadrafan flier",
+    "category": "vehicle",
+    "capabilities": ["VTOL with gimbaled fans", "stable camera platform", "in-flight UI for routing"],
+    "owner_or_users": ["alejandro", "werner"],
+    "condition_or_state": "intact",
+    "scene_function": "Aerial platform for survey and broadcast; moves upwind to a ridge."
+    },
+    {
+    "id": "fly-eye-drones",
+    "name": "Fly-eye microdrones",
+    "category": "comms",
+    "capabilities": ["millimeter cameras", "close-up capture", "shoulder docking"],
+    "owner_or_users": ["werner"],
+    "condition_or_state": "intact (rotor fouling risk from flies)",
+    "scene_function": "Provide close, nauseating detail and assist with guided hand movement."
+    },
+    {
+    "id": "forensic-drones",
+    "name": "Forensic grid drones",
+    "category": "comms",
+    "capabilities": ["automated grid sweep", "evidence-focused imaging"],
+    "owner_or_users": ["werner"],
+    "condition_or_state": "intact",
+    "scene_function": "Planned deployment to document the crime scene systematically."
+    },
+    {
+    "id": "werner-ocular-implants",
+    "name": "Werner’s silver ocular implants",
+    "category": "cybernetics",
+    "capabilities": ["direct drone link", "sensor shutters", "optical capture (Nikon ring)"],
+    "owner_or_users": ["werner"],
+    "condition_or_state": "intact",
+    "scene_function": "Human-sensor interface enabling tri-D stitching and control."
+    },
+    {
+    "id": "broadcast-drone",
+    "name": "Broadcast drone",
+    "category": "comms",
+    "capabilities": ["live uplink", "stand-up framing", "package recording"],
+    "owner_or_users": ["alejandro", "werner"],
+    "condition_or_state": "intact",
+    "scene_function": "Used for the 90-second StellaNet segment."
+    },
+    {
+    "id": "pid-lingual",
+    "name": "PID & lingual interface",
+    "category": "comms",
+    "capabilities": ["HUD script display", "menu control via tongue", "coursework access (SAIR)"],
+    "owner_or_users": ["alejandro"],
+    "condition_or_state": "intact",
+    "scene_function": "Controls orders, flight menus, and script practice."
+    }
+    ],
+    "locations": [
+    {
+    "id": "fox-river",
+    "name": "Fox River",
+    "type": "city",
+    "descriptors": ["obliterated", "stagnant water", "broken pipes", "maggots", "looters", "smoke"],
+    "in_scene_events": ["Aerial documentation of devastation and active looting."]
+    },
+    {
+    "id": "upwind-ridge-near-fox-river",
+    "name": "Upwind ridge near Fox River",
+    "type": "wilderness",
+    "descriptors": ["elevated", "wind-favored", "broadcast vantage"],
+    "in_scene_events": ["Planned landing and stand-up location."]
+    },
+    {
+    "id": "broken-bow-free-city",
+    "name": "Broken Bow Free City",
+    "type": "city",
+    "descriptors": ["mid-tech", "potential lead hub"],
+    "in_scene_events": ["Target for follow-up leads after picking investigator."]
+    },
+    {
+    "id": "ransom-canyon",
+    "name": "Ransom Canyon",
+    "type": "holdfast",
+    "descriptors": ["ravager-dominated", "dangerous"],
+    "in_scene_events": ["Rejected as a lead source due to risk."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "stellanet",
+    "name": "StellaNet",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "News distribution, audience constraints, risk management.",
+    "actions_in_scene": ["Caps segment at 90 seconds", "Recommends picking up a forensic investigator."]
+    },
+    {
+    "id": "wildlanders",
+    "name": "Wildlanders",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Civilians affected by catastrophe.",
+    "actions_in_scene": ["Referenced as neglected victims needing advocacy."]
+    },
+    {
+    "id": "looters-fox-river",
+    "name": "Looters at Fox River",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Opportunistic scavenging amid disaster.",
+    "actions_in_scene": ["Strip site of goods, threaten evidence integrity."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["bearing witness vs. exploitation", "journalistic duty and risk", "dehumanization at scale", "evidence preservation under chaos", "technology mediating trauma"],
+    "motifs_symbols": ["maggot carpets", "clouds of flies", "buzzing microdrones", "90-second constraint", "upwind ridge vantage"],
+    "moral_questions": ["What is owed to the dead when systems demand brevity?", "How far should journalists risk themselves to expose perpetrators?", "Can technology convey truth without numbing empathy?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/reportage",
+    "pacing": "slow-burn with procedural beats",
+    "voice_traits": ["bilingual asides", "technical camera jargon", "somber empathy"],
+    "sensory_notes": ["simulated stench via tri-D", "fly rotor buzz", "quadrafan fan whine", "ginger ale as nausea control", "visual of writhing ground"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Fox River was recently destroyed; perpetrators unknown.",
+    "Alejandro and Werner already assigned to cover the event for StellaNet."
+    ],
+    "outcomes": [
+    "Team commits to formal investigation beyond broadcast.",
+    "Plan to pick up a forensic investigator before pursuing leads in Broken Bow.",
+    "Intent to deploy forensic grid drones and secure evidence with a fixer/merc team."
+    ],
+    "unanswered_questions": [
+    "Who caused Fox River’s destruction?",
+    "Will evidence survive looting and environmental decay?",
+    "Which investigator will they recruit and from where?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["werner"],
+    "trigger": "Overwhelming sensory input from tri-D (including stench).",
+    "resolution": "Managed with support and brief reset; continues working."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["alejandro", "stellanet"],
+    "trigger": "90-second broadcast limit vs. mass atrocity coverage.",
+    "resolution": "Work within limit but initiate a separate investigation."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["alejandro", "werner", "fox-river-ruins"],
+    "trigger": "Biohazards, flies, maggots, looters threatening evidence.",
+    "resolution": "Plan upwind landing, forensic grid, and security measures (unresolved)."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "graphic",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["mass casualty event", "corpse imagery", "looting", "trauma exposure"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Alejandro", "Werner", "StellaNet", "Fox River ruins", "fly-eye drones", "quadrafan", "investigative pivot", "forensic investigator pickup", "Broken Bow Free City"],
+    "keywords_dense": "Fox River destruction, Alejandro reporter, Werner cameraman, tri-D stitch, fly-eye microdrones, simulated stench, maggots and flies, looters, StellaNet 90-second cap, investigative reporting, forensic photography, forensic drones, upwind ridge, Broken Bow Free City, Ransom Canyon ravagers, fixer and merc team, SAIR, PID, holotank",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Alejandro", "Werner"],
+    "places": ["Fox River", "Broken Bow Free City", "Ransom Canyon"],
+    "orgs": ["StellaNet"],
+    "terms": ["quadrafan", "fly-eye drones", "tri-D", "holotank", "SAIR", "PID", "deathheads", "forensic drones", "Savachini suit"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What decision do Alejandro and Werner make about their coverage?", "a": "They decide to pursue a full investigation, changing career tracks to investigative reporting and forensic photography."},
+    {"q": "Why must they pick up a forensic investigator before going to Broken Bow?", "a": "Stella (their network’s guidance) recommends formalizing the job with a forensic investigator first."},
+    {"q": "Why land upwind on a rise?", "a": "To minimize biohazard exposure and gain a stable vantage for the stand-up shot."},
+    {"q": "What threatens evidence at Fox River?", "a": "Looters, environmental decay, and the scale of destruction."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "vox-mortuorum-1",
+    "type": "recap",
+    "text": "From a quadrafan over Fox River’s ruins, Alejandro and Werner capture multi-drone tri-D evidence while grappling with nausea and producer limits. They resolve to register a case, shift to investigative reporting/forensic photography, deploy a forensic grid sweep, hire local help to secure evidence, and—per Stella’s guidance—collect a forensic investigator before heading to Broken Bow for leads."
+    },
+    {
+    "chunk_id": "vox-mortuorum-2",
+    "type": "entities_focus",
+    "text": "Actors: Alejandro (reporter), Werner (drone/ocular-aug cameraman). Orgs: StellaNet (producer constraints). Places: Fox River (ruins), upwind ridge (planned), Broken Bow, Ransom Canyon (avoided). Tech: quadrafan, fly-eye microdrones, forensic drones, broadcast drone, Werner’s ocular implants, PID/lingual interface, tri-D/holotank. Adversarial pressures: looters, unknown perpetrators."
+    },
+    {
+    "chunk_id": "vox-mortuorum-3",
+    "type": "style_theme_focus",
+    "text": "Gritty reportage in third-person limited with bilingual asides and technical jargon. Themes: bearing witness vs. spectacle, ethical duty under systemic constraints, technology mediating trauma, evidence preservation. Motifs: maggot carpets, buzzing drones, 90-second cap, upwind vantage, ginger-ale steadiness."
+    }
+    ]
+    }

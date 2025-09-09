@@ -1,0 +1,192 @@
+{
+  "doc_type": "neon_titan_character_v1",
+  "source": {
+    "dossier_file": "michelle_dossier.md",
+    "scene_refs": []
+  },
+  "identity": {
+    "id": "michelle",
+    "display_name": "Michelle",
+    "aliases": [],
+    "mbti": "ISFJ",
+    "age_bracket": null,
+    "gender": "female",
+    "origin": "Immigrant to the Metrofederacy"
+  },
+  "affiliations": [
+    "metrofederacy",
+    "family-unit"
+  ],
+  "bio": {
+    "one_liner": "Immigrant mother and grief counselor who resists Stella\u2019s sterility, prioritizing authentic human connection and truth.",
+    "summary": "Michelle is an ISFJ immigrant, wife to Lucas, and mother of Randy and Shelly. She values tactile normalcy and genuine relationships, pushing back on sterile systems. After Randy's death, she becomes a grief counselor and fierce advocate for truth and dignity, shouldering family burdens while confronting institutions she distrusts.",
+    "narrative_gravity": 8
+  },
+  "personality": {
+    "traits": [
+      "compassionate",
+      "duty-centered",
+      "protective",
+      "principled",
+      "empathetic"
+    ],
+    "flaws": [
+      "distrusts-systems",
+      "rage-under-stress",
+      "self-sacrificing"
+    ],
+    "values": [
+      "family",
+      "authenticity",
+      "truth",
+      "justice"
+    ],
+    "motivations_primary": [
+      "protect-family",
+      "seek-truth"
+    ],
+    "motivations_secondary": [
+      "provide-care",
+      "preserve-human-connection"
+    ]
+  },
+  "appearance": {
+    "height_cm": null,
+    "build": null,
+    "hair": null,
+    "eyes": null,
+    "notable_marks": [],
+    "style": null
+  },
+  "skills": {
+    "combat": [],
+    "technical": [
+      "grief-counseling",
+      "advocacy",
+      "boundary-setting"
+    ],
+    "tactics": [
+      "empathy",
+      "truth-seeking"
+    ],
+    "limitations": [
+      "non-combatant",
+      "strain-from-unresolved-grief"
+    ]
+  },
+  "relationships": [
+    {
+      "with": "lucas",
+      "label": "husband",
+      "state": "values-clash",
+      "notes": "Loves him but conflicts over Stella's sterility vs humanity."
+    },
+    {
+      "with": "randy",
+      "label": "son-deceased",
+      "state": "grief",
+      "notes": "His death catalyzes her crusade for truth and closure."
+    },
+    {
+      "with": "shelly",
+      "label": "daughter",
+      "state": "strained-but-loving",
+      "notes": "Shelly pushes process; Michelle insists on truth and dignity."
+    }
+  ],
+  "arc": {
+    "status_now": "Alive; functioning as caretaker and advocate.",
+    "pre_pivot": "Skeptical of Stella; protective of tangible family life.",
+    "pivot_event": "randy-death",
+    "post_pivot": "Becomes grief counselor; channels grief into advocacy for accountability.",
+    "future_vector": "Continues pursuing answers and preserving family dignity against institutional resistance."
+  },
+  "items_and_tech": [],
+  "themes": {
+    "keywords": [
+      "family",
+      "grief",
+      "authenticity",
+      "truth",
+      "justice"
+    ],
+    "moral_tensions": [
+      "sterility-vs-humanity",
+      "grief-vs-closure"
+    ]
+  },
+  "text_windows": {
+    "bio_200w": "Michelle is an ISFJ immigrant to the Metrofederacy who prizes authenticity, tactile normalcy, and deep family bonds. She resists lifeless systems and prefers human presence over optimized routines. After the loss of her son, Randy, she becomes a grief counselor, channeling compassion and duty into advocacy for truth and dignity. Protective of Lucas and Shelly, she often takes on too much herself, escalating when institutions hide behind euphemism or sealed records. Her principled stance and fierce love make her the family's moral center, even when anger and exhaustion strain relationships.",
+    "arc_200w": "Michelle begins as a skeptical participant in Stella's world, prioritizing family and tangible comforts. Randy's death fractures her life but galvanizes a mission: secure truth and closure while holding institutions to account. She steps into grief counseling, turning innate empathy into a disciplined practice, and pushes her family toward honesty and healing. Tension with Lucas's optimization ethos persists, yet her insistence on human dignity keeps the investigation grounded. Going forward, she remains the family's protector and conscience, prepared to confront systems that obscure responsibility.",
+    "skills_120w": "Michelle's strengths are empathetic presence, clinical grief support, advocacy, and firm boundary\u2011setting. She can absorb and organize others' pain without losing sight of dignity. She lacks combat skills and can grow rigid or volatile under stress, especially when faced with bureaucratic stonewalling. Even so, her steadiness and care anchor the family amid grief and investigation.",
+    "appearance_120w": "Her physical details are not emphasized in the dossier. What stands out is her grounded presence: practical, tactile, and unpretentious, conveying care and conviction more than style.",
+    "relationships_180w": "With Lucas, Michelle shares love but clashes over sterile optimization versus human connection. With Shelly, she maintains a difficult, loving bond, pushing for truth while Shelly emphasizes process and safety. Randy's death is the axis of both grief and purpose; it drives Michelle's insistence on accountability and shapes how she protects the family. These ties define her as caretaker, advocate, and moral anchor."
+  },
+  "qa_pairs": [
+    {
+      "q": "What is Michelle's profession?",
+      "a": "She becomes a grief counselor by 2170."
+    },
+    {
+      "q": "What motivates Michelle most?",
+      "a": "Protecting her family and pursuing truth and dignity after Randy's death."
+    },
+    {
+      "q": "Why does she clash with Lucas?",
+      "a": "She values tangible human connection over the sterile efficiency he embraces."
+    }
+  ],
+  "metadata_for_indexing": {
+    "retrieval_keys": [
+      "Michelle",
+      "grief counselor",
+      "Lucas",
+      "Shelly",
+      "Randy"
+    ],
+    "keywords_dense": "Michelle, ISFJ, Metrofederacy, grief counselor, authenticity, truth, justice, Lucas, Shelly, Randy",
+    "spoiler_level": "book1_end",
+    "named_entities": {
+      "people": [
+        "Michelle",
+        "Lucas",
+        "Shelly",
+        "Randy"
+      ],
+      "places": [
+        "Metrofederacy"
+      ],
+      "orgs": [
+        "Stella"
+      ],
+      "terms": []
+    }
+  },
+  "embedding_payloads": [
+    {
+      "chunk_id": "michelle-1",
+      "type": "bio",
+      "text": "ISFJ immigrant mother who becomes a grief counselor; resists sterile systems and fights for truth and dignity after Randy's death."
+    },
+    {
+      "chunk_id": "michelle-2",
+      "type": "arc",
+      "text": "From skeptic of Stella to grief-counseling advocate; channels loss into principled confrontation with institutions."
+    },
+    {
+      "chunk_id": "michelle-3",
+      "type": "relationships",
+      "text": "Loves Lucas but clashes over sterility vs humanity; anchors Shelly; Randy's death drives her mission."
+    },
+    {
+      "chunk_id": "michelle-4",
+      "type": "skills_cybernetics",
+      "text": "Empathy, grief work, advocacy, boundary-setting; non-combatant; can become rigid or volatile under stress."
+    },
+    {
+      "chunk_id": "michelle-5",
+      "type": "appearance",
+      "text": "Not defined by looks; presence is practical and caring rather than stylistic."
+    }
+  ]
+}

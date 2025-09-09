@@ -1,0 +1,44 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "llama_url": "http://127.0.0.1:8080",
+  "default_index_dir": "d:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\indexes",
+  "scene_globs": [
+    "RAG Files/*.json",
+    "RAG Files/character/*.json"
+  ],
+  "manual_overrides": "d:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\mappings\\manual_alias_overrides.json",
+  "rechunk": false,
+  "chunking": "payload",
+  "target_tokens": 120,
+  "overlap_tokens": 30,
+  "knowledge_jsonl": "d:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\knowledgeFile\\knowledge.jsonl",
+  "stratification": {
+    "buckets": [
+      {
+        "label": "scene",
+        "priority": 10,
+        "match": { "doc_type": ["neon_titan_scene_v1"] }
+      },
+      {
+        "label": "character",
+        "priority": 20,
+        "match": { "doc_type": ["neon_titan_character_v1"] }
+      },
+      {
+        "label": "knowledge",
+        "priority": 30,
+        "match": {
+          "doc_type": ["knowledge_qa"],
+          "scene_id": ["knowledge", "knowledge_qa"],
+          "chunk_type_prefix": ["knowledge"]
+        }
+      }
+    ],
+    "defaults": {
+      "mix_mode": "stratified",
+      "ratio": { "scene": 3, "character": 2, "knowledge": 1 },
+      "weights": { "scene": 1.0, "character": 1.0, "knowledge": 1.0 },
+      "ordering": "interleave"
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Last Rights — Aftermath",
+    "scene_id": "last-rights-shelly-03-outside-archive",
+    "chapter_number": "Stella Archives07",
+    "scene_number": 3,
+    "date_in_universe": "2173-09-09",
+    "absolute_timeline_notes": "Immediately after Shelly’s FI-III exam of Randy in Core Medical Archive 17B; she exits to the plaza and sends a legacy message to her mother."
+    },
+    "text_windows": {
+    "full_scene_clean": "Shelly exits Core Medical Archive 17B into gray sky and walks the service path to a plaza and food strip. Her PID pings that the case update and audit trail are open. Hungry and nauseous, she buys noodles and synthetic fishcake at a run-down stall in the Metrofederacy, noting the curated ‘decay’ aesthetic and a delivery drone overhead. Thoughts of Randy’s suffering return; she forces a few bites, then opens her PID. Using a legacy link outside Stellanet, she composes a clinical message to her mother, Michelle: she passed Forensic Investigator III, found catastrophic neurochemistry, falsified neuroject logs, classified the case for indefinite hold under potential malicious action, and vows to find who did it. She adds, “I miss you,” sends it, and sits staring ahead as the steam rises, her hunger fading but the nausea remaining.",
+    "dense_recap_250w": "Leaving Core Medical Archive 17B after placing Randy’s case on audit hold, Shelly navigates a sterile-to-city transition: a gray sky, a quiet plaza, and a Metrofederacy food strip. A PID notification confirms: session concluded, audit trail open. She buys a hot bowl of noodles at a deliberately shabby stall, observing the city’s curated dystopia aesthetic. As she eats, intrusive recall of Randy’s exam—neurochemical collapse and forged neuroject logs—triggers nausea. Shelly opens her PID and deliberately avoids Stellanet, selecting a legacy link protocol to contact her estranged mother, Michelle. In a brief, clinical note she reports passing FI-III, outlines catastrophic findings (cortisol spikes, serotonin collapse, dopamine flatline), asserts that logs were falsified and the neuroject altered, and confirms she has filed for an indefinite hold under a malicious-action clause. She promises to find whoever is responsible and closes with “I miss you,” acknowledging emotional stakes without changing her investigative posture. The message is sent. Sitting on a bench, bowl cooling, Shelly’s appetite evaporates while her resolve—and nausea—remain. The scene cements her shift from contained grief to active pursuit, with the legacy channel signaling a need for privacy and trust outside system rails.",
+    "query_handle": "Shelly exits Archive 17B, eats at a Metrofederacy food strip, and sends a legacy-message to her mother about falsified neuroject logs and her vow to investigate."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Exit and notification",
+    "what_happens": "Shelly leaves Core Medical Archive 17B; PID confirms session concluded and audit trail open.",
+    "involved_entities": ["shelly", "core-medical-archive-17b", "pid-device"],
+    "stakes_or_conflict": "Maintaining composure after the forensic findings."
+    },
+    {
+    "order": 2,
+    "label": "Food strip interlude",
+    "what_happens": "She chooses a shabby-styled but clean Metrofederacy stall and orders noodles and synthetic fishcake.",
+    "involved_entities": ["shelly", "metrofederacy-food-stall"],
+    "stakes_or_conflict": "Hunger vs nausea; public space vs private grief."
+    },
+    {
+    "order": 3,
+    "label": "Memory surge",
+    "what_happens": "She replays Randy’s biochemical collapse in her mind, worsening nausea.",
+    "involved_entities": ["shelly", "randy"],
+    "stakes_or_conflict": "Emotional overload threatening functionality."
+    },
+    {
+    "order": 4,
+    "label": "Legacy outreach",
+    "what_happens": "Shelly composes a clinical update to her mother using a legacy link outside Stellanet.",
+    "involved_entities": ["shelly", "michelle", "legacy-link", "pid-device"],
+    "stakes_or_conflict": "Need for privacy and honest communication vs estrangement."
+    },
+    {
+    "order": 5,
+    "label": "Vow reiterated",
+    "what_happens": "She states the falsification, the indefinite hold, her FI-III pass, and vows to find the perpetrators; adds “I miss you.”",
+    "involved_entities": ["shelly", "michelle"],
+    "stakes_or_conflict": "Justice pursuit balanced with personal vulnerability."
+    },
+    {
+    "order": 6,
+    "label": "Aftermath",
+    "what_happens": "Message sent; steam rises from the untouched bowl as she sits, nausea lingering.",
+    "involved_entities": ["shelly", "metrofederacy-food-stall"],
+    "stakes_or_conflict": "Resolve intact; physical/psychic cost persists."
+    }
+    ],
+    "characters": [
+    {
+    "id": "shelly",
+    "display_name": "Shelly",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Communicate findings and resolve to her mother while keeping the investigation secure.",
+    "obstacles": "Nausea, emotional distress, estrangement, potential surveillance or data trails.",
+    "tactics": "Public anonymity, clinical tone, legacy-link messaging outside Stellanet, compartmentalization.",
+    "relationships": [
+    {"with": "michelle", "type": "family", "state": "estranged/tentative outreach", "evidence": "“I know you told me not to expect a reply… I miss you.”"},
+    {"with": "randy", "type": "family", "state": "deceased, driving motivation", "evidence": "Replaying his biochemical collapse; vow to find who did it."},
+    {"with": "stella-ai", "type": "system", "state": "utilitarian/skeptical", "evidence": "Distrust: ‘Not so great if people are using Stella’s implants to murder people.’"}
+    ],
+    "emotional_arc": {
+    "start": "numb, hungry, nauseous",
+    "turning_points": ["Intrusive recall of Randy’s suffering", "Decision to message via legacy link", "Vow restated and sent"],
+    "end": "resolute, still nauseous"
+    },
+    "notable_actions": ["dismisses PID audit ping", "purchases noodles", "initiates legacy link", "composes and sends message to mother"],
+    "quotable_lines": [
+    "His neuroject didn’t fail. Someone altered it. Someone did this.",
+    "I’m still looking. And I’m not going to stop.",
+    "I miss you.",
+    "Don’t lose it. Not here."
+    ]
+    },
+    {
+    "id": "michelle",
+    "display_name": "Michelle",
+    "aliases": ["Shelly’s mother"],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "shelly", "type": "family", "state": "distant; requested updates", "evidence": "“Michelle had asked.”"}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": []
+    },
+    {
+    "id": "randy",
+    "display_name": "Randy",
+    "aliases": ["Specimen 291874237"],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "shelly", "type": "sibling", "state": "memory/motivation", "evidence": "Shelly’s intrusive recollections drive the outreach and vow."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "pid-device",
+    "name": "PID (Personal Identification Device)",
+    "category": "comms",
+    "capabilities": ["notifications", "AR overlays", "subvocal/tongue-tap input", "secure messaging"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "active",
+    "scene_function": "Confirms audit open; composes and sends the legacy-link message."
+    },
+    {
+    "id": "legacy-link",
+    "name": "Legacy Link Protocol",
+    "category": "comms",
+    "capabilities": ["off-Stellanet messaging", "reduced traceability (inferred)"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "in use",
+    "scene_function": "Used to contact Michelle outside Stellanet."
+    },
+    {
+    "id": "stellanet",
+    "name": "Stellanet",
+    "category": "comms",
+    "capabilities": ["network services", "implant integrations (referenced)"],
+    "owner_or_users": [],
+    "condition_or_state": "referenced",
+    "scene_function": "Implicitly avoided; context for why a legacy protocol is chosen."
+    },
+    {
+    "id": "delivery-drone",
+    "name": "Urban Delivery Drone",
+    "category": "other",
+    "capabilities": ["autonomous delivery", "overhead transit"],
+    "owner_or_users": [],
+    "condition_or_state": "operational",
+    "scene_function": "Ambient detail reinforcing the Metrofederacy setting."
+    }
+    ],
+    "locations": [
+    {
+    "id": "core-medical-archive-17b-exterior",
+    "name": "Core Medical Archive 17B — Exterior/Plaza",
+    "type": "structure",
+    "descriptors": ["gray sky", "service path", "plaza", "sterile-to-city threshold"],
+    "in_scene_events": ["Shelly exits; receives PID session/audit confirmation."]
+    },
+    {
+    "id": "metrofederacy-food-stall",
+    "name": "Metrofederacy Food Strip Stall",
+    "type": "city",
+    "descriptors": ["run-down aesthetic", "clean operations", "steaming noodles", "recyclable chopsticks"],
+    "in_scene_events": ["Shelly buys food; composes and sends message; sits with lingering nausea."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "core-medical-archives",
+    "name": "Core Medical Archives",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Custody of remains and records; audit framework in effect.",
+    "actions_in_scene": ["PID reflects open audit trail for the case."]
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Orderly, clean civic infrastructure with curated aesthetics.",
+    "actions_in_scene": ["Provides clean food strip environment; ambient drones."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["truth vs manufactured records", "privacy and trust outside official systems", "grief channeled into action", "sterility vs curated decay aesthetics"],
+    "motifs_symbols": ["cooling noodle steam", "legacy link vs Stellanet", "gray, featureless sky", "quiet system pings"],
+    "moral_questions": ["Is safety meaningful if trusted systems can be subverted?", "What do we owe the dead when truth harms the living?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "clinical with sardonic observation",
+    "pacing": "measured/reflective",
+    "voice_traits": ["internal monologue italics", "procedural diction", "dry skepticism"],
+    "sensory_notes": ["hiss of sealing door", "noodle steam heat", "drone buzz overhead", "flat gray light"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Shelly’s FI-III pass and prior exam findings (forged logs, neurochemical collapse).",
+    "Audit trail opened and case placed on indefinite hold.",
+    "Mother Michelle requested updates but warned she may not reply."
+    ],
+    "outcomes": [
+    "Shelly informs Michelle via legacy protocol outside Stellanet.",
+    "Her investigative vow is reiterated and communicated.",
+    "Establishes privacy-seeking behavior and continued emotional cost."
+    ],
+    "unanswered_questions": [
+    "Will Michelle respond?",
+    "Who altered the neuroject and falsified the logs?",
+    "Will legacy communication draw unwanted scrutiny?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["shelly"],
+    "trigger": "Intrusive memory of Randy’s death while in public.",
+    "resolution": "Compartmentalizes; completes message; nausea persists."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["shelly", "surveilled/managed networks (Stellanet)"],
+    "trigger": "Distrust of implants/logs leads to off-network messaging.",
+    "resolution": "Uses legacy link; systemic risk unresolved."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["death and body handling", "medical abuse/manipulated records", "family estrangement"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": [
+    "Shelly",
+    "Michelle",
+    "Randy",
+    "Core Medical Archive 17B",
+    "Metrofederacy food strip",
+    "legacy link",
+    "Stellanet avoidance",
+    "audit trail open",
+    "noodle stall scene"
+    ],
+    "keywords_dense": "Shelly, Michelle, Randy, Core Medical Archive 17B, Metrofederacy, food strip, noodles, PID notification, audit trail, legacy link, Stellanet, neuroject falsification, FI-III, message to mother, vow to investigate",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Shelly", "Michelle", "Randy"],
+    "places": ["Core Medical Archive 17B — Exterior/Plaza", "Metrofederacy Food Strip Stall"],
+    "orgs": ["Core Medical Archives", "Metrofederacy", "Stellanet"],
+    "terms": ["legacy link", "PID", "audit trail", "neuroject", "FI-III"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Who does Shelly contact after leaving the archive, and how?", "a": "Her mother, Michelle, via a legacy link outside Stellanet."},
+    {"q": "What key findings does Shelly relay in her message?", "a": "Catastrophic neurochemistry, falsified neuroject logs, and that she placed Randy’s case on indefinite hold under a malicious-action clause."},
+    {"q": "Why does Shelly feel nauseous at the food stall?", "a": "Intrusive recall of Randy’s suffering during the exam and contemplation of the falsified logs."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "last-rights-shelly-03-recap",
+    "type": "recap",
+    "text": "Shelly leaves Core Medical Archive 17B, receives a PID ping confirming the audit trail, and seeks brief refuge at a Metrofederacy food stall. Nauseated by memories of Randy’s engineered neurochemical collapse, she composes a clinical legacy-link message to her mother, Michelle, stating she passed FI-III, found falsified neuroject logs, and secured an indefinite hold under a malicious-action clause. She vows to find the perpetrators, adds “I miss you,” sends it, and sits as the noodle steam cools—resolve firm, nausea unresolved."
+    },
+    {
+    "chunk_id": "last-rights-shelly-03-entities",
+    "type": "entities_focus",
+    "text": "Key entities: Shelly (FI-III, investigator), Michelle (estranged mother, recipient), Randy (decedent motivating action). Tech/infra: PID with audit ping, legacy link protocol (off-Stellanet), Stellanet (avoided), delivery drone, Metrofederacy food stall. Locations: Archive 17B exterior/plaza; city food strip. Actions: Shelly purchases food, drafts and sends message, reaffirms investigative vow."
+    },
+    {
+    "chunk_id": "last-rights-shelly-03-style-theme",
+    "type": "style_theme_focus",
+    "text": "Reflective third-limited voice mixing clinical precision with sardonic observation. Themes: truth vs systems, privacy beyond official networks, grief into action, curated dystopia aesthetics. Motifs: gray sky, hiss of doors, noodle steam, quiet PID pings, legacy link as counter-system gesture."
+    }
+    ]
+    }

@@ -1,0 +1,287 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "At Last, Broken Bow",
+    "scene_id": "50-02-broken-bow-cybermancer-upgrade",
+    "chapter_number": 50,
+    "scene_number": 2,
+    "date_in_universe": "2186-12-08",
+    "absolute_timeline_notes": "Continuation in the Broken Bow clinic after initial consent scene; Chase wakes, learns extent of injuries, is re-sedated for prosthetics/ocular work."
+    },
+    "text_windows": {
+    "full_scene_clean": "Chase wakes on the clinic table tasting copper, throat burning, still immobilized. Quincy rushes to him and warns the doc still has him on a nerve block. The cybermancer states Chase has a detached retina and must remain still. Quincy adds his left arm was lost to bone infection during the last phase. Panic swells—Fox River’s loss, his mother, his arm, his eye—until Lesha grounds him, promising synthetic parts can make him whole. She takes charge, querying the doc about a replacement arm: an Arthrobotics GL-7Q with graphene–titanium laminate, small-caliber bulletproofing, and smart-touch sensory matrix. No carboronitride hyperlaminate is available in Broken Bow. For the eye, the doc recommends sleeving the damaged retina to a corneal display—both eyes for balance—and suggests printing an HID pattern in the mouth plus a microdot controller. After a brief holocred discussion, Quincy says, “Do it.” Overwhelmed, Chase begs to sleep and trusts Quincy and Lesha to decide. Lesha authorizes; the doc’s metal fingers settle on Chase’s shoulder and he’s sedated again, terrified by the loss of control yet clinging to the hope he’ll wake more complete.",
+    "dense_recap_250w": "Chase regains consciousness in the Broken Bow cybermancer’s clinic, still immobilized by a nerve block. The cybermancer explains Chase has a detached retina and must remain still; Quincy reveals his left arm was lost to osteomyelitic infection. The cumulative trauma—amputation, eye damage, Fox River’s destruction, thoughts of his mother—triggers a panic spiral. Lesha steps in as the steady voice, insisting he can be rebuilt and quickly pivots into technical triage. She confirms the available prosthetic: an Arthrobotics GL-7Q forearm/arm with graphene–titanium laminate, lightweight and small-caliber bullet resistant, with a graphene sensory matrix. When she asks about higher-spec carboronitride hyperlaminate, the doc scoffs—no such luxury in Broken Bow. For vision, the doc advises sleeving the damaged retina to a corneal display and fitting both eyes for vestibulo-visual balance; he further proposes printing an intraoral HID pattern and adding a microdot controller for interface/control. Quincy agrees to the plan after a brief cost exchange. Overwhelmed, Chase pleads to be put under and authorizes Quincy and Lesha to decide on his behalf. Lesha instructs the doc to proceed. As the cybermancer sedates him, Chase’s last thought is fear at ceding control mixed with a fragile hope he’ll wake closer to whole.",
+    "query_handle": "Chase learns arm amputation and detached retina; Lesha specs GL-7Q arm and dual corneal displays; Quincy approves; Chase re-sedated."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Painful awakening and diagnosis",
+    "what_happens": "Chase wakes immobilized; doc reports detached retina; Quincy reveals arm loss due to bone infection.",
+    "involved_entities": ["chase", "quincy", "cybermancer"],
+    "stakes_or_conflict": "Risk of permanent vision loss and disability; escalating panic."
+    },
+    {
+    "order": 2,
+    "label": "Panic spiral and grounding",
+    "what_happens": "Chase spirals over losses; Lesha steadies him and asserts synthetic recovery is viable.",
+    "involved_entities": ["chase", "lesha", "quincy"],
+    "stakes_or_conflict": "Chase’s psychological collapse vs. team’s need to proceed."
+    },
+    {
+    "order": 3,
+    "label": "Spec and procurement decision",
+    "what_happens": "Lesha interrogates the doc on available hardware: GL-7Q arm, dual corneal displays, HID mouth print, microdot controller; Quincy authorizes.",
+    "involved_entities": ["lesha", "cybermancer", "quincy", "arthrobotics-gl-7q", "corneal-displays", "hid-mouth-print", "microdot-controller"],
+    "stakes_or_conflict": "Capability vs. availability/cost in a back-alley clinic."
+    },
+    {
+    "order": 4,
+    "label": "Surrender to sedation",
+    "what_happens": "Chase begs to sleep; Lesha orders the doc to proceed; sedation resumes.",
+    "involved_entities": ["chase", "lesha", "cybermancer"],
+    "stakes_or_conflict": "Ceding autonomy now to regain function later."
+    }
+    ],
+    "characters": [
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Escape panic; survive surgery; preserve sight and function.",
+    "obstacles": "Nerve block immobility, amputation shock, detached retina, grief for Fox River and his mother.",
+    "tactics": "Seeks reassurance; delegates decisions to Quincy/Lesha; requests sedation.",
+    "relationships": [
+    {"with": "quincy", "type": "ally/friend", "state": "trusting, vulnerable", "evidence": "“Do anything Quincy and Lesha say.”"},
+    {"with": "lesha", "type": "ally", "state": "trust in her leadership", "evidence": "Lesha takes charge of specs; he yields to her plan."},
+    {"with": "cybermancer", "type": "patient–clinician", "state": "tense, procedural", "evidence": "Doc dictates stillness; sedates at Lesha’s order."}
+    ],
+    "emotional_arc": {
+    "start": "confused, terrified, grieving",
+    "turning_points": ["Arm loss and eye damage confirmed", "Lesha promises rebuild", "Decision to sleep and trust team"],
+    "end": "resigned, sedated, tenuous hope"
+    },
+    "notable_actions": ["requests re-sedation", "delegates medical decisions"],
+    "quotable_lines": ["“Please… put me back to sleep. Do anything Quincy and Lesha say.”"]
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Secure best available treatment and keep Chase calm.",
+    "obstacles": "Cost/availability constraints; Chase’s panic; clinic limitations.",
+    "tactics": "Delivers hard truths; authorizes spend after brief holocred talk; defers technical spec to Lesha.",
+    "relationships": [
+    {"with": "chase", "type": "friend/ally", "state": "protective", "evidence": "Rushes to his side; approves upgrades: “Do it.”"},
+    {"with": "lesha", "type": "ally/partner-in-triage", "state": "coordinated", "evidence": "Exchanges a look; lets Lesha lead technical choices."}
+    ],
+    "emotional_arc": {
+    "start": "worried, tense",
+    "turning_points": ["Confirms amputation; authorizes upgrades"],
+    "end": "resolute"
+    },
+    "notable_actions": ["approves GL-7Q/ocular/HID plan"],
+    "quotable_lines": ["“Do it.”"]
+    },
+    {
+    "id": "lesha",
+    "display_name": "Lesha",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Stabilize Chase psychologically and specify a workable prosthetic/ocular plan.",
+    "obstacles": "Limited inventory; patient panic; time pressure.",
+    "tactics": "Authoritative grounding, technical interrogation of options, cost–benefit decisions, orders sedation.",
+    "relationships": [
+    {"with": "chase", "type": "ally", "state": "firm, reassuring guide", "evidence": "“Focus on me and breathe… we got this.”"},
+    {"with": "cybermancer", "type": "professional", "state": "directive", "evidence": "Specs questions; “Do it. Put him under.”"}
+    ],
+    "emotional_arc": {
+    "start": "steady and confident",
+    "turning_points": ["Triage spec selection", "Takes command to re-sedate"],
+    "end": "decisive, in control"
+    },
+    "notable_actions": ["specs GL-7Q arm", "chooses dual corneal displays", "adds HID mouth print + microdot", "orders sedation"],
+    "quotable_lines": ["“Let me handle it… We got this.”"]
+    },
+    {
+    "id": "cybermancer",
+    "display_name": "Cybermancer (unnamed)",
+    "aliases": ["doc"],
+    "role_in_scene": "supporting",
+    "goals_now": "Prevent retinal worsening; install available prosthetics; proceed efficiently.",
+    "obstacles": "Scarce high-end materials; anxious patient; budget constraints.",
+    "tactics": "Clinical briefings, constraints disclosure, proposes balanced ocular solution and control interfaces; sedates on command.",
+    "relationships": [
+    {"with": "lesha", "type": "professional", "state": "responsive", "evidence": "Answers spec questions; proceeds per her go-ahead."},
+    {"with": "quincy", "type": "transactional", "state": "cost-driven", "evidence": "Brief holocred discussion precedes go-ahead."}
+    ],
+    "emotional_arc": {
+    "start": "matter-of-fact",
+    "turning_points": ["Specs agreed; payment cleared"],
+    "end": "focused, operating"
+    },
+    "notable_actions": ["explains detached retina stillness", "details GL-7Q features", "recommends dual corneal displays + HID mouth print + microdot", "sedates Chase"],
+    "quotable_lines": ["“You have a detached retina… we’re keeping you still.”", "“It’s a GL-7Q… graphene-titanium laminate… smart-touch responsive.”"]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "arthrobotics-gl-7q",
+    "name": "Arthrobotics GL-7Q prosthetic arm",
+    "category": "cybernetics",
+    "capabilities": ["graphene–titanium laminate chassis", "small-caliber bullet resistance", "smart-touch graphene sensory matrix"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "in case / to be installed",
+    "scene_function": "Chosen arm replacement after infection-driven amputation."
+    },
+    {
+    "id": "corneal-displays",
+    "name": "Dual corneal display system",
+    "category": "cybernetics",
+    "capabilities": ["visual overlay", "balance across both eyes", "retina sleeve interface"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "planned",
+    "scene_function": "Proposed ocular solution to address detached retina and maintain orientation."
+    },
+    {
+    "id": "hid-mouth-print",
+    "name": "Intraoral HID pattern",
+    "category": "other",
+    "capabilities": ["hidden identifier", "secure interface trigger"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "planned",
+    "scene_function": "Adds authentication/interaction layer as part of upgrade package."
+    },
+    {
+    "id": "microdot-controller",
+    "name": "Microdot controller",
+    "category": "cybernetics",
+    "capabilities": ["subtle input/control for prosthetics/overlays"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "planned",
+    "scene_function": "Complements ocular and limb systems with discreet control."
+    },
+    {
+    "id": "nerve-block-system",
+    "name": "Nerve block immobilization",
+    "category": "medical",
+    "capabilities": ["motor suppression", "pain control"],
+    "owner_or_users": ["cybermancer", "chase"],
+    "condition_or_state": "active",
+    "scene_function": "Keeps Chase still to avoid retinal worsening and for surgery."
+    }
+    ],
+    "locations": [
+    {
+    "id": "broken-bow-free-city",
+    "name": "Broken Bow Free City",
+    "type": "city",
+    "descriptors": ["free-city", "mid-tech", "scarce premium materials"],
+    "in_scene_events": ["Hosts the clinic and procurement constraints."]
+    },
+    {
+    "id": "broken-bow-cybermancer-clinic",
+    "name": "Unlicensed cybermancer clinic (unnamed)",
+    "type": "structure",
+    "descriptors": ["bright, clinical, improvised inventory", "back-alley professionalism"],
+    "in_scene_events": ["Diagnosis delivered; hardware plan set; patient re-sedated."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "arthrobotics",
+    "name": "Arthrobotics",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Manufacturer of prosthetic systems; product used due to availability.",
+    "actions_in_scene": ["GL-7Q unit selected for installation."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["bodily autonomy vs. necessity", "identity after loss", "trust and delegation under duress", "survival via augmentation", "scarcity shaping care"],
+    "motifs_symbols": ["copper taste and burning throat", "immobility/nerve block", "spec sheets and material limits", "hope vs. helplessness"],
+    "moral_questions": ["How voluntary is consent when pain and panic force delegation?", "What tradeoffs are acceptable when rebuilding a body with limited means?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/clinical",
+    "pacing": "high-intensity",
+    "voice_traits": ["sensory-heavy", "tech-detail", "emotive interiority"],
+    "sensory_notes": ["taste of copper", "burning throat", "too-bright room", "pressure of metal fingers"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Earlier consent and initial prep in the clinic.",
+    "Severe injuries sustained pre-arrival; Fox River’s destruction.",
+    "Arm infection progressed to bone, forcing amputation."
+    ],
+    "outcomes": [
+    "Treatment plan chosen: GL-7Q arm, dual corneal displays, HID mouth print, microdot controller.",
+    "Patient re-sedated to proceed.",
+    "Team roles clarified: Lesha leads technical decisions; Quincy authorizes spend."
+    ],
+    "unanswered_questions": [
+    "Surgical success and functional outcomes.",
+    "Side effects of dual corneal displays and oral HID.",
+    "Financial/ethical costs of upgrades in a free-city clinic."
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["chase"],
+    "trigger": "Realizing limb loss, eye damage, and community destruction.",
+    "resolution": "Temporarily surrenders agency; opts for sedation and delegation."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["team vs. scarce medical tech/economics"],
+    "trigger": "Lack of premium materials (hyperlaminate) in Broken Bow.",
+    "resolution": "Selects best-available GL-7Q and proceeds."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mild",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["amputation", "medical trauma", "panic attack", "grief"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Chase", "Quincy", "Lesha", "Arthrobotics GL-7Q", "detached retina", "corneal display", "HID mouth print", "microdot controller", "nerve block"],
+    "keywords_dense": "Broken Bow clinic, cybermancer, amputation, osteomyelitis, detached retina, GL-7Q prosthetic arm, graphene titanium laminate, corneal displays, HID pattern, microdot controller, Lesha leadership, Quincy authorization, re-sedation",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chase", "Quincy", "Lesha", "Cybermancer (unnamed)"],
+    "places": ["Broken Bow Free City"],
+    "orgs": ["Arthrobotics"],
+    "terms": ["GL-7Q", "GL-7S", "graphene-titanium laminate", "Carboronitride Hyperlaminate", "corneal display", "HID pattern", "microdot controller", "nerve block", "detached retina"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Why is Chase still immobilized when he wakes?", "a": "He’s on a nerve block and has a detached retina requiring stillness to avoid worsening it."},
+    {"q": "Which prosthetic arm model is chosen for Chase?", "a": "An Arthrobotics GL-7Q with graphene–titanium laminate and smart-touch sensing."},
+    {"q": "Why are both eyes slated for corneal displays?", "a": "For visual balance; a single-eye display would cause severe disorientation."},
+    {"q": "Who authorizes proceeding and re-sedation?", "a": "Lesha instructs the doc to put Chase under after Quincy approves the plan."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "50-02-r1",
+    "type": "recap",
+    "text": "Chase wakes immobilized in a Broken Bow clinic, learns his left arm was amputated due to bone infection and he has a detached retina. Panic surges until Lesha grounds him and leads technical decisions. The cybermancer offers an Arthrobotics GL-7Q arm, dual corneal displays for balance, and an intraoral HID pattern with a microdot controller. Premium hyperlaminate is unavailable. Quincy authorizes the spend. Overwhelmed, Chase asks to be put back to sleep and delegates choices to Quincy and Lesha. Lesha orders sedation and the procedure proceeds."
+    },
+    {
+    "chunk_id": "50-02-r2",
+    "type": "entities_focus",
+    "text": "Characters: Chase (injured, panicking), Quincy (protective approver), Lesha (technical lead, de-escalator), Cybermancer (clinician). Tech: Arthrobotics GL-7Q arm (graphene–titanium, smart-touch, small-caliber resistant), dual corneal displays with retina sleeve, intraoral HID pattern, microdot controller, nerve block. Location: Broken Bow unlicensed cybermancer clinic. Dynamics: Lesha specifies; Quincy funds; doc executes; Chase yields."
+    },
+    {
+    "chunk_id": "50-02-r3",
+    "type": "style_theme_focus",
+    "text": "Third-limited, past tense, with clinical grit and sensory immediacy (copper taste, burning throat, bright light). Themes: autonomy vs. necessity, identity after loss, trust under duress, survival-through-tech in scarcity. Motifs: immobilization, spec constraints, material science jargon, ceding control to regain function."
+    }
+    ]
+    }

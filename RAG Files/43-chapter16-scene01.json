@@ -1,0 +1,296 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Empty Chairs and Hollow Victories",
+    "scene_id": "2186-10-13_empty-chairs-hollow-victories",
+    "chapter_number": 16,
+    "scene_number": 1,
+    "date_in_universe": "2186-10-13",
+    "absolute_timeline_notes": "Morning-after recovery on-site in caravan med bus; immediately follows TRG rescue and evac of Demmy on 2186-10-12."
+    },
+    "text_windows": {
+    "full_scene_clean": "Chase wakes to antiseptic sting and pounding pain. He lies on a bullet-pocked med bus, not Fox River, an IV dripping beside him. Memory flashes of a ravager’s face make him shudder. A low alto voice warns him to stay still—the woman from the machine-gun nest. She names herself: Quincy. He asks about the gaunt kid with wild blond hair; Quincy says TRG flew him out on a quadrafan for emergency surgery—Demmy—if he lives. Chase introduces himself; Quincy grudgingly thanks him: “We’d be dead if you hadn’t.” Wind whistles through the perforated window as Chase fades, but Quincy pushes: she must find her family. Trucks were here when she arrived; everyone else was gone. She repeats the story McTanner wouldn’t accept: she was separated roughly 200 kilometers away, fought back in a stolen ravager two-seater with Demmy, returned to find an empty camp. Agitated, she pounds metal, railing that McTanner thinks she’s wildlander trash after salvage. She insists the caravan is hers—she knows every bolt and weld—and even points to her own tent and clothes as proof. She hates asking, but needs help. When Chase offers to explain to McTanner, Quincy cuts him off: she speaks for herself. “You want to help? Find my family.” Unless he can do that, she wants silence to think. Exhausted, Chase nods and lets the dark take him again.",
+    "dense_recap_250w": "On the morning after the battle, Chase regains consciousness on a bullet-scarred med bus rather than in Fox River. He’s hooked to an IV and barely able to see through swollen eyes. The woman he helped save identifies herself as Quincy; she confirms the emaciated boy—Demmy—was airlifted by TRG on a quadrafan for emergency surgery and may not survive. Quincy needs to locate her missing people. She recounts, again, a version of events McTanner allegedly dismissed: she was separated from the Three Shovels Caravan roughly 200 kilometers away, fought back across the Wildlands in a stolen ravager two-seater with Demmy, and upon arrival found trucks present but no people. She accuses TRG leadership of assuming she’s a scavenging wildlander and asserts ownership and intimate knowledge of the caravan (“every bolt, every weld”), even citing her tent and clothes as proof. While Chase offers to talk to McTanner on her behalf, Quincy insists on her agency—she’ll speak for herself—and sets a condition: if Chase wants to help, he must find her family. Physical cues—the wind whistling through bullet holes, Quincy's pounding on metal—underscore the aftermath and tension. Chase, still badly injured and exhausted, agrees and slips back into unconsciousness. The scene cements the alliance-in-tension between Quincy and Chase, highlights Demmy’s precarious status, and foregrounds the mystery of the caravan’s disappearance.",
+    "query_handle": "Chase wakes on med bus; Quincy recounts separation & empty caravan; Demmy med-evac; clash over trust/agency; Chase offers help then passes out."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Concussed awakening",
+    "what_happens": "Chase comes to on a bullet-riddled med bus, in pain and disoriented, realizing he’s not in Fox River.",
+    "involved_entities": ["chase", "caravan-med-bus"],
+    "stakes_or_conflict": "Injury and dislocation; limited mobility and information."
+    },
+    {
+    "order": 2,
+    "label": "Names and status",
+    "what_happens": "The woman identifies herself as Quincy and confirms Demmy was evac’d by TRG and is in critical condition.",
+    "involved_entities": ["quincy", "chase", "demmy", "trg"],
+    "stakes_or_conflict": "Demmy’s survival uncertain; establishing trust."
+    },
+    {
+    "order": 3,
+    "label": "The empty caravan",
+    "what_happens": "Quincy repeats her account: separated ~200 km away, fought back with Demmy in a stolen ravager two-seater, returned to find trucks but no people.",
+    "involved_entities": ["quincy", "demmy", "ravagers", "three-shovels-caravan"],
+    "stakes_or_conflict": "Mystery of disappearance; fear for her family."
+    },
+    {
+    "order": 4,
+    "label": "Agency vs. mediation",
+    "what_happens": "Chase offers to speak to McTanner; Quincy refuses representation and demands action: find her family.",
+    "involved_entities": ["quincy", "chase", "jeb-mctanner"],
+    "stakes_or_conflict": "Control of the narrative; respect vs. paternalism."
+    },
+    {
+    "order": 5,
+    "label": "Collapse",
+    "what_happens": "Pain and exhaustion overtake Chase; he slips back into unconsciousness.",
+    "involved_entities": ["chase"],
+    "stakes_or_conflict": "Physical limits curtail immediate action."
+    }
+    ],
+    "characters": [
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Stabilize, understand what happened, and help locate Quincy’s missing people.",
+    "obstacles": "Severe injuries, swelling, pain, and limited mobility; incomplete information.",
+    "tactics": "Ask targeted questions; offer to intercede with McTanner; de-escalate with calm tone.",
+    "relationships": [
+    {"with": "quincy", "type": "ally-in-formation", "state": "tentative, respectful", "evidence": "Grudging thanks from Quincy; he offers help and listens."},
+    {"with": "jeb-mctanner", "type": "protégé/mentor", "state": "supportive but constrained", "evidence": "Offers to explain to McTanner; calls him ‘Master McTanner’."},
+    {"with": "demmy", "type": "rescuer/beneficiary", "state": "admiring concern", "evidence": "Calls out his courage; asks after his status."}
+    ],
+    "emotional_arc": {
+    "start": "dazed, in pain, wary",
+    "turning_points": ["Learns Demmy’s condition", "Quincy rebuffs mediation and demands action"],
+    "end": "exhausted but aligned to help"
+    },
+    "notable_actions": ["identifies location context clues", "elicits Quincy’s account", "offers to advocate", "yields space when rebuffed"],
+    "quotable_lines": ["I’m just glad I could help.", "Unless you know where my family is, no more helping. (Quincy)"]
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Find her missing family/caravan members and be believed.",
+    "obstacles": "TRG skepticism (esp. McTanner, in her view); injury and confinement on med bus.",
+    "tactics": "Assert ownership/knowledge of the caravan; recount timeline; reject being spoken for; demand concrete help.",
+    "relationships": [
+    {"with": "chase", "type": "ally-in-formation", "state": "guarded respect", "evidence": "Thanks him for saving them but sets boundaries: ‘I can talk for myself.’"},
+    {"with": "jeb-mctanner", "type": "civilian vs authority", "state": "antagonistic", "evidence": "Says he thinks she’s lying and wildlander trash."},
+    {"with": "demmy", "type": "comrade", "state": "protective", "evidence": "Returned with him; worries if he’ll live."}
+    ],
+    "emotional_arc": {
+    "start": "angry, urgent, defensive",
+    "turning_points": ["Admits she needs help", "Reasserts agency when Chase offers to speak for her"],
+    "end": "focused, demanding action"
+    },
+    "notable_actions": ["pounds on bus walls/floor", "recounts separation and return in stolen ravager two-seater", "claims tent/clothes as proof she belongs"],
+    "quotable_lines": ["This caravan? I know every bolt, every weld.", "You want to help? Find my family."]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": ["skerv boy"],
+    "role_in_scene": "cameo",
+    "goals_now": "Survive surgery after med-evac.",
+    "obstacles": "Critical injuries; uncertain outcome.",
+    "tactics": "N/A (offstage, unconscious).",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "close-knit under fire", "evidence": "Fought back together across the Wildlands."}
+    ],
+    "emotional_arc": {
+    "start": "near death (reported)",
+    "turning_points": ["Evacuated by quadrafan to surgery"],
+    "end": "uncertain, offstage"
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "jeb-mctanner",
+    "display_name": "Jebidiah McTanner",
+    "aliases": ["Master McTanner"],
+    "role_in_scene": "cameo",
+    "goals_now": "Offstage: command TRG and manage aftermath.",
+    "obstacles": "Per Quincy, credibility gap; conflicting priorities.",
+    "tactics": "N/A in scene (referenced only).",
+    "relationships": [
+    {"with": "quincy", "type": "authority/civilian", "state": "distrustful (perceived)", "evidence": "She claims he thinks she’s lying."},
+    {"with": "chase", "type": "mentor", "state": "respected", "evidence": "Chase calls him master; wants to speak to him."}
+    ],
+    "emotional_arc": {
+    "start": "offstage",
+    "turning_points": [],
+    "end": "offstage"
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "caravan-med-bus",
+    "name": "Caravan med bus",
+    "category": "medical",
+    "capabilities": ["mobile triage space", "beds, IV hooks", "limited protection"],
+    "owner_or_users": ["three-shovels-caravan", "trg", "chase", "quincy"],
+    "condition_or_state": "damaged (bullet-riddled) but serviceable",
+    "scene_function": "Primary setting for recovery and conversation."
+    },
+    {
+    "id": "iv-drip",
+    "name": "IV drip",
+    "category": "medical",
+    "capabilities": ["fluid/medication infusion"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "active",
+    "scene_function": "Signals Chase’s medical stabilization."
+    },
+    {
+    "id": "ravager-two-seater",
+    "name": "Ravager two-seater (stolen)",
+    "category": "vehicle",
+    "capabilities": ["fast overland transport"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "functional (past use, referenced)",
+    "scene_function": "Explains how Quincy and Demmy returned to the site."
+    },
+    {
+    "id": "quadrafan-flier",
+    "name": "Quadrafan med flier",
+    "category": "vehicle",
+    "capabilities": ["VTOL evac", "rapid transport to OR"],
+    "owner_or_users": ["trg", "fox-river"],
+    "condition_or_state": "operational (referenced)",
+    "scene_function": "Evacuated Demmy to Fox River surgery."
+    }
+    ],
+    "locations": [
+    {
+    "id": "caravan-med-bus",
+    "name": "Med bus interior",
+    "type": "structure",
+    "descriptors": ["metal-slatted window", "bullet holes", "antiseptic and cordite smell", "curved roof like a tub"],
+    "in_scene_events": ["Chase wakes, IV attached; dialog with Quincy; Quincy vents and asserts claim."]
+    },
+    {
+    "id": "three-shovels-site",
+    "name": "Three Shovels Caravan site (outside, referenced)",
+    "type": "wilderness",
+    "descriptors": ["trucks present, people gone (per Quincy)"],
+    "in_scene_events": ["Context for disappearance mystery (recounted)."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "trg",
+    "name": "Tactical Response Group (TRG)",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Rescue, stabilize, control scene; may distrust outsider accounts.",
+    "actions_in_scene": ["Evacuated Demmy (referenced)", "Allegedly skeptical of Quincy’s story (per Quincy)."]
+    },
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": ["quincy", "demmy"],
+    "motives_inferred": "Reunite and survive; recover missing members.",
+    "actions_in_scene": ["Possessions and trucks remain; people missing (recounted)."]
+    },
+    {
+    "id": "ravagers",
+    "name": "Ravagers",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Predation/raiding (background).",
+    "actions_in_scene": ["Vehicle earlier stolen by Quincy/Demmy to return (recounted)."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["aftermath and recovery", "credibility vs prejudice", "agency vs paternalism", "family and belonging", "mystery/disappearance"],
+    "motifs_symbols": ["bullet holes and whistling wind", "empty bed/window", "IV drip", "pounding on metal", "trucks without people"],
+    "moral_questions": ["Who gets believed after trauma?", "What does help look like when it overrides someone’s voice?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/lyrical",
+    "pacing": "slow-burn",
+    "voice_traits": ["internal flashes of memory", "plainspoken dialog with edge", "sensory detail of pain and place"],
+    "sensory_notes": ["antiseptic sting", "cordite in air", "wind through bullet holes", "metal thumps vibrating beds"]
+    },
+    "causality": {
+    "prior_dependencies": ["TRG battle and rescue the previous day; Demmy’s med-evac; Quincy’s defense from machine-gun nest; earlier skepticism from McTanner."],
+    "outcomes": ["Quincy’s account of separation and return is documented; Chase personally commits to helping; tension around TRG credibility persists."],
+    "unanswered_questions": ["Where did the caravaners go and how?", "Will Demmy survive surgery?", "Will McTanner accept Quincy’s claims or evidence?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "jeb-mctanner"],
+    "trigger": "Perceived disbelief and stereotyping by TRG leadership.",
+    "resolution": "Unresolved; Quincy insists on being heard and believed."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["chase"],
+    "trigger": "Physical injury and limits vs desire to act/help.",
+    "resolution": "Temporarily yields to exhaustion; intends to assist."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy", "hostile wildlands/disappearance"],
+    "trigger": "Empty site with trucks but no people; long return journey.",
+    "resolution": "Unresolved; investigation/search pending."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mild",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["severe injury and sutures", "implied prior combat", "class/prejudice tensions"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Chase wakes on med bus", "Quincy demands help to find family", "Demmy med-evac status", "empty caravan mystery", "TRG skepticism", "ravager two-seater return"],
+    "keywords_dense": "med bus, bullet holes, IV drip, Quincy, Chase, Demmy, TRG, McTanner, Three Shovels Caravan, empty camp, stolen ravager two-seater, quadrafan evac, credibility, agency",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chase", "Quincy", "Demmy", "Master McTanner"],
+    "places": ["Fox River (referenced)", "Three Shovels Caravan site (referenced)"],
+    "orgs": ["Tactical Response Group (TRG)", "Three Shovels Caravan", "Ravagers"],
+    "terms": ["quadrafan", "skerv", "wildlander", "two-seater"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Where does Chase wake up after the battle?", "a": "On a bullet-riddled caravan med bus, not in Fox River."},
+    {"q": "What is Demmy’s status in this scene?", "a": "He was flown out by TRG on a quadrafan for emergency surgery; survival uncertain."},
+    {"q": "How did Quincy and Demmy return to the site?", "a": "They fought their way back in a stolen ravager two-seater after being separated ~200 km away."},
+    {"q": "What does Quincy ask Chase to do?", "a": "Find her missing family/caravan members, and not speak for her."},
+    {"q": "What evidence does Quincy cite to prove she belongs to the caravan?", "a": "Her intimate knowledge of the caravan and personal tent/clothes among the gear."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-10-13-empty-chairs-recap",
+    "type": "recap",
+    "text": "Chase regains consciousness on a bullet-scarred med bus, IV attached and in pain. The woman he helped, Quincy, confirms the gaunt boy—Demmy—was airlifted by TRG for emergency surgery. Quincy urgently needs to find her missing family; she recounts being separated about 200 km away, then returning with Demmy in a stolen ravager two-seater to find trucks present but people gone. She says McTanner doesn’t believe her and rejects being represented by Chase—if he wants to help, he must find her family. Exhausted, Chase agrees in spirit and passes out again."
+    },
+    {
+    "chunk_id": "2186-10-13-empty-chairs-entities",
+    "type": "entities_focus",
+    "text": "People: Chase (injured TRG apprentice), Quincy (assertive caravan member), Demmy (critically wounded, evac’d), Master McTanner (TRG leader, offstage). Orgs: TRG; Three Shovels Caravan; Ravagers (referenced). Tech & items: caravan med bus with bullet holes; IV drip; quadrafan med flier; stolen ravager two-seater. Places: med bus interior; Three Shovels site (context). Roles: Quincy demands agency and a search; Chase offers help but is physically limited."
+    },
+    {
+    "chunk_id": "2186-10-13-empty-chairs-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-limited past through an injured POV blends gritty sensory detail (antiseptic, cordite, wind through bullet holes) with terse, charged dialog. Themes: recovery and aftermath; credibility vs prejudice; agency vs paternalism; belonging and family; an open mystery of disappearance. Motifs: IV drip, pounding metal, empty trucks and beds, whistling windows."
+    }
+    ]
+    }

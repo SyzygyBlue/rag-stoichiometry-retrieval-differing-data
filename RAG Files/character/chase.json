@@ -1,0 +1,188 @@
+{
+    "doc_type": "neon_titan_character_v1",
+    "source": {
+    "dossier_file": "Chase_dossier.md",
+    "scene_refs": []
+    },
+    "identity": {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "mbti": "ENFJ",
+    "age_bracket": "early-20s",
+    "gender": "male",
+    "origin": null
+    },
+    "affiliations": ["three-shovels-caravan", "trg", "fox-river"],
+    "bio": {
+    "one_liner": "TRG apprentice and charisma-forward tactician striving to define himself beyond his mother’s control while protecting people others overlook.",
+    "summary": "Chase is a young male TRG apprentice in his early 20s whose background links him to Fox River through his mother. He is pragmatic, observant, empathetic, and an instinctive leader who reads people well, communicates directly, and maintains composure under pressure. Internally conflicted, he seeks independence from his mother’s plans and strives to be recognized on his own merits. He demonstrates loyalty to those he chooses to help, including a temporary alliance with the Three Shovels Caravan, and favors justice over vengeance. In the field he is a capable marksman who prefers long-range engagements and strategic positioning, and he can pilot all-terrain vehicles. After the destruction of Fox River, he becomes physically and emotionally damaged; his left arm is replaced with a blue-metal prosthetic and his left eye with a cyber-optic. Despite losses to status and security, he retains an adaptive moral compass and aims to rebuild purpose from adversity.",
+    "narrative_gravity": 8
+    },
+    "personality": {
+    "traits": ["pragmatic", "observant", "empathetic", "guarded", "dry-witted", "tactical", "reserved-under-pressure", "independent", "defiantly-loyal", "instinctive-leader", "authority-aware", "direct-communicator"],
+    "flaws": ["impulsive", "internalized-emotional-conflict", "vulnerable-to-manipulation", "guilt-complex"],
+    "values": ["self-reliance", "loyalty", "freedom", "justice", "human-dignity"],
+    "motivations_primary": ["gain-independence-from-mother", "prove-competence", "find-own-identity"],
+    "motivations_secondary": ["earn-recognition-for-own-merits", "make-own-choices", "escape-maternal-control", "protect-overlooked-people"]
+    },
+    "appearance": {
+    "height_cm": 185,
+    "build": "lean athletic with broad shoulders; upright posture",
+    "hair": "reddish blond, short sides/back, slightly longer tousled top",
+    "teeth": "bright white, straight, healthy",
+    "eyes": "bright expressive blue",
+    "notable_marks": ["faint freckles across nose and cheeks", "crooked nose (post-Fox River)", "blue-metal left arm prosthetic", "subtle cyber-optic shimmer in left eye"],
+    "style": "TRG tactical wear with lightweight armor in the Wildlands; tailored urbanwear with clean lines and deep colors in cities"
+    },
+    "skills": {
+    "combat": ["firearms proficiency", "50-caliber sniper rifle", "long-range marksmanship"],
+    "technical": ["skilled driver", "all-terrain vehicle piloting", "strategic thinking"],
+    "tactics": ["strategic positioning", "sniper overwatch", "calm-under-pressure leadership", "moves-and-countermoves planning"],
+    "limitations": ["limited combat experience", "impulsiveness in battle", "vulnerability to manipulation", "suppresses emotions"]
+    },
+    "relationships": [
+    {
+    "with": "margdelain",
+    "label": "mother",
+    "state": "strained",
+    "notes": "Respects her power and intelligence but resents her control; seeks independence and to defy her expectations."
+    },
+    {
+    "with": "mctanner",
+    "label": "mentor/father-figure",
+    "state": "warm-guiding",
+    "notes": "Provides guidance and caution; a stabilizing influence."
+    },
+    {
+    "with": "quincy",
+    "label": "ally",
+    "state": "professional/helping",
+    "notes": "Demonstrates willingness to assist Quincy and the Three Shovels Caravan, reflecting duty and compassion."
+    },
+    {
+    "with": "demmy",
+    "label": "ally (emerging)",
+    "state": "developing",
+    "notes": "Potential found-family bond formed through shared survival and trauma."
+    },
+    {
+    "with": "lesha",
+    "label": "ally (emerging)",
+    "state": "developing",
+    "notes": "Potential found-family bond formed through shared survival and trauma."
+    }
+    ],
+    "arc": {
+    "status_now": "Physically maimed and emotionally shaken after Fox River’s destruction; walking an uncertain road while retaining a loyal, observant, idealistic compass.",
+    "pre_pivot": "A son under heavy expectations who chose TRG service over a political path shaped by his mother.",
+    "pivot_event": "destruction-of-fox-river",
+    "post_pivot": "Broken but determined to rebuild purpose; a prince-to-ronin transition defined by loss and choice.",
+    "future_vector": "May become a grassroots protector or leader for the overlooked, contingent on recovery and self-forgiveness."
+    },
+    "items_and_tech": [
+    {
+    "id": "50-caliber-sniper-rifle",
+    "name": ".50 caliber sniper rifle",
+    "category": "weapon",
+    "capabilities": ["long-range-precision-fire"],
+    "condition": "",
+    "notes": "Favored weapon; aligns with his preference for long-range engagements."
+    },
+    {
+    "id": "left-arm-prosthetic-blue-metal",
+    "name": "Left arm prosthetic (blue-metal)",
+    "category": "cybernetics",
+    "capabilities": ["artificial-arm"],
+    "condition": "newly-installed",
+    "notes": "Sleek, sharp aesthetic; feels foreign and heavy."
+    },
+    {
+    "id": "left-eye-cyber-optic",
+    "name": "Left eye cyber-optic",
+    "category": "cybernetics",
+    "capabilities": ["artificial-eye"],
+    "condition": "newly-installed",
+    "notes": "Visible as a faint shimmer beneath the iris in certain light."
+    },
+    {
+    "id": "trg-tactical-wear",
+    "name": "TRG tactical wear with lightweight armor",
+    "category": "other",
+    "capabilities": ["reinforced-shoulders", "lightweight-body-armor"],
+    "condition": "",
+    "notes": "Black cargo pants, gray jacket, polished boots when operating in the Wildlands."
+    }
+    ],
+    "themes": {
+    "keywords": ["identity", "agency-vs-legacy", "loyalty", "freedom", "found-family", "self-reliance", "justice-over-vengeance", "human-dignity"],
+    "moral_tensions": ["agency-vs-legacy", "loyalty-vs-obedience", "impulse-vs-discipline", "independence-vs-belonging"]
+    },
+    "text_windows": {
+    "bio_200w": "Chase is a TRG apprentice and people-reader who pairs empathy with composure under pressure. He grew up under the weight of his mother’s expectations and rejects a pre-ordained political path in favor of earned competence. The dossier describes him as pragmatic, observant, dry-witted, and quietly commanding, with a habit of thinking in moves and countermoves. He forms a temporary alliance with the Three Shovels Caravan and shows a pattern of helping those others overlook, preferring justice to revenge. In the field, he favors long-range engagement and strategic positioning and can pilot all-terrain vehicles. After Fox River’s destruction he loses status and security and receives a blue-metal left arm prosthetic and a left-eye cyber-optic. Despite trauma, he maintains a loyal, idealistic compass aimed at rebuilding purpose on his own terms.",
+    "arc_200w": "Chase is a legacy-shadowed apprentice who chooses TRG over a political track to escape control and prove himself. Early actions show courage and competence alongside a tendency toward impulsiveness when protecting others. The dossier frames a decisive pivot with the destruction of Fox River, which strips him of home, rank, and inherited protections. Post-pivot, he is physically altered and emotionally shaken, yet the throughline remains: a loyalty-driven instinct to protect the overlooked. His arc is summarized as a prince-to-ronin transition, moving from expectation to self-definition. The forward vector is conditional: if he integrates trauma with values like dignity and justice, he may evolve into a grassroots protector or leader; if not, unresolved guilt and manipulation risks could stall him. The current stance is recovery and reorientation rather than retreat.",
+    "skills_120w": "Chase is proficient with firearms, notably a .50 caliber sniper rifle, and prefers long-range marksmanship with deliberate positioning. He is a skilled driver who can pilot all-terrain vehicles and brings strategic thinking to planning and movement. Tactically he favors overwatch roles, calm command presence, and step-ahead countermoves. Documented limitations include limited overall combat experience, impulsiveness in battle, vulnerability to manipulation due to his desire for independence, and a tendency to suppress emotions, which can cloud judgment.",
+    "appearance_120w": "Chase stands about 185 cm with lean athletic build, broad shoulders, and an upright posture. He has reddish-blond hair cut short at the sides with a tousled top, bright expressive blue eyes, fair skin with faint freckles, and a clean, refined look. Post-Fox River, he bears a crooked nose and wears a blue-metal left arm prosthetic; his left eye has a subtle cyber-optic shimmer. In the Wildlands he favors TRG tactical wear with lightweight armor and polished boots; in urban settings he shifts to tailored, clean-lined attire.",
+    "relationships_180w": "Chase’s closest bond is a strained mother–son tie with Margdelain: he respects her power and intelligence but resents control and works to assert independence. McTanner serves as mentor and father figure, offering guidance and caution that steady Chase’s choices. With Quincy, Chase engages in a professional helping relationship, assisting her and the Three Shovels Caravan in ways that reflect duty and compassion. Bonds with Demmy and Lesha are described as emergent, formed through shared survival and trauma and framed as potential found-family. These ties highlight a pattern: he values loyalty and will break rules to protect people he trusts, even as he balances authority awareness with skepticism about obedience."
+    },
+    "qa_pairs": [
+    {
+    "q": "What role does Chase initially pursue to assert independence?",
+    "a": "He joins the TRG as an apprentice rather than follow a political path shaped by his mother."
+    },
+    {
+    "q": "Which weapon best represents Chase’s combat preference?",
+    "a": "A .50 caliber sniper rifle, aligning with his preference for long-range engagements and strategic positioning."
+    },
+    {
+    "q": "How has Chase been physically altered after Fox River’s destruction?",
+    "a": "He has a blue-metal prosthetic left arm and a left-eye cyber-optic."
+    },
+    {
+    "q": "What motivates Chase’s rule-bending behavior?",
+    "a": "Defiant loyalty to people he trusts and a protective instinct for those overlooked."
+    },
+    {
+    "q": "What personal conflict most shapes Chase’s decisions?",
+    "a": "The struggle to escape his mother’s control and be recognized on his own merits."
+    }
+    ],
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Chase", "TRG apprentice", "sniper", "50-caliber rifle", "prosthetic left arm", "cyber-optic", "Fox River", "Three Shovels Caravan"],
+    "keywords_dense": "Chase, TRG, apprentice, long-range marksmanship, 50-caliber sniper rifle, strategic positioning, all-terrain vehicle piloting, Fox River, Three Shovels Caravan, prosthetic arm, cyber-optic, independence from mother, loyalty, justice over vengeance, found family",
+    "spoiler_level": "series_known",
+    "named_entities": {
+    "people": ["Chase", "Margdelain", "McTanner", "Quincy", "Demmy", "Lesha"],
+    "places": ["Fox River", "Wildlands"],
+    "orgs": ["TRG", "Three Shovels Caravan"],
+    "terms": ["cyber-optic", "prosthetic arm", "50-caliber sniper rifle"]
+    }
+    },
+    "embedding_payloads": [
+    {
+    "chunk_id": "chase-1",
+    "type": "bio",
+    "text": "Chase is a TRG apprentice and empathetic tactician who seeks to earn recognition beyond his mother’s control. He reads people well, stays composed under pressure, and favors justice over vengeance while helping overlooked communities such as the Three Shovels Caravan. He operates best at range as a marksman and can pilot all-terrain vehicles. After Fox River’s destruction he loses status and receives a blue-metal prosthetic left arm and a left-eye cyber-optic, yet he keeps an adaptive moral compass."
+    },
+    {
+    "chunk_id": "chase-2",
+    "type": "arc",
+    "text": "Chase is a legacy-shadowed son who joins TRG to assert independence and prove competence. A pivotal shock—the destruction of Fox River—removes inherited protections and forces a reset. Post-pivot he is physically altered and emotionally shaken, moving along a prince-to-ronin path toward self-definition. If he integrates trauma with values like human dignity and justice, he may become a grassroots protector or leader."
+    },
+    {
+    "chunk_id": "chase-3",
+    "type": "relationships",
+    "text": "Chase is a loyalty-driven ally who keeps complex ties: a strained relationship with his mother Margdelain, steady mentorship from McTanner, a professional helping bond with Quincy and the Three Shovels Caravan, and emerging found-family connections with Demmy and Lesha through shared survival."
+    },
+    {
+    "chunk_id": "chase-4",
+    "type": "skills_cybernetics",
+    "text": "Chase is a long-range marksman proficient with a .50 caliber sniper rifle and practiced in strategic positioning and overwatch. He can pilot all-terrain vehicles and brings step-ahead planning to fieldwork. Documented limitations include limited experience, impulsiveness in battle, emotional suppression, and vulnerability to manipulation. Post-injury, he bears a blue-metal prosthetic left arm and a left-eye cyber-optic."
+    },
+    {
+    "chunk_id": "chase-5",
+    "type": "appearance",
+    "text": "Chase is approximately 185 cm with lean athletic build, reddish-blond hair, bright blue eyes, straight white teeth, and fair skin with faint freckles. Post-Fox River he has a crooked nose, a blue-metal prosthetic left arm, and a subtle cyber-optic shimmer in his left eye. He wears TRG tactical gear with lightweight armor in the Wildlands and tailored urbanwear in cities."
+    }
+    ]
+    }

@@ -1,0 +1,202 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Routine",
+    "scene_id": "shelly-lucas-falafel-stand",
+    "chapter_number": null,
+    "scene_number": null,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Urban sidewalk falafel stand at synthetic dusk; later, Lucas’s mid-rise housing block lobby/elevator."
+    },
+    "text_windows": {
+    "full_scene_clean": "They sat across from each other on a scuffed plastic bench at a sidewalk falafel stand, cumin and fried oil in the air. Above, synthetic sky panels glowed a soft lavender that tried too hard to be dusk. The pigeons were real—pecking wrappers, staring with dead eyes. Lucas ate slowly, eyes down. Shelly picked at a pita, tahini soaking through and running over her fingers. “These are still good,” Lucas said. “Yeah. I come here sometimes. After work,” she answered. Silence. She tried, “How’s the work stuff?” He shrugged: puzzles in virtual, some drafting, documentation—“not rocket science.” More silence. “You seeing anyone?” he asked. “No. No one lines up to date a hard-headed forensic investigator.” He barely shook his head when asked the same. She looked at him: sallow skin, weight lost, half-trimmed gray beard, fingers stained with model paint shredding a napkin. “I miss when we used to talk,” she said. “Me too,” he answered. They binned half their pitas. On the walk back, they said little. His block was tall and plain, rounded corners, hedge out front. At the elevator, he paused. “Thanks for the food.” “Sure.” “Dad? You doing okay?” “Yeah, Shel, I’m fine.” After a shared shrug, he stepped into the lift; the doors slid closed. She stared at the brushed steel, hearing the quiet motor hum, imagining him already lost in an engineering puzzle. She sighed and walked with no destination, falafel grease on her jacket. Overhead, a mourning dove called.",
+    "dense_recap_250w": "Shelly meets her father, Lucas, at a modest sidewalk falafel stand beneath synthetic sky panels mimicking dusk. Their conversation is stilted: Lucas describes his work as building virtual ‘puzzles’ with drafting and documentation, while Shelly jokes about her undateable, hard-headed investigator persona. Between long silences, she notes troubling signs—he looks thinner, sallow under strip lights, with a patchy gray beard and paint-stained, fidgeting fingers. She admits she misses when they used to talk; he quietly agrees. After discarding half-eaten pitas, they walk to his unadorned housing block. At the elevator, Shelly checks on him—he says he’s fine. They exchange a small, mirrored shrug before he steps into the lift and the doors close. Shelly lingers at the brushed steel, hears the motor hum, imagines him already drifting back into solitary engineering problems, and then wanders away without a plan, still smelling falafel grease as a mourning dove calls overhead. The scene centers muted affection, distance, and the difficulty of connection between an adult child and a withdrawn, possibly declining parent within an engineered urban atmosphere.",
+    "query_handle": "Shelly shares falafel with her father Lucas; strained small talk; quiet parting at his elevator; urban artificial dusk and loneliness."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Awkward meal",
+    "what_happens": "Shelly and Lucas eat falafel under synthetic dusk and struggle through small talk about work and dating.",
+    "involved_entities": ["shelly", "lucas", "synthetic-sky-panels", "falafel-stand"],
+    "stakes_or_conflict": "Can they meaningfully reconnect or continue drifting apart?"
+    },
+    {
+    "order": 2,
+    "label": "Attempt to bridge",
+    "what_happens": "Shelly admits she misses when they used to talk; Lucas agrees but offers little beyond quiet assent.",
+    "involved_entities": ["shelly", "lucas"],
+    "stakes_or_conflict": "Emotional vulnerability vs. habitual withdrawal."
+    },
+    {
+    "order": 3,
+    "label": "Elevator goodbye",
+    "what_happens": "At Lucas’s housing block, a minimalist exchange ends with him entering the elevator and Shelly walking away alone.",
+    "involved_entities": ["shelly", "lucas", "elevator", "lucas-housing"],
+    "stakes_or_conflict": "Opportunity for connection passes; isolation persists."
+    }
+    ],
+    "characters": [
+    {
+    "id": "shelly",
+    "display_name": "Shelly",
+    "aliases": ["Shel"],
+    "role_in_scene": "POV",
+    "goals_now": "Reconnect with her father over a simple meal and check on his wellbeing.",
+    "obstacles": "Emotional inertia, long silences, Lucas’s guardedness, her own burnout detachment.",
+    "tactics": "Gentle prompts about work and relationships; direct but soft question about his wellbeing.",
+    "relationships": [
+    {"with": "lucas", "type": "family", "state": "strained/affectionate", "evidence": "“I miss when we used to talk.” / “Me too.”"}
+    ],
+    "emotional_arc": {
+    "start": "guarded, tentative",
+    "turning_points": ["admits missing conversation", "asks if he’s okay at the elevator"],
+    "end": "quietly lonely but still caring"
+    },
+    "notable_actions": ["picks at pita", "initiates small talk", "discards half-eaten food", "asks after Lucas’s wellbeing", "walks away aimlessly"],
+    "quotable_lines": [
+    "I miss when we used to talk.",
+    "No one lines up for dates with hard-headed opinionated forensic investigators."
+    ]
+    },
+    {
+    "id": "lucas",
+    "display_name": "Lucas",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Share a meal; keep conversation minimal; return home.",
+    "obstacles": "Possible depression or decline; difficulty engaging; pride.",
+    "tactics": "Short answers, noncommittal reassurances, avoids eye contact.",
+    "relationships": [
+    {"with": "shelly", "type": "family", "state": "distant but caring", "evidence": "“Me too.” and a thin smile at the elevator."}
+    ],
+    "emotional_arc": {
+    "start": "withdrawn, muted",
+    "turning_points": ["acknowledges missing their talks", "accepts help/walk home"],
+    "end": "retreats behind elevator doors"
+    },
+    "notable_actions": ["eats slowly", "gives sparse replies", "thanks Shelly", "enters elevator"],
+    "quotable_lines": [
+    "These are still good.",
+    "Yeah, Shel, I’m fine."
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "synthetic-sky-panels",
+    "name": "Synthetic sky panels",
+    "category": "other",
+    "capabilities": ["simulate time-of-day lighting and color"],
+    "owner_or_users": [],
+    "condition_or_state": "operational; unconvincing",
+    "scene_function": "Backdrop emphasizing artificial urban atmosphere and emotional dissonance."
+    },
+    {
+    "id": "elevator",
+    "name": "Residential elevator",
+    "category": "other",
+    "capabilities": ["vertical transport; quiet electric motor"],
+    "owner_or_users": [],
+    "condition_or_state": "intact",
+    "scene_function": "Physical boundary marking their parting; doors close on connection attempt."
+    },
+    {
+    "id": "falafel-stand",
+    "name": "Sidewalk falafel stand",
+    "category": "other",
+    "capabilities": ["street food service; seating bench"],
+    "owner_or_users": [],
+    "condition_or_state": "operational",
+    "scene_function": "Neutral space for an uneasy father–daughter conversation."
+    }
+    ],
+    "locations": [
+    {
+    "id": "falafel-stand-sidewalk",
+    "name": "Sidewalk falafel stand",
+    "type": "structure",
+    "descriptors": ["scuffed plastic bench", "cumin and fried oil", "pigeons scavenging", "synthetic dusk glow"],
+    "in_scene_events": ["Shelly and Lucas share a quiet meal and halting conversation."]
+    },
+    {
+    "id": "lucas-housing",
+    "name": "Lucas’s housing block",
+    "type": "structure",
+    "descriptors": ["tall and unadorned", "rounded corners", "decorative hedge", "brushed stainless elevator doors"],
+    "in_scene_events": ["Brief farewell; Lucas rides elevator; Shelly departs alone."]
+    }
+    ],
+    "factions_orgs": [],
+    "themes_and_motifs": {
+    "themes": ["family estrangement", "loneliness within routine", "artifice vs. authenticity", "aging and quiet decline", "failed or muted communication"],
+    "motifs_symbols": ["synthetic dusk light", "dead-eyed pigeons", "tahini rivulets", "brushed steel doors", "mourning dove call"],
+    "moral_questions": ["How do you care for someone who won’t let you in?", "What does connection look like when routine has hollowed it out?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "quiet, cinematic, intimate realism",
+    "pacing": "slow-burn",
+    "voice_traits": ["understatement", "sensory detail", "emotional restraint"],
+    "sensory_notes": ["cumin and fried oil", "tahini on fingers", "cooing pigeons", "elevator’s electric hum", "distant mourning dove"]
+    },
+    "causality": {
+    "prior_dependencies": ["Existing distance between Shelly and her father; Shelly’s broader burnout thread."],
+    "outcomes": ["Relationship remains unresolved; signs of Lucas’s decline are observed.", "Shelly leaves without a concrete plan, reinforcing isolation."],
+    "unanswered_questions": ["Is Lucas truly okay, and what is causing his decline?", "Will Shelly push harder to reconnect or intervene?", "How does this strain affect her larger investigations?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["shelly", "lucas"],
+    "trigger": "Attempted conversation stalls despite mutual care.",
+    "resolution": "Unresolved; they part with minimal words."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["shelly"],
+    "trigger": "Desire to connect vs. fatigue and emotional caution.",
+    "resolution": "She asks if he’s okay but accepts his deflection, then walks away."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["depression/loneliness", "family estrangement"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Shelly", "Lucas", "falafel stand", "synthetic sky panels", "elevator goodbye", "family estrangement", "urban loneliness"],
+    "keywords_dense": "Shelly, Lucas, falafel stand, synthetic sky, pigeons, tahini, urban housing block, elevator, strained conversation, family distance, mourning dove",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Shelly", "Lucas"],
+    "places": ["Sidewalk falafel stand", "Lucas’s housing block"],
+    "orgs": [],
+    "terms": ["synthetic sky panels"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Where do Shelly and Lucas meet in this scene?", "a": "At a sidewalk falafel stand."},
+    {"q": "Why does their conversation feel strained?", "a": "Both are emotionally withdrawn; attempts at small talk and concern don’t overcome the distance."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "the-routine-1",
+    "type": "recap",
+    "text": "Shelly meets her father Lucas at a sidewalk falafel stand under synthetic dusk. They exchange sparse updates—his virtual ‘puzzles,’ her undateable quip—punctuated by long silences. She notes signs of his decline and admits she misses when they talked; he agrees without opening up. After tossing half-eaten pitas, they walk to his plain housing block. At the elevator, she asks if he’s okay; he says he’s fine and rides up. She lingers at the closed stainless doors, then wanders off alone as a mourning dove calls."
+    },
+    {
+    "chunk_id": "the-routine-2",
+    "type": "entities_focus",
+    "text": "Characters: Shelly (POV, forensic investigator; longing to reconnect), Lucas (father; withdrawn, possibly declining). Items/tech: synthetic sky panels (artificial dusk), residential elevator (quiet electric, symbolic parting), falafel stand (neutral meeting ground). Locations: sidewalk falafel stand; Lucas’s unadorned housing block. Dynamics: muted affection, strained small talk, unresolved wellbeing check."
+    },
+    {
+    "chunk_id": "the-routine-3",
+    "type": "style_theme_focus",
+    "text": "Third-limited, restrained and sensory: cumin, tahini, pigeons, stainless steel, distant birdcall. Themes: family estrangement, loneliness inside urban artifice, communication failures, aging/decline. Motifs: synthetic dusk, food waste, brushed steel doors, mourning dove. Tone: quiet melancholy; slow-burn pacing."
+    }
+    ]
+    }

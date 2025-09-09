@@ -1,0 +1,331 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Chaos Dreams",
+    "scene_id": "2186-07-13-chaos-dreams-skree-dock-exfil-crate",
+    "chapter_number": "tahua-outpost-special-projects03",
+    "scene_number": "2",
+    "date_in_universe": "2186-07-13",
+    "absolute_timeline_notes": "Within the Chaos Dreams VR context at Cryodyne; continuation of Fay orchestrating a staged attack to force Skree’s movement/handoff."
+    },
+    "text_windows": {
+    "full_scene_clean": "“What the hell?” Skree exclaimed, leaping from the couch and accessing her PID. A high-priority, voice-only connection flashed; she accepted. “Skree, we’re under attack!” Culpering’s simulated voice crackled. “You’ve got to get out! Get to the loading docks—I’ve sent coordinates. Run!” An earsplitting boom shook the room; dust fell from ceiling tiles. “Who’s attacking?” “We don’t know—just go!” Gunshots erupted through the line, then silence. Another explosion tremored the floor. One lounge door splintered open. Two massive figures, skin patterned in Dermoweave, burst in, each with a humming ultrasonic combat knife. They grappled, smashing furniture and a carafe of caf. The blue circle on the floor (where Nikomo had been) slid toward the opposite door; it opened and the circle vanished. A Cryodyne-uniformed merc locked eyes with Skree. “What are you waiting for? Run!” Skree bolted, slotting Culpering’s coordinates; an orange path lit the hallway. Automatic fire echoed behind her. At an intersection, two more mercenaries appeared and traded pistol fire; a bullet punched the wall beside her. She dove, rolled, and sprinted, following the right-hand turn. Double doors to loading docks loomed; she slammed through. Chaos: a merc gunned down three dock workers as they fled. Bullets whizzed; explosions rocked the concrete. The orange path veered right, away from fighting. Engines idled at backed-in trucks and vans. At the waypoint’s end a man in blue overalls waved frantically, pointing to a van. “Get in!” Skree scrambled into the back. “Get in the crate!” He indicated a ceramicrete crate; a control panel flashed numbers; a human-shaped depression lined its bottom. “What the hell is this?” “Do you want to live? Get in or we both die!” Gunfire drew closer. Skree, breathing hard, climbed into the cutout. He pressed a button; the door swung shut. His voice came over an intercom: “We have to pass checkpoint scans. It’ll be cold for a second—just to fool thermal sensors.” “What is happening?” The crate sealed; servo whirs and darkness, save for tiny LEDs. Cold, solvent-smelling gas filled the box. Skree screamed and shoved at the lid; it didn’t budge. “Let me out! I can’t breathe!” Vision narrowed; thoughts blurred. Her consciousness faded to black.",
+    "dense_recap_250w": "In the Cryodyne lounge inside the Chaos Dreams VR, Skree receives a high-priority voice call from Culpering warning of an attack and directing her to the loading docks via coordinates. Explosions shake the building as armed figures clash—some wearing Dermoweave armor and wielding ultrasonic knives; at least one mercenary in a Cryodyne uniform orders Skree to run. A moving blue floor circle (where Nikomo had been) slides toward a door and disappears. Skree follows an orange navigation path on her PID through firefights and into the loading docks, where a mercenary shoots dock workers amid ongoing explosions. The path leads her to a man in blue overalls at a van who urges her into a ceramicrete crate with a human-shaped depression. He explains over an intercom that brief cold is needed to defeat checkpoint thermal scans. The crate seals; cold solvent-smelling gas floods the interior; Skree panics, pounds the lid, and blacks out. The sequence completes Skree’s coerced exfiltration from the VR facility under fire, with layers of ambiguity: attackers’ affiliation is unclear, defenders and assailants wear mixed identifiers, and the rescuer may be complicit in her containment. The scene ends with Skree unconscious and removed within a sealed crate, consistent with Fay’s overarching orchestration of a forced transfer.",
+    "query_handle": "Skree flees staged Cryodyne attack via PID path; enters ceramicrete crate to evade thermal scans; blacked out as exfil proceeds."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Alarm and directive",
+    "what_happens": "Culpering’s simulated call warns Skree of an attack and sends coordinates to the loading docks.",
+    "involved_entities": ["skree", "culpering-sim", "pid"],
+    "stakes_or_conflict": "Immediate survival vs. unknown attackers."
+    },
+    {
+    "order": 2,
+    "label": "Breach and melee",
+    "what_happens": "Dermoweave-armored combatants with ultrasonic knives burst in and fight; a Cryodyne merc urges Skree to run.",
+    "involved_entities": ["skree", "dermoweave-mercs", "cryodyne-security"],
+    "stakes_or_conflict": "Crossfire danger; unclear loyalties."
+    },
+    {
+    "order": 3,
+    "label": "Flight through corridors",
+    "what_happens": "Skree follows an orange PID path through firefights toward the loading docks.",
+    "involved_entities": ["skree", "pid"],
+    "stakes_or_conflict": "Navigation under fire; fear and disorientation."
+    },
+    {
+    "order": 4,
+    "label": "Dockside slaughter",
+    "what_happens": "On the docks, a merc guns down fleeing workers; explosions continue.",
+    "involved_entities": ["skree", "unknown-mercs", "dock-workers"],
+    "stakes_or_conflict": "Civilian casualties heighten urgency."
+    },
+    {
+    "order": 5,
+    "label": "Crate exfiltration",
+    "what_happens": "A van driver in blue overalls orders Skree into a ceramicrete crate, chills it to defeat thermal scans; she loses consciousness.",
+    "involved_entities": ["skree", "blue-overalls-driver", "ceramicrete-crate"],
+    "stakes_or_conflict": "Trust a stranger’s plan vs. possible abduction."
+    }
+    ],
+    "characters": [
+    {
+    "id": "skree",
+    "display_name": "Skree",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Survive and reach the supposed safe egress at the loading docks.",
+    "obstacles": "Active firefights, explosions, ambiguous friend/foe signals, coercive exfil in a sealed crate.",
+    "tactics": "Follows PID orange path; runs; complies under duress with crate instructions.",
+    "relationships": [
+    {"with": "fay", "type": "unseen overseer", "state": "manipulated/oblivious", "evidence": "Scene aligns with Fay’s staged ‘attack’ and termination of the connection."},
+    {"with": "culpering-sim", "type": "handler-interface", "state": "directive/urgent", "evidence": "Sends coordinates; line cuts out under gunfire."}
+    ],
+    "emotional_arc": {
+    "start": "startled, confused",
+    "turning_points": ["Explosion and melee breach force immediate flight.", "Crate seals; panic peaks; blackout."],
+    "end": "unconscious, fate uncertain"
+    },
+    "notable_actions": ["accepts priority call", "maps coordinates", "sprints through firefights", "enters crate", "pounds lid while gas fills"],
+    "quotable_lines": [
+    "What the hell is this?",
+    "Let me out! I can’t breathe!"
+    ]
+    },
+    {
+    "id": "fay",
+    "display_name": "Fay",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Shepherd the scenario and end Skree’s session at the handoff moment.",
+    "obstacles": "Maintaining narrative pressure without exposing control.",
+    "tactics": "Meta-commentary; terminates VR connection at blackout.",
+    "relationships": [
+    {"with": "skree", "type": "creator/asset", "state": "controlling", "evidence": "“Terminated the VR connection.”"}
+    ],
+    "emotional_arc": {
+    "start": "amused, clinical",
+    "turning_points": ["Confirms Skree’s capture in crate; ends link."],
+    "end": "satisfied control"
+    },
+    "notable_actions": ["observes", "ends VR link"],
+    "quotable_lines": [
+    "For future reference, never get in the van."
+    ]
+    },
+    {
+    "id": "culpering-sim",
+    "display_name": "Culpering (simulated voice)",
+    "aliases": ["Culpering"],
+    "role_in_scene": "supporting",
+    "goals_now": "Direct Skree to egress point; motivate immediate escape.",
+    "obstacles": "Combat disruption; call terminated by gunfire.",
+    "tactics": "Urgent instruction; sends coordinates.",
+    "relationships": [],
+    "emotional_arc": {
+    "start": "frantic, directive",
+    "turning_points": [],
+    "end": "connection cut"
+    },
+    "notable_actions": ["issues evacuation order", "transmits map point"],
+    "quotable_lines": [
+    "You’ve got to get out of here! You’re too valuable!"
+    ]
+    },
+    {
+    "id": "blue-overalls-driver",
+    "display_name": "Van driver in blue overalls",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Move Skree through checkpoint scans via concealed transport.",
+    "obstacles": "Incoming shooters; Skree’s hesitation and panic.",
+    "tactics": "Coercive urgency; seals Skree in a chilled crate; explains thermal defeat.",
+    "relationships": [],
+    "emotional_arc": {
+    "start": "desperate, commanding",
+    "turning_points": [],
+    "end": "executes plan; drives off (implied)"
+    },
+    "notable_actions": ["orders Skree into crate", "activates seal and cooling gas", "communicates via intercom"],
+    "quotable_lines": [
+    "Get in the damn crate, or we’re both going to die!"
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "pid",
+    "name": "PID (personal interface device)",
+    "category": "comms",
+    "capabilities": ["priority call handling", "map/route rendering", "coordinate ingestion"],
+    "owner_or_users": ["skree"],
+    "condition_or_state": "intact",
+    "scene_function": "Displays emergency orange path to loading docks."
+    },
+    {
+    "id": "dermoweave-armor",
+    "name": "Dermoweave armor",
+    "category": "other",
+    "capabilities": ["subdermal ballistic/impact patterning (hex)"],
+    "owner_or_users": ["dermoweave-mercs"],
+    "condition_or_state": "intact",
+    "scene_function": "Marks elite melee combatants involved in breach."
+    },
+    {
+    "id": "ultrasonic-knife",
+    "name": "Ultrasonic combat knife",
+    "category": "weapon",
+    "capabilities": ["high-frequency edge vibration to bypass defenses"],
+    "owner_or_users": ["dermoweave-mercs"],
+    "condition_or_state": "intact",
+    "scene_function": "Close-quarters lethality in breach fight."
+    },
+    {
+    "id": "ceramicrete-crate",
+    "name": "Ceramicrete concealment crate",
+    "category": "other",
+    "capabilities": ["sealable cocoon", "thermal profile masking via chilling gas", "intercom"],
+    "owner_or_users": ["blue-overalls-driver", "skree"],
+    "condition_or_state": "intact",
+    "scene_function": "Conceals Skree from checkpoint scans and removes her from the scene."
+    },
+    {
+    "id": "orange-path-nav",
+    "name": "Orange path navigation overlay",
+    "category": "comms",
+    "capabilities": ["route guidance under duress"],
+    "owner_or_users": ["skree"],
+    "condition_or_state": "active",
+    "scene_function": "Guides Skree through firefights to the dock egress."
+    },
+    {
+    "id": "van-dock-vehicle",
+    "name": "Dock van",
+    "category": "vehicle",
+    "capabilities": ["rapid exfil", "cargo/crate transport"],
+    "owner_or_users": ["blue-overalls-driver"],
+    "condition_or_state": "idling/ready",
+    "scene_function": "Extraction platform for Skree."
+    }
+    ],
+    "locations": [
+    {
+    "id": "cryodyne-lounge-vr",
+    "name": "Cryodyne lounge (VR)",
+    "type": "structure",
+    "descriptors": ["office lounge", "ceiling tiles", "splintered doors"],
+    "in_scene_events": ["Initial breach and melee; Skree receives call and flees."]
+    },
+    {
+    "id": "cryodyne-halls-vr",
+    "name": "Cryodyne corridors (VR)",
+    "type": "structure",
+    "descriptors": ["intersections", "pistol crossfire", "bullet-scarred walls"],
+    "in_scene_events": ["Skree follows orange path amid firefights."]
+    },
+    {
+    "id": "cryodyne-loading-docks-vr",
+    "name": "Cryodyne loading docks (VR)",
+    "type": "structure",
+    "descriptors": ["trucks/vans idling", "concrete bays", "explosions"],
+    "in_scene_events": ["Civilians shot; van exfil; crate sealing."]
+    },
+    {
+    "id": "van-interior-crate",
+    "name": "Van interior / Crate",
+    "type": "structure",
+    "descriptors": ["dark, LED glows", "cold solvent gas", "tight confinement"],
+    "in_scene_events": ["Thermal-masking gas floods; Skree blacks out."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "cryodyne",
+    "name": "Cryodyne",
+    "alignment": "unknown",
+    "agents_present": ["cryodyne-security"],
+    "motives_inferred": "Protect facility/asset (in-sim); mixed signals during chaos.",
+    "actions_in_scene": ["Security merc orders Skree to run; dock workers present and killed by another merc."]
+    },
+    {
+    "id": "unknown-mercs",
+    "name": "Unknown mercenary assailants",
+    "alignment": "hostile",
+    "agents_present": ["dermoweave-mercs"],
+    "motives_inferred": "Seize/destroy asset or induce evacuation (unclear).",
+    "actions_in_scene": ["Breach room; fight; shoot dock workers."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["manufactured crisis and coercion", "survival under uncertainty", "control vs. agency", "deception through rescue"],
+    "motifs_symbols": ["orange escape path", "Dermoweave hex pattern", "ceramicrete coffin/crate", "cold gas/thermal masking", "blue floor circle (Nikomo)"],
+    "moral_questions": ["Is a coerced ‘rescue’ materially different from abduction?", "What does consent mean when choices are engineered in VR?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "techno-thriller/cinematic",
+    "pacing": "high-intensity",
+    "voice_traits": ["urgent directives", "sensory shock", "meta-asides from an overseer"],
+    "sensory_notes": ["earsplitting booms", "automatic fire staccato", "solvent-cold gas smell", "floor-shaking explosions"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Fay’s staged ‘attack’ framework and intent to force Skree’s movement (prior Chaos Dreams setup).",
+    "Skree’s reliance on PID guidance and simulated handlers like Culpering."
+    ],
+    "outcomes": [
+    "Skree is sealed in a crate and rendered unconscious for exfiltration.",
+    "Scenario demonstrates thermal-evasion tactic via chilling gas.",
+    "Fay ends the VR connection at blackout, implying a successful handoff step."
+    ],
+    "unanswered_questions": [
+    "Who truly controls the van driver and the crate extraction?",
+    "Were assailants genuine or simulated components of the leash protocol?",
+    "What/where is ‘Nikomo’ signified by the blue circle?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["unknown-mercs", "cryodyne-security"],
+    "trigger": "Facility breach and melee in the lounge/corridors.",
+    "resolution": "Unresolved; fighting continues as Skree escapes."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["skree", "engineered evacuation protocol"],
+    "trigger": "Directive call + orange path and forced crate.",
+    "resolution": "Skree loses consciousness; control passes to extractors."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["skree"],
+    "trigger": "Panic in confined crate as gas floods.",
+    "resolution": "Overcome by hypoxia/sedation; blackout."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["coercion/abduction-like confinement", "workplace mass shooting (implied)"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Skree", "Fay", "Culpering", "Cryodyne", "Dermoweave armor", "ultrasonic knife", "ceramicrete crate", "thermal masking gas", "loading docks", "van exfil"],
+    "keywords_dense": "Skree escape, Chaos Dreams VR, Culpering call, Cryodyne attack, Dermoweave hex armor, ultrasonic combat knife, orange path PID navigation, loading docks firefight, ceramicrete crate, thermal sensor evasion, solvent cold gas, van driver blue overalls, crate intercom, VR connection terminated by Fay",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Skree", "Fay", "Culpering"],
+    "places": ["Cryodyne lounge (VR)", "Cryodyne loading docks (VR)"],
+    "orgs": ["Cryodyne"],
+    "terms": ["Dermoweave", "ultrasonic knife", "PID", "ceramicrete", "thermal sensors", "Nikomo (blue circle)"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "How does Skree navigate to the loading docks?", "a": "She slots Culpering’s coordinates into her PID, which renders an orange path to follow."},
+    {"q": "Why does the van driver chill the crate?", "a": "To defeat checkpoint thermal scans by masking Skree’s heat signature."},
+    {"q": "What weapons and armor are shown during the breach?", "a": "Dermoweave armor with hex patterns and humming ultrasonic combat knives; automatic and pistol gunfire is present."},
+    {"q": "Who terminates the VR connection at the end of the scene?", "a": "Fay terminates the connection as Skree blacks out in the crate."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "chaos-dreams-exfil-1",
+    "type": "recap",
+    "text": "Skree receives a frantic call from Culpering in the Cryodyne VR and follows an orange PID route through explosions and firefights to the loading docks. Amid civilian casualties, a man in blue overalls coerces her into a ceramicrete crate, explaining it must be chilled to pass thermal scans. As cold solvent gas fills the sealed box, Skree panics and blacks out. Fay then ends the VR connection, implying a successful, engineered exfiltration under ambiguous loyalties."
+    },
+    {
+    "chunk_id": "chaos-dreams-exfil-2",
+    "type": "entities_focus",
+    "text": "Actors: Skree (asset fleeing), Fay (overseer terminating link), Culpering (simulated handler), blue-overalls driver (exfil operative), Cryodyne security, unknown mercenaries. Tech: PID orange-path navigation, Dermoweave armor, ultrasonic knives, ceramicrete crate with intercom and chilling gas for thermal masking, vans/trucks at docks. Places: Cryodyne lounge/corridors/loading docks (VR), van interior/crate."
+    },
+    {
+    "chunk_id": "chaos-dreams-exfil-3",
+    "type": "style_theme_focus",
+    "text": "High-intensity techno-thriller prose in 3rd-limited through Skree, punctuated by sardonic overseer asides from Fay. Themes of manufactured crisis, coerced consent, and control vs. agency. Motifs include a guiding orange path, Dermoweave hex patterns, a coffin-like ceramicrete crate, and cold gas masking identity and intent."
+    }
+    ]
+    }

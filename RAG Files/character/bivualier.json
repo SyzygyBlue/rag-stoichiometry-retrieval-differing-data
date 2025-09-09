@@ -1,0 +1,66 @@
+{
+    "doc_type": "neon_titan_character_v1",
+    "source": {"dossier_file": null, "scene_refs": []},
+    "identity": {
+      "id": "councilman-bivualier",
+      "display_name": "Councilman Bivualier",
+      "aliases": [],
+      "mbti": null,
+      "age_bracket": "adult",
+      "gender": "male",
+      "origin": "Fox River"
+    },
+    "affiliations": ["fox-river-council", "divine-order", "brother-jessop-faction"],
+    "bio": {
+      "one_liner": "A flamboyant Fox River councilman, one of Brother Jessop’s toadies, eliminated after being caught laundering money.",
+      "summary": "Councilman Bivualier was a large, flamboyant politician within Fox River’s council, known for supporting Brother Jessop’s schemes. He was implicated in laundering money through ties to Jessop, Makko, and ultimately Giles Montague. After exposure, he was eliminated discreetly — his body found stuffed in a chemically resistant bag between Fox River’s walls with lye, a staged disappearance that destabilized Jessop’s faction.",
+      "narrative_gravity": 6
+    },
+    "personality": {
+      "traits": ["flamboyant", "sycophantic", "corrupt"],
+      "flaws": ["greedy", "complicit", "cowardly"],
+      "values": ["status", "wealth", "patronage"],
+      "motivations_primary": ["support-jessop", "advance-self"],
+      "motivations_secondary": ["preserve-status", "cover-tracks"]
+    },
+    "appearance": {
+      "height_cm": null,
+      "build": "big, flamboyant",
+      "hair": null,
+      "eyes": null,
+      "notable_marks": [],
+      "style": "loud clothing, dramatic presence"
+    },
+    "skills": {
+      "combat": [],
+      "technical": ["money-laundering"],
+      "tactics": ["political-toadyism"],
+      "limitations": ["cowardly", "dependent-on-patrons"]
+    },
+    "relationships": [
+      {"with": "brother-jessop", "label": "patron", "state": "subservient", "notes": "Acts as Jessop’s toady."},
+      {"with": "makko", "label": "criminal-tie", "state": "complicit", "notes": "Laundered money on his behalf."},
+      {"with": "giles-montague", "label": "hidden-backlink", "state": "unwitting-agent", "notes": "Laundering served Giles’s ultimate aims."}
+    ],
+    "arc": {
+      "status_now": "Dead; body disposed of with lye between Fox River’s walls.",
+      "pre_pivot": "Flamboyant councilman, supporter of Jessop.",
+      "pivot_event": "Caught laundering money.",
+      "post_pivot": "Eliminated, body hidden.",
+      "future_vector": "None."
+    },
+    "items_and_tech": [],
+    "themes": {
+      "keywords": ["corruption", "money-laundering", "flamboyance", "betrayal"],
+      "moral_tensions": ["loyalty-vs-survival", "corruption-vs-duty"]
+    },
+    "text_windows": {"bio_200w": "", "arc_200w": "", "skills_120w": "", "appearance_120w": "", "relationships_180w": ""},
+    "qa_pairs": [],
+    "metadata_for_indexing": {
+      "retrieval_keys": ["Councilman Bivualier", "Fox River Council"],
+      "keywords_dense": "Councilman Bivualier, Fox River, Brother Jessop, Makko, Giles Montague, corruption, laundering, flamboyant",
+      "spoiler_level": "book1_end",
+      "named_entities": {"people": ["Councilman Bivualier", "Brother Jessop", "Makko", "Giles Montague"], "places": ["Fox River"], "orgs": ["Fox River Council"], "terms": []}
+    },
+    "embedding_payloads": []
+  }

@@ -1,0 +1,287 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "2186-10-28-copse-ambush-quincy-chase",
+    "chapter_number": 32,
+    "scene_number": 4,
+    "date_in_in_universe": null,
+    "date_in_universe": "2186-10-28",
+    "absolute_timeline_notes": "Same day as Quincy’s exile trek toward Broken Bow; early afternoon outside Fox River."
+    },
+    "text_windows": {
+    "full_scene_clean": "Quincy walked another half hour down a gravel road, cursing under her breath and counting dwindling supplies: no tent, no bedroll, no shovel; three-quarters of a bottle of water; three ration bars. A copse of trees lay ahead—\"Nice place for bandits,\" she muttered—so she loosened the .45 on her hip. She thought of Demmy’s caution, but chose the direct route, lacking time and supplies to detour. A man stepped out with a wire-wrapped baseball bat, grinning. Quincy drew closer, let the pistol hang at her side. A sharp crack and delayed boom split the air; a body with a ruined torso tumbled from a tree. \"Fucking Chase,\" she growled, recognizing the rifle. The batman lunged; a second crack/boom sounded as another gunman fell from the trees. Quincy fired once into the charging man’s chest; he collapsed. She searched the bodies—nothing of value, only junk rifles. Looking back, she saw Chase rising to a seated position, red hair visible, his four-seater closing the distance. Exhausted and furious at needing him, she considered fleeing but knew he had what she needed. She wondered if he had a crush on her and coined a nickname: \"Mr. Sparkly Sunshine\"—too long. \"Sparkles\" would do.",
+    "dense_recap_250w": "Alone on the road after her exile, Quincy measures her scarce resources and approaches a tree-lined stretch she deems ideal for an ambush. Despite recognizing the risk, she enters the copse, lacking supplies to take a longer, safer route. A bandit with a wire-wrapped bat confronts her while additional gunmen lie in wait above. Before the fight fully unfolds, two distant, powerful rifle shots—crack followed by a low boom—drop hidden assailants from the trees. Recognizing the signature as Chase’s rifle, Quincy curses. The bat-wielding man charges; Quincy quickly shoots him in the chest with her .45. She searches the bodies but finds only worthless rifles and no valuables. Chase, approaching in a four-seat cart, becomes visible as the immediate danger ends. Quincy is enraged at the dependence and suspects manipulation, yet acknowledges he likely has the transport and gear she needs. She pointedly prepares to make any cooperation difficult and, with bitter humor, assigns him a nickname—\"Sparkles.\" The scene advances their forced proximity: Chase as sniper-rescuer, Quincy as reluctant survivor balancing pride with necessity.",
+    "query_handle": "Quincy ambushed in copse; Chase snipes hidden attackers; Quincy shoots charger; resents needing him; coins nickname \"Sparkles\"."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Resource check and risk choice",
+    "what_happens": "Quincy tallies meager supplies and decides to cut through a suspicious copse despite danger.",
+    "involved_entities": ["quincy", "automag-45"],
+    "stakes_or_conflict": "Survival vs. caution; lack of gear forces risky route."
+    },
+    {
+    "order": 2,
+    "label": "Ambush springs",
+    "what_happens": "A bat-wielding bandit blocks the road while hidden riflemen wait in the trees.",
+    "involved_entities": ["quincy", "road-bandits", "wire-bat", "bandit-junk-rifles"],
+    "stakes_or_conflict": "Immediate threat of injury or death."
+    },
+    {
+    "order": 3,
+    "label": "Long-gun intervention",
+    "what_happens": "Two distant sniper shots drop the tree-bound attackers; Quincy recognizes Chase’s rifle.",
+    "involved_entities": ["chase", "sniper-rifle-chase", "road-bandits"],
+    "stakes_or_conflict": "External rescue shifts power balance; Quincy’s autonomy threatened by reliance."
+    },
+    {
+    "order": 4,
+    "label": "Close-quarters finish",
+    "what_happens": "The assailant with the bat charges and Quincy shoots him in the chest, ending the fight.",
+    "involved_entities": ["quincy", "automag-45", "road-bandits"],
+    "stakes_or_conflict": "Self-defense under pressure; quick lethal decision."
+    },
+    {
+    "order": 5,
+    "label": "Aftermath and resentment",
+    "what_happens": "She loots bodies, finds junk; sees Chase approaching in a four-seater; fumes at needing him and dubs him \"Sparkles\".",
+    "involved_entities": ["quincy", "chase", "four-seater-cart"],
+    "stakes_or_conflict": "Pride vs. necessity; whether to accept help."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Survive the road and reach transport; avoid unnecessary detours.",
+    "obstacles": "Low water and supplies; armed ambushers; pride and mistrust of Chase.",
+    "tactics": "Walk straight through risk; fast draw with .45; search corpses; keep emotional control through sarcasm.",
+    "relationships": [
+    {"with": "chase", "type": "complicated ally", "state": "resentful/dependent", "evidence": "Recognizes his rifle, hates needing him; coins nickname \"Sparkles\"."}
+    ],
+    "emotional_arc": {
+    "start": "irritable, fatigued, defensive",
+    "turning_points": ["Recognizes Chase’s rifle saving her", "Chooses to stand ground and shoot attacker", "Admits she may have to ride with him"],
+    "end": "angry acceptance, guarded resolve"
+    },
+    "notable_actions": ["loosens holstered .45", "faces down bandit", "fires center-mass shot", "searches bodies", "labels Chase \"Sparkles\""],
+    "quotable_lines": [
+    "Nice place for bandits.",
+    "Fucking Chase.",
+    "Mr. Sparkly Sunshine's too long… Sparkles works."
+    ]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": ["Sparkles (by Quincy)"],
+    "role_in_scene": "supporting",
+    "goals_now": "Protect/assist Quincy from a distance; close in with vehicle.",
+    "obstacles": "Quincy’s hostility; need to intervene without spooking her.",
+    "tactics": "Overwatch with long rifle; rapid follow-up shots; approach in four-seater.",
+    "relationships": [
+    {"with": "quincy", "type": "would-be ally", "state": "strained/one-sided initiative", "evidence": "Snipes ambushers and drives to her location despite her resentment."}
+    ],
+    "emotional_arc": {
+    "start": "focused/intervening",
+    "turning_points": ["Drops hidden threats with precision"],
+    "end": "approaching cautiously, likely optimistic"
+    },
+    "notable_actions": ["sniper fire from overwatch", "drives four-seater toward scene"],
+    "quotable_lines": []
+    },
+    {
+    "id": "road-bandits",
+    "display_name": "Road bandits",
+    "aliases": [],
+    "role_in_scene": "antagonists",
+    "goals_now": "Ambush lone traveler for theft/violence.",
+    "obstacles": "Quincy’s armed readiness and Chase’s overwatch.",
+    "tactics": "One decoy with bat blocks path; hidden gunmen in trees.",
+    "relationships": [],
+    "emotional_arc": {
+    "start": "predatory",
+    "turning_points": ["Ambush disrupted by sniper fire"],
+    "end": "neutralized"
+    },
+    "notable_actions": ["attempt ambush", "charge with bat"],
+    "quotable_lines": [
+    "Hello there, what have we here?"
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "automag-45",
+    "name": ".45 automag",
+    "category": "weapon",
+    "capabilities": ["semi-automatic sidearm", "close-range stopping power"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "intact",
+    "scene_function": "Quincy uses it to stop the charging batman."
+    },
+    {
+    "id": "sniper-rifle-chase",
+    "name": "Chase’s long rifle",
+    "category": "weapon",
+    "capabilities": ["long-range precision", "high-power report (crack then boom)"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "operational",
+    "scene_function": "Drops two hidden gunmen from the trees, turning the fight."
+    },
+    {
+    "id": "wire-bat",
+    "name": "Wire-wrapped baseball bat",
+    "category": "weapon",
+    "capabilities": ["melee bludgeon"],
+    "owner_or_users": ["road-bandits"],
+    "condition_or_state": "intact",
+    "scene_function": "Decoy bandit’s intimidation and attack tool."
+    },
+    {
+    "id": "bandit-junk-rifles",
+    "name": "Low-quality rifles",
+    "category": "weapon",
+    "capabilities": ["unreliable small arms"],
+    "owner_or_users": ["road-bandits"],
+    "condition_or_state": "poor",
+    "scene_function": "Show the ambushers’ low threat level compared to Chase’s rifle."
+    },
+    {
+    "id": "four-seater-cart",
+    "name": "Four-seater utility cart",
+    "category": "vehicle",
+    "capabilities": ["rapid approach", "carry passengers/gear"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "approaching",
+    "scene_function": "Chase’s transport; potential lifeline for Quincy."
+    }
+    ],
+    "locations": [
+    {
+    "id": "road-copse-ambush",
+    "name": "Gravel road through a copse of trees",
+    "type": "road",
+    "descriptors": ["gravel", "leafy canopy", "light wind", "smell of campfire smoke"],
+    "in_scene_events": ["Bandit ambush; sniper intervention; Quincy searches bodies."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "fox-river",
+    "name": "Fox River",
+    "alignment": "unknown",
+    "agents_present": ["chase"],
+    "motives_inferred": "Not acting directly; Chase’s origin and resources trace back to Fox River/TRG.",
+    "actions_in_scene": []
+    },
+    {
+    "id": "trg",
+    "name": "TRG (Fox River security/military)",
+    "alignment": "unknown",
+    "agents_present": ["chase"],
+    "motives_inferred": "N/A in-scene; Chase’s training explains precision intervention.",
+    "actions_in_scene": []
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["survival under ambush", "reluctant reliance vs. autonomy", "power asymmetry (precision vs. junk)", "pride vs. pragmatism"],
+    "motifs_symbols": ["crack/boom rifle report as unseen guardian", "wire-wrapped bat as crude menace", "copse as liminal danger zone"],
+    "moral_questions": ["When does rejecting help become self-destructive?", "Does intent matter if manipulation results in survival?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "brisk with sudden spikes",
+    "voice_traits": ["sarcastic inner commentary", "tactical detail", "profane candor"],
+    "sensory_notes": ["gravel crunch under boots", "smell of faint campfire smoke", "rifle’s crack and distant boom", "wind in leaves"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Quincy’s exile and solitary trek with scarce supplies.",
+    "Chase shadowing/approaching with a vehicle and rifle."
+    ],
+    "outcomes": [
+    "Bandit threat neutralized; Quincy survives.",
+    "Quincy recognizes practical need to ride with Chase despite resentment.",
+    "Nickname \"Sparkles\" established for Chase."
+    ],
+    "unanswered_questions": [
+    "Will Quincy accept transport from Chase?",
+    "Were the bandits random or connected to larger threats?",
+    "Does Chase harbor personal motives beyond protection?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy", "scarcity and terrain"],
+    "trigger": "Long trek with limited water/gear.",
+    "resolution": "Ongoing."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "road-bandits"],
+    "trigger": "Ambush in trees and roadblock.",
+    "resolution": "Quincy and Chase kill the attackers."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "chase"],
+    "trigger": "Rescue implies dependence Quincy resents.",
+    "resolution": "Unresolved; tension escalates as he approaches."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["lethal force self-defense", "ambush/armed conflict"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": [
+    "Quincy ambush in copse",
+    "Chase sniper rescue",
+    ".45 automag",
+    "wire-wrapped bat",
+    "four-seater cart",
+    "crack and boom rifle report",
+    "Sparkles nickname"
+    ],
+    "keywords_dense": "Quincy, Chase, ambush, copse of trees, sniper rifle, .45 automag, bandits, gravel road, four-seater cart, survival, resentment, nickname Sparkles",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Chase"],
+    "places": ["Fox River (vicinity)"],
+    "orgs": ["TRG", "Fox River"],
+    "terms": [".45 automag", "four-seater", "wire-wrapped bat"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Who drops the hidden gunmen in the trees?", "a": "Chase, firing a powerful long rifle from a distance."},
+    {"q": "Why does Quincy choose the risky route through the trees?", "a": "She lacks supplies to take a cautious detour and presses ahead despite the danger."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-10-28-ambush-recap",
+    "type": "recap",
+    "text": "Low on supplies, Quincy enters a tree-lined stretch she suspects is an ambush site. A grinning bandit with a wire-wrapped bat confronts her while two gunmen wait above. Two distant sniper shots—crack then boom—drop the hidden attackers. Recognizing the signature as Chase’s rifle, Quincy curses and then shoots the charging batman with her .45. She finds no valuables, only junk rifles. Chase approaches in a four-seat cart as Quincy seethes at needing him, ultimately nicknaming him “Sparkles.”"
+    },
+    {
+    "chunk_id": "2186-10-28-ambush-entities",
+    "type": "entities_focus",
+    "text": "Entities: Quincy (POV survivor), Chase (sniper-rescuer, four-seater driver), road bandits (one with wire-wrapped bat, two hidden riflemen). Items: .45 automag (Quincy), Chase’s long rifle (high-power), wire-wrapped bat, low-quality bandit rifles, four-seater cart. Location: gravel road through a copse; faint campfire smoke; wind in leaves. Dynamics: ambush thwarted by overwatch; friction as Quincy resents dependence on Chase."
+    },
+    {
+    "chunk_id": "2186-10-28-ambush-style-themes",
+    "type": "style_theme_focus",
+    "text": "Gritty third-person limited on Quincy with brisk action beats and sardonic inner voice. Themes include survival under scarcity, reluctant reliance vs. autonomy, and power asymmetry (precision sniper vs. junk arms). Motifs: the rifle’s crack/boom signature, crude bat vs. sleek firearm, the copse as liminal hazard. Tone blends tension, black humor, and anger into pragmatic decision-making."
+    }
+    ]
+    }

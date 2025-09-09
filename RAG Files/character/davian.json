@@ -1,0 +1,44 @@
+{
+  "doc_type": "neon_titan_character_v1",
+  "source": {
+    "dossier_file": null,
+    "scene_refs": ["ch2-s2_open-flag-trade-day"]
+  },
+  "identity": {
+    "id": "davian",
+    "display_name": "Davian",
+    "aliases": []
+  },
+  "affiliations": ["three-shovels-caravan"],
+  "bio": {
+    "one_liner": "Pragmatic leader of the Three Shovels Caravan; opens trade, sets rules, and avoids policing the crowd directly.",
+    "summary": "Davian runs the caravan’s perimeter trade with clear rules and deterrent posture. In the scene, he hoists the OPEN flag, refuses to act as police during a crowd scuffle, and authorizes warning bursts if gunfire starts."
+  },
+  "personality": {
+    "traits": ["pragmatic", "commanding", "calm-under-pressure"],
+    "flaws": ["rigid-boundaries"],
+    "values": ["crew-safety", "order"],
+    "motivations_primary": ["protect-crew", "maintain-order"],
+    "motivations_secondary": ["sustain-trade"]
+  },
+  "appearance": {
+    "style": "visible sidearm; practical field gear",
+    "notable_marks": []
+  },
+  "skills": {
+    "tactics": ["clear-rules-of-engagement", "deterrent-posture"],
+    "limitations": ["reluctant-to-intervene-as-police"]
+  },
+  "relationships": [
+    {"with": "mama-valorie", "label": "spouse", "state": "offstage", "notes": "Named as husband."},
+    {"with": "crew", "label": "leader", "state": "commanding", "notes": "Issues orders (e.g., to Lewallen)."}
+  ],
+  "items_and_tech": [
+    {"id": "shotgun-davian", "name": "Pistol-gripped shotgun", "category": "weapon", "capabilities": ["close-range defense"], "notes": "Holstered/ready in scene."}
+  ],
+  "metadata_for_indexing": {
+    "retrieval_keys": ["Davian", "Three Shovels Caravan", "OPEN flag", "deterrent ROE"],
+    "spoiler_level": "scene_only",
+    "named_entities": {"people": ["Davian"], "orgs": ["Three Shovels Caravan"], "terms": ["OPEN flag", "warning bursts"]}
+  }
+}

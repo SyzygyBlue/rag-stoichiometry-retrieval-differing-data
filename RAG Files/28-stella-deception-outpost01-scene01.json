@@ -1,0 +1,322 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Humanity Problem",
+    "scene_id": "deception-outpost-2182-07-09-teragen-crisis",
+    "chapter_number": null,
+    "scene_number": null,
+    "date_in_iniverse": null,
+    "date_in_universe": "2182-07-09",
+    "absolute_timeline_notes": "Deception Outpost (62°58'23\"S 60°41'57\"W), 11 months after Romuald met Chairman Cervantes Adlawan; Stella v1 deployed but propped up by human auditors."
+    },
+    "text_windows": {
+    "full_scene_clean": "In a hidden Teragen lab inside Deception Island’s volcanic core, Romuald Anwar meets with Deepak, Xiaofeng, and Qasim amid the ozone-and-sulfur tang of water-cooled server halls powered by a geothermal plant. Stella is live but scaling poorly; accuracy is being propped up by thousands of human auditors and cannot keep pace. The Humanity Party plans to open far more immigration slots in the next rules cycle, threatening exponential growth in evaluation complexity across education, housing, healthcare, recreation, and jobs. Qasim sketches the systemic overload on a virtual whiteboard via his PID; Deepak notes SAIR data shows too few citizens are willing to do the tedious, draining auditor work despite high compensation. The team debates a radical idea: contracting Wildlanders as triple-blind human auditors. Xiaofeng objects on security and principle; Deepak warns of public-relations fallout; legal barriers forbid non-citizen recruiting without a council amendment. Frustration mounts, the meeting adjourns, and Romuald resolves to consult Chairman Adlawan. Alone, he reveals (to himself) that human auditors are closer than his team knows; he intends to shield them while a Machiavellian plan proceeds.",
+    "dense_recap_250w": "At Deception Outpost, a clandestine Teragen facility inside Deception Island, CEO Romuald Anwar and his senior team review Stella’s fragile state. Although Stella governs the Metrofederacy at scale, its accuracy still depends on thousands of human auditors. With the Humanity Party pushing to expand immigration in the next rules cycle—well beyond the hundred million recently integrated—the team fears exponential growth in allocation complexity (education, housing, healthcare, recreation, jobs) will overwhelm current models and hardware. Qasim illustrates the compounding interactions on a virtual whiteboard; Deepak cites SAIR evidence that few citizens will take auditor roles, which are tedious and emotionally draining. Xiaofeng rejects turning Stella into a ‘glorified Mechanical Turk’ and decries opening systems access to Wildlanders; Deepak warns that outsourcing would be a PR disaster. Legal constraints also block hiring non-citizens without council amendments. With no viable internal fix identified, Romuald ends the circular debate, planning to consult Chairman Cervantes Adlawan. In private reflection, he hints that a path to human auditors already exists and that he will keep his people ignorant to spare their consciences. The scene frames an ethical and logistical crisis: a governance AI strained by policy ambition, insufficient labor supply for human-in-the-loop assurance, and a leader contemplating opaque remedies to preserve the project—and the social order—it supports.",
+    "query_handle": "Teragen execs at Deception Outpost debate scaling Stella; consider Wildlander auditors; Romuald plans to consult Adlawan and conceal a darker solution."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Status briefing",
+    "what_happens": "Romuald confirms Stella is live but reliant on human auditors and unlikely to scale.",
+    "involved_entities": ["romuald-anwar", "stella-ai", "teragen"],
+    "stakes_or_conflict": "Systemic reliability vs mounting load."
+    },
+    {
+    "order": 2,
+    "label": "Policy shock",
+    "what_happens": "Team flags Humanity Party’s plan to massively expand immigration next cycle.",
+    "involved_entities": ["deepak", "xiaofeng", "qasim", "humanity-party"],
+    "stakes_or_conflict": "Exponential demand vs limited AI capacity."
+    },
+    {
+    "order": 3,
+    "label": "Systems complexity",
+    "what_happens": "Qasim diagrams how more citizens multiply allocation complexity across services.",
+    "involved_entities": ["qasim", "stella-ai"],
+    "stakes_or_conflict": "Model precision demands climb with scale."
+    },
+    {
+    "order": 4,
+    "label": "Labor shortfall",
+    "what_happens": "Deepak cites SAIR: citizens won’t do auditing work; comp can’t fix tedium.",
+    "involved_entities": ["deepak", "sair-suite"],
+    "stakes_or_conflict": "Human-in-the-loop capacity collapse."
+    },
+    {
+    "order": 5,
+    "label": "Radical option",
+    "what_happens": "They debate hiring Wildlanders as triple-blind auditors despite PR, legal, and security risks.",
+    "involved_entities": ["xiaofeng", "deepak", "romuald-anwar", "wildlands"],
+    "stakes_or_conflict": "Integrity and secrecy vs operational survival."
+    },
+    {
+    "order": 6,
+    "label": "Adjourn & resolve",
+    "what_happens": "Romuald ends the circular debate; plans to consult Adlawan; privately signals a hidden plan.",
+    "involved_entities": ["romuald-anwar", "cervantes-adlawan"],
+    "stakes_or_conflict": "Leader’s moral burden vs project preservation."
+    }
+    ],
+    "characters": [
+    {
+    "id": "romuald-anwar",
+    "display_name": "Romuald Anwar",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Stabilize Stella’s accuracy and scalability before policy expands population load.",
+    "obstacles": "Model limits, hardware lead times, labor shortage for auditors, legal/PR constraints.",
+    "tactics": "Candid briefing; entertain radical outsourcing; escalate to Chairman; compartmentalize a covert plan.",
+    "relationships": [
+    {"with": "deepak", "type": "colleague", "state": "strained-but-aligned", "evidence": "Shared concern over scaling; labor shortage data."},
+    {"with": "xiaofeng", "type": "colleague", "state": "respectful-tension", "evidence": "She defends Stella’s purity; he pushes pragmatism."},
+    {"with": "qasim", "type": "colleague", "state": "pragmatic-camaraderie", "evidence": "Qasim’s whiteboard and fatigue mirror Romuald’s."},
+    {"with": "cervantes-adlawan", "type": "ally-in-government", "state": "cautious-coordination", "evidence": "Plans to consult; prior meeting 11 months earlier."}
+    ],
+    "emotional_arc": {
+    "start": "exhausted, burdened",
+    "turning_points": ["Concedes internal fixes are insufficient", "Privately commits to concealed human-auditor path"],
+    "end": "grim resolve, protective secrecy"
+    },
+    "notable_actions": ["declares live status with caveats", "adjourns circular debate", "decides to call Adlawan", "withholds details from team"],
+    "quotable_lines": [
+    "We’re live… but we just squeaked under the deadline.",
+    "We need to consider every option, no matter how unconventional."
+    ]
+    },
+    {
+    "id": "deepak",
+    "display_name": "Deepak",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Quantify risk and feasibility; highlight labor bottlenecks.",
+    "obstacles": "Insufficient willing citizen auditors; exponential demand from policy.",
+    "tactics": "SAIR queries; blunt status calls; PR risk framing.",
+    "relationships": [],
+    "emotional_arc": {"start": "anxious", "turning_points": [], "end": "resigned"},
+    "notable_actions": ["reports SAIR-backed labor shortage", "flags PR disaster risk"]
+    },
+    {
+    "id": "xiaofeng",
+    "display_name": "Xiaofeng",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Defend Stella’s integrity; avoid turning it into a ‘Mechanical Turk’.",
+    "obstacles": "Operational necessity pushing toward human outsourcing and risk.",
+    "tactics": "Principled objections; security warnings; appeal to mission identity.",
+    "relationships": [],
+    "emotional_arc": {"start": "angry/protective", "turning_points": [], "end": "begrudging pause"},
+    "notable_actions": ["rejects Wildlander access on security grounds", "defends AI’s ethos"],
+    "quotable_lines": [
+    "I won’t let it slip through our fingers and become a joke—a glorified Mechanical Turk!"
+    ]
+    },
+    {
+    "id": "qasim",
+    "display_name": "Qasim",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Clarify systems dynamics; push team out of looped debate.",
+    "obstacles": "Team fatigue; policy/legal constraints.",
+    "tactics": "PID-driven virtual whiteboard modeling; meta-commentary to cut debate short.",
+    "relationships": [],
+    "emotional_arc": {"start": "drained", "turning_points": ["calls out circularity"], "end": "exasperated"},
+    "notable_actions": ["renders flowchart of allocation complexity", "presses to adjourn"]
+    },
+    {
+    "id": "cervantes-adlawan",
+    "display_name": "Chairman Cervantes Adlawan",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Oversight of Metrofederacy governance via Stella (implied).",
+    "obstacles": "Political pressure from Humanity Party; technical limits (indirect).",
+    "tactics": "Receives consultation from Romuald (offstage).",
+    "relationships": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "stella-ai",
+    "name": "Stella (governance AI)",
+    "category": "comms",
+    "capabilities": ["population evaluation", "resource allocation guidance", "AR/UX integrations", "human-in-the-loop accuracy gating"],
+    "owner_or_users": ["teragen", "metrofederacy"],
+    "condition_or_state": "operational-but-capacity-constrained",
+    "scene_function": "Core system under strain; subject of scaling debate."
+    },
+    {
+    "id": "pid-implant",
+    "name": "PID (personal implant device)",
+    "category": "cybernetics",
+    "capabilities": ["AR projection", "tongue-tap UI", "whiteboard rendering"],
+    "owner_or_users": ["qasim", "deepak", "executive-team"],
+    "condition_or_state": "operational",
+    "scene_function": "Enables on-the-fly collaborative diagrams and data access."
+    },
+    {
+    "id": "virtual-whiteboard",
+    "name": "Virtual whiteboard",
+    "category": "other",
+    "capabilities": ["shared AR canvas", "diagramming", "annotation"],
+    "owner_or_users": ["qasim", "team"],
+    "condition_or_state": "in-use",
+    "scene_function": "Visualizes complexity and options to guide discussion."
+    },
+    {
+    "id": "deception-geothermal",
+    "name": "Deception Outpost geothermal plant",
+    "category": "other",
+    "capabilities": ["power generation", "geothermal steam turbines"],
+    "owner_or_users": ["teragen"],
+    "condition_or_state": "operational",
+    "scene_function": "Supplies the data center; >80% of usable output consumed by compute."
+    },
+    {
+    "id": "water-cooled-racks",
+    "name": "Water-cooled server racks",
+    "category": "other",
+    "capabilities": ["high-density compute", "cooling loop integration"],
+    "owner_or_users": ["teragen"],
+    "condition_or_state": "operational",
+    "scene_function": "Physical substrate hosting Stella’s hardware stack."
+    },
+    {
+    "id": "qasim-ocular-implants",
+    "name": "Qasim’s orange ocular implants",
+    "category": "cybernetics",
+    "capabilities": ["enhanced vision (implied)"],
+    "owner_or_users": ["qasim"],
+    "condition_or_state": "intact",
+    "scene_function": "Character detail signaling transhuman tooling in the team."
+    }
+    ],
+    "locations": [
+    {
+    "id": "deception-outpost",
+    "name": "Deception Outpost, Deception Island",
+    "type": "structure",
+    "descriptors": ["volcanic core facility", "ozone and sulfur odors", "LED glare", "geothermal-powered"],
+    "in_scene_events": ["Executive crisis meeting about Stella scaling and audit labor."]
+    },
+    {
+    "id": "exec-conference-room",
+    "name": "Executive conference room (white glass table)",
+    "type": "room",
+    "descriptors": ["sterile", "glass-topped table", "AR-capable"],
+    "in_scene_events": ["Debate on Wildlander auditors; adjournment."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "teragen",
+    "name": "Teragen",
+    "alignment": "ally",
+    "agents_present": ["romuald-anwar", "deepak", "xiaofeng", "qasim"],
+    "motives_inferred": "Maintain Stella’s performance and legitimacy; avoid PR/security failures.",
+    "actions_in_scene": ["Holds crisis review", "Considers radical outsourcing", "Escalates to government liaison."]
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Govern at scale via Stella; meet contractual accuracy thresholds.",
+    "actions_in_scene": ["Implied oversight; contractual constraints."]
+    },
+    {
+    "id": "humanity-party",
+    "name": "Humanity Party",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Expand immigration aggressively to ‘save the world’.",
+    "actions_in_scene": ["Pressures policy to add more immigration slots (next cycle)."]
+    },
+    {
+    "id": "wildlands",
+    "name": "Wildlands / Wildlanders",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Potential labor source (speculative).",
+    "actions_in_scene": ["Discussed as external auditors (triple-blind), not engaged."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Ethics of human-in-the-loop AI", "Technocracy vs democracy", "Policy ambition vs technical limits", "Secrecy and moral burden of leadership"],
+    "motifs_symbols": ["AR whiteboard as systems web", "ozone/sulfur industrial tang", "glass reflection of self-cost"],
+    "moral_questions": ["Is outsourcing judgment to hidden labor compatible with just governance?", "Do ends (social stability) justify opaque means?", "Who bears the ethical debt of scale?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "technical/political-thriller",
+    "pacing": "slow-burn",
+    "voice_traits": ["systems thinking", "corporate candor", "grim pragmatism"],
+    "sensory_notes": ["hum of turbines", "ozone and sulfur smells", "white LED glare", "cool glass tabletop"]
+    },
+    "causality": {
+    "prior_dependencies": ["Earlier Romuald–Adlawan meeting; recent hundred-million immigration wave; Stella live with heavy auditor reliance; SAIR labor data."],
+    "outcomes": ["Escalation to Chairman Adlawan planned", "Wildlander auditor concept formally aired but contested", "Foreshadowing that a covert human-auditor path exists"],
+    "unanswered_questions": ["What is Romuald’s hidden plan for auditors?", "Will council authorize non-citizen contracting?", "Can hardware/models be rebuilt in time?", "What PR/security compromises will be accepted?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_system",
+    "parties": ["teragen", "stella-ai constraints and legal/contractual bounds"],
+    "trigger": "Exponential complexity from population growth and accuracy guarantees",
+    "resolution": "Unresolved; escalate to government."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["xiaofeng", "deepak", "qasim", "romuald-anwar"],
+    "trigger": "Proposal to use Wildlander auditors vs integrity/security/PR objections",
+    "resolution": "Adjourned without decision."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["romuald-anwar"],
+    "trigger": "Protect team’s conscience while pursuing opaque fixes",
+    "resolution": "Chooses secrecy; will consult Adlawan."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["mass immigration policy", "labor exploitation risk", "surveillance/governance AI", "security overreach"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Romuald Anwar", "Teragen", "Stella AI", "Deception Outpost", "Humanity Party", "Wildlander auditors", "human auditors shortage", "Metrofederacy policy"],
+    "keywords_dense": "Deception Outpost, Teragen, Stella AI scaling, human auditors, SAIR data, Humanity Party immigration, Wildlanders triple-blind, Metrofederacy governance, geothermal data center, PID AR whiteboard",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Romuald Anwar", "Deepak", "Xiaofeng", "Qasim", "Chairman Cervantes Adlawan"],
+    "places": ["Deception Outpost", "Deception Island"],
+    "orgs": ["Teragen", "Metrofederacy", "Humanity Party"],
+    "terms": ["Stella", "SAIR", "PID", "triple-blind auditing"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Where does the meeting take place?", "a": "Deception Outpost, a Teragen lab in Deception Island’s volcanic core (62°58'23\"S 60°41'57\"W)."},
+    {"q": "What radical option is debated to meet auditing demand?", "a": "Hiring Wildlanders as triple-blind human auditors."},
+    {"q": "Why won’t citizen auditors scale?", "a": "SAIR data shows few are willing to do the tedious, emotionally draining work despite high compensation."},
+    {"q": "How much of the geothermal plant’s usable output is consumed by compute?", "a": "Over 80 percent."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2182-07-09-deception-recap",
+    "type": "recap",
+    "text": "At Deception Outpost, Teragen’s leadership concedes Stella’s reliance on human auditors and poor scalability. The Humanity Party’s push for far greater immigration will exponentially increase allocation complexity. SAIR data shows citizen auditors are scarce, and PR/legal/security risks plague any fix. The team debates using Wildlanders as triple-blind auditors; objections stall a decision. Romuald adjourns to consult Chairman Adlawan and privately hints at a covert plan involving human auditors, shielding his team from its moral cost."
+    },
+    {
+    "chunk_id": "2182-07-09-deception-entities",
+    "type": "entities_focus",
+    "text": "People: Romuald Anwar (Teragen CEO, POV), Deepak (analytics), Xiaofeng (integrity/security advocate), Qasim (systems modeler, ocular implants), Chairman Cervantes Adlawan (government liaison). Orgs: Teragen, Metrofederacy, Humanity Party, Wildlands. Tech/Infra: Stella AI, SAIR, PID implants, AR whiteboard, water-cooled racks, geothermal plant. Place: Deception Outpost (Deception Island). Roles: Team wrestles with scaling; proposes Wildlander auditors; Romuald to escalate and conceal a parallel solution."
+    },
+    {
+    "chunk_id": "2182-07-09-deception-style-themes",
+    "type": "style_theme_focus",
+    "text": "Third-person limited (Romuald), past tense, techno-political register, slow-burn tension. Themes: ethics of human-in-the-loop governance, policy ambition vs technical limits, secrecy as leadership burden, PR/security vs operational survival. Motifs: ozone/sulfur industrial atmosphere, glass reflection as self-cost, AR diagrams as systems web. Moral questions: Do opaque labor fixes undermine a just state? Who owns the ethical debt when policy outpaces capability?"
+    }
+    ]
+    }

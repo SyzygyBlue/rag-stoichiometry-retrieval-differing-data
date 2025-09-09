@@ -1,0 +1,355 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Strings of the Puppet Master",
+    "scene_id": "2186-11-27_to_29-margdelain-downbelow-aftermath",
+    "chapter_number": 40,
+    "scene_number": 1,
+    "date_in_universe": "2186-11-27/2186-11-29",
+    "absolute_timeline_notes": "Margdelain’s office reflections spanning 27–29 Nov 2186 after TRG seizure of Fox River lower tunnels (“downbelow”)."
+    },
+    "text_windows": {
+    "full_scene_clean": "The volume of evidence from the tunnels beneath Fox River—the “downbelow”—is staggering. Reports show Jessop funneled holocreds to Ransom Canyon and coordinated with Calum-Tam Holdfast, building a militant arm for his church while denouncing Stella as a false god. The hypocrisy is galling: the Metrofederacy’s money indirectly funded zealots who despise it. Jessop escaped through a crude, clawed-out tunnel when Demmy’s attack began. Demmy killed about ten people in minutes with scissors and letter openers; instead of prison, he’s slated for commendation. The council met: Jessop is expelled, allies suspended, and Margdelain’s proposal to formally explore Metrofederacy membership passed easily. Councilman Bivualier’s remains were found in a lye-filled bag behind a wall panel—identified by dental records; motive uncertain. Margdelain sips whiskey, musing that Demmy accomplished in an hour what she’d pursued for a decade, while lamenting that her son Chase chose the wildlands over contributing. She resolves not to give up on him and even jokes about adoption papers for Demmy.",
+    "dense_recap_250w": "Margdelain reviews the flood of evidence seized from Fox River’s newly revealed subterranean “downbelow.” Dossiers detail Brother Jessop’s clandestine financing of Ransom Canyon and links to Calum-Tam Holdfast, apparently nurturing a paramilitary wing for his church even as he railed against Stella as a murderous false god. Margdelain notes the irony that Metrofederacy holocreds appear to have underwritten a movement bent on opposing it. Jessop himself escaped via a narrow, clawed tunnel during the TRG action precipitated by Demmy’s violent incursion. She marvels that Demmy, armed only with a broken pair of cloth scissors and several letter openers, slew roughly ten people within minutes; rather than being jailed, he is poised to receive a commendation because his actions exposed systemic crimes. Politically, the fallout is immediate: a Fox River council session expels Jessop, suspends close allies pending investigation, and passes Margdelain’s motion to formally explore Metrofederacy membership. Additional shocks include the discovery of Councilman Bivualier’s corpse concealed in a chemically resistant, lye-filled bag; dental records confirm identity while motive remains unclear. Between sips of whiskey, Margdelain frames the moment as the culmination of a decade of maneuvering, ruefully observes her son Chase’s absence and misaligned priorities, and quips about drafting adoption papers for Demmy—the “murder goblin” whose actions accidentally delivered her the leverage to remake Fox River.",
+    "query_handle": "Margdelain audits downbelow evidence; Jessop’s funding web revealed; council pivots toward Metrofederacy; Bivualier found dead; Demmy credited; Chase disappoints."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Audit of the downbelow",
+    "what_happens": "Margdelain reads through vast evidence caches exposing Jessop’s financing and external ties.",
+    "involved_entities": ["margdelain", "jessop", "downbelow-archive", "ransom-canyon", "calum-tam-holdfast"],
+    "stakes_or_conflict": "Whether Fox River can prove and purge institutional corruption."
+    },
+    {
+    "order": 2,
+    "label": "Ideology vs hypocrisy",
+    "what_happens": "She notes that Metrofederacy holocreds effectively funded zealots who despise Stella.",
+    "involved_entities": ["margdelain", "metrofederacy", "divine-order-sanctifying-flame"],
+    "stakes_or_conflict": "Public legitimacy and political narrative control."
+    },
+    {
+    "order": 3,
+    "label": "Jessop’s escape",
+    "what_happens": "A narrow clawed tunnel shows how Jessop fled during Demmy’s assault.",
+    "involved_entities": ["jessop", "escape-tunnel", "demmy"],
+    "stakes_or_conflict": "Key antagonist remains at large."
+    },
+    {
+    "order": 4,
+    "label": "Demmy’s impact",
+    "what_happens": "She tallies Demmy’s kills with improvised weapons and plans to commend him.",
+    "involved_entities": ["demmy", "cloth-scissors", "order-letter-openers"],
+    "stakes_or_conflict": "Balancing justice with utility and optics."
+    },
+    {
+    "order": 5,
+    "label": "Council pivot",
+    "what_happens": "Council expels Jessop, suspends allies, and passes motion to explore Metrofederacy membership.",
+    "involved_entities": ["fox-river-council", "margdelain", "jessop", "metrofederacy"],
+    "stakes_or_conflict": "Reorientation of Fox River’s governance and alliances."
+    },
+    {
+    "order": 6,
+    "label": "Bivualier’s remains",
+    "what_happens": "Councilman Bivualier is found dead in a lye-filled bag; motive unclear.",
+    "involved_entities": ["bivualier", "chem-resistant-bag", "dental-records"],
+    "stakes_or_conflict": "Potential link to council pressure and broader conspiracy."
+    },
+    {
+    "order": 7,
+    "label": "Family and succession thoughts",
+    "what_happens": "Margdelain laments Chase’s absence and jokes about adopting Demmy.",
+    "involved_entities": ["margdelain", "chase", "demmy"],
+    "stakes_or_conflict": "Personal disappointment vs political opportunism."
+    }
+    ],
+    "characters": [
+    {
+    "id": "margdelain",
+    "display_name": "Chancellor Margdelain",
+    "aliases": ["Chancellor"],
+    "role_in_scene": "POV",
+    "goals_now": "Capitalize on evidence to purge Jessop’s faction and align Fox River toward Metrofederacy.",
+    "obstacles": "Jessop’s escape; legal backlog; public optics; internal church/political resistance.",
+    "tactics": "Narrative framing, council motions, leveraging TRG evidence, calculated cynicism.",
+    "relationships": [
+    {"with": "jessop", "type": "rival", "state": "openly hostile", "evidence": "Seeks his permanent removal; calls his network hypocritical."},
+    {"with": "demmy", "type": "ally-of-convenience", "state": "admiring/pragmatic", "evidence": "Credits him with delivering leverage; plans commendation."},
+    {"with": "chase", "type": "family", "state": "disappointed/controlling", "evidence": "Laments his absence; vows not to give up on him."}
+    ],
+    "emotional_arc": {
+    "start": "exhausted, grimly satisfied",
+    "turning_points": ["Council vote passes", "Bivualier corpse confirmation"],
+    "end": "confident, calculating, a touch wistful"
+    },
+    "notable_actions": ["reviews evidence", "frames council agenda", "toasts with whiskey", "decides on commendation"],
+    "quotable_lines": ["What the fuck was he trying to do?", "I'm going to give that murder goblin a medal."]
+    },
+    {
+    "id": "jessop",
+    "display_name": "Brother Jessop",
+    "aliases": [],
+    "role_in_scene": "antagonist (offstage)",
+    "goals_now": "Build militant church power; oppose Stella/Metrofederacy (as inferred from documents).",
+    "obstacles": "Exposure from downbelow evidence; expulsion; TRG pressure.",
+    "tactics": "Secret funding channels to Ransom Canyon and Calum-Tam; escape via tunnel.",
+    "relationships": [
+    {"with": "margdelain", "type": "enemy", "state": "active conflict", "evidence": "Expelled; subject of purge."}
+    ],
+    "emotional_arc": {"start": "powerful (implied)", "turning_points": ["Evidence haul", "Expulsion"], "end": "at large, diminished"},
+    "notable_actions": ["funnels holocreds", "denounces Stella", "escapes through tunnel"],
+    "quotable_lines": ["Stella, a false god that erased all goodness and virtue…"]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "supporting (discussed)",
+    "goals_now": "Unwitting catalyst: his actions enabled political turn.",
+    "obstacles": "N/A in this scene (retrospective).",
+    "tactics": "Improvised lethality with scissors/letter openers (retold).",
+    "relationships": [
+    {"with": "margdelain", "type": "ally-of-convenience", "state": "instrumental", "evidence": "She credits him with delivering her decade-long objective."}
+    ],
+    "emotional_arc": {"start": "—", "turning_points": [], "end": "commended (planned)"},
+    "notable_actions": ["killed ~10 in minutes with improvised weapons (per report)"],
+    "quotable_lines": []
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "cameo (mentioned)",
+    "goals_now": "Helping a caravanner woman in wildlands (per Margdelain’s view).",
+    "obstacles": "Distance from Fox River politics; maternal expectations.",
+    "tactics": "Absent; prior act set Demmy on path (credited).",
+    "relationships": [
+    {"with": "margdelain", "type": "family", "state": "strained", "evidence": "She is disappointed yet persistent about shaping him."}
+    ],
+    "emotional_arc": {"start": "—", "turning_points": [], "end": "—"},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "bivualier",
+    "display_name": "Councilman Bivualier",
+    "aliases": [],
+    "role_in_scene": "cameo (posthumous)",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [],
+    "emotional_arc": {"start": "—", "turning_points": [], "end": "deceased (identified by dental records)"},
+    "notable_actions": ["body discovered in lye-filled, chem-resistant bag"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "downbelow-archive",
+    "name": "Downbelow evidence cache",
+    "category": "other",
+    "capabilities": ["documents crimes", "financial links", "communications"],
+    "owner_or_users": ["trg", "fox-river-council"],
+    "condition_or_state": "secured",
+    "scene_function": "Primary leverage enabling purges and policy shifts."
+    },
+    {
+    "id": "holocreds",
+    "name": "Holocreds",
+    "category": "other",
+    "capabilities": ["digital funding transfers"],
+    "owner_or_users": ["jessop", "ransom-canyon", "calum-tam-holdfast"],
+    "condition_or_state": "tracked in records",
+    "scene_function": "Financial evidence of external arming and hypocrisy."
+    },
+    {
+    "id": "chem-resistant-bag",
+    "name": "Chemically resistant bag filled with lye",
+    "category": "other",
+    "capabilities": ["body concealment, tissue destruction"],
+    "owner_or_users": ["unknown"],
+    "condition_or_state": "used",
+    "scene_function": "Container for Bivualier’s remains, indicates premeditation."
+    },
+    {
+    "id": "dental-records",
+    "name": "Dental records",
+    "category": "medical",
+    "capabilities": ["postmortem identification"],
+    "owner_or_users": ["fox-river-authorities"],
+    "condition_or_state": "consulted",
+    "scene_function": "Confirms Bivualier’s identity."
+    },
+    {
+    "id": "escape-tunnel",
+    "name": "Clawed escape tunnel",
+    "category": "other",
+    "capabilities": ["egress from downbelow"],
+    "owner_or_users": ["jessop"],
+    "condition_or_state": "intact",
+    "scene_function": "Explains Jessop’s disappearance."
+    },
+    {
+    "id": "cloth-scissors",
+    "name": "Cloth scissors (broken)",
+    "category": "weapon",
+    "capabilities": ["improvised lethal thrusts"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "broken/used",
+    "scene_function": "Symbol of Demmy’s improvised lethality cited by Margdelain."
+    },
+    {
+    "id": "order-letter-openers",
+    "name": "Order letter openers",
+    "category": "weapon",
+    "capabilities": ["improvised stabbing"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "used",
+    "scene_function": "Part of Demmy’s reported kills."
+    },
+    {
+    "id": "whiskey-glass",
+    "name": "Whiskey glass",
+    "category": "other",
+    "capabilities": ["none"],
+    "owner_or_users": ["margdelain"],
+    "condition_or_state": "in use",
+    "scene_function": "Personal ritual underscoring her sardonic, reflective tone."
+    }
+    ],
+    "locations": [
+    {
+    "id": "fox-river-council-offices",
+    "name": "Fox River council offices / Chancellor’s office",
+    "type": "structure",
+    "descriptors": ["paperwork-laden", "administrative", "whiskey at hand"],
+    "in_scene_events": ["Margdelain reviews reports; frames political decisions."]
+    },
+    {
+    "id": "downbelow",
+    "name": "Fox River “downbelow” tunnels",
+    "type": "structure",
+    "descriptors": ["subterranean", "seized as crime scene"],
+    "in_scene_events": ["Evidence sourced here; Jessop’s escape tunnel discovered."]
+    },
+    {
+    "id": "ransom-canyon",
+    "name": "Ransom Canyon",
+    "type": "city",
+    "descriptors": ["recipient of funds", "building militant arm (per docs)"],
+    "in_scene_events": ["Mentioned in financing trails."]
+    },
+    {
+    "id": "calum-tam-holdfast",
+    "name": "Calum-Tam Holdfast",
+    "type": "holdfast",
+    "descriptors": ["external counterpart in comms"],
+    "in_scene_events": ["Named repeatedly in communications."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "divine-order-sanctifying-flame",
+    "name": "Divine Order of the Sanctifying Flame",
+    "alignment": "hostile",
+    "agents_present": ["jessop"],
+    "motives_inferred": "Religious-political dominance; anti-Stella ideology; building militant capacity.",
+    "actions_in_scene": ["Fund transfers to Ransom Canyon", "Coordination with Calum-Tam", "Escape of leader"]
+    },
+    {
+    "id": "fox-river-council",
+    "name": "Fox River Council/Government",
+    "alignment": "ally",
+    "agents_present": ["margdelain"],
+    "motives_inferred": "Purge corruption; seek Metrofederacy alignment.",
+    "actions_in_scene": ["Expels Jessop", "Suspends allies", "Votes to explore Metrofederacy membership"]
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Macro governance; indirect fund flows noted.",
+    "actions_in_scene": ["Unwittingly funds adversarial movement (via holocreds), per evidence"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["political opportunism vs justice", "hypocrisy of power and faith", "evidence as leverage", "parental disappointment and surrogate bonds"],
+    "motifs_symbols": ["whiskey as war-room ritual", "clawed escape tunnel", "lye-filled bag", "improvised weapons mythologized"],
+    "moral_questions": ["Does the end justify weaponizing a vigilante’s violence for reform?", "What legitimacy remains when righteousness is funded by its enemy?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "political-noir/sardonic",
+    "pacing": "slow-burn",
+    "voice_traits": ["dry profane humor", "strategic calculus", "institutional critique"],
+    "sensory_notes": ["whiskey burn", "paper rustle", "mental replay of violence contrasted with office quiet"]
+    },
+    "causality": {
+    "prior_dependencies": ["TRG raid and evidence seizure in downbelow", "Demmy’s killings exposing network", "Ongoing tensions with Jessop’s faction"],
+    "outcomes": ["Jessop expelled; allies suspended", "Council votes to explore Metrofederacy membership", "Bivualier confirmed dead", "Demmy slated for commendation"],
+    "unanswered_questions": ["Where is Jessop now?", "Who killed Bivualier and why?", "How deep do Ransom Canyon and Calum-Tam ties run?", "Will Chase return to Fox River’s cause?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["margdelain", "jessop"],
+    "trigger": "Evidence of funding and torture network",
+    "resolution": "Jessop expelled; remains at large (unresolved)."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["fox-river-council", "corrupt church apparatus"],
+    "trigger": "Downbelow document trove",
+    "resolution": "Purges initiated; legal deluge pending (ongoing)."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["margdelain"],
+    "trigger": "Instrumentalizing Demmy’s violence; disappointment in Chase",
+    "resolution": "Chooses pragmatism; continues shaping outcomes."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "mentioned",
+    "sexual_content": "implied",
+    "sensitive_topics": ["murder concealment (lye bag)", "political/religious corruption"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Margdelain", "Jessop funding Ransom Canyon", "Calum-Tam Holdfast links", "downbelow evidence", "Bivualier corpse", "Metrofederacy vote", "Demmy commendation"],
+    "keywords_dense": "Fox River, downbelow, Margdelain, Jessop, holocreds, Ransom Canyon, Calum-Tam Holdfast, Metrofederacy membership, Stella false god, Bivualier lye bag, council vote, evidence trove, scissors and letter openers, escape tunnel",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chancellor Margdelain", "Brother Jessop", "Demmy", "Councilman Bivualier", "Chase"],
+    "places": ["Fox River", "downbelow", "Ransom Canyon", "Calum-Tam Holdfast"],
+    "orgs": ["Divine Order of the Sanctifying Flame", "Fox River Council", "Metrofederacy"],
+    "terms": ["holocreds", "Stella", "downbelow"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What political decision did the Fox River council make after reviewing the downbelow evidence?", "a": "They expelled Jessop, suspended allies, and voted to explore Metrofederacy membership."},
+    {"q": "How was Councilman Bivualier’s body identified?", "a": "By dental records after being found in a lye-filled, chemically resistant bag."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-11-27to29-recap",
+    "type": "recap",
+    "text": "From her office, Margdelain audits the massive evidence haul from Fox River’s “downbelow,” which documents Jessop’s covert funding to Ransom Canyon and ties to Calum-Tam. She notes the hypocrisy that Metrofederacy holocreds bankrolled zealots who despise Stella. Jessop escaped via a clawed tunnel during the TRG action sparked by Demmy’s lethal incursion with improvised weapons. Politically, Fox River expels Jessop, suspends allies, and votes to explore Metrofederacy membership. Separately, Councilman Bivualier’s remains are found concealed in a lye-filled bag and identified by dental records. Margdelain toasts the turning tide, credits Demmy’s impact, and laments her son Chase’s absence."
+    },
+    {
+    "chunk_id": "2186-11-27to29-entities",
+    "type": "entities_focus",
+    "text": "Key actors: Margdelain (POV chancellor), Jessop (fugitive church leader), Demmy (violent catalyst), Bivualier (murder victim), Chase (absent son). Orgs: Fox River Council, Divine Order of the Sanctifying Flame, Metrofederacy. Places: downbelow tunnels, Ransom Canyon, Calum-Tam Holdfast. Artifacts: evidence trove, holocreds trails, chem-resistant lye bag, dental records, escape tunnel. Actions: council purge, membership exploration, commendation plans for Demmy."
+    },
+    {
+    "chunk_id": "2186-11-27to29-stylethemes",
+    "type": "style_theme_focus",
+    "text": "Sardonic political-noir in 3rd-limited past through Margdelain’s lens: profanity-laced wit, whiskey-dry asides, and realpolitik calculus. Themes of hypocrisy in faith and funding, evidence as power, and the instrumentalization of violence. Motifs include the clawed escape tunnel, lye bag concealment, and improvised weapons myth. Moral tension centers on using a vigilante’s brutality to legitimize reform and the irony of enemies financed by their foe."
+    }
+    ]
+    }

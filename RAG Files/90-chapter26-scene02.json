@@ -1,0 +1,293 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Strength of Kneeling / Initiate Hall",
+    "scene_id": "initiate-hall-demmy-first-class",
+    "chapter_number": 26,
+    "scene_number": 2,
+    "date_in_universe": "2186-11-11 to 2186-11-25",
+    "absolute_timeline_notes": "Immediately after Demmy’s move into the Divine Order monastery quarters; first formal instruction."
+    },
+    "text_windows": {
+    "full_scene_clean": "Brother Ernesto and Brother Olafsen escorted Demmy to an old wooden door marked as Initiate Hall. Elder Florian, an older instructor in gray robes with a blue stole bearing the Order’s flaming sword and a bird/book emblem, greeted him kindly. Demmy sat beside a dark-haired initiate, Evelyn, who shared her workbook. The room smelled of candles, old books, and chalk dust. Elder Florian taught that uncovering hidden truth rests on three pillars: sacred texts, the righteous question, and the humble prayer. He directed the class to read and discuss passages, encouraging interpretation and critical thought. The idea of a way to discern truth jolted Demmy, who silently connected it to the life-or-death choices of his past and to Chase’s note. After class, Elder Florian spoke privately with Demmy, acknowledging his years alone in the wildlands and measuring him with evident concern. Demmy admitted fear of being cast out and a desire to belong. Florian assured him he was home and valuable—an expert on the wildlands for the Order’s long-term mission to help those outside the walls. He handed Demmy a reading list (e.g., The Greater Good; The Trials of St. Calynsis; A Journey of Faith) and counseled patience: faith comes as it comes. Demmy agreed to read and learn. Elder Florian asked Evelyn to help Demmy find the Library and show him around, including recreation areas. Evelyn, blushing slightly, led Demmy out to begin.",
+    "dense_recap_250w": "Demmy attends his first class in the Divine Order’s Initiate Hall, introduced by Brothers Ernesto and Olafsen to Elder Florian, a kindly, exacting instructor. Seated beside Evelyn, who shares her workbook, Demmy hears Florian outline the Order’s method for uncovering truth: sacred texts, the righteous question, and the humble prayer. The instructional tone is reflective and dialogic, with students invited to interpret scripture. The notion of a reliable path to truth strikes Demmy hard, stirring memories of survival choices in the wildlands and the unresolved implications of Chase’s note. After class, Florian privately acknowledges Demmy’s traumatic past and the improbability of his survival, then reassures him that he belongs at Fox River and is already valuable as an expert on the wildlands—knowledge the Order intends to use for gradual, peaceful improvement beyond the city. Demmy, anxious about being expelled if he lacks utility, admits he wants to belong and to ‘become a good person.’ Florian gives him a substantial reading list (including The Greater Good, The Trials of St. Calynsis, and A Journey of Faith), urging patience and study as foundational work. Evelyn is tasked with guiding Demmy to the Library and showing him monastery spaces. Demmy accepts the assignment, committing to read and learn while his curiosity and need for security deepen.",
+    "query_handle": "Demmy’s first Initiate class: Elder Florian’s ‘three pillars’ of truth; reading list assigned; Evelyn guides Demmy; belonging vs usefulness tension."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Threshold to Initiate Hall",
+    "what_happens": "Ernesto and Olafsen deliver Demmy to Elder Florian’s class; he takes a seat beside Evelyn.",
+    "involved_entities": ["demmy", "brother-ernesto", "brother-olafsen", "elder-florian", "evelyn", "initiate-hall"],
+    "stakes_or_conflict": "First step toward belonging; social anxiety muted but present."
+    },
+    {
+    "order": 2,
+    "label": "Three Pillars of Truth",
+    "what_happens": "Florian teaches the Order’s method: sacred texts, the righteous question, the humble prayer; class reads and discusses.",
+    "involved_entities": ["elder-florian", "demmy", "evelyn", "divine-order-sanctifying-flame"],
+    "stakes_or_conflict": "Truth-seeking vs indoctrination; Demmy searches for clarity."
+    },
+    {
+    "order": 3,
+    "label": "Private Measure",
+    "what_happens": "After class, Florian measures Demmy’s past and fears, affirming his value and belonging.",
+    "involved_entities": ["elder-florian", "demmy"],
+    "stakes_or_conflict": "Demmy’s fear of rejection vs reassurance of ‘home.’"
+    },
+    {
+    "order": 4,
+    "label": "Reading List Assignment",
+    "what_happens": "Florian gives Demmy a list of foundational texts and urges patience and faith.",
+    "involved_entities": ["elder-florian", "demmy", "reading-list-paper"],
+    "stakes_or_conflict": "Action-driven urgency vs slow study; fear that ‘reading’ isn’t enough."
+    },
+    {
+    "order": 5,
+    "label": "Evelyn as Guide",
+    "what_happens": "Evelyn is assigned to help Demmy navigate the Library and monastery spaces; she leads him out.",
+    "involved_entities": ["evelyn", "demmy", "library-fox-river"],
+    "stakes_or_conflict": "New alliance; subtle attraction; orientation to community."
+    }
+    ],
+    "characters": [
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Belong to Fox River and learn how to discern truth; avoid being expelled by proving value.",
+    "obstacles": "Trauma from wildlands; fear that safety depends on utility; ignorance of Order doctrine.",
+    "tactics": "Observe quietly, comply, accept study plan, seek guidance; internalize lessons.",
+    "relationships": [
+    {"with": "elder-florian", "type": "mentor/teacher", "state": "respectful, cautious trust", "evidence": "Florian reassures him: ‘you’re home’ and assigns study."},
+    {"with": "evelyn", "type": "peer/guide (potential friendship)", "state": "warm, shy interest", "evidence": "She shares her book, blushes, and agrees to help him find the Library."},
+    {"with": "divine-order-sanctifying-flame", "type": "institution", "state": "aspiring member; strategic assimilation", "evidence": "Demmy fears expulsion and seeks to be ‘valuable.’"}
+    ],
+    "emotional_arc": {
+    "start": "nervous, hopeful, hypervigilant muted",
+    "turning_points": ["‘Three pillars’ concept intrigues him; link to past and Chase’s note", "Private reassurance of belonging and value"],
+    "end": "tentatively reassured, resolved to study"
+    },
+    "notable_actions": ["listens without speaking", "reads shared workbook", "admits fear of being cast out", "accepts reading list", "agrees to tour with Evelyn"],
+    "quotable_lines": [
+    "I want to belong. I never want Fox River to have a reason to get rid of me.",
+    "You just want me to sit… and read?"
+    ]
+    },
+    {
+    "id": "elder-florian",
+    "display_name": "Elder Florian",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Orient initiates; instill the Order’s method of truth; stabilize Demmy’s fears.",
+    "obstacles": "Demmy’s trauma and urgency; initiates’ inexperience.",
+    "tactics": "Kind scrutiny, structured teaching, affirmation, practical assignment (reading list), delegate peer support.",
+    "relationships": [
+    {"with": "demmy", "type": "mentor/teacher", "state": "supportive, evaluative", "evidence": "‘You’re home… You will be incredibly valuable.’"},
+    {"with": "divine-order-sanctifying-flame", "type": "cleric/leader", "state": "representative of doctrine", "evidence": "Teaches three pillars; assigns texts."}
+    ],
+    "emotional_arc": {"start": "measured warmth", "turning_points": ["private conversation reveals empathy"], "end": "steadfast mentor"},
+    "notable_actions": ["teaches three pillars", "privately reassures Demmy", "assigns reading list", "appoints Evelyn as guide"],
+    "quotable_lines": [
+    "With these three, hidden truth can be uncovered.",
+    "Demmy, you’re home. That’s never going to change."
+    ]
+    },
+    {
+    "id": "evelyn",
+    "display_name": "Evelyn",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Assist a new initiate and follow Elder Florian’s request.",
+    "obstacles": "Shyness; new acquaintance.",
+    "tactics": "Share materials, offer orientation, friendly encouragement.",
+    "relationships": [
+    {"with": "demmy", "type": "peer/ally", "state": "friendly, budding rapport", "evidence": "Shares her workbook; blushes; agrees to guide him."}
+    ],
+    "emotional_arc": {"start": "open, kind", "turning_points": [], "end": "encouraging"},
+    "notable_actions": ["shares workbook", "agrees to guide Demmy to Library and recreation areas"],
+    "quotable_lines": [
+    "Have you visited the library? … that’s probably where we need to start."
+    ]
+    },
+    {
+    "id": "brother-ernesto",
+    "display_name": "Brother Ernesto",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Escort Demmy and transition him into instruction.",
+    "obstacles": "Demmy’s anxiety.",
+    "tactics": "Warm escort and handoff to Elder Florian.",
+    "relationships": [
+    {"with": "demmy", "type": "caretaker/guide", "state": "supportive", "evidence": "Accompanies him to Initiate Hall."}
+    ],
+    "emotional_arc": {"start": "encouraging", "turning_points": [], "end": "encouraging"},
+    "notable_actions": ["introduces Demmy at the door"]
+    },
+    {
+    "id": "brother-olafsen",
+    "display_name": "Brother Olafsen",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Support Demmy’s smooth entry to class.",
+    "obstacles": "None explicit.",
+    "tactics": "Presence and reassurance.",
+    "relationships": [
+    {"with": "demmy", "type": "caretaker/guide", "state": "supportive", "evidence": "Accompanies him to Initiate Hall."}
+    ],
+    "emotional_arc": {"start": "calm", "turning_points": [], "end": "calm"},
+    "notable_actions": ["accompanies Demmy to class"]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "reading-list-paper",
+    "name": "Reading List (paper)",
+    "category": "other",
+    "capabilities": ["curriculum guidance"],
+    "owner_or_users": ["demmy", "elder-florian"],
+    "condition_or_state": "newly issued",
+    "scene_function": "Assigns Demmy foundational study; titles include The Greater Good; The Trials of St. Calynsis; A Journey of Faith."
+    },
+    {
+    "id": "initiate-workbook",
+    "name": "Initiate Workbook",
+    "category": "other",
+    "capabilities": ["scripture reference, guided exercises"],
+    "owner_or_users": ["evelyn", "demmy"],
+    "condition_or_state": "in use",
+    "scene_function": "Shared reading material during class (page 292 and paragraphs 72–79)."
+    },
+    {
+    "id": "classroom-blackboards",
+    "name": "Wall Blackboards",
+    "category": "tool",
+    "capabilities": ["instructional annotation"],
+    "owner_or_users": ["elder-florian"],
+    "condition_or_state": "intact",
+    "scene_function": "Sets scholastic atmosphere; supports teaching."
+    },
+    {
+    "id": "florian-stole",
+    "name": "Blue Stole with Icons",
+    "category": "other",
+    "capabilities": ["symbolic vestment"],
+    "owner_or_users": ["elder-florian"],
+    "condition_or_state": "worn",
+    "scene_function": "Displays Order symbology: flaming sword; bird whose wings form pages."
+    }
+    ],
+    "locations": [
+    {
+    "id": "initiate-hall",
+    "name": "Initiate Hall",
+    "type": "room",
+    "descriptors": ["old wooden door", "oak desk", "blackboards", "bench seating with angled writing surfaces", "candles, old books, chalk dust scent"],
+    "in_scene_events": ["Class on three pillars; private talk; reading list issued; Evelyn assigned to guide Demmy."]
+    },
+    {
+    "id": "library-fox-river",
+    "name": "Fox River Monastery Library",
+    "type": "structure",
+    "descriptors": ["implied stacks and study space"],
+    "in_scene_events": ["Designated next stop for Demmy and Evelyn (off to)."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "divine-order-sanctifying-flame",
+    "name": "Divine Order of the Sanctifying Flame",
+    "alignment": "unknown",
+    "agents_present": ["elder-florian", "brother-ernesto", "brother-olafsen"],
+    "motives_inferred": "Teach doctrine; cultivate discernment; long-term plan to improve conditions in the wildlands.",
+    "actions_in_scene": ["Conducts initiate class", "Affirms Demmy’s belonging and utility", "Issues reading program", "Assigns peer guide."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["belonging vs usefulness", "truth-seeking and discernment", "mentorship and formation", "faith as method and refuge", "healing after trauma"],
+    "motifs_symbols": ["three pillars (texts, question, prayer)", "flaming sword emblem", "bird/book emblem", "candles, books, chalk dust", "reading list as rite of passage"],
+    "moral_questions": ["Is belonging contingent on utility?", "Can institutional faith be a genuine path to truth for a survivor of brutality?", "When is study ‘enough’ before action?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "introspective, scholastic, gentle",
+    "pacing": "slow-burn",
+    "voice_traits": ["trauma-aware interiority", "didactic dialogue", "sensory detail (library/classroom)"],
+    "sensory_notes": ["smell of candles, old books, chalk dust", "touch of paper list", "sight of stole icons, blackboards"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Demmy’s rescue and placement within the monastery (earlier scenes).",
+    "Demmy’s vow to assimilate to avoid returning to the wildlands.",
+    "Chase’s note prompting Demmy to care about ‘truth’ and leadership suspicions."
+    ],
+    "outcomes": [
+    "Demmy receives a doctrinal method for discerning truth (three pillars).",
+    "Assigned reading list anchors his formation path.",
+    "Institution affirms his value as wildlands expert.",
+    "Evelyn becomes Demmy’s guide/contact in the monastery."
+    ],
+    "unanswered_questions": [
+    "How will Demmy’s study shape his view of the Order’s leadership?",
+    "Will he apply the three pillars to investigate concerns raised by Chase’s note?",
+    "What develops between Demmy and Evelyn—allyship, friendship, more?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["demmy"],
+    "trigger": "Fear of being expelled unless useful; uncertainty that reading is ‘enough.’",
+    "resolution": "Partial—accepts reading list and mentorship, resolves to try."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["demmy", "divine-order-sanctifying-flame"],
+    "trigger": "Institutional pace of study vs Demmy’s urgency to prove value and find truth.",
+    "resolution": "Deferred—integrates through study under Elder Florian."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["childhood trauma, starvation (referenced)"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Demmy", "Elder Florian", "Evelyn", "Initiate Hall", "three pillars of truth", "reading list", "Divine Order of the Sanctifying Flame", "wildlands expertise"],
+    "keywords_dense": "Demmy, Elder Florian, Evelyn, Initiate Hall, sacred texts, righteous question, humble prayer, reading list, The Greater Good, Trials of St. Calynsis, A Journey of Faith, wildlands expert, Fox River monastery, belonging, truth-seeking",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Demmy", "Elder Florian", "Evelyn", "Brother Ernesto", "Brother Olafsen"],
+    "places": ["Initiate Hall", "Fox River Monastery Library"],
+    "orgs": ["Divine Order of the Sanctifying Flame"],
+    "terms": ["three pillars", "initiate", "wildlands"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What three components does Elder Florian say are needed to uncover hidden truth?", "a": "Sacred texts, the righteous question, and the humble prayer."},
+    {"q": "What does Elder Florian give Demmy after class?", "a": "A reading list of foundational texts to begin his formation."},
+    {"q": "Why does Demmy fear being expelled from Fox River?", "a": "He believes safety isn’t free and thinks he must prove his value to stay."},
+    {"q": "Who is assigned to help Demmy find his way around the monastery?", "a": "Evelyn, a fellow initiate."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "initiate-hall-1-recap",
+    "type": "recap",
+    "text": "Demmy’s first Initiate class at Fox River’s monastery introduces Elder Florian’s method for truth—sacred texts, the righteous question, and the humble prayer. Sitting beside Evelyn, Demmy reads and listens, struck by the promise of discerning truth and linking it to his past and to a troubling note from Chase. After class, Elder Florian privately reassures Demmy that he belongs and is valuable as a wildlands expert for the Order’s long-term mission outside the walls. Demmy receives a reading list (The Greater Good; The Trials of St. Calynsis; A Journey of Faith) and accepts guidance. Evelyn is tasked to escort him to the Library and show him around."
+    },
+    {
+    "chunk_id": "initiate-hall-2-entities",
+    "type": "entities_focus",
+    "text": "Entities: Demmy (new initiate seeking belonging), Elder Florian (mentor, doctrinal instructor), Evelyn (peer guide), Brothers Ernesto and Olafsen (escorts), Divine Order of the Sanctifying Flame (institution). Items: paper reading list; initiate workbook; classroom blackboards; Florian’s stole with flaming sword and bird/book icons. Locations: Initiate Hall; Fox River Monastery Library (destination). Roles: Demmy learns; Florian assigns; Evelyn guides."
+    },
+    {
+    "chunk_id": "initiate-hall-3-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-limited, past-tense narration with scholastic textures (candles, old books, chalk). Themes: belonging vs usefulness; methodical truth-seeking; mentorship; faith as formation after trauma. Motifs: three-pillars triad; vestment symbols; reading list as rite. Moral tension between patient study and urgent need to act or prove worth."
+    }
+    ]
+    }

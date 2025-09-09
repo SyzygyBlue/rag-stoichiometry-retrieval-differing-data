@@ -1,0 +1,289 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Redline or Go Blind — Pentafan Flyover",
+    "scene_id": "pursuit_battery-swap_pentafan-flyover",
+    "chapter_number": 10,
+    "scene_number": 3,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Late afternoon during Quincy/Demmy southbound pursuit; likely day 2 after initial sprint; camp made before night."
+    },
+    "text_windows": {
+    "full_scene_clean": "The late afternoon sun cast long shadows as they stopped for another battery swap. After connecting the terminals, Quincy went to the dash, toggled the mains, and checked the meter. \"Seventy-six percent,\" she said. Demmy, eager to help, returned the exhausted batteries to the storage rack and hooked up the charging harness. Quincy had given him some basic instruction, and he grinned when the charging indicator illuminated. The flat panel solar cell remained on top of the cart. The folding mat, deployed in the grass, drank in the day's final rays of sun. Quincy unscrewed the cap from the fuel cell's ethanol tank.\n\"Not much left,\" Quincy said. \"Might as well use it now, I suppose. I guess it's time for redline or go blind.\"\n\"I'm pretty sure I know what that means,\" Demmy said. \"But tell me anyway.\"\n\"It's a caravanner term. It means a balls-out run, no holding nothing back. Run 'em till we get there or we melt 'em down.\"\nThey compare options and risks. If they miss the caravan, they will straight-line to Broken Bow Free City off the trade routes, hoping the cart holds together. A low thrumming swells from the south—something big and electric. A black dot grows rapidly.\n\"Flyer... maybe a Pentafan,\" Quincy says. The massive gray aircraft booms overhead at under two hundred meters—an ovoid fuselage with five gimbaled thrusters on stalks. The scream of electric motors and buffeting wind hammer them; dust and grass whip their faces. In seconds it recedes northward.\nShaken, Demmy lowers his shotgun. Quincy, spitting dust, guesses Metrofederacy—only they have that kind of resource—and says wildlanders are beneath notice. Blackbirds gather to feast on stirred grasshoppers. Demmy laughs with wonder; he wants to ride in one someday. Quincy claps his shoulder, calling him something else, but worries again: what if Davian says no? Demmy warns it's too dangerous to drive at night—they'll wreck. Quincy agrees. They stow gear, fold the charging mat, and after a short search pick a spot to camp, planning to leave at first light.",
+    "dense_recap_250w": "Quincy and Demmy pause in late afternoon on the plains for a battery swap and system check—mains toggled, meter at 76%. Demmy, newly trained, racks the spent packs and hooks the charging harness while a flat solar panel and a folding mat sip the last sun. Fuel-cell ethanol is nearly gone, prompting Quincy to propose “redline or go blind,” an all-out push until they arrive or the machine melts down. They debate contingencies if they don’t find Three Shovels and consider straight-lining for Broken Bow off trade routes to avoid bandits. A growing electric thrumming draws their eyes south: a huge ovoid aircraft with five gimbaled thrusters—likely a Metrofederacy Pentafan—screams overhead at low altitude, blasting them with dust and turbulence before streaking away north. Quincy frames themselves as insignificant to such power. Demmy, trembling with his shotgun, shifts to awe and dreams of riding one. Quincy, privately anxious about Davian possibly rejecting Demmy, packs up. Demmy vetoes night driving as too dangerous; Quincy agrees. They secure the charging setup, fold the mat, and find a campsite to depart at first light.",
+    "query_handle": "Battery swap and strategy; Metrofederacy Pentafan blasts overhead; decide to camp and push at dawn."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Field service stop",
+    "what_happens": "They swap batteries, read 76%, and hook the charging harness; fuel-cell ethanol is nearly depleted.",
+    "involved_entities": ["quincy", "demmy", "two-seater-rig", "folding-solar-mat", "flat-panel-solar", "ethanol-fuel-cell", "charge-meter"],
+    "stakes_or_conflict": "Energy scarcity and time pressure to catch the caravan."
+    },
+    {
+    "order": 2,
+    "label": "Redline calculus",
+    "what_happens": "Quincy proposes an all-out push; contingency is to straight-line for Broken Bow if they miss Three Shovels.",
+    "involved_entities": ["quincy", "demmy", "broken-bow-free-city", "three-shovels-caravan"],
+    "stakes_or_conflict": "Trade-off between speed, mechanical risk, and safety."
+    },
+    {
+    "order": 3,
+    "label": "Pentafan flyover",
+    "what_happens": "A massive five-thruster aircraft roars overhead at low altitude, blasting them with dust and wind.",
+    "involved_entities": ["quincy", "demmy", "pentafan-aircraft", "metrofederacy"],
+    "stakes_or_conflict": "Intimidation by overwhelming external power; fear of being targeted (they are ignored)."
+    },
+    {
+    "order": 4,
+    "label": "Awe and aspiration",
+    "what_happens": "Demmy laughs in relief and admits he wants to ride one someday; Quincy’s regard for him softens while she worries about Davian’s future decision.",
+    "involved_entities": ["quincy", "demmy", "davian"],
+    "stakes_or_conflict": "Hope versus the uncertainty of community acceptance."
+    },
+    {
+    "order": 5,
+    "label": "Nightfall decision",
+    "what_happens": "They agree night driving is too dangerous and make camp to leave at first light.",
+    "involved_entities": ["quincy", "demmy", "two-seater-rig"],
+    "stakes_or_conflict": "Avoiding crash risk versus losing time."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Maximize range and speed to catch Three Shovels; manage energy and safety; keep Demmy safe.",
+    "obstacles": "Low ethanol for fuel cell, sunset ending peak solar, unknown caravan position, risk of night travel.",
+    "tactics": "Technical triage (swap, meter checks), planning contingencies, calm reassurance, accept prudent camp decision.",
+    "relationships": [
+    {"with": "demmy", "type": "ally/friend", "state": "warming/solidifying", "evidence": "Reassures him and celebrates his awe; plans together and agrees to camp."},
+    {"with": "three-shovels-caravan", "type": "home/community", "state": "distant/uncertain", "evidence": "Plans to catch or route to Broken Bow if missed."},
+    {"with": "davian", "type": "leader", "state": "anxious deference", "evidence": "Private worry: \"What if Davian said no?\""}
+    ],
+    "emotional_arc": {
+    "start": "focused, pragmatic",
+    "turning_points": ["Proposes 'redline or go blind'", "Shaken by Pentafan’s power and duststorm", "Concedes to camp for safety"],
+    "end": "steadied but uneasy, resolved to launch at dawn"
+    },
+    "notable_actions": ["reads charge at 76%", "proposes redline push", "identifies aircraft as likely Metrofederacy", "packs gear and makes camp"],
+    "quotable_lines": [
+    "I guess it's time for redline or go blind.",
+    "They won't bother with us. We're bugs to them."
+    ]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Help keep the rig running; avoid catastrophic risks; reach safety with the caravan.",
+    "obstacles": "Fear of overwhelming threats; limited power reserves; dusk conditions.",
+    "tactics": "Hands-on assistance (racking packs, harness hookup), reality checks, assert safety boundary (no night drive).",
+    "relationships": [
+    {"with": "quincy", "type": "ally/friend", "state": "trust growing", "evidence": "Takes instruction; shares wonder; persuades camp choice."}
+    ],
+    "emotional_arc": {
+    "start": "eager but anxious",
+    "turning_points": ["Startled by low-flying Pentafan, then shifts to awe and aspiration"],
+    "end": "calm, practical, aligned on dawn departure"
+    },
+    "notable_actions": ["returns exhausted batteries to rack", "hooks charging harness", "reads low solar charge", "advises against night travel"],
+    "quotable_lines": [
+    "Is that what we're doing?",
+    "Would you think I was crazy if I told you I wanted to ride in that thing someday?"
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "two-seater-rig",
+    "name": "Two-seater ravager rig",
+    "category": "vehicle",
+    "capabilities": ["electric drive", "battery swap", "solar-assist charging"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "operational; range-limited; night driving risky",
+    "scene_function": "Primary transport; subject of energy and risk decisions."
+    },
+    {
+    "id": "ethanol-fuel-cell",
+    "name": "Ethanol fuel cell",
+    "category": "other",
+    "capabilities": ["auxiliary power generation"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "low fuel",
+    "scene_function": "Prompts 'redline or go blind' decision."
+    },
+    {
+    "id": "flat-panel-solar",
+    "name": "Flat-panel solar cell",
+    "category": "other",
+    "capabilities": ["trickle/assist charge while driving"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "charging late-day sun",
+    "scene_function": "Extends runtime; part of charge plan."
+    },
+    {
+    "id": "folding-solar-mat",
+    "name": "Folding solar mat",
+    "category": "other",
+    "capabilities": ["deployed ground charging"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "deployed then stowed",
+    "scene_function": "Captures final solar energy before camp."
+    },
+    {
+    "id": "charge-meter",
+    "name": "Charge meter",
+    "category": "tool",
+    "capabilities": ["displays pack and solar levels"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "intact",
+    "scene_function": "Guides decisions (76% main; low solar input)."
+    },
+    {
+    "id": "charging-harness",
+    "name": "Charging harness",
+    "category": "tool",
+    "capabilities": ["connect packs to solar/fuel-cell source"],
+    "owner_or_users": ["demmy", "quincy"],
+    "condition_or_state": "intact",
+    "scene_function": "Allows simultaneous recharge while stationary."
+    },
+    {
+    "id": "shotgun-demmy",
+    "name": "Shotgun",
+    "category": "weapon",
+    "capabilities": ["close defense"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "ready; lowered after flyover",
+    "scene_function": "Signals Demmy’s fear and readiness during overflight."
+    },
+    {
+    "id": "pentafan-aircraft",
+    "name": "Pentafan flier",
+    "category": "vehicle",
+    "capabilities": ["VTOL-like gimbaled thrust", "high-speed low-altitude transit", "heavy lift"],
+    "owner_or_users": ["metrofederacy"],
+    "condition_or_state": "in flight; passes overhead rapidly",
+    "scene_function": "Displays overwhelming Metrofederacy scale; triggers fear and awe."
+    }
+    ],
+    "locations": [
+    {
+    "id": "plains-campsite-2",
+    "name": "Grassland battery stop and campsite",
+    "type": "wilderness",
+    "descriptors": ["late-afternoon sun", "long shadows", "windy dust", "open plains"],
+    "in_scene_events": ["Battery swap and charge; Pentafan overflight; decision to camp."]
+    },
+    {
+    "id": "northern-sky-corridor",
+    "name": "Northern sky corridor",
+    "type": "other",
+    "descriptors": ["low-altitude pass", "Doppler scream", "buffeting wake"],
+    "in_scene_events": ["Pentafan streaks overhead and recedes north."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Transit/operations unrelated to wildlanders; demonstrates technological dominance.",
+    "actions_in_scene": ["Operates Pentafan passing low and fast overhead."]
+    },
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Continued movement toward safety/trade; hard to catch.",
+    "actions_in_scene": ["Offstage; informs pursuit strategy and contingency planning."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Scarcity vs speed", "Insignificance before power", "Prudence vs urgency", "Hope and aspiration under duress", "Partnership and growing trust"],
+    "motifs_symbols": ["long shadows", "dust and wind buffeting", "blackbirds feasting after disturbance", "charge meters and percentages", "five-thruster monolith"],
+    "moral_questions": ["When is it right to push machinery and selves to breaking for a chance at reunion?", "What does awe of power do to one’s plans and identity?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/technical with lyrical flashes",
+    "pacing": "measured with a sudden kinetic spike",
+    "voice_traits": ["mechanical specificity", "dry banter", "survival pragmatism"],
+    "sensory_notes": ["electric motor scream and Doppler shift", "buffeting wind and dust", "sunset glare", "bird chatter after wake"]
+    },
+    "causality": {
+    "prior_dependencies": ["Ongoing pursuit in ravager rig; earlier energy strategy; Quincy’s promise regarding Demmy; caravan likely heading toward Broken Bow."],
+    "outcomes": ["Plan to redline then camp; firm decision not to drive at night; observation of Metrofederacy Pentafan suggests regional operations and scale; morale shift as Demmy finds awe/hope."],
+    "unanswered_questions": ["Why was the Pentafan flying low here and toward the north?", "Will the night camp be safe?", "Can they reach the caravan before energy or terrain stops them?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy", "demmy", "energy/time/night hazards"],
+    "trigger": "Low fuel-cell ethanol, waning sun, rough terrain, darkness risk.",
+    "resolution": "Defer redline into night; camp and depart at first light."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["wildlanders", "metrofederacy"],
+    "trigger": "Low overflight of a powerful Metrofederacy aircraft underscores their indifference.",
+    "resolution": "They are ignored; only awe and dust remain."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Urge to push through night vs safety and promise-laden anxiety about Davian’s future decision.",
+    "resolution": "Accepts prudence; camps despite schedule pressure."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": []
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Demmy", "battery swap", "redline or go blind", "Pentafan flyover", "Metrofederacy aircraft", "Broken Bow Free City", "night camp decision"],
+    "keywords_dense": "Quincy, Demmy, battery swap, 76 percent, charging harness, folding solar mat, ethanol fuel cell, redline or go blind, Pentafan, five gimbaled thrusters, Metrofederacy, dust wake, blackbirds, Broken Bow, night driving risk, camp at dusk",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Demmy", "Davian"],
+    "places": ["Broken Bow Free City", "Grassland plains"],
+    "orgs": ["Metrofederacy", "Three Shovels Caravan"],
+    "terms": ["Pentafan", "redline or go blind", "flier", "fuel cell"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What charge reading does Quincy see after the swap?", "a": "Seventy-six percent."},
+    {"q": "What is meant by \"redline or go blind\"?", "a": "An all-out run—push equipment to the limit until arrival or failure."},
+    {"q": "What aircraft passes overhead and how is it described?", "a": "A massive Pentafan flier with five gimbaled thrusters on an ovoid fuselage, screaming by at low altitude."},
+    {"q": "What decision do Quincy and Demmy make about traveling at night?", "a": "They decide it’s too dangerous to drive at night and make camp, leaving at first light."},
+    {"q": "If they fail to find the caravan, what is their contingency?", "a": "Head straight for Broken Bow Free City off the normal trade routes to avoid bandits."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "pentafan-flyover-recap",
+    "type": "recap",
+    "text": "At sunset on the plains, Quincy and Demmy swap batteries (meter: 76%), stretch scarce ethanol for the fuel cell, and weigh a ‘redline or go blind’ push. They debate contingencies if they miss Three Shovels, including a direct route to Broken Bow. A colossal Metrofederacy Pentafan roars overhead—five gimbaled thrusters blasting them with dust—then vanishes north, leaving fear and awe. Demmy dreams of riding one; Quincy worries about Davian’s future decision on Demmy. They agree night driving is too risky, stow the solar mat, and make camp to depart at first light."
+    },
+    {
+    "chunk_id": "pentafan-flyover-entities",
+    "type": "entities_focus",
+    "text": "Quincy (mechanic/driver) and Demmy (ally) manage the two-seater ravager rig. Tech: ethanol fuel cell (low), flat panel and folding solar mat, charging harness and meter, shotgun. Orgs/places: Three Shovels Caravan (offstage), Metrofederacy (operating Pentafan), Broken Bow Free City (goal/contingency). Event: low-altitude Pentafan pass causing dust wake and awe. Outcome: camp at dusk, launch at dawn."
+    },
+    {
+    "chunk_id": "pentafan-flyover-style-themes",
+    "type": "style_theme_focus",
+    "text": "Third-person limited, past tense; gritty technical detail punctuated by a kinetic flyover. Themes: scarcity vs speed, prudence vs urgency, insignificance before institutional power, nascent friendship and aspiration. Motifs: long shadows, charge percentages, dust and Doppler roar, blackbirds feeding after the wake, folding/stowing gear as ritual of survival."
+    }
+    ]
+    }

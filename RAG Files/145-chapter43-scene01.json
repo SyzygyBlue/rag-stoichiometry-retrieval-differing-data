@@ -1,0 +1,382 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Bad Blood",
+    "scene_id": "bad-blood-exit-ambush",
+    "chapter_number": 43,
+    "scene_number": 1,
+    "date_in_universe": "2186-12-03",
+    "absolute_timeline_notes": "Night escape from the burning Calum-Tam Holdfast toward a parked TEG-6; roadside confrontation with Gavin."
+    },
+    "text_windows": {
+    "full_scene_clean": "Quincy, Demmy, and Lesha haul the broken Chase away from the burning Calum-Tam Holdfast toward Demmy’s parked TEG-6. Demmy estimates ~600 meters, avoiding traps he scouted on approach. Ahead, a ravagered-up Gavin appears with a submachine gun and blocks them, vowing revenge on Quincy. Lesha, heavily augmented, walks through his burst, rips the SMG from him, and smashes him down. Quincy takes the SMG and demands information. Gavin confirms Jessop and ravager boss Makko are building and equipping a holy ravager army with vast holocreds, via a Metrofederacy corporate contract executed by the Blacklight Syndicate. The name rattles Lesha; she urges killing Gavin to prevent word getting out. Quincy presses about the caravan; Gavin claims Davian cast him out after he hit Quincy, then rants that she ruined him. Demmy recites Zephaniah about wrath and judgment and says, “Send him.” Quincy fires the remaining rounds into Gavin, then hurls the empty SMG. They load Chase into the TEG-6. Destination: Fox River for medical care. Demmy confirms the scripture source. As Quincy keys the nav and the vehicle rolls out, Lesha, suddenly alarmed, says, “Guys…”",
+    "dense_recap_250w": "Dragging the gravely injured Chase from the burning Calum-Tam Holdfast, Quincy, Demmy, and Lesha make for Demmy’s TEG-6, skirting traps he’d marked earlier. A ravager-styled Gavin confronts them with a submachine gun and promises to take from Quincy what she took from him. Lesha, her body armored by augmentations, soaks the burst, disarms him, and drops him with a brutal backhand. Given the SMG, Quincy forces information: Gavin says priest Jessop and ravager boss Makko are assembling and equipping a fanatic army with huge flows of holocreds, through a Metrofederacy corporate deal, executed by the Blacklight Syndicate. The Blacklight name shocks Lesha, who insists Gavin must die so their survival isn’t reported. Quincy demands news of the caravan; Gavin, embittered, says Davian threw him out after he hit Quincy and offers nothing useful. Demmy quotes Zephaniah on divine wrath and, with an impassive “Send him,” green-lights execution. Quincy empties the SMG into Gavin and, when it clicks empty, throws it at him. With gunfire and screams behind them, they strap Chase into the TEG-6 to head for Fox River’s medics. When Quincy asks, Demmy confirms the verse was from the Book of Zephaniah. As they roll out, Lesha grips the seat, eyes going wide, warning, “Guys…,” leaving a tense cliffhanger.",
+    "query_handle": "Retreat from Calum-Tam: Gavin ambush; Lesha tanks fire; Blacklight Syndicate revealed; Quincy executes; evac to Fox River."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Retreat across the flats",
+    "what_happens": "Team carries Chase from the burning holdfast toward the TEG-6, avoiding known traps.",
+    "involved_entities": ["quincy", "demmy", "lesha", "chase", "teg-6"],
+    "stakes_or_conflict": "Survival under time pressure while moving a critically injured ally."
+    },
+    {
+    "order": 2,
+    "label": "Gavin’s roadblock",
+    "what_happens": "Gavin appears with an SMG, firing warning shots and vowing revenge on Quincy.",
+    "involved_entities": ["gavin", "quincy", "demmy", "lesha", "gavin-smg"],
+    "stakes_or_conflict": "Immediate lethal threat and capture risk."
+    },
+    {
+    "order": 3,
+    "label": "Lesha tanks and disarms",
+    "what_happens": "Lesha absorbs the burst with augmented skin, snatches the SMG, and knocks Gavin down.",
+    "involved_entities": ["lesha", "gavin", "lesha-aug-dermal", "gavin-smg"],
+    "stakes_or_conflict": "Neutralize shooter without delaying escape."
+    },
+    {
+    "order": 4,
+    "label": "Intel dump: Blacklight",
+    "what_happens": "Under duress, Gavin ties Jessop and Makko to a Metrofederacy-backed effort run by the Blacklight Syndicate.",
+    "involved_entities": ["gavin", "jessop", "makko", "blacklight-syndicate"],
+    "stakes_or_conflict": "Reveals a larger, more dangerous adversary framework."
+    },
+    {
+    "order": 5,
+    "label": "Judgment and execution",
+    "what_happens": "After Demmy quotes Zephaniah and says “Send him,” Quincy empties the SMG into Gavin and throws it.",
+    "involved_entities": ["quincy", "demmy", "gavin", "gavin-smg"],
+    "stakes_or_conflict": "Silence a threat vs. moral cost."
+    },
+    {
+    "order": 6,
+    "label": "Evac toward Fox River",
+    "what_happens": "They load Chase, pick a rifle for rear security, set Fox River as destination; Lesha spots something alarming.",
+    "involved_entities": ["quincy", "demmy", "lesha", "chase", "teg-6", "lesha-rifle"],
+    "stakes_or_conflict": "Reach medical care before pursuit catches up."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Get Chase to safety and extract any useful intel; eliminate immediate threats.",
+    "obstacles": "Physical strain carrying Chase, armed ambush, uncertainty about caravan and larger plot.",
+    "tactics": "Direct confrontation, coercive questioning, decisive use of force, rapid exfil planning.",
+    "relationships": [
+    {"with": "chase", "type": "ally/friend", "state": "protective", "evidence": "Carries and buckles him in; prioritizes med care."},
+    {"with": "demmy", "type": "ally", "state": "coordinated", "evidence": "Drives while he rides shotgun and guides route."},
+    {"with": "lesha", "type": "ally-of-necessity", "state": "pragmatic trust", "evidence": "Accepts her help; fetches and uses SMG; heeds warning."},
+    {"with": "gavin", "type": "enemy/past grievance", "state": "lethal", "evidence": "Executes him after interrogation."}
+    ],
+    "emotional_arc": {
+    "start": "exhausted, angry, focused",
+    "turning_points": ["Gavin’s intel about Blacklight", "Demmy’s ‘Send him’ benediction"],
+    "end": "resolute, mission-driven, alert to new danger"
+    },
+    "notable_actions": ["interrogates Gavin at gunpoint", "shoots Gavin", "drives TEG-6 toward Fox River"],
+    "quotable_lines": ["Spill it, then, motherfucker. It better be good.","Choke on it and die."]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Shepherd evac route, keep team moving, get Chase to medics.",
+    "obstacles": "Ambush, battlefield chaos, moral choices.",
+    "tactics": "Route selection around traps, psychological warfare via scripture, crisp go/no-go calls.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "synchronized", "evidence": "Nav guidance; rides shotgun during exfil."},
+    {"with": "chase", "type": "ally", "state": "protective", "evidence": "Helps carry and load him."},
+    {"with": "gavin", "type": "enemy", "state": "judgmental distance", "evidence": "Quotes Zephaniah and authorizes ‘Send him.’"}
+    ],
+    "emotional_arc": {
+    "start": "urgent, steady",
+    "turning_points": ["Gavin’s intel confirms a larger threat", "Decision to ‘send’ Gavin"],
+    "end": "focused on medical evac"
+    },
+    "notable_actions": ["scouted and avoids traps", "quotes Zephaniah to frame execution", "coordinates load-out"],
+    "quotable_lines": ["Book of Zephaniah. I wanted to make sure Gavin knew where he was going so he wouldn't be surprised when he arrived.","Send him."]
+    },
+    {
+    "id": "lesha",
+    "display_name": "Lesha",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Survive, keep the team from exposure, obtain/maintain chems and cover.",
+    "obstacles": "Impending withdrawal risk, enemy contact, emerging ‘Blacklight’ threat.",
+    "tactics": "Use augmented armor to close distance, disarm threat, advise OPSEC, arm up with rifle.",
+    "relationships": [
+    {"with": "quincy", "type": "ally-of-necessity", "state": "respect growing", "evidence": "Hands her SMG, urges swift action."},
+    {"with": "gavin", "type": "hostile", "state": "contemptuous", "evidence": "Walks through fire; floors him; urges killing him."},
+    {"with": "demmy", "type": "ally", "state": "operational", "evidence": "Shares load; rides security; reacts to intel."}
+    ],
+    "emotional_arc": {
+    "start": "cool, in-control",
+    "turning_points": ["Hears ‘Blacklight Syndicate’ and is rattled", "Spots new threat: \"Guys...\""],
+    "end": "alarmed vigilance"
+    },
+    "notable_actions": ["tanks SMG burst", "disarms and strikes Gavin", "selects rifle for overwatch", "warns of imminent danger"],
+    "quotable_lines": ["Stay down, cheese dick.","He needs to be dead."]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": ["Sparkles"],
+    "role_in_scene": "supporting",
+    "goals_now": "Survive and reach medical care.",
+    "obstacles": "Broken arm, probable rib fractures, semi-consciousness.",
+    "tactics": "Conserve strength; allow others to carry/load him.",
+    "relationships": [
+    {"with": "quincy", "type": "ally/friend", "state": "dependent", "evidence": "She cradles, buckles, and speaks reassurance."},
+    {"with": "demmy", "type": "ally", "state": "trusting", "evidence": "Demmy helps carry and load him."}
+    ],
+    "emotional_arc": {
+    "start": "fading, pained",
+    "turning_points": ["Secured into TEG-6 for evac"],
+    "end": "stabilized but critical"
+    },
+    "notable_actions": ["endures transport", "is secured for evac"],
+    "quotable_lines": []
+    },
+    {
+    "id": "gavin",
+    "display_name": "Gavin",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Avenge perceived wrongs and seize their vehicle/supplies.",
+    "obstacles": "Lesha’s augmentation, outnumbered, low leverage once disarmed.",
+    "tactics": "Intimidation by fire, bargaining with intel, emotional manipulation.",
+    "relationships": [
+    {"with": "quincy", "type": "enemy/former associate", "state": "seething hatred", "evidence": "Blames her for his ruin; she executes him."},
+    {"with": "davian", "type": "former leader", "state": "estranged", "evidence": "Claims Davian threw him out."}
+    ],
+    "emotional_arc": {
+    "start": "smug, vengeful",
+    "turning_points": ["Disarmed and beaten", "Zephaniah ‘sentence’ and gunfire"],
+    "end": "shot; survival unconfirmed"
+    },
+    "notable_actions": ["ambushes with SMG", "provides intel on Blacklight link"],
+    "quotable_lines": ["I'm here to take everything from you, the way you took it from me."]
+    },
+    {
+    "id": "jessop",
+    "display_name": "Brother Jessop",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Mentioned as co-architect of arming ravagers.",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "makko",
+    "display_name": "Makko",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Mentioned ravager boss allied with Jessop.",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "davian",
+    "display_name": "Davian",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Mentioned as caravan leader who cast Gavin out (per Gavin).",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "gavin-smg",
+    "name": "Submachine gun",
+    "category": "weapon",
+    "capabilities": ["automatic bursts", "close-quarters suppression"],
+    "owner_or_users": ["gavin", "lesha", "quincy"],
+    "condition_or_state": "emptied and thrown; potentially damaged",
+    "scene_function": "Leverage for ambush; later used by Quincy to shoot Gavin."
+    },
+    {
+    "id": "lesha-aug-dermal",
+    "name": "Lesha’s augmented/armored skin",
+    "category": "cybernetics",
+    "capabilities": ["ballistic deflection", "pain tolerance boost (inferred)"],
+    "owner_or_users": ["lesha"],
+    "condition_or_state": "intact",
+    "scene_function": "Allows her to close with and disarm a shooter under fire."
+    },
+    {
+    "id": "teg-6",
+    "name": "TEG-6 six-seater",
+    "category": "vehicle",
+    "capabilities": ["off-road transport", "cargo for weapons/med supplies", "nav computer"],
+    "owner_or_users": ["demmy", "quincy", "lesha", "chase"],
+    "condition_or_state": "intact, fueled",
+    "scene_function": "Exfil platform to reach Fox River and medical care."
+    },
+    {
+    "id": "lesha-rifle",
+    "name": "Battle rifle (unknown make)",
+    "category": "weapon",
+    "capabilities": ["mid-range precision", "deterrence"],
+    "owner_or_users": ["lesha"],
+    "condition_or_state": "intact; loaded from box of cartridges",
+    "scene_function": "Rear security during evac."
+    },
+    {
+    "id": "nav-computer",
+    "name": "TEG-6 navigation computer",
+    "category": "comms",
+    "capabilities": ["routing", "waypoint input"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "operational",
+    "scene_function": "Set course to Fox River."
+    }
+    ],
+    "locations": [
+    {
+    "id": "calum-tam-perimeter-flats",
+    "name": "Flats east of Calum-Tam",
+    "type": "wilderness",
+    "descriptors": ["dusty path", "spiky grass", "crescent moon shadows", "heat and smoke from burning holdfast"],
+    "in_scene_events": ["Gavin ambush; Lesha disarms; execution; loading into TEG-6."]
+    },
+    {
+    "id": "calum-tam-skyline",
+    "name": "Calum-Tam skyline",
+    "type": "structure",
+    "descriptors": ["raging inferno", "gunfire crackle", "red/orange glow", "embers and smoke"],
+    "in_scene_events": ["Backdrop of chaos during confrontation and evac."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "blacklight-syndicate",
+    "name": "Blacklight Syndicate",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Contracted to build/equip a ravager army for Jessop/Makko via a Metrofederacy corporate deal (as claimed).",
+    "actions_in_scene": ["Only mentioned; their reputation alarms Lesha."]
+    },
+    {
+    "id": "divine-order",
+    "name": "Divine Order of the Sanctifying Flame",
+    "alignment": "hostile",
+    "agents_present": ["jessop"],
+    "motives_inferred": "Religious crusade against the Metrofederacy; weaponizing ravagers.",
+    "actions_in_scene": ["Referenced as co-sponsor of the army effort."]
+    },
+    {
+    "id": "ravagers",
+    "name": "Ravagers (Makko’s forces)",
+    "alignment": "hostile",
+    "agents_present": ["makko"],
+    "motives_inferred": "Raise a zealot army; assault Calum-Tam.",
+    "actions_in_scene": ["Active attack on holdfast; indirect pressure enabling escape."]
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy (unnamed corporation)",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Corporate contract linked to Blacklight effort (uncorroborated).",
+    "actions_in_scene": ["Mentioned as funding/contracting channel per Gavin."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["vengeance vs mercy", "survival triage", "truth extracted under duress", "institutional corruption and proxy wars", "faith as judgment"],
+    "motifs_symbols": ["fire and ash as reckoning", "scripture as sentence", "augmented flesh vs. bullets", "empty gun clicking (end of vengeance)"],
+    "moral_questions": ["Is executing an informer justified to prevent larger harm?", "What complicity do institutions have when their money arms atrocities?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "high-intensity",
+    "voice_traits": ["profane immediacy", "tactical detail", "biblical counterpoint"],
+    "sensory_notes": ["crackle of gunfire", "heat and stench of burned flesh", "embers spiraling in night air", "SMG recoil and metallic crack"]
+    },
+    "causality": {
+    "prior_dependencies": ["Prior escape from Calum-Tam gate; Chase’s severe injuries; Lesha’s stim dependence and capabilities; Demmy staged the TEG-6 and scouted traps."],
+    "outcomes": ["Gavin likely mortally wounded; sensitive intel on Blacklight link revealed; team sets course for Fox River; Lesha flags an immediate new threat."],
+    "unanswered_questions": ["Is Gavin definitively dead?", "What/Who exactly is the Blacklight Syndicate and the Metrofederacy corporate partner?", "What happened to the caravan and where did it go?", "What has Lesha just noticed (\"Guys...\")?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "gavin"],
+    "trigger": "Gavin ambushes the evac team at gunpoint.",
+    "resolution": "Quincy empties an SMG into him and departs."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["lesha", "gavin"],
+    "trigger": "Gavin fires; Lesha advances.",
+    "resolution": "Lesha disarms and incapacitates Gavin with augmented strength."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["protagonists", "Blacklight-linked war machine"],
+    "trigger": "Intel about Jessop/Makko’s contract army.",
+    "resolution": "Unresolved; raises stakes for future."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "mentioned",
+    "sexual_content": "none",
+    "sensitive_topics": ["torture aftermath (referenced)", "execution-style shooting", "burned bodies smell"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Gavin ambush", "Blacklight Syndicate reveal", "Zephaniah quote", "TEG-6 evac", "Quincy execution", "Lesha augmented armor"],
+    "keywords_dense": "Quincy, Demmy, Lesha, Chase, Gavin, Calum-Tam Holdfast, ravagers, Makko, Jessop, Blacklight Syndicate, Metrofederacy contract, submachine gun, augmented skin, Zephaniah, Fox River, TEG-6, execution, burning holdfast",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Demmy", "Lesha", "Chase", "Gavin", "Jessop", "Makko", "Davian"],
+    "places": ["Calum-Tam Holdfast", "Fox River"],
+    "orgs": ["Blacklight Syndicate", "Divine Order of the Sanctifying Flame", "Ravagers", "Metrofederacy"],
+    "terms": ["holocreds", "SMG", "TEG-6", "Zephaniah"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Who ambushes the team near the TEG-6?", "a": "Gavin, armed with a submachine gun."},
+    {"q": "How does Lesha neutralize Gavin’s immediate threat?", "a": "She walks through his burst, rips the SMG away, and smashes him down."},
+    {"q": "What organization’s name alarms Lesha?", "a": "The Blacklight Syndicate."},
+    {"q": "Who authorizes Gavin’s execution and how?", "a": "Demmy, by quoting Zephaniah and saying “Send him,” after which Quincy shoots him."},
+    {"q": "Where are they heading after the confrontation?", "a": "Fox River, to get medical care for Chase."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "bad-blood-exit-ambush-recap",
+    "type": "recap",
+    "text": "Fleeing the burning Calum-Tam Holdfast, Quincy, Demmy, and Lesha carry the injured Chase toward a TEG-6 when Gavin ambushes them with an SMG. Lesha’s augmented skin lets her absorb fire, disarm, and floor him. Under gunpoint, Gavin reveals Jessop and ravager boss Makko are building a zealot army financed via a Metrofederacy corporate deal executed by the Blacklight Syndicate. Demmy quotes Zephaniah and orders, “Send him.” Quincy empties the SMG into Gavin and the team loads Chase, setting course for Fox River as Lesha suddenly spots new danger."
+    },
+    {
+    "chunk_id": "bad-blood-exit-ambush-entities",
+    "type": "entities_focus",
+    "text": "Core actors: Quincy (POV, executes), Demmy (route, judgment), Lesha (augmented, disarms, rear security), Chase (injured evac), Gavin (antagonist, intel source). Mentioned: Jessop (priest), Makko (ravager boss), Davian (caravan leader), Blacklight Syndicate (contractor), Metrofederacy corp (unnamed). Key tech: SMG, Lesha’s augmented dermal armor, TEG-6 vehicle, nav computer, rifle. Setting: flats east of Calum-Tam under fire and smoke."
+    },
+    {
+    "chunk_id": "bad-blood-exit-ambush-style-theme",
+    "type": "style_theme_focus",
+    "text": "Gritty, high-intensity third-limited (Quincy) with profane immediacy and a stark biblical counterpoint. Themes of vengeance vs mercy, survival triage, and institutional corruption surface as Blacklight’s involvement hints at a proxy war. Motifs of fire/ash (reckoning), scripture-as-sentence, augmented flesh vs bullets, and the click of an empty gun punctuate the scene’s moral calculus."
+    }
+    ]
+    }

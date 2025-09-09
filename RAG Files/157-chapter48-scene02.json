@@ -1,0 +1,350 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Parlor Tricks",
+    "scene_id": "broken-bow-assignment-05dec2186",
+    "chapter_number": 48,
+    "scene_number": 2,
+    "date_in_universe": "2186-12-05",
+    "absolute_timeline_notes": "Post-lunch same day as prior scene; Shelly returns home, passes MD cert, accepts urgent FI-III to Broken Bow and departs within ~20 minutes."
+    },
+    "text_windows": {
+    "full_scene_clean": "Shelly rides the elevator home, sets a StellaNet news filter around Broken Bow, and finds her apartment freshly cleaned by the maintenance bot. She orders a kitchen module caf, checks her study pod and scripts still scraping the massive dataset, then decides to switch contexts to certification. Inside the pod, she starts the MD (Metrofederacy Clinical Track) final exam and grinds through it. While her score is pending, an urgent Forensic Investigations Level III request arrives: destination Fox River/Broken Bow Free City, transport in 19 minutes. Believing she has no choice, she accepts, follows a cyan AR guide from her apartment to a podlev and then to Flight Platform 7C. On the way she flags a StellaNet tri-D story about an explosion in a Wildlander city near Broken Bow. Reaching the tarmac, she receives her MD result (PASS, 81.7), then boards a sleek supersonic flier, jaw set against the dread of becoming prey. She whispers a vow to beat Fay and steps aboard.",
+    "dense_recap_250w": "Back at her newly cleaned apartment, Shelly runs a quick news filter near Broken Bow, then pivots from data scraping to professional leverage: she launches the Metrofederacy MD (Clinical) final exam in her study pod. Emerging exhausted as scoring processes, she receives an urgent Stella Forensic Investigations Level III tasking for Fox River/Broken Bow Free City with transport departing in 19 minutes. Recognizing the risk—and suspecting this could align with the Bolivia↔Broken Bow lead she and Lucas discussed—she accepts immediately. A cyan guide path routes her to a waiting podlev and onwards to Flight Platform 7C. En route she flags a StellaNet tri-D report of a nearby Wildlander city explosion (within her 250 km filter) to review later. On the wind-swept tarmac by a sleek supersonic flier she sees her exam result: PASS, score 81.7. She carries no bag, choosing speed over preparation, and steels herself against the sense of being baited. Thinking of Randy and Fay’s predation, she whispers a promise—“I’m going to beat you”—and boards the transport for Broken Bow under a classified Forensic Division assignment.",
+    "query_handle": "Shelly passes MD (81.7), accepts urgent FI-III to Broken Bow, follows cyan AR path to Flight Platform 7C, boards supersonic flier amid dread and resolve."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Return and reset",
+    "what_happens": "Shelly returns to a tidied apartment, sets a Broken Bow news filter, and fuels up on caf.",
+    "involved_entities": ["shelly", "maintenance-bot", "stellanet"],
+    "stakes_or_conflict": "Juggling fatigue and urgent context switching."
+    },
+    {
+    "order": 2,
+    "label": "Commit to leverage",
+    "what_happens": "She initiates the MD final exam in the study pod to secure credentials for upcoming investigations.",
+    "involved_entities": ["shelly", "study-pod", "sair"],
+    "stakes_or_conflict": "High-stakes test under exhaustion."
+    },
+    {
+    "order": 3,
+    "label": "Classified call",
+    "what_happens": "Before the score posts, an urgent FI-III request arrives for Fox River/Broken Bow; she accepts.",
+    "involved_entities": ["shelly", "forensic-division", "stellanet"],
+    "stakes_or_conflict": "Time pressure; possible bait aligned with prior leads."
+    },
+    {
+    "order": 4,
+    "label": "Immediate mobilization",
+    "what_happens": "Cyan AR navigation guides Shelly to a podlev and then to Flight Platform 7C.",
+    "involved_entities": ["shelly", "cyan-guide-line", "podlev", "flight-platform-7c"],
+    "stakes_or_conflict": "Departure window: 19 minutes."
+    },
+    {
+    "order": 5,
+    "label": "Signals and vows",
+    "what_happens": "She flags a nearby explosion story, receives PASS 81.7, and vows to beat Fay as she boards a supersonic flier.",
+    "involved_entities": ["shelly", "supersonic-flier", "fay"],
+    "stakes_or_conflict": "Accepting prey-like risk vs. pursuing agency and justice."
+    }
+    ],
+    "characters": [
+    {
+    "id": "shelly",
+    "display_name": "Shelly",
+    "aliases": ["Shel"],
+    "role_in_scene": "POV",
+    "goals_now": "Secure MD credential; respond to urgent FI-III and get to Broken Bow fast; keep control of the investigation thread.",
+    "obstacles": "Exhaustion, time pressure, dread of being baited, limited prep time.",
+    "tactics": "Context switch to exam; accept classified task immediately; follow AR navigation; travel light for speed.",
+    "relationships": [
+    {"with": "lucas-k", "type": "family", "state": "aligned/concerned", "evidence": "Continues their Broken Bow lead; recalls lunch counsel."},
+    {"with": "fay", "type": "antagonist", "state": "vowed opposition", "evidence": "“I’m going to beat you,” whispered on the tarmac."},
+    {"with": "randy", "type": "sibling", "state": "deceased/grief-motivated", "evidence": "Thinks of Randy’s fate as she departs."}
+    ],
+    "emotional_arc": {
+    "start": "wired, gaunt, determined",
+    "turning_points": ["Accepts FI-III under tight clock", "Sees MD PASS 81.7 at the steps of the flier"],
+    "end": "resolute, grimly focused"
+    },
+    "notable_actions": ["runs 250 km news filter", "orders caf", "completes MD exam", "accepts FI-III tasking", "follows cyan AR route", "boards supersonic flier"],
+    "quotable_lines": ["“How do you prepare to be prey?”", "“I’m going to beat you.”"]
+    },
+    {
+    "id": "fay",
+    "display_name": "Fay",
+    "aliases": [],
+    "role_in_scene": "offstage",
+    "goals_now": "Inferred: continue predation/taunting via engineered circumstances.",
+    "obstacles": "Shelly’s growing credentials and institutional leverage.",
+    "tactics": "Inferred psychological pressure; breadcrumbing.",
+    "relationships": [
+    {"with": "shelly", "type": "antagonist", "state": "cat-and-mouse", "evidence": "Shelly frames departure as refusing to be prey."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "lucas-k",
+    "display_name": "Lucas K.",
+    "aliases": ["Dad"],
+    "role_in_scene": "cameo",
+    "goals_now": "Offstage analysis; prior advisor pushing Shelly to finish certs.",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "shelly", "type": "family", "state": "protective ally", "evidence": "Shelly mulls their earlier plan and Broken Bow lead."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "randy",
+    "display_name": "Randy",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "shelly", "type": "sibling", "state": "deceased/haunting motivation", "evidence": "Shelly wonders if he felt this dread under Fay’s claws."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "pid",
+    "name": "PID (personal interface device)",
+    "category": "comms",
+    "capabilities": ["alerts and tasking", "news filters", "certification modules", "AR navigation prompts"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "active",
+    "scene_function": "Displays exam, FI-III assignment, score, and travel guidance."
+    },
+    {
+    "id": "study-pod",
+    "name": "Study pod",
+    "category": "tool",
+    "capabilities": ["immersive testing", "sensory isolation", "HUD controls"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "intact",
+    "scene_function": "Venue for the MD certification exam."
+    },
+    {
+    "id": "sair",
+    "name": "SAIR (Stella certification portal)",
+    "category": "comms",
+    "capabilities": ["exam delivery", "proctoring", "score posting"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "operational",
+    "scene_function": "Administers the MD final exam and posts PASS 81.7."
+    },
+    {
+    "id": "maintenance-bot",
+    "name": "Apartment maintenance bot",
+    "category": "other",
+    "capabilities": ["cleaning", "recycling", "resheeting"],
+    "owner_or_users": [],
+    "condition_or_state": "docked/rest mode",
+    "scene_function": "Sets the scene’s reset/contrast to Shelly’s chaos."
+    },
+    {
+    "id": "multifunc-kitchen",
+    "name": "Multifunction kitchen module",
+    "category": "tool",
+    "capabilities": ["on-demand beverage/food prep"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "intact",
+    "scene_function": "Provides caf before exam."
+    },
+    {
+    "id": "cyan-guide-line",
+    "name": "Cyan AR guide line",
+    "category": "comms",
+    "capabilities": ["route guidance", "handoff across facilities"],
+    "owner_or_users": [],
+    "condition_or_state": "active",
+    "scene_function": "Leads Shelly from apartment to podlev to flight platform."
+    },
+    {
+    "id": "podlev",
+    "name": "Podlev",
+    "category": "vehicle",
+    "capabilities": ["intra-city rapid transit"],
+    "owner_or_users": [],
+    "condition_or_state": "operational",
+    "scene_function": "Transports Shelly to the boarding platform."
+    },
+    {
+    "id": "flight-platform-7c",
+    "name": "Flight Platform 7C",
+    "category": "other",
+    "capabilities": ["boarding interface"],
+    "owner_or_users": [],
+    "condition_or_state": "active",
+    "scene_function": "Designated departure point for the classified flight."
+    },
+    {
+    "id": "supersonic-flier",
+    "name": "Supersonic flier",
+    "category": "vehicle",
+    "capabilities": ["high-speed transport", "short-notice deployment"],
+    "owner_or_users": [],
+    "condition_or_state": "ready",
+    "scene_function": "Carries Shelly under Forensic Division assignment to Broken Bow."
+    }
+    ],
+    "locations": [
+    {
+    "id": "shellys-apartment",
+    "name": "Shelly’s apartment",
+    "type": "structure",
+    "descriptors": ["lemon-cleanser trace", "fresh sheets", "study pod glow"],
+    "in_scene_events": ["MD exam; FI-III alert; departure prep."]
+    },
+    {
+    "id": "transit-corridor",
+    "name": "Residential–transport corridor",
+    "type": "road",
+    "descriptors": ["cyan AR line", "auto-dispatch elevator", "podlev docking"],
+    "in_scene_events": ["Guided movement to transport."]
+    },
+    {
+    "id": "flight-platform-7c",
+    "name": "Flight Platform 7C",
+    "type": "structure",
+    "descriptors": ["wind-swept tarmac", "burnt fuel oil smell", "sleek flier"],
+    "in_scene_events": ["Receives MD PASS result; Shelly boards."]
+    },
+    {
+    "id": "broken-bow-free-city",
+    "name": "Broken Bow Free City",
+    "type": "city",
+    "descriptors": ["destination; free city context"],
+    "in_scene_events": ["Target of FI-III assignment (travel underway)."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "stellanet-org",
+    "name": "Stella/StellaNet",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Platform delivering exams, assignments, and news visibility.",
+    "actions_in_scene": ["Pushes MD exam and result; issues FI-III tasking; surfaces news alerts."]
+    },
+    {
+    "id": "forensic-division",
+    "name": "Forensic Division (Stella Investigations)",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Rapid-response evidence collection at Fox River/Broken Bow.",
+    "actions_in_scene": ["Dispatches urgent classified assignment and transport."]
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Administers certification pathways and clinical credentialing.",
+    "actions_in_scene": ["Certifies Shelly’s MD via SAIR."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["agency vs. predation", "credential as power", "urgency under surveillance", "resolve amid grief"],
+    "motifs_symbols": ["cyan guide line (fate/path)", "caf bitterness", "wind and fuel reek at departure", "score ping at the steps"],
+    "moral_questions": ["When pursuit makes you prey, do you still step onto the plane?", "Is speed worth sacrificing preparation when stakes are existential?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "techno-thriller/forensic",
+    "pacing": "brisk",
+    "voice_traits": ["terse interiority", "procedural detail", "subdued dread"],
+    "sensory_notes": ["lemon cleanser in air", "caf bitterness", "wind lash on tarmac", "smell of burnt fuel oil"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Shelly and Lucas identified Broken Bow as an endpoint of a CF-67 stream.",
+    "Shelly targeted FI-IV path and agreed to pursue evidence publicly."
+    ],
+    "outcomes": [
+    "Shelly passes MD with 81.7 (credential leverage).",
+    "She accepts and mobilizes for a classified FI-III mission to Broken Bow.",
+    "She flags a nearby explosion story for later correlation."
+    ],
+    "unanswered_questions": [
+    "Who originated the FI-III tasking and is it bait?",
+    "How does the Wildlander explosion relate to Fox River/Broken Bow evidence?",
+    "Will Shelly attain FI-IV before critical investigative steps?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["shelly"],
+    "trigger": "Fear of being prey vs. necessity to act quickly.",
+    "resolution": "Chooses to board and proceed."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["shelly", "institutional timelines/cert processes"],
+    "trigger": "MD exam under fatigue; immediate assignment window.",
+    "resolution": "Passes exam; meets departure schedule."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["shelly", "fay (offstage)"],
+    "trigger": "Shelly frames the pursuit as a vow to defeat Fay.",
+    "resolution": "Unresolved; sets intent."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "mentioned",
+    "sexual_content": "none",
+    "sensitive_topics": ["bereavement (sibling)", "psychological manipulation/predation"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Shelly", "Broken Bow Free City", "FI-III assignment", "Flight Platform 7C", "MD certification 81.7", "study pod", "podlev", "supersonic flier", "cyan guide line", "StellaNet filter"],
+    "keywords_dense": "Shelly MD certification 81.7, FI-III urgent assignment, Broken Bow Free City, Fox River tasking, StellaNet filter 250 km, study pod exam, SAIR scoring, cyan AR guide line, podlev transit, Flight Platform 7C, supersonic flier boarding, caf, maintenance bot, explosion news tri-D flagged",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Shelly", "Randy", "Lucas K."],
+    "places": ["Broken Bow Free City", "Flight Platform 7C", "Shelly’s apartment"],
+    "orgs": ["Stella/StellaNet", "Forensic Division", "Metrofederacy"],
+    "terms": ["PID", "SAIR", "Forensic Investigations Level III", "MD (Metrofederacy Clinical Track)", "podlev", "supersonic flier"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What certification result does Shelly receive before boarding?", "a": "She passes the Metrofederacy MD (Clinical Track) exam with a score of 81.7."},
+    {"q": "Why is Shelly traveling to Broken Bow Free City?", "a": "She accepts an urgent, classified Forensic Investigations Level III assignment to Fox River/Broken Bow."},
+    {"q": "From where does her flight depart?", "a": "Flight Platform 7C."},
+    {"q": "How soon after assignment acceptance is Shelly scheduled to depart?", "a": "Approximately 19 minutes."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "broken-bow-assignment-1",
+    "type": "recap",
+    "text": "After setting a Broken Bow news filter and chugging caf, Shelly pivots from data scraping to take her MD final in a study pod. While her score is pending, an urgent FI-III tasking to Fox River/Broken Bow arrives with a 19-minute departure window. She accepts, follows a cyan AR route to a podlev and then Flight Platform 7C, flags a tri-D report of a nearby Wildlander explosion for later, receives PASS 81.7 at the steps, vows to beat Fay, and boards a sleek supersonic flier."
+    },
+    {
+    "chunk_id": "broken-bow-assignment-2",
+    "type": "entities_focus",
+    "text": "Shelly (POV investigator) secures MD 81.7 and mobilizes; offstage adversary Fay frames the prey motif; Lucas remains offstage context. Tech: PID, SAIR, study pod, cyan AR guide line, podlev, Flight Platform 7C, supersonic flier, maintenance bot, StellaNet filters. Orgs: Stella/StellaNet, Forensic Division, Metrofederacy. Place: Shelly’s apartment to platform; destination Broken Bow Free City. Key facts: FI-III classified; 19-minute clock; explosion story flagged."
+    },
+    {
+    "chunk_id": "broken-bow-assignment-3",
+    "type": "style_theme_focus",
+    "text": "Brisk third-limited techno-procedural with subdued dread. Themes: agency vs predation, credentials as leverage, urgency and bait, grief transmuted into resolve. Motifs: cyan path (fate), caf bitterness, wind and fuel at departure, score ping at the threshold. Moral tension: step into danger as potential prey or refuse the call and lose all initiative."
+    }
+    ]
+    }

@@ -1,0 +1,255 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "2186-10-13_margdelain-frame-the-narrative_post-the-vote",
+    "chapter_number": 17,
+    "scene_number": 2,
+    "date_in_universe": "2186-10-13",
+    "absolute_timeline_notes": "Same day as council maneuvering; after McTanner’s call about Chase and before posting the afternoon inquiry vote."
+    },
+    "text_windows": {
+    "full_scene_clean": "She let out a long breath through her nose, slow and measured, like pressure bleeding from a sealed valve. The call with McTanner had drained her. Not because Chase was injured. Not even because he had disobeyed her. But because he'd done it now. During this vote. When every hour mattered. Any other week, she could have spun the situation: a dramatic injury, a mother's concern, a burst of sympathy from the chamber. But not today. Not when she was a single vote away from real change. No. This had to stay buried. \"He's fine,\" she muttered, brushing the thought aside. McTanner would've said something if he wasn't. She trusted his judgment — even when he pissed her off. She pulled an old photo from a shelf high on her desk. Stacks of rust-streaked shipping containers leaned in the frame — early Fox River. There were ropes and pulleys, scaffolding, construction teams. Fox River ingenuity at its finest. Noisy. Patchworked. Vulnerable. It's not that much different today, just better paint. Her eyes narrowed. The Three Shovels Trade Caravan had vanished. No bodies. No wreckage. Just gone. And that bothered her more than she wanted to admit. Because wildlanders didn't make people disappear like that. They left chaos. Carnage. Flame. Not silence. This was someone else. Someone with an agenda. It would've been more expedient if the caravan had been eliminated, she admitted silently. If they were dead, there'd be nothing to investigate. No stories. No witnesses. No one to blow apart her momentum. But if they weren't dead… The survivors are going to come back here. One of them was on an operating table this very moment. They're going to tell their story, and that is going to matter. She realized it didn't matter who had actually done this. Jessop would seize it like a preacher at a funeral. He'd twist it into fear, into fury. Then he'd blame the Metrofederacy. He'd call Stella a monster. Claim that their terror troops had come to kidnap women and children and silence wildlanders in the night. Feed the fire. And it would work. She clenched her jaw. Jessop knew exactly how to manipulate fear — but she knew how to weaponize vision. Fox River was not safe. Not anymore. Not without help. Stella was not the boogeyman. She was the firewall. If an entire caravan full of people could vanish without a trace, that wasn't some wildlander feud. That was purpose with access to power. Bigger pieces were moving, and if Fox River didn't align with that power, they would be crushed by it eventually. Why can't he see that? Why can't any of them? She wiped dust from the frame and returned the photo to its shelf. Then she straightened her blouse. If Jessop got ahead of this narrative, it was over. He'd make them cling harder to tradition. She had to shape the conversation now, before he did — she had to move quickly. The truth was irrelevant. But the story had to be hers. I've got to win this vote. Margdelain took a deep breath and stood from her chair. \"Come on,\" she said, glancing to the Master Scrivener. \"Let's get that vote posted.\"",
+    "dense_recap_250w": "In her office on the day of the council vote, Chancellor Margdelain processes McTanner’s report about Chase’s injury and disobedience—not out of maternal worry, but because the timing threatens her razor-thin margin to open an inquiry on joining the Metrofederacy. She studies an old photo of early Fox River and turns to the urgent mystery: the Three Shovels Trade Caravan has vanished without bodies or wreckage. To her, that silence implies a powerful actor with purpose, not typical Wildlander violence. She anticipates Brother Jessop will seize the event to inflame fear and blame Stella, weaponizing the narrative against Metro alignment. Determined to preempt him, she concludes that truth is secondary to shaping the story; Fox River needs protection and alignment with greater power or it will be crushed. She resolves to bury distracting news about Chase, control the message, and immediately post the vote. Margdelain summons the Master Scrivener to move, intent on owning the narrative before Jessop can define it.",
+    "query_handle": "Margdelain resolves to control the caravan narrative, sideline Chase fallout, and rush-post the Metrofederacy inquiry vote."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Political timing over personal concern",
+    "what_happens": "After McTanner’s call, Margdelain suppresses concern about Chase to avoid jeopardizing the vote.",
+    "involved_entities": ["margdelain", "jeb-mctanner", "chase"],
+    "stakes_or_conflict": "Maternal impulse vs. political objective."
+    },
+    {
+    "order": 2,
+    "label": "Photo of Fox River catalyzes focus",
+    "what_happens": "She studies an old image of container-stacked Fox River, reflecting on its vulnerability.",
+    "involved_entities": ["margdelain"],
+    "stakes_or_conflict": "City fragility vs. looming threats."
+    },
+    {
+    "order": 3,
+    "label": "Caravan disappearance reframed",
+    "what_happens": "She infers the Three Shovels vanishing signals a powerful, purposeful actor, not random Wildlander violence.",
+    "involved_entities": ["margdelain", "three-shovels-caravan"],
+    "stakes_or_conflict": "Uncertainty and fear vs. strategic interpretation."
+    },
+    {
+    "order": 4,
+    "label": "Narrative warfare forecast",
+    "what_happens": "Margdelain predicts Brother Jessop will weaponize the incident against Stella and vows to seize the narrative first.",
+    "involved_entities": ["margdelain", "brother-jessop", "metrofederacy"],
+    "stakes_or_conflict": "Information control vs. opposition propaganda."
+    },
+    {
+    "order": 5,
+    "label": "Decision: post the vote now",
+    "what_happens": "She instructs the Master Scrivener to get the vote posted immediately.",
+    "involved_entities": ["margdelain", "master-scrivener-francis", "fox-river-council"],
+    "stakes_or_conflict": "Momentum vs. potential backlash."
+    }
+    ],
+    "characters": [
+    {
+    "id": "margdelain",
+    "display_name": "Chancellor Margdelain",
+    "aliases": ["Chancellor"],
+    "role_in_scene": "POV",
+    "goals_now": "Control the narrative around the caravan disappearance and secure the Metrofederacy inquiry vote.",
+    "obstacles": "Imminent opposition messaging by Brother Jessop; thin majority; fallout from Chase’s actions.",
+    "tactics": "Message discipline, agenda setting, rapid procedural action (post the vote), emotional compartmentalization.",
+    "relationships": [
+    {"with": "jeb-mctanner", "type": "executive/commander", "state": "strained but trusting of competence", "evidence": "“She trusted his judgment — even when he pissed her off.”"},
+    {"with": "chase", "type": "mother/son", "state": "alienated by politics and timing", "evidence": "She buries concern to protect the vote."},
+    {"with": "brother-jessop", "type": "political-opponents", "state": "adversarial, narrative contest", "evidence": "Predicts he’ll twist the event to blame Stella."},
+    {"with": "master-scrivener-francis", "type": "boss/subordinate", "state": "efficient coordination", "evidence": "“Come on… Let’s get that vote posted.”"}
+    ],
+    "emotional_arc": {
+    "start": "drained, irritated",
+    "turning_points": ["Photo triggers city-safety framing", "Reframes incident as power play requiring alignment"],
+    "end": "resolute, mission-focused"
+    },
+    "notable_actions": ["suppresses scandal about Chase", "frames caravan event as strategic threat", "orders immediate posting of vote"],
+    "quotable_lines": ["The truth was irrelevant. But the story had to be hers.", "Stella was not the boogeyman. She was the firewall."]
+    },
+    {
+    "id": "master-scrivener-francis",
+    "display_name": "Master Scrivener Francis",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Execute posting of the vote on Margdelain’s order.",
+    "obstacles": "Time pressure; political sensitivity.",
+    "tactics": "Administrative precision and speed.",
+    "relationships": [
+    {"with": "margdelain", "type": "advisor/administrator", "state": "trusted executor", "evidence": "She cues him to post the vote immediately."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": ["prepares to post the vote"],
+    "quotable_lines": []
+    },
+    {
+    "id": "brother-jessop",
+    "display_name": "Brother Jessop",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Offstage, likely to exploit fear against Stella (inferred).",
+    "obstacles": "Margdelain’s preemption of the narrative.",
+    "tactics": "Propaganda and moral panic (anticipated).",
+    "relationships": [
+    {"with": "margdelain", "type": "political-opponents", "state": "ideological conflict", "evidence": "She foresees his framing to blame Metrofederacy."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "jeb-mctanner",
+    "display_name": "Jebidiah McTanner",
+    "aliases": ["Master McTanner"],
+    "role_in_scene": "cameo",
+    "goals_now": "Report status on Chase and operations.",
+    "obstacles": "Chancellor’s political constraints.",
+    "tactics": "Direct reporting (offstage).",
+    "relationships": [
+    {"with": "margdelain", "type": "subordinate to executive", "state": "tense but functional", "evidence": "She trusts his judgment despite anger."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "old-fox-river-photo",
+    "name": "Old Fox River construction photo",
+    "category": "other",
+    "capabilities": ["symbolic reminder of city’s rough origins and vulnerability"],
+    "owner_or_users": ["margdelain"],
+    "condition_or_state": "worn, dusty",
+    "scene_function": "Catalyzes Margdelain’s framing of safety/vision and urgency to control the narrative."
+    }
+    ],
+    "locations": [
+    {
+    "id": "chancellors-office-fox-river",
+    "name": "Chancellor’s office, Fox River",
+    "type": "structure",
+    "descriptors": ["desk with shelves", "old photo of container stacks", "administrative quiet"],
+    "in_scene_events": ["Margdelain reframes the crisis and orders the vote posting."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "fox-river-council",
+    "name": "Fox River Council/Chamber",
+    "alignment": "ally",
+    "agents_present": ["margdelain", "master-scrivener-francis"],
+    "motives_inferred": "Advance or block Metrofederacy inquiry; sensitive to public narrative.",
+    "actions_in_scene": ["Prepares to post and conduct the vote."]
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Stella Metrofederacy",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Prospective alignment partner and security ‘firewall’ (Margdelain’s framing).",
+    "actions_in_scene": ["Referenced as protective counterweight."]
+    },
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Trade Caravan",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Victims of disappearance; potential witnesses whose story could sway politics.",
+    "actions_in_scene": ["Referenced disappearance triggers narrative battle."]
+    },
+    {
+    "id": "brother-jessop-devotees",
+    "name": "Brother Jessop’s movement",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Exploit fear to oppose Metro alignment.",
+    "actions_in_scene": ["Anticipated counter-narrative blaming Stella."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["narrative control vs. truth", "security through alignment vs. independence", "politics over personal ties", "fear vs. vision", "power asymmetry and realpolitik"],
+    "motifs_symbols": ["rust-streaked containers", "dusty photo frame", "silence after disappearance", "firewall metaphor for Stella"],
+    "moral_questions": ["Is it ethical to ‘own’ a story to achieve perceived greater good?", "When does public safety justify sidelining personal truth or transparency?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "political, introspective, strategic",
+    "pacing": "brisk",
+    "voice_traits": ["cool calculation", "imagistic metaphors", "policy framing"],
+    "sensory_notes": ["pressure-valve breath", "dust on photo frame", "visual of rusted containers"]
+    },
+    "causality": {
+    "prior_dependencies": ["McTanner’s call about Chase; council headcount is razor thin; the unexplained vanishing of the Three Shovels Caravan; ongoing Metrofederacy inquiry push."],
+    "outcomes": ["Decision to suppress distracting narratives, preempt Jessop’s framing, and immediately post the vote.", "Stella reframed as ‘firewall’ in internal messaging."],
+    "unanswered_questions": ["Who made the caravan disappear and why?", "Will Margdelain’s narrative beat Jessop’s in the chamber and public sphere?", "Will survivors’ testimonies derail the vote?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["margdelain", "brother-jessop"],
+    "trigger": "Competing narratives around the caravan disappearance.",
+    "resolution": "Unresolved; Margdelain moves first to set the agenda."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["margdelain", "fox-river-council dynamics"],
+    "trigger": "Need to secure a vulnerable majority under time pressure.",
+    "resolution": "She orders the vote to be posted immediately."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["margdelain"],
+    "trigger": "Maternal concern vs. political necessity.",
+    "resolution": "She compartmentalizes and prioritizes the vote."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["political manipulation", "disappearance/abduction implications"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Margdelain narrative control", "Three Shovels disappearance", "Brother Jessop propaganda", "Metrofederacy as firewall", "Vote posting order"],
+    "keywords_dense": "Chancellor Margdelain, Master Scrivener Francis, Brother Jessop, Fox River Council, Three Shovels Trade Caravan disappearance, Stella Metrofederacy, narrative control, political strategy, vote posting, information warfare, container city photo, fear vs vision",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chancellor Margdelain", "Master Scrivener Francis", "Brother Jessop", "Jebidiah McTanner", "Chase"],
+    "places": ["Chancellor’s office, Fox River"],
+    "orgs": ["Fox River Council/Chamber", "Stella Metrofederacy", "Three Shovels Trade Caravan"],
+    "terms": ["firewall (metaphor)", "Wildlanders"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Why does Margdelain want to keep Chase’s situation quiet?", "a": "Because the timing could derail her narrow majority for the Metrofederacy inquiry vote."},
+    {"q": "What about the caravan’s disappearance alarms her?", "a": "The absence of bodies or wreckage suggests a powerful, purposeful actor rather than typical Wildlander violence."},
+    {"q": "How does she anticipate Brother Jessop will respond?", "a": "He will frame the event to stoke fear and blame the Metrofederacy/Stella."},
+    {"q": "What immediate action does she take at the end of the scene?", "a": "She instructs the Master Scrivener to get the vote posted."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-10-13-margdelain-narrative-pivot_recap",
+    "type": "recap",
+    "text": "After McTanner’s call about Chase, Chancellor Margdelain suppresses personal concern to protect a razor-thin vote to open a Metrofederacy inquiry. She reflects on Fox River’s vulnerability and reframes the vanished Three Shovels Caravan as evidence of a powerful actor. Expecting Brother Jessop to weaponize fear and blame Stella, she decides truth matters less than controlling the story and orders the vote posted immediately."
+    },
+    {
+    "chunk_id": "2186-10-13-margdelain-entities-focus",
+    "type": "entities_focus",
+    "text": "Actors: Margdelain (chancellor, POV strategist); Master Scrivener Francis (administrative executor); Brother Jessop (anticipated narrative adversary); McTanner and Chase (offstage catalysts). Orgs: Fox River Council, Stella Metrofederacy, Three Shovels Trade Caravan. Objects/Motifs: old Fox River photo of rusted container stacks symbolizing fragility. Place: Chancellor’s office where the decision to post the vote is made."
+    },
+    {
+    "chunk_id": "2186-10-13-margdelain-style-theme",
+    "type": "style_theme_focus",
+    "text": "Strategic third-limited interiority with political clarity and metaphoric imagery. Themes: narrative control vs truth, fear vs vision, security through alignment vs independence, politics over family. Motifs: rust-streaked containers, dusty photo, ‘firewall’ metaphor for Stella, silence as a sign of power."
+    }
+    ]
+    }

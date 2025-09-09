@@ -1,0 +1,278 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "fox-river-icu-2300h-demmy-shift-change",
+    "chapter_number": 18,
+    "scene_number": 2,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Fox River Medical Ward ICU, 2300h shift change, night after TRG medevac from a ravager raid."
+    },
+    "text_windows": {
+    "full_scene_clean": "Demmy lies unconscious in a Fox River intensive care bed, breathing tube taped to his face and IV bags dripping fluids. Monitors beep in time with his shallow breaths. During shift change, an outgoing nurse briefs the incoming nurse: name unknown, listed as a skerv John Doe the TRG pulled from a ravager raid; injuries include liver lacerations, a punctured lung, and massive blood loss. He was nearly lost on the flight—no pulse for about twenty seconds—before being resuscitated with chest compressions and vasopressors. He is extremely thin and was completely shaved due to heavy lice infestation; his infested clothing was incinerated, while his electronics are stored in the bedside table. The plan: close watch overnight, bandage changes at 0400, broad-spectrum antibiotics continuing, and antiparasitics/dewormers to follow when stable. If he survives, Fox River policy could grant him residency, ending his life as a skerv. The incoming nurse authenticates the handoff with a fingerprint and takes over care.",
+    "dense_recap_250w": "At 2300 hours in the Fox River ICU, nurses hand off care for an unidentified skerv—Demmy—rescued by McTanner’s TRG after a ravager raid. He lies sedated and intubated, supported by IV fluids and monitors. The outgoing nurse summarizes a critical course: emergency surgery for liver lacerations and a punctured lung, severe blood loss, and a near-arrest during medevac requiring chest compressions and vasopressors for roughly twenty seconds before return of circulation. Because of heavy lice infestation, he was fully shaved and all clothing destroyed; his electronics remain secured in the bedside table. The incoming nurse notes his emaciation but also the policy implication—survival could grant permanent residency in Fox River, ending his status as a skerv. Orders include ongoing broad-spectrum antibiotics, vigilant infection watch, scheduled bandage changes at 0400, and later antiparasitic and deworming treatments once he stabilizes. The handoff is authenticated by fingerprint on a datapad, and the new nurse commits to close observation. The scene quietly reframes Demmy’s arc from battlefield chaos to fragile convalescence, highlighting triage protocols, social mobility via survival, and the thin line between death and a second chance inside Fox River.",
+    "query_handle": "Demmy unconscious in Fox River ICU; nurses’ shift change reviews injuries, near-arrest in medevac, lice cleanup, and care plan."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "ICU snapshot",
+    "what_happens": "Demmy lies intubated and sedated; monitors and IVs sustain him.",
+    "involved_entities": ["demmy", "fox-river-medical-icu"],
+    "stakes_or_conflict": "Life-or-death stabilization."
+    },
+    {
+    "order": 2,
+    "label": "Shift handoff",
+    "what_happens": "Outgoing nurse briefs incoming nurse on injuries, course, and orders; handoff is fingerprint-authenticated.",
+    "involved_entities": ["nurse-outgoing", "nurse-incoming", "demmy"],
+    "stakes_or_conflict": "Continuity of critical care."
+    },
+    {
+    "order": 3,
+    "label": "Backstory and risk",
+    "what_happens": "TRG medevac nearly loses pulse; heavy lice infestation addressed; electronics secured.",
+    "involved_entities": ["trg", "demmy", "nurse-outgoing"],
+    "stakes_or_conflict": "Post-op survival risk; infection control."
+    },
+    {
+    "order": 4,
+    "label": "Prospect of residency",
+    "what_happens": "Incoming nurse notes survival could earn Fox River residency for Demmy.",
+    "involved_entities": ["nurse-incoming", "demmy", "fox-river-governance"],
+    "stakes_or_conflict": "Social status change contingent on survival."
+    }
+    ],
+    "characters": [
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": ["John Doe skerv (hospital intake)"],
+    "role_in_scene": "major",
+    "goals_now": "Survive immediate post-op period.",
+    "obstacles": "Liver lacerations, punctured lung, severe blood loss; risk of infection; overall frailty.",
+    "tactics": "Passive medical support (intubation, IV antibiotics, monitoring).",
+    "relationships": [
+    {"with": "jeb-mctanner", "type": "rescuer-to-patient", "state": "indirect/absent", "evidence": "TRG medevac pulled him from a ravager raid."}
+    ],
+    "emotional_arc": {
+    "start": "unconscious, fragile",
+    "turning_points": ["Return of pulse after ~20 seconds during flight"],
+    "end": "critical but stable under watch"
+    },
+    "notable_actions": ["survived near-arrest during medevac"],
+    "quotable_lines": []
+    },
+    {
+    "id": "nurse-incoming",
+    "display_name": "Incoming ICU Nurse",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Assume care, monitor for infection, execute 0400 bandage changes.",
+    "obstacles": "High-acuity patient; risk of complications overnight.",
+    "tactics": "Review chart, confirm handoff, close observation, adhere to orders.",
+    "relationships": [
+    {"with": "nurse-outgoing", "type": "colleagues", "state": "professional", "evidence": "Formal shift-change briefing and authentication."},
+    {"with": "demmy", "type": "caregiver-patient", "state": "attentive", "evidence": "\"I'll keep a close watch.\""}
+    ],
+    "emotional_arc": {"start": "focused, concerned", "turning_points": [], "end": "vigilant"},
+    "notable_actions": ["fingerprint-authenticates handoff", "plans 0400 bandage changes"],
+    "quotable_lines": ["He's won the lottery, then... he'll be granted permanent residency here at Fox River."]
+    },
+    {
+    "id": "nurse-outgoing",
+    "display_name": "Outgoing ICU Nurse",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Transfer complete situational awareness to incoming nurse.",
+    "obstacles": "Complex case with recent arrest and infestation control.",
+    "tactics": "Detailed verbal briefing; emphasize near-arrest and infection watch.",
+    "relationships": [
+    {"with": "demmy", "type": "caregiver-patient", "state": "protective", "evidence": "Watched over him since emergency surgery."}
+    ],
+    "emotional_arc": {"start": "wary", "turning_points": [], "end": "relieved to hand off"},
+    "notable_actions": ["managed initial stabilization post-op", "oversaw shaving and decontamination"],
+    "quotable_lines": ["They almost lost him on the flight... they brought him back, but it was close."]
+    },
+    {
+    "id": "jeb-mctanner",
+    "display_name": "Jebidiah McTanner",
+    "aliases": ["McTanner"],
+    "role_in_scene": "offstage",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "demmy", "type": "rescuer", "state": "indirect", "evidence": "TRG pulled him from a ravager raid."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "icu-breathing-tube",
+    "name": "Endotracheal tube",
+    "category": "medical",
+    "capabilities": ["airway protection", "mechanical ventilation interface"],
+    "owner_or_users": ["demmy", "fox-river-medical-staff"],
+    "condition_or_state": "in use",
+    "scene_function": "Supports Demmy’s breathing while unconscious."
+    },
+    {
+    "id": "iv-therapy",
+    "name": "IV fluids and antibiotics",
+    "category": "medical",
+    "capabilities": ["volume resuscitation", "infection prophylaxis/treatment"],
+    "owner_or_users": ["demmy", "fox-river-medical-staff"],
+    "condition_or_state": "running",
+    "scene_function": "Stabilizes and protects against infection post-op."
+    },
+    {
+    "id": "patient-monitors",
+    "name": "ICU vital sign monitors",
+    "category": "medical",
+    "capabilities": ["continuous ECG, SpO2, BP monitoring", "alarms"],
+    "owner_or_users": ["fox-river-medical-staff"],
+    "condition_or_state": "active",
+    "scene_function": "Auditory motif (beeps); tracks Demmy’s status."
+    },
+    {
+    "id": "nurse-datapad",
+    "name": "Nurse datapad with fingerprint handoff",
+    "category": "tool",
+    "capabilities": ["chart review", "handoff authentication", "orders display"],
+    "owner_or_users": ["nurse-incoming", "nurse-outgoing"],
+    "condition_or_state": "intact",
+    "scene_function": "Formalizes shift change and orders."
+    },
+    {
+    "id": "bedside-electronics",
+    "name": "Patient electronics (secured)",
+    "category": "other",
+    "capabilities": ["unknown—personal devices"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "secured in bedside table",
+    "scene_function": "Personal effects preserved for later; potential identity clues."
+    },
+    {
+    "id": "medevac-quadrafan",
+    "name": "Quadrafan medevac (referenced)",
+    "category": "vehicle",
+    "capabilities": ["rapid evacuation", "in-flight resuscitation"],
+    "owner_or_users": ["trg", "fox-river-medical"],
+    "condition_or_state": "operational",
+    "scene_function": "Delivered Demmy; near loss of pulse occurred in transit."
+    }
+    ],
+    "locations": [
+    {
+    "id": "fox-river-medical-icu",
+    "name": "Fox River Medical Ward — ICU",
+    "type": "structure",
+    "descriptors": ["sterile lighting", "machine beeps", "night shift quiet"],
+    "in_scene_events": ["ICU shift change at 2300h; plan set for 0400 bandage changes and infection watch."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "trg",
+    "name": "Tactical Response Group (TRG)",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Rescue and stabilize victims of ravager raids; coordinate medevac.",
+    "actions_in_scene": ["Pulled Demmy from a ravager raid and evacuated him to Fox River."]
+    },
+    {
+    "id": "fox-river-medical",
+    "name": "Fox River Medical",
+    "alignment": "ally",
+    "agents_present": ["nurse-incoming", "nurse-outgoing"],
+    "motives_inferred": "Critical care and infection control.",
+    "actions_in_scene": ["Performed surgery, decontaminated patient, continued ICU care and monitoring."]
+    },
+    {
+    "id": "fox-river-governance",
+    "name": "Fox River governance",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Civic policy granting residency to qualifying survivors.",
+    "actions_in_scene": ["Referenced: potential residency for Demmy upon survival."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["survival and triage", "compassion within systems", "border between outsider and citizen", "fragility vs. resilience"],
+    "motifs_symbols": ["beeping monitors", "shaved head/lice removal", "fingerprint handoff", "sealed bedside electronics"],
+    "moral_questions": ["Who deserves sanctuary and citizenship after violence?", "How much resource should a city invest in an unknown outsider’s recovery?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "omniscient",
+    "tense": "past",
+    "register": "clinical/cinematic",
+    "pacing": "slow-burn",
+    "voice_traits": ["procedural detail", "quiet compassion", "matter-of-fact dialogue"],
+    "sensory_notes": ["monitor beeps", "sterile smells", "quiet night-shift murmur"]
+    },
+    "causality": {
+    "prior_dependencies": ["TRG rescue from ravager raid; emergency surgery; medevac near-arrest; decontamination due to lice."],
+    "outcomes": ["Demmy stabilized in ICU under antibiotics; plan for 0400 dressing changes; potential path to Fox River residency if he survives."],
+    "unanswered_questions": ["Will Demmy survive the night?", "What are the contents of his electronics?", "How will his identity be confirmed?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_environment",
+    "parties": ["demmy", "traumatic injuries/infection risk"],
+    "trigger": "Severe wounds and blood loss from ravager raid.",
+    "resolution": "Unresolved—ICU care ongoing."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["demmy", "civic status/policy"],
+    "trigger": "Skerv outsider potentially gaining residency upon survival.",
+    "resolution": "Unresolved—contingent on recovery."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mentioned",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["serious injury/surgery", "lice infestation/decontamination", "cardiac arrest and resuscitation"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Demmy", "Fox River ICU", "TRG medevac", "shift change 2300h", "near cardiac arrest", "infection control", "residency policy"],
+    "keywords_dense": "Demmy, Fox River Medical ICU, TRG medevac, ravager raid, liver lacerations, punctured lung, blood loss, resuscitation, vasopressors, antibiotics, lice infestation, decontamination, residency policy, skerv, bedside electronics, fingerprint handoff",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Demmy", "Jebidiah McTanner"],
+    "places": ["Fox River Medical Ward — ICU"],
+    "orgs": ["Tactical Response Group (TRG)", "Fox River Medical"],
+    "terms": ["skerv", "vasopressors", "antiparasitics", "dewormers", "intubation"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What are Demmy’s primary injuries noted by the nurses?", "a": "Liver lacerations, a punctured lung, and massive blood loss."},
+    {"q": "Who brought Demmy to Fox River ICU?", "a": "McTanner and the Tactical Response Group via medevac."},
+    {"q": "What nearly happened during the flight?", "a": "He lost his pulse for nearly twenty seconds and required resuscitation."},
+    {"q": "Why was Demmy completely shaved?", "a": "Severe lice infestation; clothing was bagged and incinerated."},
+    {"q": "What care is scheduled overnight?", "a": "Close monitoring with antibiotics and bandage changes at 0400; antiparasitics/dewormers once stable."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "foxriver-icu-2300h-recap",
+    "type": "recap",
+    "text": "At 2300h in Fox River ICU, nurses hand off care for an unidentified skerv rescued by TRG after a ravager raid. Demmy lies intubated, post-op for liver and lung injuries after severe blood loss. He nearly arrested during medevac but was revived with compressions and vasopressors. Due to heavy lice, he was shaved and decontaminated; his electronics are secured. Orders: antibiotics, infection watch, 0400 dressing changes, and later antiparasitics when stable. Survival could grant him Fox River residency."
+    },
+    {
+    "chunk_id": "foxriver-icu-2300h-entities",
+    "type": "entities_focus",
+    "text": "People: Demmy (unconscious patient), Incoming ICU Nurse, Outgoing ICU Nurse, Jebidiah McTanner (referenced rescuer). Orgs: Fox River Medical, TRG. Location: Fox River Medical Ward—ICU. Tech/Items: endotracheal tube, IV antibiotics, ICU monitors, nurse datapad with fingerprint handoff, bedside electronics, medevac quadrafan. Facts: near-arrest in transit; lice decontamination; policy note—residency upon survival."
+    },
+    {
+    "chunk_id": "foxriver-icu-2300h-style-theme",
+    "type": "style_theme_focus",
+    "text": "Omniscient, clinical-cinematic tone with procedural detail and quiet compassion. Themes: survival via systems of care, liminality between outsider and citizen, fragility vs. resilience. Motifs: monitor beeps, shaved scalp/lice, fingerprint-authenticated handoff, sealed personal effects."
+    }
+    ]
+    }

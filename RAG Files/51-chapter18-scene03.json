@@ -1,0 +1,327 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "margdelain-office-whiskey-strategy-night-13oct2186",
+    "chapter_number": 18,
+    "scene_number": 3,
+    "date_in_universe": "2186-10-13",
+    "absolute_timeline_notes": "Night of the council adjournment; Margdelain regroups in her office after Jessop outmaneuvers the vote."
+    },
+    "text_windows": {
+    "full_scene_clean": "Margdelain shrugged off her jacket, dropped into her desk chair, and poured a finger of honey-colored whiskey into a rocks glass. The burn matched the turmoil in her head. She tapped a manicured nail on polished pine, mind racing through scenarios, allies, and pressure points. The council vote and Metrofederacy petition had been within reach—now shattered. She forced the anger down. Jessop had flipped her son’s recklessness into heroism and used it to derail her push. Councilman Bivualier had vanished after the meeting—likely hidden while Jessop’s side cleaned up his financial irregularities. She thought of Ransom Canyon and its rising warlord, Makko; Fox River could not stay isolated forever. Progress, security, prosperity—joining the Metrofederacy was the only real shield. She swirled the whiskey and asked herself how to use the setback. She would lean into optics: play the doting mother, pin a medal on Chase, and milk the narrative, while leveraging Broder Willis’s algae bioreactor breakthroughs as a bargaining chip to make the petition irresistible. She tapped the com stud behind her ear. Francis answered, dryly noting that Chase had become a celebrity and that the town was already planning parties. She grimaced, asked for the real vote math, and prepared to pivot her strategy.",
+    "dense_recap_250w": "Alone in her office after the council session, Chancellor Margdelain tries to convert a political setback into an opportunity. Brother Jessop has reframed her son Chase’s disobedience as heroism, winning a standing ovation and a motion to adjourn that stalls her Metrofederacy inquiry. Councilman Bivualier—recently pressured by Margdelain—has disappeared, likely sequestered by Jessop until his suspicious transfers are sanitized. Margdelain’s internal calculus blends policy and optics: Fox River faces external threat from Ransom Canyon and its ascendant warlord, Makko, and she believes only Metrofederacy alignment can deter invasion. She resolves to use the new public narrative, acting as proud mother to neutralize the trap, even pinning a medal on Chase if necessary, while foregrounding Broder Willis’s algae bioreactor breakthroughs as a strategic bargaining chip. Over a whiskey, she contacts Master Scrivener Francis via her com stud; he reports that Chase’s legend is already fueling citywide celebration plans. Margdelain asks for a hard reassessment of votes and pathways, determined to regain momentum quickly. The scene details her ruthlessly pragmatic mindset: narrative control over truth, coalition-building, and converting personal optics into leverage against Jessop’s theocratic bloc.",
+    "query_handle": "Margdelain drinks in her office, assesses Jessop’s trap, and pivots strategy: use Chase’s hero optics and algae bioreactor to salvage Metrofederacy vote."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Private reckoning",
+    "what_happens": "Margdelain cools her anger with whiskey and forces herself into problem-solving mode after a public setback.",
+    "involved_entities": ["margdelain", "margdelain-office"],
+    "stakes_or_conflict": "Her Metrofederacy push is stalled; she risks losing strategic initiative."
+    },
+    {
+    "order": 2,
+    "label": "Identify adversary’s play",
+    "what_happens": "She recognizes Jessop reframed Chase’s insubordination as heroism and hid Bivualier.",
+    "involved_entities": ["margdelain", "brother-jessop", "councilman-bivualier"],
+    "stakes_or_conflict": "Opposition controls narrative and key swing vote."
+    },
+    {
+    "order": 3,
+    "label": "Strategic context",
+    "what_happens": "She reflects on external threat from Ransom Canyon and warlord Makko to justify Metrofederacy alignment.",
+    "involved_entities": ["margdelain", "ransom-canyon", "warlord-makko", "metrofederacy"],
+    "stakes_or_conflict": "Fox River’s survival vs. isolation."
+    },
+    {
+    "order": 4,
+    "label": "New plan: optics + tech",
+    "what_happens": "She decides to play the doting mother and leverage Broder Willis’s algae bioreactor to regain votes.",
+    "involved_entities": ["margdelain", "chase", "broder-willis"],
+    "stakes_or_conflict": "Reclaim majority before opposition consolidates."
+    },
+    {
+    "order": 5,
+    "label": "Operational check-in",
+    "what_happens": "She calls Master Scrivener Francis; he reports citywide celebration for Chase and prepares vote reassessment.",
+    "involved_entities": ["margdelain", "master-scrivener-francis"],
+    "stakes_or_conflict": "Time pressure to reset the legislative timetable."
+    }
+    ],
+    "characters": [
+    {
+    "id": "margdelain",
+    "display_name": "Chancellor Margdelain",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Recover the Metrofederacy inquiry vote by seizing narrative control and re-whipping the chamber.",
+    "obstacles": "Jessop’s theocratic bloc, Bivualier’s disappearance, public focus on Chase’s heroism, time pressure.",
+    "tactics": "Reframe optics as proud mother, deploy policy chips (algae bioreactor), direct whip count via Francis.",
+    "relationships": [
+    {"with": "chase", "type": "family", "state": "strained/pragmatic", "evidence": "Plans to ‘pin a medal’ to leverage his hero optics despite anger at his disobedience."},
+    {"with": "brother-jessop", "type": "rivals", "state": "hostile, strategic", "evidence": "He outmaneuvered her by turning Chase into a hero and stalling the vote."},
+    {"with": "master-scrivener-francis", "type": "ally/aide", "state": "trusted, wry rapport", "evidence": "She leans on him for intel and mood management."},
+    {"with": "councilman-bivualier", "type": "political-target", "state": "compromised leverage", "evidence": "Flagged for irregular transfers; now missing after session."}
+    ],
+    "emotional_arc": {
+    "start": "furious, frustrated",
+    "turning_points": ["Rejects petulance; commits to tactical pivot.", "Chooses to weaponize Chase’s optics and tech leverage."],
+    "end": "steely, calculating"
+    },
+    "notable_actions": ["pours whiskey", "maps counterstrategy", "contacts Francis for vote status"],
+    "quotable_lines": [
+    "He thinks he can keep Fox River trapped in the past.",
+    "How can I use this?",
+    "Play the doting mother, pin a medal on Chase, and milk this disaster for all it’s worth."
+    ]
+    },
+    {
+    "id": "master-scrivener-francis",
+    "display_name": "Master Scrivener Francis",
+    "aliases": ["Francis"],
+    "role_in_scene": "supporting",
+    "goals_now": "Provide intelligence and update the whip count for the vote.",
+    "obstacles": "Fluid public narrative and opposition concealment of Bivualier.",
+    "tactics": "Sardonic rapport, rapid comms, sourcing intel.",
+    "relationships": [
+    {"with": "margdelain", "type": "ally", "state": "trusted/confidant", "evidence": "She relies on his updates and tone to steady her."}
+    ],
+    "emotional_arc": {"start": "wry, steady", "turning_points": [], "end": "focused"},
+    "notable_actions": ["reports Chase’s sudden celebrity", "preps vote reassessment"],
+    "quotable_lines": ["Perhaps it’s time to invest in confectioneries?"]
+    },
+    {
+    "id": "brother-jessop",
+    "display_name": "Brother Jessop",
+    "aliases": [],
+    "role_in_scene": "offstage",
+    "goals_now": "Block Metrofederacy alignment and maintain traditionalist control.",
+    "obstacles": "Margdelain’s policy leverage and public messaging.",
+    "tactics": "Narrative inversion (Chase as hero), procedural stalling, sequestering swing votes.",
+    "relationships": [
+    {"with": "margdelain", "type": "political adversaries", "state": "active conflict", "evidence": "He orchestrated the applause and adjournment that halted her vote."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "councilman-bivualier",
+    "display_name": "Councilman Bivualier",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Self-preservation amid financial scrutiny (inferred).",
+    "obstacles": "Exposure of irregular transfers; political pressure.",
+    "tactics": "Disappears from view under opposition protection (inferred).",
+    "relationships": [
+    {"with": "brother-jessop", "type": "ally-of-convenience", "state": "sheltered", "evidence": "Likely hidden by Jessop’s side until issues are cleaned up."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "offstage",
+    "goals_now": "Unstated in scene; serves as political symbol.",
+    "obstacles": "Used as narrative pawn by both factions (inferred).",
+    "tactics": "N/A in this scene.",
+    "relationships": [
+    {"with": "margdelain", "type": "family", "state": "instrumentalized", "evidence": "She plans to honor him publicly to sway optics."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "warlord-makko",
+    "display_name": "Makko",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Expansion of power from Ransom Canyon (inferred from description).",
+    "obstacles": "Potential Metrofederacy deterrence (inferred).",
+    "tactics": "Organizing ravagers into disciplined army (referenced).",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "broder-willis",
+    "display_name": "Broder Willis",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "N/A in scene; his algae bioreactor breakthroughs serve as leverage.",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "rocks-glass-whiskey",
+    "name": "Rocks glass and whiskey",
+    "category": "other",
+    "capabilities": ["none (beverage)"],
+    "owner_or_users": ["margdelain"],
+    "condition_or_state": "in use",
+    "scene_function": "Physicalizes mood; ritual to steady and focus during crisis."
+    },
+    {
+    "id": "com-stud-implant",
+    "name": "Com stud (behind ear)",
+    "category": "comms",
+    "capabilities": ["secure voice link", "hands-free comms"],
+    "owner_or_users": ["margdelain", "master-scrivener-francis"],
+    "condition_or_state": "operational",
+    "scene_function": "Allows rapid intel pull and coordination with Francis."
+    },
+    {
+    "id": "algae-bioreactor-tech",
+    "name": "Algae bioreactor breakthroughs",
+    "category": "other",
+    "capabilities": ["strategic bargaining chip", "economic/tech value (inferred)"],
+    "owner_or_users": ["broder-willis", "fox-river"],
+    "condition_or_state": "referenced",
+    "scene_function": "Leverage to strengthen Metrofederacy petition and whip votes."
+    }
+    ],
+    "locations": [
+    {
+    "id": "margdelain-office",
+    "name": "Chancellor’s office, Fox River",
+    "type": "structure",
+    "descriptors": ["polished pine desk", "visitor’s chair", "bottle and glass", "quiet, after-hours"],
+    "in_scene_events": ["Margdelain consolidates strategy and calls Francis for vote intel."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "fox-river-council",
+    "name": "Fox River Council",
+    "alignment": "neutral",
+    "agents_present": ["margdelain", "councilman-bivualier", "brother-jessop"],
+    "motives_inferred": "Governance; divided over Metrofederacy alignment.",
+    "actions_in_scene": ["Session adjourned earlier; political maneuvering continues offstage."]
+    },
+    {
+    "id": "fox-river-theocratic-party",
+    "name": "Fox River Theocratic Party",
+    "alignment": "hostile",
+    "agents_present": ["brother-jessop"],
+    "motives_inferred": "Preserve tradition; block Metrofederacy petition.",
+    "actions_in_scene": ["Exploited Chase’s optics; likely sheltering Bivualier."]
+    },
+    {
+    "id": "divine-order-of-the-sanctifying-flame",
+    "name": "Divine Order of the Sanctifying Flame",
+    "alignment": "hostile",
+    "agents_present": ["brother-jessop"],
+    "motives_inferred": "Religious influence over civic decisions.",
+    "actions_in_scene": ["Referenced as Jessop’s base of authority."]
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Stella Metrofederacy",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Expansion/integration of member cities (inferred).",
+    "actions_in_scene": ["Referenced as target alignment for Fox River."]
+    },
+    {
+    "id": "ransom-canyon",
+    "name": "Ransom Canyon",
+    "alignment": "hostile",
+    "agents_present": ["warlord-makko"],
+    "motives_inferred": "Aggressive expansion; threat to holdfasts.",
+    "actions_in_scene": ["Referenced as rising military threat."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["power vs. tradition", "narrative as weapon", "realpolitik and optics", "security through alliance", "maternal image vs. political will"],
+    "motifs_symbols": ["whiskey burn as focus", "tapping nail ticking time", "swirling amber (calculation)", "hidden swing vote"],
+    "moral_questions": ["Is shaping truth for political stability justified?", "Do ends (city security) justify manipulating public sentiment and a child’s heroism?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "political/psychological",
+    "pacing": "slow-burn",
+    "voice_traits": ["cunning internal monologue", "sardonic asides", "strategic framing"],
+    "sensory_notes": ["whiskey burn and aroma", "click of glass on desk", "silent office"]
+    },
+    "causality": {
+    "prior_dependencies": ["Council session adjourned on Jessop’s motion; public applause for Chase; Bivualier’s flagged finances; external threat of Ransom Canyon."],
+    "outcomes": ["Margdelain commits to leveraging Chase’s optics and algae bioreactor as vote tools; directs Francis to reassess vote math; continues pursuit of Metrofederacy alignment."],
+    "unanswered_questions": ["Where is Bivualier and who controls him now?", "Can Margdelain rebuild a majority quickly?", "Who leaked Chase’s story to Jessop’s network?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["margdelain", "brother-jessop"],
+    "trigger": "Jessop weaponizes Chase’s hero optics to stall the vote.",
+    "resolution": "Unresolved; Margdelain pivots strategy."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["margdelain", "fox-river-political-order"],
+    "trigger": "Institutional resistance to Metrofederacy integration.",
+    "resolution": "Unresolved; new whipping effort planned."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["margdelain"],
+    "trigger": "Temptation toward anger and defeatism.",
+    "resolution": "She suppresses petulance and reorients to tactics."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "present",
+    "sexual_content": "none",
+    "sensitive_topics": ["political manipulation", "kidnapping/enslavement threats (referenced warlord)"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Margdelain", "Master Scrivener Francis", "Brother Jessop", "Council vote", "Metroferedacy petition", "algae bioreactor", "Ransom Canyon", "Makko", "Bivualier missing"],
+    "keywords_dense": "Chancellor Margdelain, Brother Jessop, Fox River Council, Metrofederacy petition, political optics, Chase hero narrative, Councilman Bivualier, financial irregularities, Master Scrivener Francis, algae bioreactor, Broder Willis, Ransom Canyon, warlord Makko, whiskey in office, com stud implant",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chancellor Margdelain", "Master Scrivener Francis", "Brother Jessop", "Councilman Bivualier", "Chase", "Broder Willis", "Makko"],
+    "places": ["Fox River", "Ransom Canyon"],
+    "orgs": ["Fox River Council", "Fox River Theocratic Party", "Divine Order of the Sanctifying Flame", "Stella Metrofederacy"],
+    "terms": ["algae bioreactor", "com stud", "hero optics"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Who outmaneuvered Margdelain in the council session?", "a": "Brother Jessop, who reframed Chase’s actions and secured adjournment."},
+    {"q": "What leverage does Margdelain plan to use to salvage the Metrofederacy vote?", "a": "Publicly embracing Chase’s hero optics and highlighting Broder Willis’s algae bioreactor breakthroughs."},
+    {"q": "Which external threat does Margdelain cite to justify Metrofederacy alignment?", "a": "Ransom Canyon and its rising warlord Makko."},
+    {"q": "Who has gone missing after the meeting?", "a": "Councilman Bivualier, likely kept out of sight by Jessop’s faction."},
+    {"q": "How does Margdelain communicate with Francis in this scene?", "a": "Via a com stud behind her ear."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "margdelain-office-13oct2186-recap",
+    "type": "recap",
+    "text": "After a council adjournment engineered by Brother Jessop, Chancellor Margdelain retreats to her office, steadies herself with whiskey, and reframes strategy. She will lean into Chase’s newfound hero optics and use Broder Willis’s algae bioreactor as leverage to rebuild votes for Fox River’s Metrofederacy petition. She notes Councilman Bivualier’s disappearance and the broader security rationale—Ransom Canyon and warlord Makko—arguing Fox River must align for survival. She calls Master Scrivener Francis via com stud to reassess the whip count."
+    },
+    {
+    "chunk_id": "margdelain-office-13oct2186-entities",
+    "type": "entities_focus",
+    "text": "Key actors: Chancellor Margdelain (POV), Master Scrivener Francis (ally), Brother Jessop (opposition leader; theocratic), Councilman Bivualier (swing vote gone missing), Chase (political symbol), Broder Willis (tech leverage), Makko (external threat). Orgs/places: Fox River Council, Fox River Theocratic Party, Divine Order of the Sanctifying Flame, Stella Metrofederacy, Ransom Canyon. Tech/items: whiskey/rocks glass, com stud implant, algae bioreactor breakthroughs."
+    },
+    {
+    "chunk_id": "margdelain-office-13oct2186-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-person limited on Margdelain with a political-psychological register and slow-burn pacing. Dominant themes: narrative as a weapon, progress vs. tradition, security through alliance, instrumentalized motherhood. Motifs include the whiskey’s burn, the ticking tap of a nail, and the quiet of the office as a war room."
+    }
+    ]
+    }

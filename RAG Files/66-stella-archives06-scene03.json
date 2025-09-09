@@ -1,0 +1,273 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "shelly-fi3-pass-access-17b",
+    "chapter_number": "Stella Archives 06",
+    "scene_number": "Scene 03",
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Immediately after Shelly’s FI-III exam; results processed and access granted to Core Medical Archive 17B with window 0600–2200."
+    },
+    "text_windows": {
+    "full_scene_clean": "The study pod is silent and trashed with stim cans, water bottles, and nutrition wrappers. Shelly, sixteen, waits motionless for her FI-III result, heart steady but sharp, staring at a PID status icon. The PID pings: Certification Forensic Investigator III—PASSED; Score 84%. She exhales without celebration, then opens an access request: Subject 291874237 (Deceased); Auth: FI-III (Provisional); Purpose: Cadaver Review & Residual Neurochemistry Audit. She hesitates, fearing Stella may deny a minor, then submits. Near-instant reply: Access Granted. Report Station: Core Medical Archive 17B. Window: 0600–2200. Subject remains preserved under conditional investigation protocol. Dizzy and hungry, she prioritizes hygiene over food, orders a shower via the multifunc, toggles the maintenance bot to collect recyclables, strips, and prepares to go see Randy.",
+    "dense_recap_250w": "In her littered Metrofederacy study pod, Shelly endures a buzzing, sleepless wait for her certification result. Her PID finally chimes: Forensic Investigator III—PASSED at 84%. Without fanfare, she immediately composes a formal access request for Subject 291874237 (her brother, Randy), invoking her new credential and specifying “Cadaver Review & Residual Neurochemistry Audit.” Though she worries Stella might block a sixteen-year-old on psychological-suitability grounds, she submits. The response is instantaneous: access is granted, with reporting instructions to Core Medical Archive 17B and a same-day access window of 0600–2200. It also confirms the remains are preserved under conditional investigation. Unsteady from fatigue and hunger, she defers eating, orders a shower from the pod’s multifunc, activates a maintenance bot to clear the recyclables, and strips down to clean up before departing. The scene resolves the credential gate but keeps the investigative stakes high: Shelly now has the legal authority and a narrow window to examine Randy’s decayed remains and audit residual neurochemistry, a crucial step toward uncovering how he died.",
+    "query_handle": "Shelly passes FI-III (84%), gains access to Randy’s remains at Core Medical Archive 17B, preps to go immediately."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Tense wait",
+    "what_happens": "Shelly waits in a trashed study pod for her certification result.",
+    "involved_entities": ["shelly", "pid", "study-pod"],
+    "stakes_or_conflict": "Certification determines access to Randy’s remains."
+    },
+    {
+    "order": 2,
+    "label": "Result posted",
+    "what_happens": "She passes FI-III with 84%.",
+    "involved_entities": ["shelly", "fi-iii-cert-system"],
+    "stakes_or_conflict": "Enables immediate access request."
+    },
+    {
+    "order": 3,
+    "label": "Access request",
+    "what_happens": "She submits a request to examine Randy’s corpse for cadaver review and residual neurochemistry.",
+    "involved_entities": ["shelly", "pid", "stella-ai", "randy"],
+    "stakes_or_conflict": "Fear of denial due to age and policy."
+    },
+    {
+    "order": 4,
+    "label": "Greenlight",
+    "what_happens": "Access granted; directed to Core Medical Archive 17B with a window of 0600–2200.",
+    "involved_entities": ["shelly", "core-medical-archive-17b"],
+    "stakes_or_conflict": "Time-bound opportunity to investigate."
+    },
+    {
+    "order": 5,
+    "label": "Immediate prep",
+    "what_happens": "She triggers cleanup, orders a shower, and prepares to leave for the archive.",
+    "involved_entities": ["shelly", "multifunc", "maintenance-bot"],
+    "stakes_or_conflict": "Physical depletion vs. urgency to act."
+    }
+    ],
+    "characters": [
+    {
+    "id": "shelly",
+    "display_name": "Shelly",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Leverage new FI-III credential to examine Randy’s remains immediately.",
+    "obstacles": "Fatigue, hunger, hygiene, fear of system denial, limited access window.",
+    "tactics": "Rapid administrative action via PID; defer food; prioritize shower; activate cleanup.",
+    "relationships": [
+    {"with": "randy", "type": "family", "state": "grief-driven resolve", "evidence": "“Then I go see Randy.”"},
+    {"with": "stella-ai", "type": "system", "state": "wary reliance", "evidence": "Worries system may deny a 16-year-old access, submits anyway."}
+    ],
+    "emotional_arc": {
+    "start": "wired, anxious, exhausted",
+    "turning_points": ["Result PASSED at 84%", "Access Granted to 17B"],
+    "end": "focused, purposeful, urgent"
+    },
+    "notable_actions": ["submits access request", "secures approval window 0600–2200", "orders shower", "activates maintenance bot"],
+    "quotable_lines": [
+    "Certification: Forensic Investigator III – PASSED. Score: 84%.",
+    "Access Granted. Report Station: Core Medical Archive 17B. Window: 0600–2200."
+    ]
+    },
+    {
+    "id": "randy",
+    "display_name": "Randy",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "shelly", "type": "family", "state": "beloved, deceased; focus of investigation", "evidence": "Access request purpose: cadaver review & residual neurochemistry audit."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "pid",
+    "name": "PID (personal interface device)",
+    "category": "comms",
+    "capabilities": ["status display", "credential verification", "form submission", "system notifications"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "intact",
+    "scene_function": "Surfaces PASS result and processes the access request."
+    },
+    {
+    "id": "fi-iii-cert-system",
+    "name": "Forensic Investigator III Certification",
+    "category": "other",
+    "capabilities": ["credential gating to investigative permissions"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "active",
+    "scene_function": "Grants authority to review remains and neurochemistry."
+    },
+    {
+    "id": "stella-ai",
+    "name": "Stella (governance interface)",
+    "category": "comms",
+    "capabilities": ["policy enforcement", "access control", "routing to archives"],
+    "owner_or_users": [],
+    "condition_or_state": "pervasive",
+    "scene_function": "Potential gatekeeper Shelly fears; ultimately authorizes access."
+    },
+    {
+    "id": "core-medical-archive-17b",
+    "name": "Core Medical Archive 17B",
+    "category": "medical",
+    "capabilities": ["remains preservation", "controlled access for investigators"],
+    "owner_or_users": [],
+    "condition_or_state": "operational",
+    "scene_function": "Designated site and window for Shelly’s examination."
+    },
+    {
+    "id": "study-pod",
+    "name": "Study pod",
+    "category": "other",
+    "capabilities": ["workspace, lighting control"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "cluttered",
+    "scene_function": "Setting for wait, result, and request."
+    },
+    {
+    "id": "multifunc",
+    "name": "Multifunction module",
+    "category": "other",
+    "capabilities": ["on-demand fixtures (shower), hygienics"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "active",
+    "scene_function": "Provides shower on countdown arrival."
+    },
+    {
+    "id": "maintenance-bot",
+    "name": "Maintenance bot",
+    "category": "tool",
+    "capabilities": ["recyclables collection/cleanup"],
+    "owner_or_users": [],
+    "condition_or_state": "idle→activated",
+    "scene_function": "Cleans pod while Shelly prepares to leave."
+    }
+    ],
+    "locations": [
+    {
+    "id": "metrof-study-pod-shelly",
+    "name": "Shelly’s study pod",
+    "type": "room",
+    "descriptors": ["silent but buzzing", "littered with cans and wrappers", "stale sugar and body-odor smell"],
+    "in_scene_events": ["Exam result posted; access request submitted; cleanup initiated; shower ordered."]
+    },
+    {
+    "id": "core-med-archive-17b-struct",
+    "name": "Core Medical Archive 17B",
+    "type": "structure",
+    "descriptors": ["controlled access", "preservation facility"],
+    "in_scene_events": ["Assigned destination for remains review (off-screen in this scene)."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "stella",
+    "name": "Stella",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Uphold governance and access policy while honoring valid credentials.",
+    "actions_in_scene": ["Processes certification result and grants archive access with time window."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["agency through credentialing", "grief channeled into procedure", "individual vs. bureaucratic gatekeeping", "time-bound justice"],
+    "motifs_symbols": ["status icon/ping", "countdown windows", "trash-strewn workspace", "shower as reset/threshold"],
+    "moral_questions": ["Should age limit access to truth about a loved one’s death when credentials are met?", "Does procedural authorization equal emotional readiness?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "procedural/intimate",
+    "pacing": "measured with a relief beat",
+    "voice_traits": ["clinical detail", "understated emotion", "sensory concreteness"],
+    "sensory_notes": ["odor of sugar and sweat", "quiet clunk of a can", "buzzing silence", "PID chime", "warm steam implication of shower arrival"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Shelly’s previous cramming and investigative hold pressure.",
+    "Need for FI-III credential to access remains."
+    ],
+    "outcomes": [
+    "Shelly passes FI-III (84%).",
+    "Access granted to Core Medical Archive 17B for same-day window, enabling next investigative step."
+    ],
+    "unanswered_questions": [
+    "What will the cadaver review and neurochemistry audit reveal?",
+    "Will time window or further policy constraints hinder her examination?",
+    "What emotional toll will the examination take on Shelly?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["shelly"],
+    "trigger": "Fear of denial and physical depletion after the exam.",
+    "resolution": "Partial—she overrides hesitation and acts."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["shelly", "stella/credentialing"],
+    "trigger": "Potential age-based or policy-based denial.",
+    "resolution": "Resolved in-scene—access granted with constraints."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["shelly", "time constraints"],
+    "trigger": "Fixed access window (0600–2200).",
+    "resolution": "Unresolved—she must reach 17B and complete review in time."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "mentioned",
+    "sexual_content": "none",
+    "sensitive_topics": ["death and cadaver examination", "grief"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Shelly passes FI-III", "84% score", "Access granted to Core Medical Archive 17B", "0600–2200 window", "Residual neurochemistry audit", "Subject 291874237 access request"],
+    "keywords_dense": "Shelly, FI-III, Forensic Investigator III, 84 percent, PID, access granted, Core Medical Archive 17B, window 0600–2200, cadaver review, residual neurochemistry, Stella, study pod, maintenance bot, multifunc shower",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Shelly", "Randy"],
+    "places": ["Shelly’s study pod", "Core Medical Archive 17B"],
+    "orgs": ["Stella"],
+    "terms": ["PID", "Forensic Investigator III", "Subject 291874237", "conditional investigation protocol"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What score did Shelly receive on the FI-III exam?", "a": "84%."},
+    {"q": "Was Shelly granted access to Randy’s remains, and where?", "a": "Yes. Core Medical Archive 17B."},
+    {"q": "What is the access time window provided?", "a": "0600–2200."},
+    {"q": "What purpose did Shelly list on the access request?", "a": "Cadaver Review & Residual Neurochemistry Audit."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "shelly-17b-recap",
+    "type": "recap",
+    "text": "Exhausted in her trashed study pod, Shelly gets a PID ping: she passed FI-III with 84%. She immediately submits an access request for Subject 291874237 to perform a cadaver review and residual neurochemistry audit. Despite fearing age-related denial, Stella grants access to Core Medical Archive 17B with a 0600–2200 window and confirms the remains are preserved under conditional investigation. Shelly orders a shower, triggers cleanup, and prepares to go see Randy."
+    },
+    {
+    "chunk_id": "shelly-17b-entities",
+    "type": "entities_focus",
+    "text": "Shelly (POV, 16, newly certified FI-III); Randy (deceased subject 291874237). Tech/Systems: PID (notification and submission), FI-III certification (authority), Stella (governance/access control), Core Medical Archive 17B (destination, preserved remains), study pod (setting), multifunc (on-demand shower), maintenance bot (cleanup). Actions: PASS 84%; access granted; window 0600–2200; preparation to depart."
+    },
+    {
+    "chunk_id": "shelly-17b-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-person limited past with procedural precision and muted emotion. Themes: agency via credentials, grief transmuted into method, bureaucracy as both obstacle and enabler, time-boxed pursuit of truth. Motifs: PID ping/status icon, countdown windows, trash/nest, shower as reset. Tone: tense, efficient, determined."
+    }
+    ]
+    }

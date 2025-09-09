@@ -1,0 +1,15 @@
+{
+  "doc_type": "neon_titan_character_v1",
+  "source": {"dossier_file": null, "scene_refs": ["ch2-s2_open-flag-trade-day"]},
+  "identity": {"id": "lewallen", "display_name": "Lewallen", "aliases": []},
+  "affiliations": ["three-shovels-caravan"],
+  "bio": {"one_liner": "Overwatch on .30 cal scissor-lift; requests permission to intervene.", "summary": "Provides high-angle coverage from a scissor-lifted .30 caliber position; follows rules of engagement and seeks authorization before firing."},
+  "personality": {"traits": ["professional", "disciplined"], "flaws": [], "values": ["crew-safety"]},
+  "appearance": {"style": "elevated overwatch; wind-exposed platform"},
+  "skills": {"tactics": ["high-angle-coverage", "deterrent-fire"], "limitations": ["ROE-limits-actions"]},
+  "relationships": [],
+  "items_and_tech": [
+    {"id": ".30cal-scissor-lift", "name": ".30 caliber MG on scissor-lift", "category": "weapon", "capabilities": ["area deterrence", "elevated overwatch"], "notes": "Primary station in scene."}
+  ],
+  "metadata_for_indexing": {"retrieval_keys": ["Lewallen", ".30 cal", "overwatch"], "spoiler_level": "scene_only"}
+}

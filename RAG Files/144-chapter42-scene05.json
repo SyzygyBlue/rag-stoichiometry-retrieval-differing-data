@@ -1,0 +1,347 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Scorched Earth",
+    "scene_id": "calum-tam-gate-confrontation",
+    "chapter_number": 42,
+    "scene_number": 5,
+    "date_in_universe": "2186-12-03",
+    "absolute_timeline_notes": "Night of the Calum-Tam raid/firefight; escape attempt reaches the perimeter gate amid incoming ravager assault."
+    },
+    "text_windows": {
+    "full_scene_clean": "Demmy points out the small gate in the wall ahead as Quincy and Demmy haul the badly injured Chase toward it. Lenya intercepts them with four guards, pistol drawn, while distant heavy machine guns and explosions signal a ravager attack on the holdfast. Carl arrives with a club to finish them. Demmy admits he cannot shoot well left-handed. Chase asks for the 10mm pistol, takes it, and—despite barely standing—shoots Lenya in the chest after she taunts him. Carl charges Chase. Lesha appears, denounces Lenya, and decides to walk away from the burning holdfast; as Carl closes to strike, Lesha dives into his thigh and upends him. Demmy slides in and drives his stiletto into Carl’s neck, killing him. With the holdfast burning and guards wavering, Demmy urges immediate escape. Quincy confronts the fallen Lenya to find Lesha’s stims; after pleading from Chase, Lenya points to a hut beside the warehouse (top shelf vials) and, as a condition, rasps that if they see Jessop, they should “kill him dirty.” Quincy retrieves the vials. Demmy and Lesha shoulder Chase and the group flees through the gate as the holdfast burns.",
+    "dense_recap_250w": "At the Calum-Tam perimeter, Demmy guides Quincy and the barely mobile Chase toward a small gate when Lenya blocks them with four guards. Distant heavy weapons and fireballs mark a ravager assault engulfing the holdfast. Carl advances to crush the escapees. Demmy, poor with his left hand, hesitates to shoot. Chase, swaying, takes the 10mm and shoots Lenya in the chest after her taunt. Carl charges; Lesha, an ex-merc struggling with stim dependency, emerges from the shadows and declares she is leaving before the heavy weapons reach them. As Carl closes, Lesha tackles him low, flipping him; Demmy slides in and kills Carl with a stiletto to the neck. Lenya’s guards stand stunned; Lesha orders them to help their burning holdfast. Demmy urges flight, warning ravagers will be on them any moment. Quincy demands the location of Lesha’s stims; after Chase’s plea, a dying Lenya points to a hut beside the warehouse (top shelf vials) and adds a condition: if they see Jessop, kill him “dirty.” Quincy fetches the vials. Demmy and Lesha shoulder Chase, reholster weapons, and, half-carrying him, the group exits through the gate, leaving Calum-Tam to burn.",
+    "query_handle": "Gate standoff: Chase shoots Lenya; Lesha trips Carl; Demmy kills Carl; Quincy grabs Lesha’s stims; team escapes burning Calum-Tam."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Intercept at the gate",
+    "what_happens": "Lenya and four guards block the escape near the perimeter gate as ravager gunfire rises.",
+    "involved_entities": ["lenya", "lenya-guards", "demmy", "quincy", "chase", "calum-tam-gate"],
+    "stakes_or_conflict": "Immediate capture or death versus escape."
+    },
+    {
+    "order": 2,
+    "label": "Chase’s shot",
+    "what_happens": "After Lenya taunts him, Chase takes Demmy’s 10mm and shoots Lenya in the chest.",
+    "involved_entities": ["chase", "demmy-10mm", "lenya"],
+    "stakes_or_conflict": "Neutralize the commander to break the standoff."
+    },
+    {
+    "order": 3,
+    "label": "Carl charges; counter by Lesha and Demmy",
+    "what_happens": "Carl rushes to kill Chase; Lesha tackles him low and Demmy finishes Carl with a stiletto strike to the neck.",
+    "involved_entities": ["carl", "lesha", "demmy", "demmy-stiletto", "quincy"],
+    "stakes_or_conflict": "Protect the wounded ally from a lethal blow."
+    },
+    {
+    "order": 4,
+    "label": "The price of information",
+    "what_happens": "Quincy presses dying Lenya for Lesha’s stims; Lenya reveals the stash location and demands Jessop be killed “dirty.”",
+    "involved_entities": ["quincy", "lenya", "lesha", "stims-vials", "warehouse-hut"],
+    "stakes_or_conflict": "Acquire medicine to keep Lesha alive during withdrawal."
+    },
+    {
+    "order": 5,
+    "label": "Exfil through the gate",
+    "what_happens": "Quincy retrieves the vials; Demmy and Lesha help carry Chase as they flee the burning holdfast.",
+    "involved_entities": ["quincy", "demmy", "lesha", "chase", "calum-tam-gate"],
+    "stakes_or_conflict": "Escape before ravagers overrun the area."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Get Chase out and secure stims for Lesha to survive withdrawal.",
+    "obstacles": "Armed intercept, chaos of battle, Chase’s injuries, time pressure.",
+    "tactics": "Coordinate with Demmy, brace/anchor Chase, confront Lenya, sprint to retrieve vials.",
+    "relationships": [
+    {"with": "chase", "type": "ally/friend", "state": "protective", "evidence": "“Gotcha, Sparkles.” She supports him physically."},
+    {"with": "demmy", "type": "ally", "state": "operational trust", "evidence": "Signals Demmy to hand pistol to Chase; moves on his exfil plan."},
+    {"with": "lenya", "type": "enemy", "state": "hostile", "evidence": "Insults and refusal to surrender: “we're leaving this shitstain of a holdfast.”"},
+    {"with": "lesha", "type": "ally-of-necessity", "state": "tense compassion", "evidence": "Fetches Lesha’s stims to keep her alive."}
+    ],
+    "emotional_arc": {
+    "start": "exhausted but defiant",
+    "turning_points": ["Chase shoots Lenya", "Lenya discloses stims location"],
+    "end": "driven, task-focused on escape"
+    },
+    "notable_actions": ["stabilizes Chase under fire", "confronts dying Lenya", "retrieves stim vials", "directs movement toward gate"],
+    "quotable_lines": ["Gotcha, Sparkles."]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Shepherd the team through the gate before ravagers arrive.",
+    "obstacles": "Left-handed pistol weakness, enemy intercept, battlefield chaos.",
+    "tactics": "Delegates the shot to Chase, uses stiletto for close kill, urges immediate exfil.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "synchronized", "evidence": "Shares assessment and tempo; both move on gate plan."},
+    {"with": "chase", "type": "ally", "state": "supportive", "evidence": "Hands over pistol; later shoulders his weight."},
+    {"with": "lesha", "type": "pragmatic-ally", "state": "aligned for survival", "evidence": "Together lift Chase and exit."}
+    ],
+    "emotional_arc": {
+    "start": "urgent, clinical",
+    "turning_points": ["Chase takes the shot", "Carl neutralized"],
+    "end": "directing rapid withdrawal"
+    },
+    "notable_actions": ["hands over 10mm", "kills Carl with stiletto", "pushes group to flee"],
+    "quotable_lines": ["Ravagers are going to be swarming this place at any moment."]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": ["Sparkles"],
+    "role_in_scene": "major",
+    "goals_now": "Survive and protect his team despite injuries.",
+    "obstacles": "Broken arm and ribs, weakness, shock.",
+    "tactics": "Accepts pistol, fires decisive shot on Lenya; leans on allies for movement.",
+    "relationships": [
+    {"with": "quincy", "type": "ally/friend", "state": "mutual care", "evidence": "She literally props him up."},
+    {"with": "demmy", "type": "ally", "state": "trusting", "evidence": "Takes Demmy’s pistol to act."},
+    {"with": "lenya", "type": "enemy", "state": "lethal opposition", "evidence": "Shoots her after her taunt."}
+    ],
+    "emotional_arc": {
+    "start": "reeling, in pain",
+    "turning_points": ["Fires at Lenya", "Nearly collapses under charge"],
+    "end": "barely conscious but alive and moving"
+    },
+    "notable_actions": ["shoots Lenya in the chest", "remains upright with Quincy’s support"],
+    "quotable_lines": ["I'm going to shoot you."]
+    },
+    {
+    "id": "lenya",
+    "display_name": "Lenya",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Prevent escape; assert control of holdfast.",
+    "obstacles": "Ravager attack, wavering guards, outgunned at close range.",
+    "tactics": "Intimidation, calling reinforcements; final bargaining while dying.",
+    "relationships": [
+    {"with": "carl", "type": "commander-enforcer", "state": "instrumental", "evidence": "Orders Carl to ‘fix this.’"},
+    {"with": "lesha", "type": "hostile", "state": "contempt", "evidence": "Calls her ‘junkie’; withholds stims."},
+    {"with": "chase", "type": "enemy", "state": "taunting then pleading bargain", "evidence": "Offers him a free shot; later names condition to kill Jessop."}
+    ],
+    "emotional_arc": {
+    "start": "defiant, domineering",
+    "turning_points": ["Shot by Chase", "Reveals stims location with condition"],
+    "end": "dying, bitter"
+    },
+    "notable_actions": ["blocks escape with guards", "taunts and holsters pistol", "identifies stims location"],
+    "quotable_lines": ["Only one condition... you see Jessop, kill him dirty."]
+    },
+    {
+    "id": "lesha",
+    "display_name": "Lesha",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Get out alive and obtain stims to avoid deadly withdrawal.",
+    "obstacles": "Stim dependency, collapsing security situation, Lenya’s control of supply.",
+    "tactics": "Assert independence, neutralize threat with a low tackle, accept help to exfil.",
+    "relationships": [
+    {"with": "lenya", "type": "rival/ex-ally", "state": "toxic severance", "evidence": "Verbally confronts; demands freedom."},
+    {"with": "quincy", "type": "ally-of-convenience", "state": "cautious gratitude", "evidence": "Allows Quincy to fetch stims."},
+    {"with": "demmy", "type": "ally-of-necessity", "state": "pragmatic", "evidence": "Helps carry Chase during escape."}
+    ],
+    "emotional_arc": {
+    "start": "cool, fatalistic",
+    "turning_points": ["Tackles Carl", "Learns stims can be retrieved"],
+    "end": "committed to escape with group"
+    },
+    "notable_actions": ["tackles Carl at the thigh", "helps carry Chase", "decides to walk out amid firefight"],
+    "quotable_lines": ["That's e-fucking-nuff!"]
+    },
+    {
+    "id": "carl",
+    "display_name": "Carl",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Kill or recapture the escapees, especially Chase.",
+    "obstacles": "Interception by Lesha and Demmy, chaos of attack.",
+    "tactics": "Direct charge with heavy club to deliver a killing blow.",
+    "relationships": [
+    {"with": "lenya", "type": "subordinate", "state": "obedient enforcer", "evidence": "Asks to ‘fix this’; charges on command."}
+    ],
+    "emotional_arc": {
+    "start": "confident, violent",
+    "turning_points": ["Upended by Lesha", "Killed by Demmy’s stiletto"],
+    "end": "dead"
+    },
+    "notable_actions": ["charges with club toward Chase"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "demmy-10mm",
+    "name": "10mm semiautomatic pistol",
+    "category": "weapon",
+    "capabilities": ["semi-auto fire", "close-quarters stopping power"],
+    "owner_or_users": ["demmy", "chase"],
+    "condition_or_state": "intact, loaded",
+    "scene_function": "Chase uses it to shoot Lenya and break the standoff."
+    },
+    {
+    "id": "demmy-stiletto",
+    "name": "Brass-hilt stiletto (30 cm)",
+    "category": "weapon",
+    "capabilities": ["silent kill", "penetrating thrusts"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "intact",
+    "scene_function": "Kills Carl after Lesha topples him."
+    },
+    {
+    "id": "lesha-combat-knife",
+    "name": "Lesha’s long black combat knife",
+    "category": "weapon",
+    "capabilities": ["close-quarters slashing/thrusting"],
+    "owner_or_users": ["lesha"],
+    "condition_or_state": "intact",
+    "scene_function": "Symbolizes her readiness; reholstered during exfil."
+    },
+    {
+    "id": "stims-vials",
+    "name": "Stim vials",
+    "category": "medical",
+    "capabilities": ["stimulant/withdrawal management"],
+    "owner_or_users": ["lesha"],
+    "condition_or_state": "intact, limited quantity",
+    "scene_function": "Essential to keep Lesha functional; retrieved from hut beside warehouse."
+    },
+    {
+    "id": "carl-club",
+    "name": "Carl’s heavy club",
+    "category": "weapon",
+    "capabilities": ["blunt-force trauma"],
+    "owner_or_users": ["carl"],
+    "condition_or_state": "intact, bloodied",
+    "scene_function": "Primary threat to the wounded Chase before Carl is killed."
+    }
+    ],
+    "locations": [
+    {
+    "id": "calum-tam-gate",
+    "name": "Calum-Tam perimeter gate area",
+    "type": "structure",
+    "descriptors": ["wall looming", "small keyed gate", "exposed approach"],
+    "in_scene_events": ["Lenya intercepts; firefight sounds; group exits through gate."]
+    },
+    {
+    "id": "calum-tam-warehouse",
+    "name": "Warehouse flank",
+    "type": "structure",
+    "descriptors": ["massive", "adjacent alleys", "nearby hut"],
+    "in_scene_events": ["Lesha emerges; Quincy sprints for stims in hut."]
+    },
+    {
+    "id": "warehouse-hut",
+    "name": "Small hut by the warehouse",
+    "type": "structure",
+    "descriptors": ["storage shelves", "top shelf vials"],
+    "in_scene_events": ["Quincy retrieves stim vials per Lenya’s directions."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "calum-tam",
+    "name": "Calum-Tam Holdfast",
+    "alignment": "hostile",
+    "agents_present": ["lenya", "carl", "lenya-guards"],
+    "motives_inferred": "Contain prisoners; maintain control despite external assault.",
+    "actions_in_scene": ["Interdict escape at gate", "Leadership (Lenya) and enforcer (Carl) neutralized"]
+    },
+    {
+    "id": "ravagers",
+    "name": "Ravager forces",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Attack/overrun the holdfast.",
+    "actions_in_scene": ["Heavy weapons fire and explosions escalate; indirectly facilitate escape by diverting guards"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["survival under fire", "loyalty and sacrifice", "power’s collapse under external pressure", "mercy vs. vengeance"],
+    "motifs_symbols": ["gates and walls (barrier/escape)", "fire and smoke (chaos, judgment)", "knives vs. clubs (precision vs. brute force)", "vials/stims (dependency)"],
+    "moral_questions": ["What debts are owed to enemies in their last moments?", "Is vengeance (‘kill him dirty’) ever a just condition for aid?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "high-intensity",
+    "voice_traits": ["taut dialogue", "tactical detail", "visceral action beats"],
+    "sensory_notes": ["tac-tac-tac of heavy MGs", "yellow/red fireballs and orange glow", "stench of cordite and burning wood", "blood spatter and gravel underfoot"]
+    },
+    "causality": {
+    "prior_dependencies": ["Chase is gravely injured from earlier torture/beating", "Demmy’s earlier neutralization of guards and gate plan", "Ravager assault already underway"],
+    "outcomes": ["Lenya shot; Carl killed; Lesha’s stims secured; guards disperse; team escapes through gate", "Lenya links Jessop to a demanded reprisal (‘kill him dirty’)"],
+    "unanswered_questions": ["Can the group evade ravagers after exiting?", "Will Lesha’s limited stims suffice?", "What exactly is Lenya’s connection to Jessop and the order to kill the ‘caravan bitch’?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["chase", "lenya"],
+    "trigger": "Lenya blocks escape and taunts; Chase takes the shot.",
+    "resolution": "Chase shoots Lenya; she collapses and later divulges information."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["carl", "chase/quincy"],
+    "trigger": "Carl charges to kill the wounded Chase.",
+    "resolution": "Lesha tackles Carl; Demmy kills him with a stiletto."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["escapees", "burning holdfast and incoming ravagers"],
+    "trigger": "Escalating firefight and fires around the gate area.",
+    "resolution": "Partial—group exits, long-term safety unknown."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "graphic",
+    "addiction_or_substances": "present",
+    "sexual_content": "none",
+    "sensitive_topics": ["torture aftermath", "addiction/withdrawal", "graphic stabbing and gunshot wounds"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Calum-Tam gate", "Lenya shot", "Carl killed by stiletto", "Lesha stims hut", "ravager assault", "Chase 10mm pistol"],
+    "keywords_dense": "Calum-Tam Holdfast, gate standoff, Lenya, Carl, Lesha, Quincy, Demmy, Chase, 10mm pistol, stiletto kill, ravager attack, warehouse hut, stim vials, explosions, heavy machine guns",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Demmy", "Chase", "Lenya", "Lesha", "Carl"],
+    "places": ["Calum-Tam Holdfast", "Warehouse flank", "Perimeter gate", "Hut beside warehouse"],
+    "orgs": ["Calum-Tam Holdfast", "Ravagers"],
+    "terms": ["stims", "10mm semiauto", "stiletto", "heavy machine gun"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Who shoots Lenya at the gate?", "a": "Chase shoots her in the chest with Demmy’s 10mm pistol."},
+    {"q": "How is Carl killed?", "a": "Lesha tackles him low and Demmy stabs his neck with a stiletto."},
+    {"q": "Where are Lesha’s stims found?", "a": "In a small hut beside the warehouse, top shelf, as Lenya indicates."},
+    {"q": "What condition does Lenya demand when revealing the stims?", "a": "If they see Jessop, they should ‘kill him dirty.’"}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "calum-tam-gate-confrontation-recap",
+    "type": "recap",
+    "text": "Near the small gate of the burning Calum-Tam Holdfast, Lenya and four guards block Demmy, Quincy, and the injured Chase. Amid heavy weapons fire, Chase takes Demmy’s 10mm and shoots Lenya. Carl charges but is upended by Lesha; Demmy kills Carl with a stiletto. Quincy pressures a dying Lenya to reveal where Lesha’s stims are stored (hut by the warehouse, top shelf). With vials in hand, Demmy and Lesha support Chase and the group escapes through the gate as the holdfast burns."
+    },
+    {
+    "chunk_id": "calum-tam-gate-confrontation-entities",
+    "type": "entities_focus",
+    "text": "Actors: Quincy (support, retrieval), Demmy (lead exfil, knife kill), Chase (injured shooter), Lenya (holdfast commander), Carl (enforcer), Lesha (ex-merc, stim dependent), four guards (hesitant). Objects: 10mm pistol, stiletto, combat knife, stim vials. Locations: perimeter gate, warehouse flank, hut. Forces: ravagers attacking with heavy machine guns and explosives."
+    },
+    {
+    "chunk_id": "calum-tam-gate-confrontation-style-theme",
+    "type": "style_theme_focus",
+    "text": "High-intensity, gritty third-limited action with terse, profane dialogue and visceral detail. Themes of loyalty under fire, pragmatic mercy, and collapsing authority. Motifs of gates/walls (barriers), fire/smoke (reckoning), and knives vs. clubs (skill vs. brute force). Moral tension peaks as aid is traded for a demand to ‘kill him dirty.’"
+    }
+    ]
+    }

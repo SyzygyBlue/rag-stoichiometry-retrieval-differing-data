@@ -1,0 +1,379 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Article 18 Conspiracy",
+    "scene_id": "balance-ehrenberg-article18-2186-05-28",
+    "chapter_number": "Stella Balance Party One",
+    "scene_number": 1,
+    "date_in_universe": "2186-05-28",
+    "absolute_timeline_notes": "Stella AI rule updates submission deadline; morning/afternoon session at Balance Party HQ (Ehrenberg arch crown room)."
+    },
+    "text_windows": {
+    "full_scene_clean": "At the reconstructed Ehrenberg–Fort Claudia complex in the former Austrian Alps, the Balance Party’s arch-bridge headquarters hosted a high council session. Prime Minister Johannes Romeijns and twelve senior councilors reviewed an overwhelming 23,921 proposed rule updates for Stella AI. A sealed rule appeared among the submissions—Industry and Humanity had invoked Article 18 to redact it. Councilor Chevalier projected the statute; subsection twenty-one required explicit endorsement by a Balance representative before the submission deadline or the sealed request would be invalid. Aides reported that Councilor Nhan had signed the Article 18 endorsement four months earlier, just before going on sabbatical. Now he was unreachable: he had not checked into StellaNet for over a month—and not even Stella, via the Macrobus lattice, could contact him. \nRomeijns ordered Chevalier to discreetly locate Nhan, verify his authority to endorse, and explore legal options despite the blackout period that barred direct contact with Industry and Humanity. He refocused the group on vetting all changes by Winter Solstice and directed that analysts prioritize ingestion and impact assessment. Breaking with decades of practice, he demanded a full regression simulation integrating all new rules, rejecting reliance on pocket tests. Chevalier agreed to consult operations on the immense compute required. \nAcknowledging SAIR constraints and the need for action beyond normal oversight, Romeijns decided to visit Balance Special Projects at Tahua Outpost, a SAIR-shielded facility inside a dormant volcano accessed via a camouflaged salt flats runway. He scheduled a reconvene at 1000 the next day, descended by floorplate elevator, boarded a podlev, and departed toward a fueled hypersonic jet bound for Tahua to seek answers about the sealed rule and Nhan’s disappearance.",
+    "dense_recap_250w": "At Balance Party HQ atop the rebuilt Ehrenberg arch, Prime Minister Johannes Romeijns convenes senior councilors to process 23,921 proposed Stella AI rule changes. An anomalous, sealed submission appears: Industry and Humanity jointly invoked Article 18, which allows redaction only if a Balance official endorses it by the deadline. Records show Councilor Nhan signed the endorsement four months earlier before a sabbatical; now he is missing from StellaNet and even Stella’s Macrobus cannot reach him. Romeijns tasks Councilor Chevalier to discreetly locate Nhan, confirm whether he had authority to invoke Article 18, and explore legal avenues despite a communications blackout with the other parties. While insisting the council proceed with analysis and simulator loading for the visible rules, Romeijns orders an unprecedented full regression simulation of the entire update set, rejecting decades of reliance on pocket testing. He acknowledges SAIR constraints and decides to spend allowance points to visit the Balance Party’s SAIR-exempt Special Projects at Tahua Outpost, seeking clarity on the sealed rule and Nhan’s status. The meeting closes with a plan to reconvene at 1000 the next day; Romeijns departs via elevator and podlev to a prepped hypersonic flight toward Tahua, as operations assess compute capacity and aides begin the quiet search for Nhan.",
+    "query_handle": "Balance HQ debates sealed Article 18 rule; Nhan missing; Romeijns orders full regression sim and departs for Tahua Special Projects."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Setting & Workload",
+    "what_happens": "Balance Council gathers at Ehrenberg arch crown room to process 23,921 rule changes.",
+    "involved_entities": ["johannes-romeijns", "councilor-chevalier", "councilor-guzman", "councilor-desai", "balance-party", "ehrenberg-arch-crown-room"],
+    "stakes_or_conflict": "Massive policy load threatens diligence and balance."
+    },
+    {
+    "order": 2,
+    "label": "Sealed Rule Reveal",
+    "what_happens": "Industry and Humanity invoke Article 18, sealing a rule; statute requirements are projected and reviewed.",
+    "involved_entities": ["industry-party", "humanity-party", "article-18-sealed-rule", "councilor-chevalier"],
+    "stakes_or_conflict": "Transparency vs. secrecy; process legitimacy."
+    },
+    {
+    "order": 3,
+    "label": "Nhan Endorsement & Disappearance",
+    "what_happens": "Guzman reports Nhan endorsed the seal months ago but is now unreachable—even by Stella.",
+    "involved_entities": ["councilor-guzman", "councilor-nhan", "stella-ai", "macrobus-network"],
+    "stakes_or_conflict": "Authority validity; potential foul play; system breach concerns."
+    },
+    {
+    "order": 4,
+    "label": "Directives & Legal Posture",
+    "what_happens": "Romeijns orders a discreet search for Nhan, authority verification, and legal exploration despite blackout.",
+    "involved_entities": ["johannes-romeijns", "councilor-chevalier"],
+    "stakes_or_conflict": "Act within rules vs. urgent need to investigate."
+    },
+    {
+    "order": 5,
+    "label": "Unprecedented Simulation",
+    "what_happens": "Romeijns mandates a full regression simulation of all new rules; Chevalier flags compute cost.",
+    "involved_entities": ["johannes-romeijns", "councilor-chevalier", "full-regression-simulator"],
+    "stakes_or_conflict": "Caution vs. feasibility/resource limits."
+    },
+    {
+    "order": 6,
+    "label": "Tahua Decision & Departure",
+    "what_happens": "Romeijns commits SAIR allowance points to visit Tahua Special Projects; departs by podlev to hypersonic jet.",
+    "involved_entities": ["johannes-romeijns", "tahua-outpost", "sair-system", "podlev-transit", "hypersonic-jet"],
+    "stakes_or_conflict": "Political risk vs. need for off-ledger action."
+    }
+    ],
+    "characters": [
+    {
+    "id": "johannes-romeijns",
+    "display_name": "Prime Minister Johannes Romeijns",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Safeguard Stella’s balance by investigating the sealed rule and Nhan’s endorsement; ensure safe integration of rule updates.",
+    "obstacles": "Comms blackout, missing councilor, secrecy under Article 18, limited compute for full regression, SAIR constraints.",
+    "tactics": "Direct discreet search, legal exploration, prioritize analysis, order full regression sim, leverage Special Projects at Tahua.",
+    "relationships": [
+    {"with": "councilor-chevalier", "type": "colleague/subordinate", "state": "trusted executor", "evidence": "Assigns search, legal, and simulation tasks."},
+    {"with": "councilor-nhan", "type": "colleague", "state": "concerned/missing", "evidence": "Orders discreet location and authority check."},
+    {"with": "balance-party", "type": "leader", "state": "responsible/steward", "evidence": "Sets agenda and risk posture."}
+    ],
+    "emotional_arc": {
+    "start": "overburdened, irritable, concerned",
+    "turning_points": ["Learns Nhan is unreachable by Stella", "Commits to full regression and Tahua visit"],
+    "end": "resolute, cautious, action-oriented"
+    },
+    "notable_actions": ["orders full regression simulation", "initiates discreet search for Nhan", "authorizes legal options", "departs to Tahua"],
+    "quotable_lines": [
+    "We cannot afford to take that risk.",
+    "Forewarned is forearmed."
+    ]
+    },
+    {
+    "id": "councilor-chevalier",
+    "display_name": "Councilor Chevalier",
+    "aliases": ["Executive Councilor Chevalier"],
+    "role_in_scene": "major",
+    "goals_now": "Execute PM’s directives: locate Nhan, verify authority, organize analysis, assess sim capacity.",
+    "obstacles": "Blackout with other parties; unprecedented compute demand.",
+    "tactics": "Orchestrate aides, project statutes, coordinate operations.",
+    "relationships": [
+    {"with": "johannes-romeijns", "type": "advisor/subordinate", "state": "cooperative, cautious", "evidence": "Flags simulation cost yet agrees to pursue."}
+    ],
+    "emotional_arc": {
+    "start": "professional, composed",
+    "turning_points": ["Sees Article 18 text implications", "Hears Nhan unreachable"],
+    "end": "uneasy but committed"
+    },
+    "notable_actions": ["projects Article 18", "accepts full regression tasking", "preps legal exploration"],
+    "quotable_lines": [
+    "Prime Minister, that's… unprecedented."
+    ]
+    },
+    {
+    "id": "councilor-guzman",
+    "display_name": "Councilor Guzman",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Provide intel from aides; track Nhan metadata.",
+    "obstacles": "Sparse signals; Nhan offline.",
+    "tactics": "Sublingual coordination with aides; status reporting.",
+    "relationships": [],
+    "emotional_arc": {"start": "diligent", "turning_points": ["Reports Nhan endorsement and absence"], "end": "concerned"},
+    "notable_actions": ["reports Nhan’s endorsement timing and StellaNet absence"],
+    "quotable_lines": [
+    "Nhan hasn't checked in to StellaNet for over a month."
+    ]
+    },
+    {
+    "id": "councilor-desai",
+    "display_name": "Councilor Desai",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Update on Nhan’s scheduled return and Stella contact attempts.",
+    "obstacles": "No contact even via Stella.",
+    "tactics": "Sublingual coordination; concise reporting.",
+    "relationships": [],
+    "emotional_arc": {"start": "calm", "turning_points": ["Confirms Stella cannot reach Nhan"], "end": "guarded concern"},
+    "notable_actions": ["confirms missed return and lack of Macrobus contact"],
+    "quotable_lines": [
+    "Nor… has Stella."
+    ]
+    },
+    {
+    "id": "councilor-nhan",
+    "display_name": "Councilor Nhan",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "johannes-romeijns", "type": "colleague", "state": "missing/uncertain authority", "evidence": "Endorsed Article 18; absent from StellaNet and Macrobus."}
+    ],
+    "emotional_arc": {"start": "offstage", "turning_points": [], "end": "offstage"},
+    "notable_actions": ["endorsed Article 18 request prior to sabbatical"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "article-18-sealed-rule",
+    "name": "Article 18 Sealed Rule",
+    "category": "other",
+    "capabilities": ["redaction of rule text", "requires Balance endorsement before deadline"],
+    "owner_or_users": ["industry-party", "humanity-party", "balance-party"],
+    "condition_or_state": "invoked/active",
+    "scene_function": "Catalyzes investigation, secrecy, and legal scrutiny."
+    },
+    {
+    "id": "macrobus-network",
+    "name": "Macrobus",
+    "category": "comms",
+    "capabilities": ["planetary neural data lattice", "instant global data transport", "identity/status presence"],
+    "owner_or_users": ["stella-ai"],
+    "condition_or_state": "operational; no contact with Nhan",
+    "scene_function": "Failure to reach Nhan escalates alarm."
+    },
+    {
+    "id": "full-regression-simulator",
+    "name": "Full Regression Simulation Stack",
+    "category": "tool",
+    "capabilities": ["integrate all pending rules", "system-wide impact modeling"],
+    "owner_or_users": ["balance-party"],
+    "condition_or_state": "requested; resource-intensive",
+    "scene_function": "Risk mitigation beyond pocket testing."
+    },
+    {
+    "id": "sair-system",
+    "name": "SAIR (Stella Aggregated Identity Ranking)",
+    "category": "other",
+    "capabilities": ["real-time societal scoring", "gate privileges/access"],
+    "owner_or_users": ["stella-ai", "all-citizens"],
+    "condition_or_state": "governing constraints; can be shielded by allowance points",
+    "scene_function": "Explains why Tahua Outpost is needed for unsupervised actions."
+    },
+    {
+    "id": "tahua-outpost-shield",
+    "name": "Tahua Outpost (Special Projects)",
+    "category": "other",
+    "capabilities": ["SAIR-exempt operations", "research and covert action"],
+    "owner_or_users": ["balance-party"],
+    "condition_or_state": "active",
+    "scene_function": "Destination selected to investigate outside normal oversight."
+    },
+    {
+    "id": "podlev-transit",
+    "name": "Podlev",
+    "category": "vehicle",
+    "capabilities": ["silent maglev transport within complex and to flight line"],
+    "owner_or_users": ["balance-party"],
+    "condition_or_state": "operational",
+    "scene_function": "Moves PM from council chamber to jet."
+    },
+    {
+    "id": "hypersonic-jet",
+    "name": "Hypersonic Jet",
+    "category": "vehicle",
+    "capabilities": ["intercontinental rapid travel", "camouflaged salt flats runway access"],
+    "owner_or_users": ["balance-party"],
+    "condition_or_state": "refueled, ready",
+    "scene_function": "Carries PM to Tahua Outpost."
+    },
+    {
+    "id": "floorplate-elevator",
+    "name": "Floorplate Elevator",
+    "category": "other",
+    "capabilities": ["vertical transit via rising rails and plate"],
+    "owner_or_users": ["balance-party"],
+    "condition_or_state": "operational",
+    "scene_function": "Marks PM’s departure; scene transition device."
+    }
+    ],
+    "locations": [
+    {
+    "id": "ehrenberg-arch-crown-room",
+    "name": "Ehrenberg Arch Crown Conference Room",
+    "type": "structure",
+    "descriptors": ["faceted transparent room atop arch", "golden beryl table", "panoramic alpine views", "podlev access"],
+    "in_scene_events": ["Balance Council reviews rules; sealed rule revealed; directives issued."]
+    },
+    {
+    "id": "tahua-outpost",
+    "name": "Tahua Outpost",
+    "type": "structure",
+    "descriptors": ["hidden in dormant volcano", "camouflaged salt flats runway", "Special Projects hub"],
+    "in_scene_events": ["PM plans immediate visit; flight prepared."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "balance-party",
+    "name": "Balance Party",
+    "alignment": "ally",
+    "agents_present": ["johannes-romeijns", "councilor-chevalier", "councilor-guzman", "councilor-desai"],
+    "motives_inferred": "Maintain equilibrium of Stella’s governance; ensure rule safety and transparency.",
+    "actions_in_scene": ["convene council", "order full regression", "initiate Nhan search", "prepare Tahua visit"]
+    },
+    {
+    "id": "industry-party",
+    "name": "Industry Party",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Invoked Article 18 with Humanity; rationale undisclosed.",
+    "actions_in_scene": ["co-seals a rule via Article 18 (offstage)"]
+    },
+    {
+    "id": "humanity-party",
+    "name": "Humanity Party",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Invoked Article 18 with Industry; rationale undisclosed.",
+    "actions_in_scene": ["co-seals a rule via Article 18 (offstage)"]
+    },
+    {
+    "id": "stella-ai",
+    "name": "Stella AI",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Operate global governance and Macrobus; maintain SAIR.",
+    "actions_in_scene": ["cannot reach Councilor Nhan (reported)"]
+    },
+    {
+    "id": "balance-special-projects",
+    "name": "Balance Party Special Projects",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Provide SAIR-exempt research/operations to protect system stability.",
+    "actions_in_scene": ["prepares to receive PM at Tahua Outpost"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["secrecy vs. accountability", "governance under constraint", "procedural legitimacy", "risk management vs. feasibility", "power exercised off-ledger"],
+    "motifs_symbols": ["sealed rule text glowing on glass", "crown of transparent rooms", "elevator descent to action", "untouched pastries signaling tension"],
+    "moral_questions": ["When is secrecy justified in public systems?", "Do leaders owe transparency even if it risks stability?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "technical/political with cinematic description",
+    "pacing": "slow-burn",
+    "voice_traits": ["procedural detail", "institutional tension", "quiet urgency"],
+    "sensory_notes": ["warm beryl glow", "silent podlev glide", "alpine panorama", "soft shimmer of holographic text"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Tri-party Stella governance with Article 18 provision.",
+    "Communications blackout between parties during submission window.",
+    "Pocket testing norm replacing full regression for decades.",
+    "Councilor Nhan on prior sabbatical."
+    ],
+    "outcomes": [
+    "Discreet search for Nhan initiated; authority verification pending.",
+    "Unprecedented full regression simulation requested.",
+    "PM departs to Tahua Special Projects; meeting set for 1000 next day.",
+    "Legal options to challenge sealed rule being explored."
+    ],
+    "unanswered_questions": [
+    "What is the content and intent of the sealed Article 18 rule?",
+    "Where is Councilor Nhan, and did he have proper authority?",
+    "Can Balance marshal enough compute for a full regression in time?",
+    "What risks necessitate Tahua’s off-ledger involvement?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_system",
+    "parties": ["johannes-romeijns", "Article 18 secrecy & blackout protocols"],
+    "trigger": "Sealed rule appears with cross-party invocation under blackout.",
+    "resolution": "Unresolved—investigation and legal strategies initiated."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["balance-party leadership", "industry-party & humanity-party (offstage)"],
+    "trigger": "Covert invocation of Article 18 without transparent rationale.",
+    "resolution": "Unresolved—awaiting Nhan findings and legal paths."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["balance operations", "computational/resource limits"],
+    "trigger": "Order for full regression simulation.",
+    "resolution": "Unresolved—operations to assess capability."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["surveillance and social scoring (SAIR)", "government secrecy", "disappearance/missing person"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Article 18", "Councilor Nhan missing", "Balance Party HQ", "Full regression simulation", "SAIR and allowance points", "Tahua Outpost", "Macrobus lattice", "Rule submission blackout"],
+    "keywords_dense": "Ehrenberg Castle arch, Balance Party, Article 18 sealed rule, Councilor Nhan disappearance, Macrobus, StellaNet, SAIR, allowance points, Tahua Outpost Special Projects, full regression simulation, pocket testing, Industry Party, Humanity Party, Winter Solstice deadline, Prime Minister Johannes Romeijns",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Prime Minister Johannes Romeijns", "Councilor Chevalier", "Councilor Guzman", "Councilor Desai", "Councilor Nhan"],
+    "places": ["Ehrenberg Castle", "Fort Claudia", "Former Austrian Alps", "Tahua Outpost", "salt flats runway", "Thórsmörk", "Geech Abyss", "Cologne"],
+    "orgs": ["Balance Party", "Industry Party", "Humanity Party", "Stella AI", "Balance Special Projects"],
+    "terms": ["Article 18", "Macrobus", "SAIR", "StellaNet", "podlev", "full regression simulation", "pocket testing"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Who invoked Article 18 to seal a rule?", "a": "The Industry and Humanity parties invoked Article 18 jointly."},
+    {"q": "Who endorsed the Article 18 request on the Balance side?", "a": "Councilor Nhan signed the endorsement before going on sabbatical."},
+    {"q": "Why is Nhan’s status alarming to the council?", "a": "He hasn’t checked into StellaNet for over a month and even Stella cannot reach him via Macrobus."},
+    {"q": "What unprecedented action does Prime Minister Romeijns order?", "a": "A full regression simulation integrating all new rules, instead of relying on pocket tests."},
+    {"q": "Where does Romeijns travel to seek answers outside SAIR scrutiny?", "a": "Balance Party Special Projects at Tahua Outpost."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "balance-ehrenberg-article18-2186-05-28-r1",
+    "type": "recap",
+    "text": "At Balance HQ atop the rebuilt Ehrenberg arch, Prime Minister Johannes Romeijns confronts an anomalous sealed rule invoked under Article 18 by Industry and Humanity. The statute requires Balance endorsement; records show Councilor Nhan signed months earlier but is now unreachable—even by Stella’s Macrobus. Romeijns orders a discreet search for Nhan, authority verification, and legal options despite a blackout with the other parties. He directs analysts to ingest 23,921 proposed rules and, breaking precedent, mandates a full regression simulation to safeguard Stella’s stability. Accepting SAIR constraints, he commits allowance points to visit the SAIR-exempt Tahua Outpost and departs by podlev for a hypersonic flight, scheduling a reconvene the next morning."
+    },
+    {
+    "chunk_id": "balance-ehrenberg-article18-2186-05-28-r2",
+    "type": "entities_focus",
+    "text": "Key people: Johannes Romeijns (PM, Balance), Councilors Chevalier, Guzman, Desai, and the missing Nhan. Organizations: Balance Party (cautious steward), Industry & Humanity Parties (co-invokers of Article 18), Stella AI (Macrobus operator), Balance Special Projects (Tahua). Tech/terms: Article 18 sealed rule; Macrobus and StellaNet presence; SAIR with allowance points; pocket testing vs. full regression; podlev and hypersonic transport. Places: Ehrenberg arch crown room (conference), Tahua Outpost (dormant volcano, salt flats runway)."
+    },
+    {
+    "chunk_id": "balance-ehrenberg-article18-2186-05-28-r3",
+    "type": "style_theme_focus",
+    "text": "Third-person limited through Romeijns with institutional, technical detail and cinematic setting. Themes orbit secrecy vs. accountability, legitimacy under procedural constraints, and the ethics of off-ledger governance. Motifs: glowing statute text on glass; crown of transparent rooms; untouched pastries; silent podlev. Tension arises from a missing endorser, a sealed rule, and an unprecedented call for full regression—caution battling feasibility while power seeks answers in shadowed sanctuaries."
+    }
+    ]
+    }

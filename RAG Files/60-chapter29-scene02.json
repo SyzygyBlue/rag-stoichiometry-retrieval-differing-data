@@ -1,0 +1,285 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "2186-10-27-quincy-trucks-intruder",
+    "chapter_number": 29,
+    "scene_number": 2,
+    "date_in_universe": "2186-10-27",
+    "absolute_timeline_notes": "Night; shortly after Quincy leaves a Fox River workers’ bar to visit the Three Shovels trucks."
+    },
+    "text_windows": {
+    "full_scene_clean": "Quincy threads through Fox River’s stacked shipping-container maze, the smell of oil and paint tightening her chest. She pushes to the southern exit near the caravan storage, passes a sentry, and steps into the cold night under a star-filled sky. Circling the motor pool, she finds the Three Shovels trucks penned in an unused livestock enclosure. A flashlight flickers beyond the trucks. Quincy slips through the oiled gate and closes on a crouched figure. She launches a kick; the intruder absorbs it, clamps her leg, and tries to nullify her strike. Quincy hammers his face with bandaged fists, feeling a nose crunch, but he powers up, dumps her backward, and bolts. She snatches the dropped flashlight, sprints after him around the motor pool, and checks the exit she used; the sentry reports no one passed. Choosing not to alert Fox River, Quincy lies that she’s looking for a friend and backs out to continue the search on her own.",
+    "dense_recap_250w": "Pressured by Fox River’s claustrophobic container corridors, Quincy heads for the southern exit to visit the impounded Three Shovels trucks. Outside, the open night and river sounds steady her. At the motor pool’s livestock pen where the trucks sit, she spots a flashlight flicker behind them. She silently opens the well-oiled gate and advances on a crouched intruder. Planning to use her steel-toe boots, she drives a kick that lands, but the man traps her leg and surges upright. Quincy pounds his face with her bandaged hands, feeling his nose break, yet he hoists and throws her, knocking the wind out of her. He flees through the gate to the gravel; Quincy grabs the flashlight and chases, tracking briefly by the dancing beam and a possible blood spatter. Reaching the door she exited earlier, she questions the sentry, who saw no one pass. Deciding Fox River’s response would only slow her, she conceals the encounter, claiming she’s seeking a friend, and withdraws to continue hunting alone. The scene adds a concrete sign of a saboteur or thief near the trucks, confirms Quincy’s hands are healing, and underscores her preference for decisive action and mistrust of institutional help while her only lead vanishes into the night.",
+    "query_handle": "Quincy confronts a flashlight-wielding intruder at the Three Shovels trucks; brief fight; suspect escapes; she pursues alone."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Through the container maze",
+    "what_happens": "Quincy pushes through Fox River’s stacked containers toward the southern exit, struggling with claustrophobia.",
+    "involved_entities": ["quincy", "fox-river"],
+    "stakes_or_conflict": "Environment presses on her resolve; need for open sky and purpose."
+    },
+    {
+    "order": 2,
+    "label": "Open sky reset",
+    "what_happens": "Outside, night air and stars calm her; she heads to the motor pool.",
+    "involved_entities": ["quincy", "fox-river-motor-pool"],
+    "stakes_or_conflict": "Regaining focus to face what she might find."
+    },
+    {
+    "order": 3,
+    "label": "Suspicious light",
+    "what_happens": "At the livestock pen holding the trucks, she sees a flashlight flicker beyond them.",
+    "involved_entities": ["quincy", "three-shovels-trucks", "intruder-unknown", "flashlight"],
+    "stakes_or_conflict": "Possible lead vs. risk of confrontation."
+    },
+    {
+    "order": 4,
+    "label": "Ambush that backfires",
+    "what_happens": "Quincy initiates a kick; the intruder clinches her leg, she breaks his nose with punches, but he dumps her and runs.",
+    "involved_entities": ["quincy", "intruder-unknown"],
+    "stakes_or_conflict": "Capture the lead vs. physical disadvantage; pain vs. persistence."
+    },
+    {
+    "order": 5,
+    "label": "Pursuit and denial",
+    "what_happens": "She grabs the flashlight, chases, checks with the sentry, then hides the incident to keep searching solo.",
+    "involved_entities": ["quincy", "flashlight", "sentry-fox-river"],
+    "stakes_or_conflict": "Institutional help vs. speed and control; the trail going cold."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Reach the trucks, investigate the suspicious light, and catch the intruder.",
+    "obstacles": "Claustrophobic environment, partially healed hands, stronger opponent, limited visibility.",
+    "tactics": "Stealthy approach, decisive kick with boots, rapid punching, immediate pursuit, withhold info from security.",
+    "relationships": [
+    {"with": "robyn", "type": "lover", "state": "missing", "evidence": "Touches the jar and vows to find them; thinking of Robyn amid guilt and loss."},
+    {"with": "sentry-fox-river", "type": "neutral", "state": "polite-distance", "evidence": "He recognizes her and opens the door; she later lies to him."}
+    ],
+    "emotional_arc": {
+    "start": "stifled, anxious, determined",
+    "turning_points": ["Open sky steadies her", "Flashlight triggers decisive aggression", "Failure to catch intruder fuels frustration and secrecy"],
+    "end": "angry but focused; continues searching alone"
+    },
+    "notable_actions": ["navigates container maze", "kicks intruder", "punches and breaks nose (likely)", "falls and recovers", "grabs flashlight", "questions sentry", "chooses secrecy"],
+    "quotable_lines": [
+    "You picked the wrong trucks.",
+    "I should have tried talking."
+    ]
+    },
+    {
+    "id": "intruder-unknown",
+    "display_name": "Unknown Intruder",
+    "aliases": ["flashlight user"],
+    "role_in_scene": "major",
+    "goals_now": "Tamper with or steal from the Three Shovels trucks (inferred).",
+    "obstacles": "Quincy’s surprise attack and persistence.",
+    "tactics": "Close distance to neutralize kick, clinch a leg, power lift and dump, flee fast.",
+    "relationships": [],
+    "emotional_arc": {"start": "focused", "turning_points": ["Hit in chest and face; nose likely broken"], "end": "escaped, possibly injured"},
+    "notable_actions": ["crouches behind truck", "absorbs kick/clamps leg", "throws Quincy", "flees through gate"],
+    "quotable_lines": []
+    },
+    {
+    "id": "sentry-fox-river",
+    "display_name": "Fox River Sentry",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Control access and monitor the exit.",
+    "obstacles": "Limited visibility; relies on what passes his door.",
+    "tactics": "Opens door for known resident; honest report; light inquiry.",
+    "relationships": [
+    {"with": "quincy", "type": "acquaintance", "state": "professional", "evidence": "Recognizes her and grunts a greeting; later asks if she is coming in."}
+    ],
+    "emotional_arc": {"start": "neutral", "turning_points": [], "end": "concerned but compliant"},
+    "notable_actions": ["grants passage", "confirms no one exited", "offers re-entry"],
+    "quotable_lines": [
+    "No. Is something wrong?"
+    ]
+    },
+    {
+    "id": "robyn",
+    "display_name": "Robyn",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "quincy", "type": "lover", "state": "missing/separated", "evidence": "Quincy’s thoughts and vow to find them."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "three-shovels-trucks",
+    "name": "Three Shovels caravan trucks",
+    "category": "vehicle",
+    "capabilities": ["cargo transport", "caravan habitat (past)"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "idle/impounded",
+    "scene_function": "Bait and focal point for the intruder; symbol of Quincy’s community."
+    },
+    {
+    "id": "flashlight",
+    "name": "Handheld flashlight",
+    "category": "tool",
+    "capabilities": ["portable illumination"],
+    "owner_or_users": ["intruder-unknown", "quincy"],
+    "condition_or_state": "dropped then recovered",
+    "scene_function": "Reveals intruder presence; becomes Quincy’s tool during pursuit."
+    },
+    {
+    "id": "jar-of-puro",
+    "name": "Jar of harsh homemade liquor",
+    "category": "other",
+    "capabilities": ["ritual comfort", "memory anchor"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "carried",
+    "scene_function": "Talisman that ties to earlier bar scene and to her vow to find Robyn."
+    },
+    {
+    "id": "steel-toe-boots",
+    "name": "Steel-toe black boots",
+    "category": "other",
+    "capabilities": ["augments kicking force", "foot protection"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "intact",
+    "scene_function": "Primary offensive choice in initiating the fight."
+    }
+    ],
+    "locations": [
+    {
+    "id": "fox-river-container-maze",
+    "name": "Fox River container maze",
+    "type": "structure",
+    "descriptors": ["multi-level stacked shipping containers", "suspended footpaths", "dim, echoing, oil and paint scents"],
+    "in_scene_events": ["Quincy transits toward southern exit, feeling claustrophobic."]
+    },
+    {
+    "id": "fox-river-motor-pool",
+    "name": "Motor pool and livestock pen",
+    "type": "structure",
+    "descriptors": ["well-maintained hinges", "pea gravel paths", "loamy pen soil", "night air and river sounds"],
+    "in_scene_events": ["Quincy discovers an intruder by flashlight; brief fight; intruder escapes."]
+    },
+    {
+    "id": "southern-exit-sallyport",
+    "name": "Southern exit door and sentry post",
+    "type": "structure",
+    "descriptors": ["heavy iron door", "guarded access point"],
+    "in_scene_events": ["Sentry grants passage; later confirms no one came through; Quincy declines to report incident."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "fox-river",
+    "name": "Fox River",
+    "alignment": "neutral",
+    "agents_present": ["sentry-fox-river"],
+    "motives_inferred": "Maintain order and property; strict maintenance culture.",
+    "actions_in_scene": ["Allows Quincy passage; unknowingly fails to intercept intruder’s escape path (if same exit)."]
+    },
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": ["quincy"],
+    "motives_inferred": "Recover abducted members and assets (implied by Quincy’s actions).",
+    "actions_in_scene": ["Referenced via trucks; serves as emotional anchor for Quincy."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["freedom vs. confinement", "agency and vigilance", "grief fueling action", "mistrust of institutions"],
+    "motifs_symbols": ["stars and open sky as relief", "well-oiled silent hinges as Fox River control", "steel-toe boots as self-reliance", "flashlight as fleeting lead"],
+    "moral_questions": ["When is secrecy justified over reporting to authority?", "Does rage sharpen or sabotage the search for truth?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "brisk",
+    "voice_traits": ["sensory detail", "internal vows", "hard-edged resolve"],
+    "sensory_notes": ["metallic footfall echoes", "oil and paint smell", "cold night air and starfield", "pea gravel crunch", "river murmur and frogs"]
+    },
+    "causality": {
+    "prior_dependencies": ["Caravan’s abduction; trucks stored at Fox River; Quincy’s injured hands are healing; she carries a jar of puro from earlier.", "Her mistrust of Fox River’s investigations from previous scenes."],
+    "outcomes": ["Evidence of an intruder near the trucks; possible blood from a broken nose; Quincy acquires a flashlight; she withholds reporting and continues a solo search."],
+    "unanswered_questions": ["Who was the intruder and what was he doing at the trucks?", "Where did he escape to if not through the southern exit?", "Is the intruder tied to the caravan’s disappearance?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "intruder-unknown"],
+    "trigger": "Flashlight reveals a trespasser at the trucks.",
+    "resolution": "Unresolved; brief fight ends with intruder’s escape."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy", "fox-river-container-maze"],
+    "trigger": "Claustrophobic stacked containers and tight corridors.",
+    "resolution": "Partial; open sky restores focus."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy", "fox-river-security"],
+    "trigger": "Decision whether to report the intruder.",
+    "resolution": "Quincy chooses secrecy to act quickly."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Impulsive aggression vs. tactical restraint.",
+    "resolution": "Acknowledges she should have tried talking; doubles down on solo pursuit."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "mentioned",
+    "sexual_content": "none",
+    "sensitive_topics": ["missing loved ones", "physical altercation"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Fox River container maze", "Three Shovels trucks", "flashlight intruder", "livestock pen storage", "sentry gate", "steel-toe kick", "broken nose", "solo pursuit"],
+    "keywords_dense": "Quincy, Fox River, shipping containers, claustrophobia, motor pool, livestock pen, Three Shovels trucks, flashlight, intruder, fight, steel toe boots, broken nose, sentry, secrecy, night sky",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Fox River Sentry"],
+    "places": ["Fox River"],
+    "orgs": ["Fox River", "Three Shovels Caravan"],
+    "terms": ["puro"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What alerts Quincy to the intruder near the trucks?", "a": "A flicker of light from a flashlight beyond the trucks."},
+    {"q": "Does Quincy capture the intruder?", "a": "No. After a brief fight he escapes; she pursues but loses him."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-10-27-quincy-trucks-recap",
+    "type": "recap",
+    "text": "Quincy pushes through Fox River’s container corridors to the southern exit and the motor pool where the Three Shovels trucks sit in a livestock pen. A flashlight flicker reveals an intruder. She slips through the gate, kicks, and then punches him, likely breaking his nose, but he powers up and throws her before fleeing. Quincy grabs the flashlight and chases around the motor pool. The sentry at the door reports no one passed. Preferring speed over bureaucracy, she withholds the incident and continues searching alone in the night."
+    },
+    {
+    "chunk_id": "2186-10-27-quincy-trucks-entities",
+    "type": "entities_focus",
+    "text": "Entities: Quincy (injured but aggressive), Unknown Intruder (tampering suspect, possibly injured), Fox River Sentry (access control). Items: Three Shovels trucks (impounded), flashlight (intruder’s then Quincy’s), steel-toe boots, jar of puro (talisman). Locations: Fox River container maze; motor pool livestock pen; southern exit sallyport. Roles: Intruder triggers conflict; sentry is a checkpoint witness; trucks are the lure and symbol."
+    },
+    {
+    "chunk_id": "2186-10-27-quincy-trucks-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-limited, past-tense, gritty-cinematic prose that leans on sensory contrasts: claustrophobic oil-and-paint corridors vs. open starry night; silent oiled hinges vs. gravel crunch. Themes: freedom vs. confinement, agency over institution, grief translating into vigilance. Motifs: steel-toe boots as self-reliance, flashlight as fleeting lead, silent trucks as absent family."
+    }
+    ]
+    }

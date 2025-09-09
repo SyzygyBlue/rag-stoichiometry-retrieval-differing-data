@@ -1,0 +1,158 @@
+{
+    "doc_type": "neon_titan_character_v1",
+    "source": {
+    "dossier_file": "Lenya Tam_dossier.md",
+    "scene_refs": []
+    },
+    "identity": {
+    "id": "lenya-tam",
+    "display_name": "Lenya Tam",
+    "aliases": [],
+    "mbti": "ESTJ",
+    "age_bracket": "20s",
+    "gender": "female",
+    "origin": "Calum-Tam Holdfast"
+    },
+    "affiliations": ["calum-tam-holdfast", "family-of-dinh-tam"],
+    "bio": {
+    "one_liner": "Overseer of Calum-Tam Holdfast: a decisive, volatile ESTJ enforcer whose control fractures around Chase and ends in her death.",
+    "summary": "Lenya Tam is a young overseer and implied co-owner of the Calum-Tam Holdfast, a slave-holding enterprise tied to her father, Dinh Tam. The dossier describes her as commanding, pragmatic, emotionally guarded, and quick to confront, using intimidation and a constant sidearm to enforce order. She values control and efficiency over morality and treats people as assets or liabilities. Fascination with Chase shifts her behavior: she shields him and Quincy at times and challenges subordinates like Carl, but later, upon discovering deception, she orders a near-fatal beating of Chase and threatens Quincy. Chase shoots her in the final confrontation while escaping. In the ensuing collapse, ravagers sent by Makko overrun the holdfast to erase ties to a broader plan involving Giles Montague. Lenya’s arc closes with ambition unmet; she remains a figure of power without transformation, her death marking a turning point for those who survived her.",
+    "narrative_gravity": 0
+    },
+    "personality": {
+    "traits": ["commanding", "decisive", "assertive", "pragmatic", "volatile-tempered", "emotionally-guarded", "ruthless-but-calculating"],
+    "flaws": ["moral-ambiguity", "impulse-control-issues", "underestimates-others", "family-entanglement", "isolation", "unrealized-ambitions"],
+    "values": ["order", "control", "dominance", "efficiency", "ambition"],
+    "motivations_primary": ["maintain-holdfast-order", "prove-worth-to-dinh-tam", "leverage-chase"],
+    "motivations_secondary": ["protect-assets-like-chase-and-quincy-when-useful", "expand-power-beyond-holdfast"]
+    },
+    "appearance": {
+    "height_cm": null,
+    "build": "lean, strong, athletic; upright, assertive posture",
+    "hair": "",
+    "eyes": "dark, narrow, alert; almond-shaped",
+    "notable_marks": [],
+    "style": "hand-tailored blue dress worn symbolically; later fitted utility clothing, often dust-smeared; bare feet in yard; low-slung pistol on belt"
+    },
+    "skills": {
+    "combat": ["pistol", "firearms-proficiency"],
+    "technical": ["leadership-and-command", "operations-management"],
+    "tactics": ["intimidation", "coercive-control", "direct-confrontation"],
+    "limitations": ["impulsiveness-when-challenged", "underestimation-driven-by-interest-in-chase", "loyalty-to-father-over-reason", "ideological-isolation"]
+    },
+    "relationships": [
+    {
+    "with": "chase",
+    "label": "antagonistic-interest",
+    "state": "volatile",
+    "notes": "Shields him at times and later has him beaten; she threatens Quincy, and Chase shoots her while escaping."
+    },
+    {
+    "with": "quincy",
+    "label": "rival/pawn-influence",
+    "state": "hostile-wary",
+    "notes": "Understands Quincy’s survival affects Chase’s loyalty; threat against Quincy precipitates Lenya’s death."
+    },
+    {
+    "with": "carl",
+    "label": "subordinate",
+    "state": "domineering",
+    "notes": "Enforces discipline through violent dominance over Carl."
+    },
+    {
+    "with": "dinh-tam",
+    "label": "father",
+    "state": "respect-with-tension",
+    "notes": "Seeks his approval yet rejects inheriting his limitations; affiliation to his family underpins her authority."
+    }
+    ],
+    "arc": {
+    "status_now": "Deceased; shot in the chest by Chase during his escape from Holdfast after she threatened Quincy, as the compound collapsed under a ravager attack.",
+    "pre_pivot": "Heir and overseer enforcing a slave-based order with strict control and intimidation.",
+    "pivot_event": "final-confrontation-at-holdfast",
+    "post_pivot": "Death halts any potential change; her control shatters alongside the holdfast’s fall.",
+    "future_vector": null
+    },
+    "items_and_tech": [
+    {
+    "id": "low-slung-pistol",
+    "name": "Low-slung pistol",
+    "category": "weapon",
+    "capabilities": ["sidearm-for-enforcement", "close-to-mid-range-threat"],
+    "condition": "",
+    "notes": "Carried constantly at her belt as a symbol and tool of control."
+    },
+    {
+    "id": "hand-tailored-blue-dress",
+    "name": "Hand-tailored blue dress",
+    "category": "other",
+    "capabilities": ["symbolic-authority-display"],
+    "condition": "",
+    "notes": "Worn in the Holdfast yard to project command; later replaced by utility clothing."
+    },
+    {
+    "id": "fitted-utility-clothing",
+    "name": "Fitted utility clothing",
+    "category": "other",
+    "capabilities": ["work-mobility", "operational-practicality"],
+    "condition": "",
+    "notes": "Dust-smeared, sweat-stained attire for moving between operations and punishments."
+    }
+    ],
+    "themes": {
+    "keywords": ["control", "ambition", "domination", "slavery-economy", "power-dynamics", "asset-vs-personhood", "fatal-overreach"],
+    "moral_tensions": ["control-vs-connection", "ambition-vs-conscience", "loyalty-to-family-vs-self", "efficiency-vs-morality"]
+    },
+    "text_windows": {
+    "bio_200w": "Lenya Tam is an overseer of the Calum-Tam Holdfast, a slave-holding operation tied to her father, Dinh Tam. She is a decisive, commanding ESTJ who enforces order through intimidation, rapid decisions, and a constant sidearm. The dossier characterizes her as pragmatic and emotionally guarded, with a volatile temper kept under tight control. She treats people as assets or liabilities and prioritizes efficiency over morality. Fascination with Chase alters her behavior: she shields him and Quincy at times and confronts subordinates like Carl, yet later orders a brutal beating of Chase after discovering duplicity and threatens Quincy. In the final confrontation during an escape attempt, Chase shoots her. Ravagers sent by Makko subsequently overrun the holdfast to erase inconvenient links to a wider plan involving Giles Montague. Lenya dies clinging to the illusion of control, emblematic of ambition without transformation.",
+    "arc_200w": "Lenya Tam is an heir-enforcer whose arc begins with disciplined dominance inside a patriarchal holdfast. Raised to equate worth with control, she seeks to uphold order and prove herself to Dinh Tam. Chase’s arrival creates a strategic fascination: she protects him and Quincy when it suits her aims and imagines leverage beyond the holdfast. That gamble fails when she discovers deception, responds with punitive violence, and threatens Quincy. The pivot is the final confrontation at Holdfast: Chase shoots her while escaping. As ravagers sent by Makko erase the compound tied to a larger scheme involving Giles Montague, Lenya’s authority collapses. Post-pivot there is no transformation—death ends her ambitions. The dossier frames her as nearly changing yet never crossing the threshold, leaving a cautionary imprint on survivors who witnessed the costs of control untempered by conscience.",
+    "skills_120w": "Lenya Tam demonstrates firearms proficiency with a pistol and uses it as both tool and symbol of authority. She leads operations with direct command, enforces discipline through intimidation, and confronts peers and subordinates without hesitation. Her tactical strengths are coercive control and rapid, decisive action. Limitations include impulse surges when challenged, a habit of underestimating others—especially due to interest in Chase—loyalties that skew judgment toward her father’s interests, and isolation as the power structure falters.",
+    "appearance_120w": "Lenya Tam is a lean, strong young woman with upright, assertive posture and sharp, symmetrical features reflecting mixed Korean and Anglo-Saxon heritage. Her almond-shaped eyes are dark, narrow, and alert. She projects authority through deliberate movements and a lower-pitched, clipped voice. She first appears in a hand-tailored blue dress, sometimes barefoot in the Holdfast yard, then shifts to fitted, homemade utility clothing, often dust-smeared or sweat-stained, with a low-slung pistol on her belt.",
+    "relationships_180w": "Lenya Tam’s ties revolve around leverage and control. With Chase, the connection is an antagonistic magnetism: she shields him and Quincy to harness his potential, then turns punitive after discovering deceit and threatening Quincy, leading to her being shot by Chase during escape. With Quincy, she recognizes a rival presence whose survival can regulate Chase’s loyalty; confrontation escalates to a direct threat. With Carl, a subordinate, she imposes discipline through violent dominance to maintain order. With Dinh Tam, her father, she seeks approval while rejecting his limitations, and the family’s authority underpins her position in the holdfast. These relationships chart her shift from calculated protection to overreach, ending in collapse as external forces eradicate the compound."
+    },
+    "qa_pairs": [
+    {"q": "What is Lenya Tam’s role at Calum-Tam Holdfast?", "a": "She is an overseer and implied co-owner who enforces order in the slave-holding operation."},
+    {"q": "How does Lenya enforce control day to day?", "a": "Through direct command, intimidation tactics, and keeping a low-slung pistol at her belt."},
+    {"q": "Why does Chase shoot Lenya?", "a": "He shoots her while escaping after she threatened Quincy and had earlier ordered him beaten."},
+    {"q": "Who is Lenya’s key family connection?", "a": "Her father, Dinh Tam, whose family co-owns the holdfast and whose approval she seeks."},
+    {"q": "What happens to the holdfast after Lenya’s death?", "a": "Ravagers sent by Makko overrun it to erase ties to a broader plan involving Giles Montague."}
+    ],
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Lenya Tam", "Calum-Tam Holdfast", "overseer", "low-slung pistol", "Dinh Tam", "Makko ravagers", "Giles Montague"],
+    "keywords_dense": "Lenya Tam, ESTJ, Calum-Tam Holdfast, overseer, slave-holding operation, pistol, intimidation, control, ambition, Chase, Quincy, Carl, Dinh Tam, Makko, ravagers, Giles Montague, death at Holdfast",
+    "spoiler_level": "book1_end",
+    "named_entities": {
+    "people": ["Lenya Tam", "Chase", "Quincy", "Carl", "Dinh Tam", "Makko", "Giles Montague"],
+    "places": ["Calum-Tam Holdfast", "Wildlands"],
+    "orgs": ["Family of Dinh Tam"],
+    "terms": ["ravagers", "pistol", "slave-holding operation"]
+    }
+    },
+    "embedding_payloads": [
+    {
+    "chunk_id": "lenya-tam-1",
+    "type": "bio",
+    "text": "Lenya Tam is an overseer of the Calum-Tam Holdfast who enforces a slave-based order with decisive command, intimidation, and a constant pistol. She treats people as assets or liabilities and values efficiency over morality. Fascination with Chase leads her to shield him and Quincy at times before ordering punishment when deceived. In the final confrontation, Chase shoots her while escaping; ravagers sent by Makko soon erase the holdfast tied to a wider plan involving Giles Montague."
+    },
+    {
+    "chunk_id": "lenya-tam-2",
+    "type": "arc",
+    "text": "Lenya Tam is an heir-enforcer whose ambition seeks leverage beyond the holdfast. Interest in Chase shifts her approach from pure domination to calculated protection, then to punitive overreach. The pivot occurs in the final confrontation at Holdfast when she threatens Quincy and is shot by Chase. External forces overrun the compound, ending her ambitions without transformation."
+    },
+    {
+    "chunk_id": "lenya-tam-3",
+    "type": "relationships",
+    "text": "Lenya Tam structures relationships for control: a volatile, strategic fixation on Chase; hostile wariness toward Quincy whose survival influences Chase; violent domination over subordinate Carl; and a respect-tinged tension with her father, Dinh Tam, whose family power grounds her role. These ties move from leverage to collapse."
+    },
+    {
+    "chunk_id": "lenya-tam-4",
+    "type": "skills_cybernetics",
+    "text": "Lenya Tam relies on firearms proficiency with a pistol, direct leadership, and intimidation tactics to manage operations. She confronts authority and subordinates without hesitation and acts quickly under pressure. Documented limitations include impulsiveness when challenged, underestimating others due to interest in Chase, loyalty distortions tied to Dinh Tam, and isolating reliance on control. No cybernetics are noted."
+    },
+    {
+    "chunk_id": "lenya-tam-5",
+    "type": "appearance",
+    "text": "Lenya Tam is lean and strong with assertive posture and dark, narrow, almond-shaped eyes. She first appears in a hand-tailored blue dress, sometimes barefoot in the yard, then shifts to fitted utility clothing suited to work, always with a low-slung pistol at her belt."
+    }
+    ]
+    }

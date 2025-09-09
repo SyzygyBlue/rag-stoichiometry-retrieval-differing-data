@@ -1,0 +1,265 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Sausage and Beer",
+    "scene_id": "cth-upper-apartment-first-night",
+    "chapter_number": null,
+    "scene_number": null,
+    "date_in_universe": "2186-11-20/2186-11-22",
+    "absolute_timeline_notes": "Immediately after escort from courtyard/infirmary; Quincy POV in new quarters."
+    },
+    "text_windows": {
+    "full_scene_clean": "\"Well, I'll be dipped in shit,\" Quincy muttered, leaning on the doorframe, looking in at sleeping Chase on a cot in a small dorm room like hers—an upgrade from last night’s stone cell. At the infirmary, Chase fast-talked a nurse into letting him return to his bed and asked for someone to check on him since he couldn’t stay awake. A guard called—presumably Lenya—and a nurse actually came. The report: just bruises; sleep and food would fix it. Quincy moved to her own room in the same upper-level apartment: four private bedrooms (only two made up), a shared bath with flushing toilet and shower at the hall’s end. She sat on her soft cot, noting that only a thin, locked wooden door stood between them and a real chance at freedom. She didn’t know how Chase had pulled this off, but she wasn’t going to waste it. They were leaving Calum-Tam Holdfast—soon.",
+    "dense_recap_250w": "Quincy surveys a sudden upgrade in living conditions within the Calum-Tam Holdfast: from stone cells to an upper-level apartment with four private rooms (two prepared) and a shared bathroom. Chase sleeps peacefully on a cot after persuading an infirmary nurse to release him back to his bed; a guard, likely after contacting Lenya, ensured a nurse checked on him. The exam confirms he is only bruised, needing rest and food. Quincy processes the whiplash from slave labor and hose-downs the day before to a nurse visit and soft cots now, her stomach churning at the incongruity. She returns to her own small room, cataloging the space and fixating on the single barrier to freedom: a thin, locked wooden door separating the apartment from the holdfast beyond. While she cannot explain how Chase engineered the change, she resolves to capitalize on it. The scene establishes their improved quarters, Chase’s non-critical condition, and Quincy’s intent to escape soon. It also underscores the holdfast’s contradictory veneer of care and continuing captivity—medical attention and private rooms paired with a locked exit—sharpening Quincy’s determination to turn the situation into an opportunity.",
+    "query_handle": "Quincy evaluates upgraded quarters; nurse clears bruised Chase; locked door presents immediate escape target."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Upgrade Whiplash",
+    "what_happens": "Quincy finds Chase asleep in a dorm-style room and reflects on the dramatic shift from stone cells to prepared beds.",
+    "involved_entities": ["quincy", "chase", "calum-tam-upper-apartment"],
+    "stakes_or_conflict": "Comfort contrasts with captivity; trust in sudden privilege."
+    },
+    {
+    "order": 2,
+    "label": "Fast-Talked Care",
+    "what_happens": "Chase persuades medical staff; a guard calls up the chain and a nurse confirms he’s only bruised.",
+    "involved_entities": ["chase", "nurse-unnamed", "guard-unnamed", "lenya-tam"],
+    "stakes_or_conflict": "Reliance on authority’s goodwill vs ongoing danger."
+    },
+    {
+    "order": 3,
+    "label": "Locked Threshold",
+    "what_happens": "Quincy notes a thin, locked wooden door as the immediate barrier to freedom.",
+    "involved_entities": ["quincy", "apartment-door-lock"],
+    "stakes_or_conflict": "Single point of failure between captivity and escape."
+    },
+    {
+    "order": 4,
+    "label": "Resolution",
+    "what_happens": "She commits to using this opening to get out soon.",
+    "involved_entities": ["quincy", "calum-tam-holdfast"],
+    "stakes_or_conflict": "Timing and risk of escape planning."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Exploit upgraded quarters to plan an imminent escape.",
+    "obstacles": "Locked door; guards; uncertain surveillance; dependence on timing.",
+    "tactics": "Assess layout; maintain cover; leverage new status; seize opportunity.",
+    "relationships": [
+    {"with": "chase", "type": "ally", "state": "pragmatic trust", "evidence": "Acknowledges he ‘pulled this off’ and intends to use it."},
+    {"with": "lenya-tam", "type": "power-holder", "state": "skeptical reliance", "evidence": "Guard presumably called Lenya to authorize nurse visit."}
+    ],
+    "emotional_arc": {
+    "start": "sarcastic, disoriented by whiplash",
+    "turning_points": ["Nurse confirms mild injuries", "Recognizes the locked door as solvable barrier"],
+    "end": "focused, determined to escape soon"
+    },
+    "notable_actions": ["surveys quarters", "evaluates Chase’s condition outcome", "identifies locked door as target", "commits to leaving soon"],
+    "quotable_lines": [
+    "Well, I’ll be dipped in shit.",
+    "Only a thin wooden door — locked — stood between them and a real chance at freedom."
+    ]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": ["Sparkles"],
+    "role_in_scene": "supporting",
+    "goals_now": "Rest and recover; maintain favorable treatment.",
+    "obstacles": "Bruises, fatigue, ongoing threat environment.",
+    "tactics": "Fast-talks nurse; requests check-ins; returns to his own bed.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "cooperative", "evidence": "His maneuvering creates the window Quincy plans to exploit."},
+    {"with": "lenya-tam", "type": "subject of interest", "state": "protected/monitored", "evidence": "Guard likely escalates to Lenya; nurse sent."}
+    ],
+    "emotional_arc": {
+    "start": "exhausted",
+    "turning_points": ["Authorized to rest in quarters"],
+    "end": "asleep, recovering"
+    },
+    "notable_actions": ["convinces nurse to release him to bed", "requests follow-up check"],
+    "quotable_lines": []
+    },
+    {
+    "id": "lenya-tam",
+    "display_name": "Lenya Tam",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Maintain oversight and optics of care for valuable prisoners.",
+    "obstacles": "Offstage; must balance discipline and utility.",
+    "tactics": "Authorizes via chain (inferred).",
+    "relationships": [
+    {"with": "quincy", "type": "custodian/authority", "state": "distant", "evidence": "New quarters under her regime."},
+    {"with": "chase", "type": "custodian/authority", "state": "watchful", "evidence": "Guard likely contacted her to clear nurse visit."}
+    ],
+    "emotional_arc": {"start": "offstage", "turning_points": [], "end": "offstage"},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "guard-unnamed",
+    "display_name": "Holdfast Guard (escort/caller)",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Ensure medical check and placement in new quarters.",
+    "obstacles": "Procedural risk; volatile power dynamics.",
+    "tactics": "Calls up chain; enforces rooming.",
+    "relationships": [],
+    "emotional_arc": {"start": "procedural", "turning_points": [], "end": "procedural"},
+    "notable_actions": ["places call that results in nurse visit"],
+    "quotable_lines": []
+    },
+    {
+    "id": "nurse-unnamed",
+    "display_name": "Holdfast Nurse",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Assess Chase’s condition.",
+    "obstacles": "Authority constraints.",
+    "tactics": "Examines, clears for rest/food.",
+    "relationships": [],
+    "emotional_arc": {"start": "neutral", "turning_points": [], "end": "neutral"},
+    "notable_actions": ["confirms bruising only; no serious injury"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "apartment-door-lock",
+    "name": "Thin Wooden Door & Lock",
+    "category": "other",
+    "capabilities": ["restrict egress"],
+    "owner_or_users": ["calum-tam-holdfast"],
+    "condition_or_state": "locked",
+    "scene_function": "Primary physical barrier between the upgraded quarters and freedom."
+    },
+    {
+    "id": "upper-level-apartment",
+    "name": "Upper-Level Apartment (4 rooms)",
+    "category": "other",
+    "capabilities": ["housing", "shared sanitation"],
+    "owner_or_users": ["quincy", "chase"],
+    "condition_or_state": "partially furnished (2 rooms made up)",
+    "scene_function": "Setting that juxtaposes comfort with confinement."
+    },
+    {
+    "id": "shared-bathroom",
+    "name": "Shared Bathroom (toilet & shower)",
+    "category": "other",
+    "capabilities": ["sanitation", "recovery support"],
+    "owner_or_users": ["quincy", "chase"],
+    "condition_or_state": "functional",
+    "scene_function": "Signals improved conditions versus prior imprisonment."
+    }
+    ],
+    "locations": [
+    {
+    "id": "calum-tam-upper-apartment",
+    "name": "Calum-Tam Upper-Level Apartment",
+    "type": "structure",
+    "descriptors": ["four private rooms", "two prepared cots", "shared bathroom", "locked exterior door"],
+    "in_scene_events": ["Chase sleeps; Quincy resolves to escape; nurse has recently checked Chase."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "calum-tam-holdfast",
+    "name": "Calum-Tam Holdfast",
+    "alignment": "hostile",
+    "agents_present": ["guard-unnamed", "nurse-unnamed", "lenya-tam"],
+    "motives_inferred": "Keep valuable captives healthy while maintaining control.",
+    "actions_in_scene": ["Approves nurse check", "Houses prisoners in controlled upper apartment with locked door"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["captive agency", "appearance of mercy vs control", "opportunism under oppression", "planning escape"],
+    "motifs_symbols": ["locked thin door as liminal barrier", "soft cot vs stone cell contrast", "medical care as containment"],
+    "moral_questions": ["When ‘care’ is provided by captors, is accepting it complicity or survival?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty, sardonic, pragmatic",
+    "pacing": "brisk",
+    "voice_traits": ["dry humor", "survival calculus", "sharp observational detail"],
+    "sensory_notes": ["soft cot feel", "doorframe lean", "memory of hose-down juxtaposed with sterile nurse visit"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Lenya overruled Carl and ordered relocation; escort to infirmary/new quarters.",
+    "Chase previously injured; sought medical attention."
+    ],
+    "outcomes": [
+    "Status improved to controlled apartment with basic amenities.",
+    "Chase medically cleared as bruised; resting.",
+    "Quincy commits to imminent escape leveraging new conditions."
+    ],
+    "unanswered_questions": [
+    "Who exactly authorized the nurse and room change?",
+    "What security measures guard the locked door and corridor?",
+    "When and how will Quincy attempt the escape?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy", "calum-tam-holdfast"],
+    "trigger": "Confinement persists despite improved quarters (locked door).",
+    "resolution": "Unresolved—Quincy plans to escape soon."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Whiplash between care and captivity; deciding to act.",
+    "resolution": "Chooses action: leverage the opening to flee."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["captivity/slavery", "prior physical abuse (referenced)"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Chase", "Calum-Tam Holdfast", "upper-level apartment", "locked door", "nurse check", "escape planning"],
+    "keywords_dense": "Quincy, Chase, Calum-Tam Holdfast, upper-level apartment, locked door, nurse, infirmary release, bruises only, escape plan, soft cot, shared bathroom",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Chase", "Lenya Tam"],
+    "places": ["Calum-Tam Upper-Level Apartment"],
+    "orgs": ["Calum-Tam Holdfast"],
+    "terms": ["infirmary", "locked door", "cot"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What separates Quincy and Chase from freedom in their new quarters?", "a": "A thin, locked wooden door."},
+    {"q": "What was Chase’s medical status after the nurse visit?", "a": "He was only bruised; rest and food were advised."},
+    {"q": "How did the nurse visit come about?", "a": "Chase fast-talked the nurse, and a guard called up—presumably to Lenya—to authorize it."},
+    {"q": "How many bedrooms are in the apartment and how many are prepared?", "a": "Four bedrooms; two are made up with beds."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "cth-upper-apartment-1-recap",
+    "type": "recap",
+    "text": "Quincy finds Chase asleep in a new upper-level apartment—an abrupt upgrade from stone cells. After Chase persuaded an infirmary nurse to release him back to his bed and a guard likely cleared it via Lenya, a nurse confirmed he was only bruised. The apartment has four rooms (two prepared) and a shared bath. Quincy identifies a single barrier to freedom: a thin, locked wooden door. She resolves to exploit this opening and leave the Calum-Tam Holdfast soon."
+    },
+    {
+    "chunk_id": "cth-upper-apartment-2-entities",
+    "type": "entities_focus",
+    "text": "Actors: Quincy (POV, planner), Chase (injured but recovering), Unnamed Guard (caller), Unnamed Nurse (assessment), Lenya Tam (offstage authority). Place: Calum-Tam Upper-Level Apartment with shared bathroom. Object: Thin wooden door & lock (primary barrier). Faction: Calum-Tam Holdfast providing care while enforcing control."
+    },
+    {
+    "chunk_id": "cth-upper-apartment-3-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-limited Quincy with sardonic, gritty pragmatism; brisk pacing. Themes: captive agency, mercy as control, exploiting privilege to escape. Motifs: soft cot vs stone cell, nurse visit vs hose-down, locked slim door as liminal threshold."
+    }
+    ]
+    }

@@ -1,0 +1,278 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "A Smoking Hole",
+    "scene_id": "a-smoking-hole-fox-river-crater",
+    "chapter_number": 45,
+    "scene_number": 1,
+    "date_in_universe": "2186-12-03",
+    "absolute_timeline_notes": "Immediately after the Calum-Tam escape; night drive in a TEG-6 when Lesha spots an overflying drone feed showing Fox River destroyed."
+    },
+    "text_windows": {
+    "full_scene_clean": "Lesha’s voice tightens as she stares at a drone feed: Fox River isn’t just offline—it’s gone, replaced by fire, wreckage, and a smoking crater. Demmy stiffens. Quincy, driving the TEG-6, presses for clarity. Lesha confirms: the whole city is physically gone. Quincy whispers, trying to grasp the scale. From the back seat, a battered Chase rasps an answer to Lesha’s question: thirteen thousand lived there. Shock settles over the cab. Quincy asks where to go now; Chase jokes bitterly that Fox River is not an option and that Ransom Canyon won’t welcome them. He suggests Broken Bow. Quincy sets the coordinates, turns the last TEG-6 around, and prepares to run redline to get Chase medical help.",
+    "dense_recap_250w": "Racing away from the burning Calum-Tam Holdfast in a TEG-6, Quincy, Demmy, and Lesha reel as Lesha, watching a live drone pass, reports that Fox River is not merely dark but physically annihilated—only a crater remains. The revelation stuns the group: Quincy struggles to process the loss, Demmy slumps in shock, and Chase, barely conscious, gives the population figure—thirteen thousand—before admitting he can’t think through the pain. With Fox River destroyed and Ransom Canyon off-limits, Quincy asks for a destination that can treat Chase’s extensive injuries. Chase chooses Broken Bow, the nearest place they consider safe enough and reachable quickly if they push the vehicle. Quincy inputs the route into the nav system and commits to a high-speed run. The scene pivots the party from a rescue exfiltration to refugee triage amid mass-casualty catastrophe, solidifying the immediate goal: keep Chase alive while the geopolitical ground shifts catastrophically under them.",
+    "query_handle": "Lesha’s drone reveals Fox River is a crater; group diverts the TEG-6 to Broken Bow to save Chase."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Catastrophe confirmed",
+    "what_happens": "Lesha watches a drone overpass and confirms Fox River is physically destroyed.",
+    "involved_entities": ["lesha", "drone-overpass", "fox-river"],
+    "stakes_or_conflict": "Home base erased; plans and loyalties upended."
+    },
+    {
+    "order": 2,
+    "label": "Population toll named",
+    "what_happens": "Chase, barely conscious, states Fox River’s population: thirteen thousand.",
+    "involved_entities": ["chase", "fox-river"],
+    "stakes_or_conflict": "Magnitude of loss drives urgency and grief."
+    },
+    {
+    "order": 3,
+    "label": "Route decision",
+    "what_happens": "With Fox River gone and Ransom Canyon unsafe, Chase suggests Broken Bow.",
+    "involved_entities": ["quincy", "demmy", "lesha", "chase", "broken-bow"],
+    "stakes_or_conflict": "Choosing a survivable destination for medical aid."
+    },
+    {
+    "order": 4,
+    "label": "Commit to flight",
+    "what_happens": "Quincy inputs coordinates and turns the last TEG-6 to run for Broken Bow.",
+    "involved_entities": ["quincy", "teg-6", "nav-computer"],
+    "stakes_or_conflict": "Time-critical evacuation for an injured companion."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Get Chase to medical care safely and fast.",
+    "obstacles": "Primary destination destroyed; potential hostility at alternatives; emotional shock.",
+    "tactics": "Drive the TEG-6, accept Chase’s suggestion, reroute to Broken Bow, plan to run redline.",
+    "relationships": [
+    {"with": "demmy", "type": "ally", "state": "trusting", "evidence": "Works with him to evacuate and navigate."},
+    {"with": "lesha", "type": "ally", "state": "pragmatic reliance", "evidence": "Relies on Lesha’s drone intel to choose a route."},
+    {"with": "chase", "type": "ally", "state": "protective/concerned", "evidence": "Insists on getting him to a doctor immediately."}
+    ],
+    "emotional_arc": {
+    "start": "confused, tense",
+    "turning_points": ["Learns Fox River is a crater", "Commits to Broken Bow run"],
+    "end": "focused, grimly determined"
+    },
+    "notable_actions": ["drives TEG-6", "inputs coordinates to nav", "decides destination pivot to Broken Bow"],
+    "quotable_lines": ["How far… gone?", "Broken Bow. God I hurt. I don’t… I can’t… think. (prompting her decision)"]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Support evacuation; process the shock of Fox River’s destruction.",
+    "obstacles": "Shock and uncertainty; limited safe destinations.",
+    "tactics": "Defers to medical priority; stays alert.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "cooperative", "evidence": "Rides shotgun; supports her decision-making."},
+    {"with": "lesha", "type": "ally", "state": "reliant on intel", "evidence": "Responds to her drone assessment."},
+    {"with": "chase", "type": "ally", "state": "concerned", "evidence": "Acknowledges need for a doctor."}
+    ],
+    "emotional_arc": {
+    "start": "alert",
+    "turning_points": ["Lesha’s reveal of Fox River’s annihilation"],
+    "end": "stunned but compliant"
+    },
+    "notable_actions": ["processes intel", "supports Quincy’s reroute"],
+    "quotable_lines": ["Gone? What do you mean, gone?"]
+    },
+    {
+    "id": "lesha",
+    "display_name": "Lesha",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Interpret drone feed and steer the team away from danger.",
+    "obstacles": "Sheer scale of destruction; limited context; disbelief.",
+    "tactics": "Monitors a drone pass, reports situational awareness bluntly.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "functional", "evidence": "Provides critical intel to guide routing."},
+    {"with": "demmy", "type": "ally", "state": "direct", "evidence": "Challenges the group with the reality of the crater."}
+    ],
+    "emotional_arc": {
+    "start": "strained",
+    "turning_points": ["Sees crater on feed"],
+    "end": "sober, urgent"
+    },
+    "notable_actions": ["tracks drone feed", "announces Fox River is gone"],
+    "quotable_lines": ["There’s no city. Just fire and wreckage. It’s gone. The whole damn thing."]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Survive and get medical help.",
+    "obstacles": "Severe injuries; fading consciousness; home city destroyed.",
+    "tactics": "Provides population context; suggests a viable destination (Broken Bow).",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "trusting", "evidence": "Lets Quincy drive plans to get treatment."}
+    ],
+    "emotional_arc": {
+    "start": "exhausted, pained",
+    "turning_points": ["Chooses Broken Bow despite shock"],
+    "end": "weak but decisive"
+    },
+    "notable_actions": ["states population of Fox River", "selects Broken Bow as destination"],
+    "quotable_lines": ["Thirteen thousand.", "Broken Bow."]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "teg-6",
+    "name": "TEG-6 six-seater",
+    "category": "vehicle",
+    "capabilities": ["off-road transport", "high-speed 'redline' travel", "nav computer routing"],
+    "owner_or_users": ["quincy", "demmy", "lesha", "chase"],
+    "condition_or_state": "intact",
+    "scene_function": "Evacuation platform; rerouted to Broken Bow; described as the last TEG-6 in existence."
+    },
+    {
+    "id": "drone-overpass",
+    "name": "Overflying recon drone (feed)",
+    "category": "comms",
+    "capabilities": ["live aerial video", "battlefield/area reconnaissance"],
+    "owner_or_users": ["lesha"],
+    "condition_or_state": "operational",
+    "scene_function": "Confirms Fox River is a crater, catalyzing the destination change."
+    },
+    {
+    "id": "nav-computer",
+    "name": "TEG-6 navigation computer",
+    "category": "comms",
+    "capabilities": ["coordinate entry", "route planning"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "operational",
+    "scene_function": "Used to set course to Broken Bow."
+    }
+    ],
+    "locations": [
+    {
+    "id": "fox-river",
+    "name": "Fox River",
+    "type": "city",
+    "descriptors": ["annihilated", "smoking crater", "fire and wreckage"],
+    "in_scene_events": ["Confirmed destroyed by drone pass; population cited as 13,000."]
+    },
+    {
+    "id": "environs-outside-calum-tam",
+    "name": "Roads/wilds outside Calum-Tam",
+    "type": "wilderness",
+    "descriptors": ["night", "escaping war zone"],
+    "in_scene_events": ["Group drives away in TEG-6, processes disaster intel."]
+    },
+    {
+    "id": "broken-bow",
+    "name": "Broken Bow",
+    "type": "city",
+    "descriptors": ["nearest perceived safe haven", "medical help sought"],
+    "in_scene_events": ["Chosen as new destination to treat Chase."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "fox-river-community",
+    "name": "Fox River community",
+    "alignment": "ally",
+    "agents_present": ["quincy", "demmy", "chase"],
+    "motives_inferred": "Survival and governance (now destroyed).",
+    "actions_in_scene": ["Referenced as annihilated; triggers refugee decision."]
+    },
+    {
+    "id": "ransom-canyon",
+    "name": "Ransom Canyon",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Unwelcoming to group (per Chase).",
+    "actions_in_scene": ["Rejected as a destination."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["sudden loss and displacement", "triage under shock", "home erased", "pragmatism vs. grief"],
+    "motifs_symbols": ["smoking crater", "empty map waypoint", "white-knuckled hands on a wheel"],
+    "moral_questions": ["Where do you seek safety when home is gone?", "How do you choose amidst grief and obligation to the injured?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "brisk",
+    "voice_traits": ["clipped dialogue", "matter-of-fact shock", "survival pragmatism"],
+    "sensory_notes": ["glow of fire on horizon (implied drone view)", "white-knuckled grip on steering wheel", "strained voices in a dark cab"]
+    },
+    "causality": {
+    "prior_dependencies": ["Fox River has just been destroyed (previous scene); group escaped Calum-Tam; they possess a TEG-6; Lesha has access to a drone feed."],
+    "outcomes": ["Confirms total loss of Fox River; group adopts refugee status; destination set to Broken Bow for medical aid; underscores broader regional instability."],
+    "unanswered_questions": ["Who destroyed Fox River?", "Is Broken Bow actually safe and equipped for trauma care?", "Will Ransom Canyon or other factions interfere?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy-demmy-lesha-chase", "regional devastation"],
+    "trigger": "Discovery that Fox River is a crater.",
+    "resolution": "Provisional—reroute to Broken Bow."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Processing the annihilation while needing to act fast.",
+    "resolution": "Chooses decisive action: drive for care."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["group", "unwelcoming/hostile settlements (e.g., Ransom Canyon)"],
+    "trigger": "Limited safe havens after catastrophe.",
+    "resolution": "Selects Broken Bow as a tentative safe destination."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["mass death (off-screen)", "disaster aftermath", "trauma/medical emergency"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Fox River crater", "Broken Bow destination", "TEG-6 vehicle", "drone feed confirmation", "Quincy POV", "Chase injured"],
+    "keywords_dense": "Fox River crater, drone feed, Quincy, Demmy, Lesha, Chase injured, TEG-6, Broken Bow, Ransom Canyon unwelcome, thirteen thousand dead, reroute, refugee flight",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Demmy", "Lesha", "Chase"],
+    "places": ["Fox River", "Broken Bow", "Calum-Tam Holdfast"],
+    "orgs": ["Ransom Canyon (referenced)"],
+    "terms": ["TEG-6", "drone feed", "redline"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What reveals Fox River’s destruction to the group?", "a": "Lesha watches an overhead drone pass and reports the live feed."},
+    {"q": "How many people lived in Fox River?", "a": "Thirteen thousand, according to Chase."},
+    {"q": "Where do they decide to go for medical help?", "a": "Broken Bow."},
+    {"q": "Why don’t they head to Ransom Canyon?", "a": "Chase says Ransom Canyon wouldn’t be happy to see them."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "a-smoking-hole-recap",
+    "type": "recap",
+    "text": "Fleeing Calum-Tam in a TEG-6, Quincy, Demmy, Lesha, and a gravely injured Chase learn via Lesha’s drone feed that Fox River is not just offline but annihilated—only a smoking crater remains. Shocked, they abandon any thought of returning. Chase, barely lucid, estimates Fox River’s population at 13,000 and, rejecting Ransom Canyon, names Broken Bow as the nearest viable refuge with medical help. Quincy inputs the route and commits to a hard run to keep Chase alive."
+    },
+    {
+    "chunk_id": "a-smoking-hole-entities",
+    "type": "entities_focus",
+    "text": "Actors: Quincy (driver/decision-maker), Demmy (support, stunned), Lesha (intel via drone), Chase (injured, provides population and destination). Tech: TEG-6 six-seater with nav computer; overflying recon drone feed. Places: Fox River (destroyed crater), roads outside Calum-Tam, Broken Bow (chosen haven). Factions: Fox River community (lost), Ransom Canyon (avoided)."
+    },
+    {
+    "chunk_id": "a-smoking-hole-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-person limited on Quincy, in past tense with clipped, pragmatic dialogue. Themes: sudden displacement, triage over grief, loss of home, choosing safety under uncertainty. Motifs: smoking crater, white-knuckled steering, night drive to a waypoint. The scene reframes the cast as refugees, prioritizing survival while the broader cause of destruction remains unknown."
+    }
+    ]
+    }

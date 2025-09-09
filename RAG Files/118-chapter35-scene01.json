@@ -1,0 +1,146 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "2186-11-24-25-ruined-warehouse-autopacker-quincy-lesha",
+    "chapter_number": null,
+    "scene_number": null,
+    "date_in_universe": "2186-11-24",
+    "absolute_timeline_notes": "Scene begins late on 2186-11-24 and runs into evening/twilight, bridging into 2186-11-25."
+    },
+    "text_windows": {
+    "full_scene_clean": "Quincy's day had been remarkable — as remarkable as it could be for a prisoner, anyway. With her toolbox finally delivered, fixing the console had been simple. Her test meter quickly identified the culprit: a blown power capacitor. Thankfully, Chase and Lenya had long since fucked off. Chase might actually turn out decent, but his high-powered personality drained her — sometimes she just needed quiet. It took only a thirty-minute search to find and scavenge an identical capacitor from a nearby machine. Once she had it installed, the display came on and booted with no issues. She completed the repairs before Lesha emerged from her Sykotiq-induced stupor.\nLesha herself was a marvel. Her armored Dermoweave flexed and moved like skin, yet it was strong enough to stop blades and even small-arms fire. As Lesha had explained — in one of the few straight answers Quincy had gotten from her — each of the little hex tiles could be popped out and replaced. She had nine left, and those nine were all she would ever get. Understandably, she wasn't planning on getting them damaged any time soon.\nThe real bombshell for Quincy was the discovery that Lesha was just over seventy years old. Incredible. Lesha had just grinned and said Dermoweave doesn't wrinkle, and her enhanced bones and muscles wouldn't get weak or brittle. Physically, she would never show her age. Mentally, she was sharp — but Quincy had to wonder about the long-term effect of the drug use on a seventy-year-old brain. If nothing else, Lesha was the first person she'd ever heard of that got tired from Sykotiq.\nTowards the end of the afternoon, Lesha pulled out a link of dry sausage and a sleeve of crackers... premium caravanner food. She offered to share. Quincy accepted with a grateful nod. They cut off chunks and ate, washing it down with fresh water as Quincy scanned through the error codes on the autopacker's display, trying to figure out what it all meant. The food was delicious, but the cryptic error codes were proving to be a tough nut to crack. It would take a few days to untangle the mess before she could start making repairs. Neither of them talked much, a characteristic Quincy appreciated about the merc.\n\"Hey, sun's getting low,\" Lesha said, glancing up at the orange glow filtering in through the missing section of roof.\nQuincy nodded, wiping her brow with a grease-stained hand towel as she gazed upward at the small patch of sky.\n\"I noticed,\" she replied. \"But I know my way back, so it's fine. I wonder where Sparkles and Miss Bossypants disappeared to?\"\nLesha barked a laugh.\n\"Those two meat sacks? Fifty holos say they're fuck'n,\" she grinned.\nQuincy grimaced, but knew she couldn't disagree.\n\"I'll take the bet, but I think you're right.\"\n\"'Course I'm right,\" Lesha said, pulling out a metal box, \"They're corporate types, boardrooms to bedrooms and nothing in between. Seen it a million times.\"\nShe took a cigarette out and offered the open tin to Quincy.\n\"Real tobbak?\" Quincy asked.\nLesha nodded, the heavy dreadlocks that hung down to jaw level swaying with the movement.\n\"Don't worry, girl, I'm not tryin' to get you tripping balls.\"\nQuincy nodded and took a cigarette from the case as Lesha lit up. She passed the lighter to Quincy, who lit hers and then tossed it back. It was machine-rolled with a filter, a little label stamped onto it. A luxury item, surely. She'd never seen anything like it. Quincy leaned against the machine and took a drag.\n\"Don't get much tobbak in the caravan,\" Quincy said, inhaling and then blowing out a cloud of gray smoke. \"What we do get is hand-rolled and tastes like dog shit. This is smooth.\"\nLesha nodded, exhaling twin columns of smoke from her nose.\n\"Won't find 'em here, either. These are tasting a little old,\" she said with a crooked grin, \"But I guess you figured that since I brought these with me back when I had my old life.\"\nQuincy nodded, realizing with a sense of wonder that she was smoking a cigarette probably purchased in the Metrofederacy.\n\"Thank you, then.\"\n\"Just fix that goddamned machine so they'll go back to leaving me alone,\" Lesha growled. They were quiet then for several moments before Lesha flicked her spent butt into the gloomy distance, the red glow bouncing once before winking out. Moments later, Quincy did the same, tossing her butt in the same direction.\nThey continued to stand there, not saying a word. Above, the orange glow filtering in from the missing roof panel was fading to purple. The stars would be out soon.\n\"I think I'm off to find my cot,\" Quincy said.\n\"Sounds good to me,\" Lesha said.\n\"I don't know what Lenya has planned for me, but if it's to come back here, I guess I'll see you tomorrow,\" Quincy said as she began casually strolling off toward the double doors.\n\"Yep,\" Lesha replied.",
+    "dense_recap_250w": "Quincy, held as a prisoner, receives her toolbox and successfully repairs a dead console by diagnosing a blown power capacitor with a test meter and scavenging a matching part from another machine. The console boots cleanly. While Chase and Lenya are absent, Quincy works alongside Lesha, an older mercenary whose Dermoweave armor comprises replaceable hex tiles; Lesha has nine tiles left and intends to avoid further damage. Quincy learns Lesha is just over seventy years old but looks youthful due to Dermoweave and musculoskeletal enhancements; despite using Sykotiq, Lesha remains sharp, though Quincy wonders about long-term effects. The women share caravanner food (dry sausage, crackers) and water while Quincy studies cryptic autopacker error codes, estimating days of analysis before mechanical repairs can begin. As sunset deepens through a missing roof panel, their sparse conversation touches on two absent corporate-types, with Lesha crassly betting they are having sex. Lesha offers machine-rolled tobacco cigarettes from her earlier life, likely from the Metrofederacy; both smoke, then flick away the butts. The scene closes with quiet mutual understanding: Lesha wants the autopacker fixed so she will be left alone, and Quincy intends to return if Lenya assigns her back to the task. Key elements include the repaired console, the still-mysterious autopacker faults, Lesha’s longevity via Dermoweave, Sykotiq use, and the prisoner–merc dynamic pivoting around technical leverage.",
+    "query_handle": "Quincy repairs a console, audits autopacker faults with Lesha; they share food and old Metrofederacy cigarettes under a broken roof."
+    },
+    "narrative_beats": [
+    { "order": 1, "label": "Toolbox arrival & quick fix", "what_happens": "Quincy uses a test meter to find a blown capacitor, scavenges a match, and brings the console back online.", "involved_entities": ["quincy", "autopacker-console", "power-capacitor", "test-meter"], "stakes_or_conflict": "Proves technical value while imprisoned." },
+    { "order": 2, "label": "Lesha revealed", "what_happens": "Lesha’s Dermoweave, replaceable hex tiles, and enhanced longevity are described; she is ~70 yet physically ageless.", "involved_entities": ["lesha", "dermoweave"], "stakes_or_conflict": "Hints at bioaugmentation power and limits (finite tiles)." },
+    { "order": 3, "label": "Shared rations and diagnostics", "what_happens": "They share sausage, crackers, and water while Quincy parses opaque autopacker error codes, planning days of analysis.", "involved_entities": ["quincy", "lesha", "autopacker"], "stakes_or_conflict": "Technical puzzle delays repair timeline." },
+    { "order": 4, "label": "Cigarettes & sunset", "what_happens": "They smoke machine-rolled tobbak from Lesha’s old life, watching light fade through a missing roof panel.", "involved_entities": ["quincy", "lesha", "tobacco-cigarettes"], "stakes_or_conflict": "Small comforts amid captivity." },
+    { "order": 5, "label": "Parting for the night", "what_happens": "Quincy plans to find her cot and expects to return if Lenya assigns her back.", "involved_entities": ["quincy", "lesha", "lenya"], "stakes_or_conflict": "Continuity of labor under guard’s expectations." }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Restore functionality and interpret autopacker errors to gain leverage and stability.",
+    "obstacles": "Opaque error codes; prisoner status; resource scarcity.",
+    "tactics": "Diagnostics with test meter; scavenging parts; quiet rapport with guard.",
+    "relationships": [
+    {"with": "lesha", "type": "guard/prisoner—pragmatic rapport", "state": "professional, terse warmth", "evidence": "Food and cigarettes shared; mutual silence appreciated."},
+    {"with": "lenya", "type": "captor/authority", "state": "uncertain", "evidence": "I don't know what Lenya has planned for me…"},
+    {"with": "chase", "type": "acquaintance", "state": "draining/high-energy to her", "evidence": "Chase’s personality \"drained her\"."}
+    ],
+    "emotional_arc": { "start": "weary but focused", "turning_points": ["Console fix succeeds", "Autopacker errors prove complex"], "end": "resolved to continue work tomorrow" },
+    "notable_actions": ["diagnoses blown capacitor", "scavenges identical part", "reboots console", "reviews autopacker errors", "shares food and cigarettes"],
+    "quotable_lines": ["I noticed."]
+    },
+    {
+    "id": "lesha",
+    "display_name": "Lesha",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Have the autopacker fixed so others leave her alone.",
+    "obstacles": "Dependence on Quincy’s technical progress; finite Dermoweave tiles; Sykotiq fatigue.",
+    "tactics": "Pragmatic cooperation; small concessions (food, cigarettes); minimal conversation.",
+    "relationships": [
+    {"with": "quincy", "type": "guard/prisoner—mutual utility", "state": "practical, mildly protective", "evidence": "Just fix that goddamned machine so they'll go back to leaving me alone."}
+    ],
+    "emotional_arc": { "start": "sedated/tired from Sykotiq", "turning_points": ["Shares rations; smokes; states objective plainly"], "end": "steady, businesslike" },
+    "notable_actions": ["explains Dermoweave hex limits", "shares sausage and crackers", "offers machine-rolled tobbak"],
+    "quotable_lines": ["Those two meat sacks? Fifty holos say they're fuck'n."]
+    },
+    {
+    "id": "lenya",
+    "display_name": "Lenya Tam",
+    "aliases": ["Lenya"],
+    "role_in_scene": "cameo",
+    "goals_now": null,
+    "obstacles": null,
+    "tactics": null,
+    "relationships": [],
+    "emotional_arc": { "start": null, "turning_points": [], "end": null },
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": null,
+    "obstacles": null,
+    "tactics": null,
+    "relationships": [],
+    "emotional_arc": { "start": null, "turning_points": [], "end": null },
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    { "id": "autopacker", "name": "Autopacker industrial machine", "category": "other", "capabilities": ["automated packing/processing", "console-driven operations"], "owner_or_users": ["quincy", "lesha"], "condition_or_state": "faulted—cryptic errors", "scene_function": "Central technical problem; leverage point for both women." },
+    { "id": "autopacker-console", "name": "Autopacker control console", "category": "tool", "capabilities": ["system interface", "status/error display"], "owner_or_users": ["quincy"], "condition_or_state": "repaired—boots cleanly", "scene_function": "Quincy’s quick win after replacing blown capacitor." },
+    { "id": "power-capacitor", "name": "Scavenged power capacitor", "category": "other", "capabilities": ["stores/filters power"], "owner_or_users": ["quincy"], "condition_or_state": "functional/reused", "scene_function": "Replaces failed component to revive console." },
+    { "id": "test-meter", "name": "Test meter", "category": "tool", "capabilities": ["diagnostics", "voltage/circuit testing"], "owner_or_users": ["quincy"], "condition_or_state": "intact", "scene_function": "Identifies blown capacitor quickly." },
+    { "id": "dermoweave", "name": "Dermoweave armor (hex-tile)", "category": "cybernetics", "capabilities": ["blade/small-arms resistance", "tile-by-tile replacement"], "owner_or_users": ["lesha"], "condition_or_state": "limited tiles remaining (9)", "scene_function": "Explains Lesha’s ageless appearance and combat survivability limits." },
+    { "id": "sykotiq", "name": "Sykotiq", "category": "medical", "capabilities": ["stimulant/euphoric effects (implied)"], "owner_or_users": ["lesha"], "condition_or_state": "present/aftereffects (fatigue)", "scene_function": "Colors Lesha’s state and raises longevity/drug-use concern." },
+    { "id": "tobacco-cigarettes", "name": "Machine-rolled tobbak (Metrofederacy)", "category": "other", "capabilities": ["nicotine intake", "morale/ritual"], "owner_or_users": ["lesha", "quincy"], "condition_or_state": "aged but smokable", "scene_function": "Social bond; glimpse of Lesha’s past life." },
+    { "id": "holos", "name": "Holos (currency)", "category": "other", "capabilities": ["wagering/payment unit"], "owner_or_users": ["lesha"], "condition_or_state": "referenced", "scene_function": "Lesha bets with holos, signaling culture/economy." }
+    ],
+    "locations": [
+    { "id": "ruined-warehouse-autopacker-bay", "name": "Ruined warehouse autopacker bay", "type": "structure", "descriptors": ["industrial", "derelict", "missing roof panel", "twilight glow"], "in_scene_events": ["Console repair; food/cigarette sharing; diagnostics on autopacker errors."] }
+    ],
+    "factions_orgs": [],
+    "themes_and_motifs": {
+    "themes": ["leverage through skill under captivity", "aging vs augmentation", "scarcity and barter", "quiet alliances"],
+    "motifs_symbols": ["hex-tile armor", "missing roof and fading light", "old Metrofederacy cigarette", "cryptic error codes"],
+    "moral_questions": ["What debts do captors owe to the skilled prisoners they exploit?", "How much humanity is traded for ageless strength?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty-technical",
+    "pacing": "slow-burn",
+    "voice_traits": ["dry wit", "engineering detail", "understated tension"],
+    "sensory_notes": ["orange-to-purple sky glow", "gray cigarette smoke", "grease and metal tang", "quiet machine hum"]
+    },
+    "causality": {
+    "prior_dependencies": ["Quincy is held prisoner and tasked with fixing machinery.", "Autopacker previously down; toolbox delayed.", "Lesha uses Dermoweave and Sykotiq."],
+    "outcomes": ["Console operational; deeper diagnosis still needed before full repair.", "Working rapport between Quincy and Lesha strengthened via shared rations and smoke.", "Expectation that Quincy returns to continue repairs if Lenya assigns it."],
+    "unanswered_questions": ["What specifically causes the autopacker’s cryptic faults?", "How will Lenya use Quincy’s progress?", "Does Lesha’s finite tile supply change her risk tolerance later?"]
+    },
+    "conflicts": [
+    { "type": "person_vs_system", "parties": ["quincy", "autopacker"], "trigger": "Autopacker exhibits opaque error codes.", "resolution": "Unresolved; requires days of analysis." },
+    { "type": "person_vs_environment", "parties": ["quincy", "captivity/scarcity"], "trigger": "Prisoner status, limited resources.", "resolution": "Managed via improvisation and cooperation." }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "present",
+    "sexual_content": "implied",
+    "sensitive_topics": ["forced labor/captivity", "drug use (Sykotiq)"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["quincy", "lesha", "autopacker", "dermoweave", "sykotiq", "power capacitor", "test meter", "ruined warehouse", "metrofederacy cigarettes", "holos"],
+    "keywords_dense": "Quincy, Lesha, autopacker, console repair, blown capacitor, test meter, Dermoweave hex tiles, Sykotiq, caravanner rations, Metrofederacy tobbak, holos bet, prisoner mechanic",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Lesha", "Chase", "Lenya Tam"],
+    "places": ["Metrofederacy"],
+    "orgs": [],
+    "terms": ["Dermoweave", "Sykotiq", "autopacker", "holos", "tobbak"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What specific component did Quincy replace to revive the console?", "a": "A blown power capacitor scavenged from a nearby machine."},
+    {"q": "Why will the full autopacker repair take days despite the console booting?", "a": "Because Quincy must decode and resolve complex, cryptic autopacker error codes before mechanical fixes."}
+    ],
+    "embedding_payloads": [
+    { "chunk_id": "2186-11-24-25-ruined-warehouse-autopacker-quincy-lesha-1", "type": "recap", "text": "In a ruined warehouse bay with a missing roof panel, prisoner engineer Quincy restores an autopacker console by diagnosing a blown power capacitor and scavenging a replacement. Guard-merc Lesha—ageless due to Dermoweave and still recovering from Sykotiq—shares caravanner food and Metrofederacy cigarettes with Quincy while the two sit with the machine. Though the console now boots, the autopacker itself throws opaque errors that will take days to untangle. Their sparse, practical rapport forms around mutual needs: Lesha wants everyone to leave her alone; Quincy wants the system working to gain stability. Night falls to purple as they part, expecting Quincy to return if Lenya assigns her back." },
+    { "chunk_id": "2186-11-24-25-ruined-warehouse-autopacker-quincy-lesha-2", "type": "entities_focus", "text": "Actors: Quincy (POV prisoner-engineer), Lesha (mercenary guard, ~70 years old, Dermoweave with 9 replaceable hex tiles). Mentions: Chase, Lenya. Tech/Items: Autopacker (faulted), console (repaired), power capacitor (scavenged), test meter (diagnostics), Dermoweave (armor), Sykotiq (drug), Metrofederacy machine-rolled tobbak, holos currency. Location: Ruined warehouse autopacker bay with missing roof panel. Actions: console repair, error-code triage, sharing food and cigarettes, quiet negotiation of roles." },
+    { "chunk_id": "2186-11-24-25-ruined-warehouse-autopacker-quincy-lesha-3", "type": "style_theme_focus", "text": "Third-limited, past tense; gritty-technical with understated humor. Themes: leverage via competence under captivity, augmentation vs aging, scarcity ritualized through food/smoke, tacit alliances. Motifs: hex-tile armor, fading skylight, old-label cigarette, inscrutable error logs. The tone is calm, practical, and intimate—two survivors bartering trust through small comforts and shared work." }
+    ]
+    }

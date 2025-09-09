@@ -1,0 +1,122 @@
+[
+  {
+    "alias": "randy",
+    "category_hint": "character",
+    "count": 68,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\randy.json"
+  },
+  {
+    "alias": "robyn",
+    "category_hint": "character",
+    "count": 56,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\robyn.json"
+  },
+  {
+    "alias": "michelle",
+    "category_hint": "character",
+    "count": 52,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\michelle.json"
+  },
+  {
+    "alias": "chancellor-margdelain",
+    "category_hint": "character",
+    "count": 44,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\margdelain.json"
+  },
+  {
+    "alias": "gavin",
+    "category_hint": "character",
+    "count": 36,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\gavin.json"
+  },
+  {
+    "alias": "lucas",
+    "category_hint": "character",
+    "count": 36,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\lucas.json"
+  },
+  {
+    "alias": "master-scrivener-francis",
+    "category_hint": "character",
+    "count": 36,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\francis.json"
+  },
+  {
+    "alias": "brother-jessop",
+    "category_hint": "character",
+    "count": 32,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\marcus-jessop.json"
+  },
+  {
+    "alias": "lenya",
+    "category_hint": "character",
+    "count": 32,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\lenya-tam.json"
+  },
+  {
+    "alias": "mama-valorie",
+    "category_hint": "character",
+    "count": 32,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\mama-valorie.json"
+  },
+  {
+    "alias": "jessop",
+    "category_hint": "character",
+    "count": 28,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\marcus-jessop.json"
+  },
+  {
+    "alias": "automag-45",
+    "category_hint": "item",
+    "count": 24,
+    "resolved_to": "andreu-45-automag"
+  },
+  {
+    "alias": "brother-olafsen",
+    "category_hint": "character",
+    "count": 24,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\brother-olafsen.json"
+  },
+  {
+    "alias": "carl",
+    "category_hint": "character",
+    "count": 24,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\carl.json"
+  },
+  {
+    "alias": "master-mctanner",
+    "category_hint": "character",
+    "count": 24,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\jeb-mctanner.json"
+  },
+  {
+    "alias": "andreu",
+    "category_hint": "character",
+    "count": 20,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\andreu.json"
+  },
+  {
+    "alias": "councilman-bivualier",
+    "category_hint": "character",
+    "count": 20,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\bivualier.json"
+  },
+  {
+    "alias": "makko",
+    "category_hint": "character",
+    "count": 20,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\makko.json"
+  },
+  {
+    "alias": "ravager-two-seater",
+    "category_hint": "item",
+    "count": 20,
+    "resolved_to": "two-seater-buggy"
+  },
+  {
+    "alias": "brother-ernesto",
+    "category_hint": "character",
+    "count": 16,
+    "resolved_to": "D:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\character\\ernesto.json"
+  }
+]

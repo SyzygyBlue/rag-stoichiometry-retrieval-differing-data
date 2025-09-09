@@ -1,0 +1,272 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Devil's Bargain",
+    "scene_id": "24-11-2186-warehouse-autopacker-toolbox-run",
+    "chapter_number": 31,
+    "scene_number": 2,
+    "date_in_universe": "2186-11-24",
+    "absolute_timeline_notes": "Same day as the warehouse tour; immediately follows the Lesha reveal and precedes any repair attempts."
+    },
+    "text_windows": {
+    "full_scene_clean": "Quincy and Lenya’s argument spikes toward real anger. Seeing the situation slip, Chase drifts to the autopacker and ostentatiously prods its dead terminal to provoke Quincy’s technical instincts. Quincy shoves him aside and begins inspecting the display and cables. Lesha, slowed by stims, says the display has been dead for years and she has to jack in to operate it. Quincy asks for her toolbox. Chase invites Lenya to accompany him to fetch it so they can talk. After warning Quincy not to try anything, Lenya leaves with Chase. The heavy doors shut, leaving Quincy at the machine and Lesha nearby.",
+    "dense_recap_250w": "Inside the decayed agriculture warehouse, Quincy and Lenya’s debate over morality and operations surges toward a fight. Chase, worried the day will be lost, manufactures a diversion by ‘wrongly’ fiddling with the autopacker’s dead terminal to bait Quincy’s expertise. It works: Quincy hip-checks him away and begins a real inspection, probing the dusty monitor, cracked chicklet keyboard, and cable connections. Lesha, sluggish and laconic after dosing earlier, confirms the terminal’s display has been dead for years and that she must jack directly into the autopacker to use it. Quincy requests her toolbox to troubleshoot properly. Seizing the opening, Chase proposes to Lenya that they fetch the toolbox together and talk on the way. Lenya studies him, then agrees with a pointed warning to Quincy not to run. The pair exit, the warehouse doors booming closed behind them, setting up a split: Quincy remains with the machine and a groggy Lesha, while Chase goes to cultivate Lenya’s cooperation. The beat reframes the scene from ideological clash to pragmatic problem-solving and social maneuvering, establishing the autopacker terminal as a likely first repair target and giving Chase private time with Lenya to advance his broader plan.",
+    "query_handle": "Chase defuses Quincy–Lenya clash by baiting Quincy into fixing the autopacker; Lenya exits with Chase to fetch a toolbox."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Argument spikes",
+    "what_happens": "Quincy and Lenya’s voices rise toward genuine anger.",
+    "involved_entities": ["quincy", "lenya"],
+    "stakes_or_conflict": "Risk of blowing access/cooperation in the warehouse."
+    },
+    {
+    "order": 2,
+    "label": "Chase’s diversion",
+    "what_happens": "Chase theatrically misuses the autopacker terminal to provoke Quincy.",
+    "involved_entities": ["chase", "autopacker-terminal", "quincy"],
+    "stakes_or_conflict": "Redirect tension into productive diagnostics."
+    },
+    {
+    "order": 3,
+    "label": "Technical hook",
+    "what_happens": "Quincy takes over, inspecting the dead display and cabling; Lesha notes she must jack in.",
+    "involved_entities": ["quincy", "lesha", "autopacker-terminal"],
+    "stakes_or_conflict": "Fault isolation begins; dependency on Lesha’s interface persists."
+    },
+    {
+    "order": 4,
+    "label": "Toolbox pretext",
+    "what_happens": "Quincy asks for her toolbox; Chase invites Lenya to fetch it and talk.",
+    "involved_entities": ["quincy", "chase", "lenya", "quincys-toolbox"],
+    "stakes_or_conflict": "Creates private channel with Lenya; tests trust."
+    },
+    {
+    "order": 5,
+    "label": "Split the party",
+    "what_happens": "Lenya warns Quincy not to run and exits with Chase; doors thud closed.",
+    "involved_entities": ["lenya", "chase", "quincy", "agri-warehouse"],
+    "stakes_or_conflict": "Quincy left with groggy Lesha and the machine; uncertain supervision."
+    }
+    ],
+    "characters": [
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Defuse the fight and salvage progress by getting Quincy fixing and Lenya talking.",
+    "obstacles": "Escalating tempers; limited trust; broken equipment; captive context.",
+    "tactics": "Social engineering via deliberate incompetence; propose a low-risk errand to isolate Lenya.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "cooperative with friction", "evidence": "Baits her into taking over the machine instead of arguing."},
+    {"with": "lenya", "type": "cautious-ally", "state": "probing trust", "evidence": "Invites her to fetch the toolbox and talk."},
+    {"with": "lesha", "type": "neutral", "state": "observant", "evidence": "Notes her sluggish state and avoids provoking her."}
+    ],
+    "emotional_arc": {
+    "start": "uneasy, concerned",
+    "turning_points": ["Decides to stage a technical faux pas", "Secures Lenya’s agreement to leave with him"],
+    "end": "cautiously optimistic"
+    },
+    "notable_actions": ["taps terminal housing to provoke Quincy", "orchestrates toolbox trip with Lenya"],
+    "quotable_lines": ["Wanna go? It’s just a toolbox. We can chat about things on the way."]
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Diagnose the autopacker starting at the dead display.",
+    "obstacles": "No tools on hand; fraying relations with Lenya; aged hardware.",
+    "tactics": "Assert technical authority; hands-on inspection; request tools.",
+    "relationships": [
+    {"with": "lenya", "type": "adversaries/forced-collaborators", "state": "tense", "evidence": "Argument escalates; Lenya warns her not to run."},
+    {"with": "chase", "type": "ally", "state": "irritated but aligned", "evidence": "Shoves him aside to do the work he baited her into."},
+    {"with": "lesha", "type": "pragmatic", "state": "guarded", "evidence": "Asks for status; accepts info that display is dead."}
+    ],
+    "emotional_arc": {
+    "start": "angry, keyed-up",
+    "turning_points": ["Focus shifts to hardware inspection"],
+    "end": "focused, task-driven"
+    },
+    "notable_actions": ["hip-checks Chase away from terminal", "palpates connectors and monitor", "requests her toolbox"],
+    "quotable_lines": ["You don’t know what it does!"]
+    },
+    {
+    "id": "lenya",
+    "display_name": "Lenya Tam",
+    "aliases": ["Lenya"],
+    "role_in_scene": "major",
+    "goals_now": "Maintain control, prevent escape, and leverage a chance to align with Chase.",
+    "obstacles": "Public clash with Quincy; crumbling equipment; reliance on scarce talent.",
+    "tactics": "Warning and conditional trust; agrees to errand to create private dialogue.",
+    "relationships": [
+    {"with": "quincy", "type": "adversaries/forced-collaborators", "state": "combative", "evidence": "Don’t try to go anywhere."},
+    {"with": "chase", "type": "cautious-ally", "state": "testing", "evidence": "Holds his gaze, then permits toolbox run together."}
+    ],
+    "emotional_arc": {
+    "start": "defensive, irritated",
+    "turning_points": ["Considers Chase’s proposal"],
+    "end": "measured, watchful"
+    },
+    "notable_actions": ["authorizes leaving to fetch toolbox", "issues warning to Quincy"],
+    "quotable_lines": ["If I have to hunt you down, it won’t end well for anyone."]
+    },
+    {
+    "id": "lesha",
+    "display_name": "Lesha",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Coast through the moment; provide minimal info.",
+    "obstacles": "Stim sluggishness; burnout.",
+    "tactics": "Sparse, factual replies.",
+    "relationships": [
+    {"with": "quincy", "type": "pragmatic", "state": "cool", "evidence": "That display’s been dead… that’s why I have to jack in."}
+    ],
+    "emotional_arc": {
+    "start": "detached, lidded",
+    "turning_points": ["Responds to Quincy’s query"],
+    "end": "detached"
+    },
+    "notable_actions": ["confirms terminal failure", "mentions jack-in operation"],
+    "quotable_lines": ["That display’s been dead longer than you’ve been alive."]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "autopacker",
+    "name": "Autopacker",
+    "category": "tool",
+    "capabilities": ["automated packing/sorting of produce"],
+    "owner_or_users": ["calum-tam-holdfast", "lesha"],
+    "condition_or_state": "operable via jack-in; terminal/display inoperative",
+    "scene_function": "Focal machine; pretext to reframe conflict into problem-solving."
+    },
+    {
+    "id": "autopacker-terminal",
+    "name": "Autopacker Terminal (dead display + chicklet keyboard)",
+    "category": "tool",
+    "capabilities": ["local I/O to autopacker (when functional)"],
+    "owner_or_users": ["lesha", "quincy"],
+    "condition_or_state": "dead display; aged, cracked keyboard",
+    "scene_function": "Immediate troubleshooting target that hooks Quincy."
+    },
+    {
+    "id": "lesha-jack-cable",
+    "name": "Lesha’s Jack-In Cable",
+    "category": "comms",
+    "capabilities": ["direct interface to machine controls"],
+    "owner_or_users": ["lesha"],
+    "condition_or_state": "in use/available",
+    "scene_function": "Workaround for dead terminal; underscores dependence on Lesha."
+    },
+    {
+    "id": "quincys-toolbox",
+    "name": "Quincy’s Toolbox",
+    "category": "tool",
+    "capabilities": ["basic electrical/mechanical repair tools (implied)"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "offsite; requested",
+    "scene_function": "Pretext for Chase and Lenya to leave together; enables repairs."
+    }
+    ],
+    "locations": [
+    {
+    "id": "agri-warehouse",
+    "name": "Calum-Tam Agriculture Warehouse/Machine Shop",
+    "type": "structure",
+    "descriptors": ["vast, echoing", "dust and old oil", "dead terminals and aging kit"],
+    "in_scene_events": ["Argument escalation; autopacker triage; Lenya and Chase depart to fetch toolbox; doors thud shut."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "calum-tam-holdfast",
+    "name": "Calum-Tam Holdfast",
+    "alignment": "hostile",
+    "agents_present": ["lenya", "lesha"],
+    "motives_inferred": "Keep minimal agri ops alive; maintain control over captives’ movements.",
+    "actions_in_scene": ["Allows supervised access to warehouse; controls tool access."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["conflict de-escalation via strategy", "competence as leverage", "resource scarcity driving control"],
+    "motifs_symbols": ["dead screen and cracked keys", "heavy doors sealing control", "jack-in dependence"],
+    "moral_questions": ["Is manipulation justified to prevent greater harm?", "Who controls repair and who benefits?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/technical",
+    "pacing": "brisk",
+    "voice_traits": ["tactical inner asides", "hardware-focused details", "dry wit"],
+    "sensory_notes": ["ambient warehouse hum", "dusty terminal housing taps", "resounding door thud"]
+    },
+    "causality": {
+    "prior_dependencies": ["Earlier warehouse tour and Lesha’s stim state.", "Known autopacker issues.", "Quincy–Lenya tension from prior scene."],
+    "outcomes": ["Quincy begins real diagnostics starting with the dead display.", "Chase secures private time with Lenya.", "Lesha confirms reliance on jack-in interface."],
+    "unanswered_questions": ["Will Quincy restore the terminal?", "What will Chase negotiate with Lenya?", "Will Quincy attempt anything while unsupervised with Lesha?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "lenya"],
+    "trigger": "Escalating argument over control and competence.",
+    "resolution": "Temporarily diffused by Chase’s diversion and toolbox run."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy", "autopacker-terminal"],
+    "trigger": "Terminal is dead; machine reliant on jack-in.",
+    "resolution": "Unresolved; troubleshooting pending."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["chase"],
+    "trigger": "Fear the day’s productivity is lost.",
+    "resolution": "Chooses calculated manipulation to redirect focus."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "mentioned",
+    "sexual_content": "none",
+    "sensitive_topics": ["captivity/control"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Chase", "Lenya Tam", "Lesha", "autopacker", "dead terminal", "toolbox", "warehouse"],
+    "keywords_dense": "Quincy, Chase, Lenya Tam, Lesha, autopacker, dead display, chicklet keyboard, jack-in, toolbox, warehouse, de-escalation, technical triage",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Chase", "Lenya Tam", "Lesha"],
+    "places": ["Calum-Tam Agriculture Warehouse"],
+    "orgs": ["Calum-Tam Holdfast"],
+    "terms": ["autopacker", "jack in", "chicklet keyboard"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Why does Lesha jack in to the autopacker?", "a": "Because the autopacker’s local display/terminal has been dead for years."},
+    {"q": "How does Chase defuse the Quincy–Lenya argument?", "a": "He deliberately ‘misuses’ the autopacker to bait Quincy into fixing it, then takes Lenya to fetch a toolbox to talk privately."},
+    {"q": "Who leaves the warehouse at the end of the scene?", "a": "Lenya and Chase, to go get Quincy’s toolbox."},
+    {"q": "What immediate repair target does Quincy identify?", "a": "The dead monitor/display and its cabling on the autopacker terminal."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "24-11-2186-autopacker-beat-recap",
+    "type": "recap",
+    "text": "As Quincy and Lenya’s fight spikes, Chase redirects the room by ham-fisting the autopacker’s dead terminal to trigger Quincy’s expertise. Quincy pushes him aside and begins inspecting the lifeless display and cables. Lesha, slowed, notes she must jack in because the terminal has been dead for years. Quincy asks for her toolbox; Chase invites Lenya to fetch it and talk. Lenya warns Quincy not to run and leaves with Chase, doors thudding shut. The scene pivots from argument to troubleshooting and negotiation."
+    },
+    {
+    "chunk_id": "24-11-2186-autopacker-entities",
+    "type": "entities_focus",
+    "text": "Actors: Chase (POV strategist), Quincy (technician), Lenya Tam (holdfast controller), Lesha (jack-in operator). Tech: Autopacker, dead terminal with cracked chicklet keyboard, Lesha’s jack-in cable, Quincy’s toolbox (offsite). Location: Calum-Tam Agriculture Warehouse. Org: Calum-Tam Holdfast. Roles: Chase engineers de-escalation; Quincy starts diagnostics; Lenya controls access; Lesha provides legacy interface knowledge."
+    },
+    {
+    "chunk_id": "24-11-2186-autopacker-style-themes",
+    "type": "style_theme_focus",
+    "text": "Brisk, gritty third-limited (Chase) with tactical inner asides and tactile hardware details. Themes: competence as leverage, strategic de-escalation, resource scarcity enforcing control. Motifs: dead screen and cracked keys, heavy doors sealing choices, jack-in dependency."
+    }
+    ]
+    }

@@ -1,0 +1,155 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Epilogue — The Lonesome Road",
+    "scene_id": "epilogue-lonesome-road-2186-12-06",
+    "chapter_number": "Epilogue",
+    "scene_number": 1,
+    "date_in_universe": "2186-12-06",
+    "absolute_timeline_notes": "A quiet roadside scene set two days after several Broken Bow events; no named characters appear."
+    },
+    "text_windows": {
+    "full_scene_clean": "The land is quiet: red dirt in every direction, cracked and level, scrub grass twitching in the wind. A whippoorwill calls without answer. Behind a half-buried rock, in a shallow cradle of earth and ash, a communicator chirps—a single bright tone—then again. The device lies under leaves and roadside trash: sun-bleached plastic, a balance weight off an old road tire. Nearby stands a crude cross—two sticks bound with twine—leaning like a quiet apology, its shadow stretched across a small mound in the late afternoon sun. The communicator chirps once more, then falls silent. No footsteps. No voices. No answer. Only wind, dust, and a message undelivered, waiting for someone who will not return.",
+    "dense_recap_250w": "On a desolate stretch of red-dirt country, a lone communicator intermittently chirps from beneath leaves and trash tucked behind a half-buried rock. The landscape is empty: scrub grass moves in the wind, a whippoorwill calls without reply. Beside the device, a crude roadside cross made of two twined sticks leans over a small mound, its shadow long in the late-day sun—a minimal marker that suggests a hasty burial and loss. The communicator’s bright, small tone repeats and then fades to silence. No one arrives. No footsteps or voices break the stillness. The scene offers no names, no faces, only artifacts and absence: a message queued but undelivered, a grave with no mourners, and a stretch of forgotten land that will not answer back. The epilogue crystallizes themes of isolation and aftermath—the human traces of catastrophe distilled to a pager-like chirp and a handmade memorial—implying that whoever might have been meant to receive or send the message is gone or cannot return. The moment fixes a mood rather than plot progression, closing on the unresolved thread of an unanswered call and the mute testimony of a cross in dust.",
+    "query_handle": "Abandoned communicator chirps at a roadside grave; no one answers."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Empty expanse",
+    "what_happens": "A quiet red-dirt plain with wind and a lone whippoorwill establishes isolation.",
+    "involved_entities": ["lonesome-roadside-grave"],
+    "stakes_or_conflict": "Emotional: desolation and absence set the tone."
+    },
+    {
+    "order": 2,
+    "label": "Artifacts of loss",
+    "what_happens": "A communicator chirps beneath debris near a crude cross over a mound.",
+    "involved_entities": ["roadside-communicator", "crude-cross", "lonesome-roadside-grave"],
+    "stakes_or_conflict": "Unanswered message implies a dead or missing recipient."
+    },
+    {
+    "order": 3,
+    "label": "Silence resumes",
+    "what_happens": "After a final chirp, no one comes; the land remains silent.",
+    "involved_entities": ["roadside-communicator", "lonesome-roadside-grave"],
+    "stakes_or_conflict": "Closure without resolution; loss persists."
+    }
+    ],
+    "characters": [],
+    "items_and_tech": [
+    {
+    "id": "roadside-communicator",
+    "name": "Buried communicator",
+    "category": "comms",
+    "capabilities": ["receives/transmits messages", "audible chirp alert"],
+    "owner_or_users": [],
+    "condition_or_state": "intact but unattended; partially buried",
+    "scene_function": "Audible signal of an undelivered message; emblem of absent sender/recipient."
+    },
+    {
+    "id": "crude-cross",
+    "name": "Crude roadside cross",
+    "category": "other",
+    "capabilities": ["memorial marker"],
+    "owner_or_users": [],
+    "condition_or_state": "weathered; leaning",
+    "scene_function": "Visual signifier of a grave and recent loss."
+    }
+    ],
+    "locations": [
+    {
+    "id": "lonesome-roadside-grave",
+    "name": "Red-dirt roadside grave",
+    "type": "wilderness",
+    "descriptors": ["red dirt plain", "scrub grass", "windy", "half-buried rock", "ash and trash scatter"],
+    "in_scene_events": ["Communicator chirps beneath debris; no one arrives; the site remains deserted."]
+    }
+    ],
+    "factions_orgs": [],
+    "themes_and_motifs": {
+    "themes": ["isolation and aftermath", "grief without witness", "messages and missed connections", "impermanence"],
+    "motifs_symbols": ["chirping communicator", "crude cross", "red dust and wind", "long evening shadow", "undelivered message"],
+    "moral_questions": ["What is the value of a message no one can answer?", "How do we mark loss when no community remains?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "omniscient",
+    "tense": "past",
+    "register": "lyrical/cinematic",
+    "pacing": "slow-burn",
+    "voice_traits": ["minimalist detail", "symbolic imagery", "quiet tension"],
+    "sensory_notes": ["wind over red dirt", "small electronic chirp", "late sun shadow", "silence after sound"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Someone placed a roadside cross and left or lost a communicator.",
+    "Recent death implied by fresh mound and marker."
+    ],
+    "outcomes": [
+    "An undelivered message remains pending at an abandoned grave.",
+    "Epilogue mood underscores larger narrative losses."
+    ],
+    "unanswered_questions": [
+    "Who owned the communicator?",
+    "Who is buried beneath the cross?",
+    "What was the content of the undelivered message?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_environment",
+    "parties": ["unknown sender/recipient vs desolation"],
+    "trigger": "A communicator chirps with no one around to hear it.",
+    "resolution": "Unresolved; silence reclaims the scene."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["death/grief implied"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["roadside grave", "undelivered message", "buried communicator", "red dirt prairie epilogue", "wind and dust silence"],
+    "keywords_dense": "epilogue, red dirt, roadside grave, crude cross, communicator chirp, undelivered message, wind, dust, silence, whippoorwill, ash",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": [],
+    "places": [],
+    "orgs": [],
+    "terms": ["whippoorwill", "roadside cross", "communicator"]
+    }
+    },
+    "qa_pairs": [
+    {
+    "q": "What object makes sound in the epilogue scene?",
+    "a": "A communicator buried beneath leaves and roadside debris chirps."
+    },
+    {
+    "q": "What indicates a recent death at the site?",
+    "a": "A crude cross of two sticks tied with twine leans over a small mound."
+    },
+    {
+    "q": "Does anyone answer the communicator?",
+    "a": "No; after a final chirp, there are no footsteps or voices—only wind and dust."
+    }
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "epilogue-lonesome-road-1",
+    "type": "recap",
+    "text": "On a deserted red-dirt roadside, a communicator buried under leaves and trash chirps beside a crude cross marking a small mound. No one comes. After one last bright tone, silence returns to the wind and dust. The epilogue offers artifacts without people—an undelivered message and a makeshift grave—fixing the story’s mood on isolation and aftermath."
+    },
+    {
+    "chunk_id": "epilogue-lonesome-road-2",
+    "type": "entities_focus",
+    "text": "Key artifacts: buried communicator (audible chirp, unattended), crude roadside cross (implied grave). Location: red-dirt wilderness roadside with scrub grass, half-buried rock, ash and trash. No named characters present; the scene centers on absence, signaling an undelivered message and a recent loss."
+    },
+    {
+    "chunk_id": "epilogue-lonesome-road-3",
+    "type": "style_theme_focus",
+    "text": "Lyrical, cinematic omniscience in past tense; sparse, symbol-driven imagery. Themes of isolation, grief without witness, missed connections, and impermanence. Motifs include the small electronic chirp against vast silence, a handmade cross, red dust and wind, and the lengthening shadow in late light."
+    }
+    ]
+    }

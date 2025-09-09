@@ -1,0 +1,322 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "adlawans-flight-to-thorsmork-06sep2182",
+    "chapter_number": null,
+    "scene_number": null,
+    "date_in_universe": "2182-09-06",
+    "absolute_timeline_notes": "Immediately after the EM-shielded negotiation; Cervantes Adlawan travels suborbitally back to Thórsmörk Palace while Balance is expected to enter a rule-testing blackout."
+    },
+    "text_windows": {
+    "full_scene_clean": "Cervantes Adlawan rides Industry’s hypersonic jet on a suborbital arc toward Thórsmörk Palace, sipping a fifty-year-old single malt and rehearsing his defense. He broods over Giles Montague’s push to admit a billion new citizens using coerced behavior auditors, believing those altered would never recover. He resolves to distance Industry from Humanity’s plan and, if needed, sacrifice Romuald Anwar to contain fallout. He recalls meeting Li Mei of the Balance Party—signaled by chocolates—and learning that Montague has already built an off-books operation on a tiny Pacific island, hemorrhaging holocreds and contracting Blacklight Syndicate. After today’s meeting, when Romuald was out of the room, Giles offered extravagant trades for Article 18 sealing; Cervantes accepted, though he fears exposure. He wonders who in Balance will sign and dreads the imminent Balance deliberation blackout. Looking up at the stars through the vanishing canopy, he records a guarded statement—no longer in a Faraday cage—that something bad is happening. He cannot stop it, only perfect his story so Stella cannot pin blame on him.",
+    "dense_recap_250w": "Alone aboard Industry’s hypersonic jet, Cervantes Adlawan reflects on the clandestine deal he just made with Giles Montague. He hates the coercive auditor plan—believing those pressed into service will be ruined—but, after Humanity offered extravagant trades, he agreed to help seal it under Article 18 while Balance reviews rules in a communications blackout. He plans to shield Industry by distancing from Humanity and, if necessary, letting Teragen’s Romuald Anwar take the blame. From Li Mei of Balance, who contacted him via a prearranged chocolates signal, Cervantes learned Humanity already erected an off-books facility on a tiny Pacific island and hired Blacklight Syndicate, burning holocreds to operationalize the scheme. He questions why Giles would risk Stella’s stability and two billion citizens to save a billion at the cost of a hundred thousand coerced auditors. As the jet arcs back to Thórsmörk Palace, he uses the jet’s vanishing canopy to gaze at the stars and mutters a carefully worded remark “for the record,” aware Stella can hear him now. He resigns himself to damage control: survive the Balance blackout, perfect the narrative, and ensure any blowback misses him—even if that means sacrificing an ally.",
+    "query_handle": "Adlawan suborbital introspection: accepts Article 18 trades, notes Humanity black site and Blacklight hire, plans scapegoat to shield Industry."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Suborbital retreat",
+    "what_happens": "Cervantes rides Industry’s hypersonic jet toward Thórsmörk Palace, drinking and reflecting.",
+    "involved_entities": ["cervantes-adlawan", "industry-hypersonic-jet", "thorsmork-palace"],
+    "stakes_or_conflict": "Maintaining plausible deniability while entangled in a risky plan."
+    },
+    {
+    "order": 2,
+    "label": "Moral calculus",
+    "what_happens": "He condemns coerced auditors as irreparable harm but rationalizes the Article 18 deal.",
+    "involved_entities": ["cervantes-adlawan", "article-18-privilege", "stella-ai"],
+    "stakes_or_conflict": "Ethics vs political survival and strategic leverage."
+    },
+    {
+    "order": 3,
+    "label": "Black-site revelation",
+    "what_happens": "Via Li Mei, he learns Humanity built an off-books Pacific facility and hired Blacklight Syndicate.",
+    "involved_entities": ["li-mei", "blacklight-syndicate", "humanity-pacific-blacksite"],
+    "stakes_or_conflict": "Operational escalation increases exposure and risk."
+    },
+    {
+    "order": 4,
+    "label": "Deal without Romuald",
+    "what_happens": "After sending Romuald out, Giles offers extravagant trades; Cervantes accepts Article 18 sealing.",
+    "involved_entities": ["giles-montague", "cervantes-adlawan", "article-18-privilege"],
+    "stakes_or_conflict": "Secret commitments that could destroy careers if exposed."
+    },
+    {
+    "order": 5,
+    "label": "Balance blackout and alibi",
+    "what_happens": "He anticipates Balance’s rule-test blackout and crafts a survivable narrative, even scapegoating Romuald.",
+    "involved_entities": ["balance-party", "romuald-anwar", "stella-ai"],
+    "stakes_or_conflict": "Timing and messaging during institutional silence determine blame."
+    }
+    ],
+    "characters": [
+    {
+    "id": "cervantes-adlawan",
+    "display_name": "Cervantes Adlawan",
+    "aliases": ["Industry Chairman"],
+    "role_in_scene": "POV",
+    "goals_now": "Protect Industry and himself while navigating Humanity’s Article 18 plan.",
+    "obstacles": "Humanity’s aggressive timeline, Stella oversight, Balance scrutiny, ethical compromises.",
+    "tactics": "Accepts trades, distances from Humanity, prepares scapegoat, carefully words on-record statements.",
+    "relationships": [
+    {"with": "giles-montague", "type": "rivals", "state": "wary-cooperation", "evidence": "Accepts trades while doubting Giles’s judgment."},
+    {"with": "romuald-anwar", "type": "ally", "state": "exploitable", "evidence": "Plans to sacrifice Romuald if needed to contain damage."},
+    {"with": "li-mei", "type": "political-contact", "state": "transactional", "evidence": "Prearranged chocolates signal leads to intel on Humanity’s black site."}
+    ],
+    "emotional_arc": {
+    "start": "resentful, calculating",
+    "turning_points": ["Learns Humanity’s black site and contractor hire.", "Accepts Article 18 trades sans Romuald."],
+    "end": "anxious, fatalistic but resolved to spin"
+    },
+    "notable_actions": ["accepts Article 18 sealing deal", "plans narrative to evade blame", "considers scapegoating Romuald", "logs a guarded statement knowing Stella can hear"],
+    "quotable_lines": ["Something bad is happening here. I can feel it.", "I hope this doesn’t blow back on me."]
+    },
+    {
+    "id": "giles-montague",
+    "display_name": "Giles Montague",
+    "aliases": ["Humanity Chairman"],
+    "role_in_scene": "supporting",
+    "goals_now": "Advance mass-immigration plan using coerced auditors and Article 18 sealing.",
+    "obstacles": "Industry reluctance, Balance sign-off, exposure risk.",
+    "tactics": "Extravagant trades, black-site build, compartmentalization (excluding Romuald).",
+    "relationships": [
+    {"with": "cervantes-adlawan", "type": "deal-partners", "state": "tense", "evidence": "Secures Article 18 agreement after side offer."}
+    ],
+    "emotional_arc": {
+    "start": "offstage (implied relentless)",
+    "turning_points": ["Revealed to be already executing black-site plan."],
+    "end": "offstage (implied determined)"
+    },
+    "notable_actions": ["offers trades post-meeting", "builds Pacific black site", "contracts Blacklight Syndicate"],
+    "quotable_lines": []
+    },
+    {
+    "id": "romuald-anwar",
+    "display_name": "Romuald Anwar",
+    "aliases": ["Teragen CEO"],
+    "role_in_scene": "supporting",
+    "goals_now": "Unaware in this scene; previously opposed coercion.",
+    "obstacles": "May be positioned as scapegoat.",
+    "tactics": "None in-scene (referenced).",
+    "relationships": [
+    {"with": "cervantes-adlawan", "type": "ally/subordinate", "state": "at risk", "evidence": "Cervantes plans to sacrifice Romuald if needed."}
+    ],
+    "emotional_arc": {"start": "offstage", "turning_points": [], "end": "offstage"},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "li-mei",
+    "display_name": "Li Mei",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Serve Balance interests by passing critical intel.",
+    "obstacles": "Factional secrecy; cross-party communications.",
+    "tactics": "Coded outreach (chocolates), private meeting.",
+    "relationships": [
+    {"with": "cervantes-adlawan", "type": "informant/operative", "state": "pragmatic", "evidence": "Signals and briefs him about Humanity’s black site."}
+    ],
+    "emotional_arc": {"start": "offstage", "turning_points": [], "end": "offstage"},
+    "notable_actions": ["initiates meeting via prearranged signal"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "industry-hypersonic-jet",
+    "name": "Industry hypersonic jet",
+    "category": "vehicle",
+    "capabilities": ["suborbital arcs", "vanishing canopy view", "high-speed executive transport"],
+    "owner_or_users": ["cervantes-adlawan"],
+    "condition_or_state": "operational",
+    "scene_function": "Private setting for Adlawan’s reflection and recorded statement."
+    },
+    {
+    "id": "article-18-privilege",
+    "name": "Article 18 sealed rule privilege",
+    "category": "other",
+    "capabilities": ["seal controversial rules", "initiate Balance blackout for testing"],
+    "owner_or_users": ["balance-party"],
+    "condition_or_state": "available/rarely used",
+    "scene_function": "Mechanism to hide and test the coercive auditor rule."
+    },
+    {
+    "id": "humanity-pacific-blacksite",
+    "name": "Humanity off-books Pacific facility",
+    "category": "other",
+    "capabilities": ["covert build-out", "houses/operates auditor program (implied)"],
+    "owner_or_users": ["humanity-party", "blacklight-syndicate"],
+    "condition_or_state": "under construction/operationalizing",
+    "scene_function": "Evidence Humanity is already executing the plan."
+    },
+    {
+    "id": "blacklight-syndicate",
+    "name": "Blacklight Syndicate",
+    "category": "other",
+    "capabilities": ["contract operations", "security/logistics (implied)"],
+    "owner_or_users": [],
+    "condition_or_state": "contracted",
+    "scene_function": "Third-party contractor enlisted by Humanity."
+    },
+    {
+    "id": "single-malt-whiskey",
+    "name": "50-year single malt",
+    "category": "other",
+    "capabilities": ["none (symbolic)"],
+    "owner_or_users": ["cervantes-adlawan"],
+    "condition_or_state": "consumed",
+    "scene_function": "Contrasts luxury with moral rot; sensory detail of introspection."
+    }
+    ],
+    "locations": [
+    {
+    "id": "suborbital-flight-cabin",
+    "name": "Hypersonic jet cabin (en route to Thórsmörk Palace)",
+    "type": "structure",
+    "descriptors": ["plush seat", "vanishing canopy", "hiss of high-altitude systems"],
+    "in_scene_events": ["Cervantes drinks, reflects, and makes a recorded remark."]
+    },
+    {
+    "id": "thorsmork-palace",
+    "name": "Thórsmörk Palace",
+    "type": "structure",
+    "descriptors": ["Industry leadership seat (implied)", "destination"],
+    "in_scene_events": ["Referenced destination; no on-page action."]
+    },
+    {
+    "id": "tiny-pacific-island",
+    "name": "Tiny Pacific island black site",
+    "type": "other",
+    "descriptors": ["off-books", "remote", "expensive buildout"],
+    "in_scene_events": ["Revealed as Humanity’s covert facility, with Blacklight contracted."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "industry-party",
+    "name": "Industry Party",
+    "alignment": "unknown",
+    "agents_present": ["cervantes-adlawan"],
+    "motives_inferred": "Protect Stella stability and political position.",
+    "actions_in_scene": ["Accepts Article 18 trades", "Plans narrative distancing"]
+    },
+    {
+    "id": "humanity-party",
+    "name": "Humanity Party",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Rapid immigration expansion at any cost.",
+    "actions_in_scene": ["Builds Pacific black site", "Contracts Blacklight Syndicate", "Offers extravagant trades"]
+    },
+    {
+    "id": "balance-party",
+    "name": "Balance Party",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Gatekeep and test sealed rules; maintain proportionality.",
+    "actions_in_scene": ["Anticipated rule-testing blackout", "Potential Article 18 sign-off"]
+    },
+    {
+    "id": "teragen",
+    "name": "Teragen",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Implement Stella scaling; liable to be scapegoated.",
+    "actions_in_scene": ["Referenced as possible fall guy via Romuald"]
+    },
+    {
+    "id": "stella-ai",
+    "name": "Stella AI",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Surveil and govern; stability prioritized.",
+    "actions_in_scene": ["Records Adlawan’s remark (implied)"]
+    },
+    {
+    "id": "blacklight-syndicate-org",
+    "name": "Blacklight Syndicate",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Paid contractor for covert ops.",
+    "actions_in_scene": ["Contracted by Humanity for black-site operations"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["self-preservation vs responsibility", "secrecy and plausible deniability", "utilitarian ends vs irreversible harm", "elite detachment and luxury amid crisis"],
+    "motifs_symbols": ["clinking ice and old whisky", "vanishing canopy and stars", "black site on a tiny island", "tangled-web imagery"],
+    "moral_questions": ["Is accepting collateral human ruin ever justified to save larger numbers?", "Does distancing oneself absolve complicity in secret state actions?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "political/intrigue with reflective tone",
+    "pacing": "slow-burn",
+    "voice_traits": ["cynical calculation", "strategic inner monologue", "subtle dread"],
+    "sensory_notes": ["ice tinkling in glass", "honeyed whisky aroma", "jet’s muted systems", "quiet starfield through vanishing canopy"]
+    },
+    "causality": {
+    "prior_dependencies": ["The Faraday-caged negotiation and Article 18 proposal; Li Mei’s contact; earlier coercive auditor concept; Humanity’s financial hemorrhage."],
+    "outcomes": ["Industry acceptance of Article 18 trades (without Romuald present)", "Acknowledgment of Humanity’s black site and contractor", "Plan to scapegoat Romuald if exposed", "Recorded but guarded statement for Stella’s logs."],
+    "unanswered_questions": ["Who in Balance will sign Article 18?", "What exactly will Blacklight run at the island facility?", "Will Stella’s recordings implicate Adlawan later?", "How will the blackout deliberations resolve?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["cervantes-adlawan"],
+    "trigger": "Complicity in a plan he believes harms coerced auditors.",
+    "resolution": "Unresolved; chooses damage control over resistance."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["cervantes-adlawan", "giles-montague"],
+    "trigger": "Giles’s aggressive implementation and trades vs Cervantes’s caution.",
+    "resolution": "Temporary accord via Article 18 trades; tension remains."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["cervantes-adlawan", "stella-ai/balance-governance"],
+    "trigger": "Sealed-rule process and surveillance risk.",
+    "resolution": "Unresolved; awaits Balance blackout outcome."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "present",
+    "sexual_content": "none",
+    "sensitive_topics": ["coercion/forced labor", "government secrecy", "scapegoating"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Cervantes Adlawan", "Article 18", "Blacklight Syndicate", "Thórsmörk Palace", "Balance blackout", "Pacific black site", "Li Mei contact", "Industry hypersonic jet"],
+    "keywords_dense": "Cervantes Adlawan, hypersonic jet, Thórsmörk Palace, Article 18 sealed rule, Balance Party blackout, Humanity Party black site, Blacklight Syndicate contractor, Li Mei chocolates signal, Stella AI surveillance, holocreds hemorrhage, scapegoat Romuald",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Cervantes Adlawan", "Giles Montague", "Li Mei", "Romuald Anwar"],
+    "places": ["Thórsmörk Palace", "tiny Pacific island"],
+    "orgs": ["Industry Party", "Humanity Party", "Balance Party", "Teragen", "Stella AI", "Blacklight Syndicate"],
+    "terms": ["Article 18 privilege", "suborbital arc", "vanishing canopy", "holocreds", "blackout period"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What covert build has Humanity already undertaken?", "a": "An off-books facility on a tiny Pacific island, with Blacklight Syndicate contracted."},
+    {"q": "Why does Cervantes consider sacrificing Romuald?", "a": "To contain political damage and distance Industry if the Article 18 plan is exposed."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "adlawans-flight-2182-recap",
+    "type": "recap",
+    "text": "Aboard an Industry hypersonic jet to Thórsmörk Palace, Cervantes Adlawan reflects on accepting Giles Montague’s Article 18 trades while condemning the coercive auditor plan. Via Li Mei, he learned Humanity already built a black site on a tiny Pacific island and hired Blacklight Syndicate. He resolves to distance Industry and, if necessary, scapegoat Romuald Anwar. Anticipating a Balance rule-testing blackout, he offers a guarded remark for Stella’s record and perfects a narrative to evade blame."
+    },
+    {
+    "chunk_id": "adlawans-flight-2182-entities",
+    "type": "entities_focus",
+    "text": "Entities: Cervantes Adlawan (Industry chair, POV), Giles Montague (Humanity chair), Romuald Anwar (Teragen CEO), Li Mei (Balance operative). Orgs: Industry, Humanity, Balance, Teragen, Stella AI, Blacklight Syndicate. Tech/places: Industry hypersonic jet with vanishing canopy, Thórsmörk Palace, Pacific black site. Processes: Article 18 sealed rule, Balance blackout, holocreds spend. Roles: Humanity executes black-site plan; Industry hedges; Balance must sign; Stella overhears."
+    },
+    {
+    "chunk_id": "adlawans-flight-2182-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-person limited, reflective political thriller cadence. Luxurious sensory details (ice, aged whisky, starfield) counter moral dread. Themes: secrecy, plausible deniability, utilitarian harm, elite self-preservation. Motifs: vanishing canopy, clinking glass, island black site, tangled web. Questions: Can narrative control absolve complicity? What cost is acceptable to ‘save’ many?"
+    }
+    ]
+    }

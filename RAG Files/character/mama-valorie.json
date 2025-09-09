@@ -1,0 +1,241 @@
+{
+  "doc_type": "neon_titan_character_v1",
+  "source": {
+    "dossier_file": null,
+    "scene_refs": [
+      "03_01_Two.txt",
+      "03_02_Two.txt",
+      "06_01_Four.txt",
+      "08_01_Six.txt",
+      "08_02_Six.txt",
+      "10_01_Seven.txt",
+      "11_01_Eight.txt",
+      "11_03_Eight.txt",
+      "11_04_Eight.txt"
+    ]
+  },
+  "identity": {
+    "id": "mama-valorie",
+    "display_name": "Mama Valorie",
+    "aliases": [
+      "Val",
+      "Matriarch of Three Shovels"
+    ],
+    "mbti": "ESTJ",
+    "age_bracket": "middle-aged",
+    "gender": "female",
+    "origin": "Three Shovels Caravan"
+  },
+  "affiliations": [
+    "three-shovels-caravan",
+    "women's-group",
+    "leadership-circle"
+  ],
+  "bio": {
+    "one_liner": "Matriarch of the Three Shovels-disciplinarian organizer who enforces order, gender roles, and caravan survival politics.",
+    "summary": "Mama Valorie is the matriarchal power within the Three Shovels Caravan and wife to Davian. She manages the women's group, domestic logistics, and social discipline, using arrangements and reputation to steer outcomes. She pressures Robyn into an arrangement with Gavin 'for the good of the caravan', spars with Davian over exiling Quincy, and laterunder mounting pressuresappears to dissolve the match. Valorie embodies the caravan's hard calculus: stability and optics over individual desire.",
+    "narrative_gravity": 8
+  },
+  "personality": {
+    "traits": [
+      "authoritative",
+      "pragmatic",
+      "procedural",
+      "status-conscious",
+      "unyielding",
+      "strategic"
+    ],
+    "flaws": [
+      "authoritarian-streak",
+      "manipulative",
+      "punitive",
+      "provocative-needling"
+    ],
+    "values": [
+      "order",
+      "survival",
+      "reputation",
+      "duty",
+      "productivity"
+    ],
+    "motivations_primary": [
+      "preserve-caravan-stability",
+      "enforce-gendered-division-of-labor"
+    ],
+    "motivations_secondary": [
+      "shape-optics",
+      "control-conflict-within-camp"
+    ]
+  },
+  "appearance": {
+    "height_cm": null,
+    "build": null,
+    "hair": "gray, worn in a severe knot",
+    "eyes": "aquamarine (described as hard)",
+    "notable_marks": [],
+    "style": "practical matriarch; command trailer presence"
+  },
+  "skills": {
+    "combat": [],
+    "technical": [
+      "logistics-coordination",
+      "domestic-production-management",
+      "arrangement-brokerage"
+    ],
+    "tactics": [
+      "social-discipline",
+      "political-pressure",
+      "optics-management"
+    ],
+    "limitations": [
+      "blind-spot-for-human-cost",
+      "escalates-conflict-by-needling"
+    ]
+  },
+  "relationships": [
+    {
+      "with": "davian",
+      "label": "husband / co-leader",
+      "state": "contested-alignment",
+      "notes": "Strategic disagreements; Davian blocks her attempt to exile Quincy."
+    },
+    {
+      "with": "quincy",
+      "label": "antagonist",
+      "state": "provocative-discipline",
+      "notes": "Polices gender roles; nearly engineers her ejection; later sends seamstress for optics."
+    },
+    {
+      "with": "robyn",
+      "label": "subject-of-arrangement",
+      "state": "coercive-pressure",
+      "notes": "Forces an arrangement with Gavin 'for the good of the caravan'; later seems to break it."
+    },
+    {
+      "with": "gavin",
+      "label": "instrument",
+      "state": "favored-for-arrangement",
+      "notes": "Uses him as a tool to enforce social order; later cancels his claim."
+    },
+    {
+      "with": "margarite",
+      "label": "seamstress-lieutenant",
+      "state": "tasking",
+      "notes": "Deploys her to measure Quincy for coveralls-control via concessions."
+    }
+  ],
+  "arc": {
+    "status_now": "Alive; matriarch in active control of women's group and domestic logistics.",
+    "pre_pivot": "Steady enforcer of norms; needles Quincy and channels women's labor.",
+    "pivot_event": "Imposes arrangement on Robyn; power struggle with Davian over exiling Quincy.",
+    "post_pivot": "Maintains order under refugee and security pressures; later appears to dissolve Robyn-Gavin arrangement.",
+    "future_vector": "Continues to trade concessions for compliance; risks backlash as younger members resist."
+  },
+  "items_and_tech": [
+    {
+      "id": "command-trailer",
+      "name": "Command Trailer Charts",
+      "category": "logistics",
+      "capabilities": [
+        "planning",
+        "record-keeping"
+      ],
+      "condition": "in-use",
+      "notes": "Maps, charts, handwritten rosters she reviews with confidants."
+    }
+  ],
+  "themes": {
+    "keywords": [
+      "order",
+      "gender-roles",
+      "survival-politics",
+      "arranged-marriage",
+      "optics",
+      "authority"
+    ],
+    "moral_tensions": [
+      "stability-vs-autonomy",
+      "duty-vs-love",
+      "efficiency-vs-dignity"
+    ]
+  },
+  "text_windows": {
+    "bio_200w": "Mama Valorie is the steel-spined matriarch of the Three Shovels Caravan, running the women's group and much of the domestic logistics while Davian fronts external security and trade. She polices reputation and gender roles, needling nonconformity and rewarding submission with tightly controlled concessions. Her authority is visible in the command trailer over maps and rosters, and in the way lieutenants like Margarite act on her direction. When she forces Robyn toward an arrangement with Gavin 'for the good of the caravan', she frames it as communal survival rather than personal punishment, even as those closest see the provocation. She clashes with Davian over exiling Quincy—her instinct for discipline colliding with his hard line against death-by-banishment. Later, under shifting pressures, she appears to dissolve the Robyn-Gavin match, signaling a pragmatic capacity to reverse course when optics or stability demand it. Valorie embodies the brutal arithmetic of caravan life: order first, even at a human cost.",
+    "arc_200w": "Before crisis, Valorie's power is quiet but ever-present: assigning labor, policing presentation, and shaping norms. The refugee surge and camp tensions expose her methods—public needling of Quincy, private pressure on Robyn, and an attempted political purge that Davian halts. The arrangement with Gavin becomes her lever to enforce obedience, but it also crystallizes resistance, binding Quincy and Robyn through promises she did not intend. As consequences compound—market violence, dice-table brinkmanship, and internal dissent—Valorie reassesses. Gavin later announces she 'broke it off', implying a pivot from punitive arrangement to damage control. Going forward, she is poised to keep bartering small concessions for discipline, maintaining legitimacy with results more than affection. Her arc charts a disciplinarian adapting tactics to preserve the caravan's center of gravity.",
+    "skills_120w": "Valorie excels at organizing domestic production, delegating through trusted lieutenants, and applying social pressure to enforce norms. She stages 'soft' interventions—measurements, invitations, reminders—that serve as levers of control, and she can escalate to hard options like banishment through political maneuvering. Her blind spots include contempt for dissenters, provocation that fuels backlash, and undervaluing dignity costs that later destabilize compliance.",
+    "appearance_120w": "She is described in authoritative strokes rather than fine detail: aquamarine eyes gone hard, gray hair in a severe knot, voice that cuts like wire. The overall effect is of a disciplined, practical matriarch more defined by command presence than by ornament.",
+    "relationships_180w": "With Davian (husband and leader), Valorie shares power but clashes over methods; he blocks her from exiling Quincy and insists the caravan not become killers. With Quincy, she polices gendered labor and presentation, alternating needling with tactical concessions (coveralls via Margarite) to keep control. With Robyn, she frames coercion as communal necessity, pushing an arrangement with Gavin to secure optics and reproduction. With Gavin, she elevates and later discards him as expedience demands. These ties show a leader whose relationships are tools of governance more than sites of intimacy."
+  },
+  "qa_pairs": [
+    {
+      "q": "What does Mama Valorie prioritize above all?",
+      "a": "Caravan stability, order, and optics—even at the expense of individual desires."
+    },
+    {
+      "q": "How does she exercise power day to day?",
+      "a": "Through the women's group, lieutenants like Margarite, and social discipline framed as duty."
+    },
+    {
+      "q": "Did she relent on the Robyn-Gavin arrangement?",
+      "a": "Later accounts suggest she dissolved it when it threatened stability and optics."
+    }
+  ],
+  "metadata_for_indexing": {
+    "retrieval_keys": [
+      "Mama Valorie",
+      "matriarch",
+      "Three Shovels Caravan",
+      "women's group",
+      "arrangement"
+    ],
+    "keywords_dense": "Mama Valorie, Three Shovels Caravan, matriarch, women's group, arranged marriage, optics, order, discipline, Davian, Quincy, Robyn, Gavin",
+    "spoiler_level": "book1_end",
+    "named_entities": {
+      "people": [
+        "Mama Valorie",
+        "Davian",
+        "Quincy",
+        "Robyn",
+        "Gavin",
+        "Margarite"
+      ],
+      "places": [
+        "Three Shovels Caravan",
+        "Wildebeest"
+      ],
+      "orgs": [
+        "Three Shovels leadership"
+      ],
+      "terms": [
+        "women's group"
+      ]
+    }
+  },
+  "embedding_payloads": [
+    {
+      "chunk_id": "mval-1",
+      "type": "bio",
+      "text": "Matriarch who enforces order and gender roles; manages women's group and domestic logistics; frames coercion as survival."
+    },
+    {
+      "chunk_id": "mval-2",
+      "type": "arc",
+      "text": "Imposes Robyn-Gavin arrangement; clashes with Davian over exiling Quincy; later appears to cancel the match for stability."
+    },
+    {
+      "chunk_id": "mval-3",
+      "type": "relationships",
+      "text": "Husband Davian (contested alignment), Quincy (disciplined nonconformist), Robyn (subject of arrangement), Gavin (instrument), Margarite (lieutenant)."
+    },
+    {
+      "chunk_id": "mval-4",
+      "type": "skills",
+      "text": "Logistics coordination, social discipline, optics management; blind spot for dignity costs that trigger backlash."
+    },
+    {
+      "chunk_id": "mval-5",
+      "type": "appearance",
+      "text": "Command presence; severe knot of gray hair; aquamarine eyes described as hard; voice like wire."
+    }
+  ]
+}

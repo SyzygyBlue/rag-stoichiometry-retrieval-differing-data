@@ -1,0 +1,306 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "fox-river-office-confrontation-chase-vs-margdelain",
+    "chapter_number": 11,
+    "scene_number": 2,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Chase enters Chancellor Margdelain’s original Fox River executive office and rejects a diplomacy apprenticeship, declaring intent to join TRG under Master McTanner."
+    },
+    "text_windows": {
+    "full_scene_clean": "Chancellor Margdelain’s whipcrack \"Come\" summons Chase into the cold, book-scented, cramped original Fox River executive office. She fixes him with a long, unreadable stare; he reads the telltale tension anyway. Margdelain reminds him she spent months convincing Diplomat Emeritus Bartholemew to take him as apprentice—and that he turned it down. Chase holds ground: he doesn’t want diplomacy or politics; he wants to enlist in TRG and train under Master McTanner. She warns he’s throwing away a legacy and shifts to personal barbs, even invoking his dead birth mother. He frames it not as rebellion but choice. Calculating now, she notes what he’s walking away from. He answers that if it’s truly his legacy, it will still be there later. She predicts regret. He replies he’ll manage and leaves her to decide whether she built him or failed to stop him. Her final move: it won’t be easy for him—or McTanner—because McTanner works for her. A curt gesture dismisses him. Stomach twisting, face neutral, Chase exits.",
+    "dense_recap_250w": "Chase is summoned into Chancellor Margdelain’s austere, tradition-signaling office. She immediately presses him about refusing a prestigious apprenticeship with Diplomat Emeritus Bartholemew, which she spent months arranging. He offers no long explanation, only a firm declaration: he doesn’t want to be a diplomat or politician and intends to enlist in the TRG to train under Master McTanner. Margdelain’s response shifts from pressure to personal jabs, even invoking his deceased birth mother. Chase keeps his composure, reframes his refusal as agency rather than rebellion, and argues that if the path she built is truly his legacy, it will remain available later. Margdelain warns that he was raised to lead, not take orders, and that the TRG will chew him up. He counters that he’ll manage and challenges her to decide whether she built him or merely failed to stop him. In a final reveal and power play, Margdelain says it won’t be easy for him or for McTanner—because McTanner works for her—then dismisses Chase. He leaves outwardly calm but inwardly twisted, understanding she already set constraints around his chosen path.",
+    "query_handle": "Chase rejects diplomacy apprenticeship; vows to join TRG under McTanner; Margdelain reveals McTanner is under her control."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Summons and stare-down",
+    "what_happens": "Margdelain calls Chase in and wordlessly asserts control; Chase opts for directness over a stalemate.",
+    "involved_entities": ["chase", "chancellor-margdelain", "fox-river-executive-office"],
+    "stakes_or_conflict": "Power dynamic; who frames the conversation."
+    },
+    {
+    "order": 2,
+    "label": "The apprenticeship rebuked",
+    "what_happens": "She recounts securing an apprenticeship with Diplomat Emeritus Bartholemew and accuses him of spurning it.",
+    "involved_entities": ["chase", "chancellor-margdelain", "diplomat-emeritus-bartholomew"],
+    "stakes_or_conflict": "Prestige path vs self-chosen path."
+    },
+    {
+    "order": 3,
+    "label": "Chase declares his path",
+    "what_happens": "Chase states he will enlist in TRG under Master McTanner.",
+    "involved_entities": ["chase", "trg", "master-mctanner"],
+    "stakes_or_conflict": "Autonomy vs maternal strategy."
+    },
+    {
+    "order": 4,
+    "label": "Emotional pressure and counter",
+    "what_happens": "Margdelain uses personal jabs; Chase reframes as choice and future legacy.",
+    "involved_entities": ["chase", "chancellor-margdelain"],
+    "stakes_or_conflict": "Identity and legacy."
+    },
+    {
+    "order": 5,
+    "label": "Final reveal and dismissal",
+    "what_happens": "She reveals McTanner works for her, tightening control, then dismisses him.",
+    "involved_entities": ["chancellor-margdelain", "chase", "master-mctanner"],
+    "stakes_or_conflict": "His chosen mentor may be compromised; path obstructed."
+    }
+    ],
+    "characters": [
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Reject the diplomacy apprenticeship; assert choice to join TRG under McTanner.",
+    "obstacles": "Maternal political pressure; emotional manipulation; revelation that McTanner works for Margdelain.",
+    "tactics": "Minimal answers; controlled affect; frames decision as autonomy and deferred legacy.",
+    "relationships": [
+    {
+    "with": "chancellor-margdelain",
+    "type": "family/adoptive",
+    "state": "tense, strategic",
+    "evidence": "“Don’t mother me… I bent Bartholemew to my will.” / “It’s not rebellion… It’s a choice.”"
+    },
+    {
+    "with": "master-mctanner",
+    "type": "mentor-aspirant",
+    "state": "admiring but threatened",
+    "evidence": "Wants to train under McTanner; learns McTanner works for her."
+    }
+    ],
+    "emotional_arc": {
+    "start": "steeled, wary",
+    "turning_points": ["States TRG intent plainly", "Learns McTanner works for Margdelain"],
+    "end": "outwardly composed, inwardly roiled but resolute"
+    },
+    "notable_actions": ["refuses apprenticeship", "declares intent to enlist in TRG", "exits under dismissal without visible reaction"],
+    "quotable_lines": [
+    "It’s not rebellion. It’s a choice. My choice.",
+    "If it’s truly my legacy, it’ll still be there when I’m ready for it.",
+    "I’ll leave it to you to decide whether you built me… or just failed to stop me."
+    ]
+    },
+    {
+    "id": "chancellor-margdelain",
+    "display_name": "Chancellor Margdelain",
+    "aliases": ["Mom", "Margdelain"],
+    "role_in_scene": "major",
+    "goals_now": "Keep Chase on a curated path via a diplomacy apprenticeship; maintain political narrative of tradition and control.",
+    "obstacles": "Chase’s assertion of autonomy; his preference for TRG service.",
+    "tactics": "Prestige leverage, guilt and personal barbs, calculated reveals, final power move linking McTanner to her authority.",
+    "relationships": [
+    {
+    "with": "chase",
+    "type": "family/adoptive",
+    "state": "controlling, strategic, complex",
+    "evidence": "Secured apprenticeship for him; threatens consequences; dismisses him."
+    },
+    {
+    "with": "master-mctanner",
+    "type": "employer/superior",
+    "state": "controlling",
+    "evidence": "“Because McTanner? He works for me.”"
+    }
+    ],
+    "emotional_arc": {
+    "start": "contained fury",
+    "turning_points": ["Shifts from anger to calculation", "Deploys reveal about McTanner"],
+    "end": "cold control reasserted"
+    },
+    "notable_actions": ["secures high-prestige apprenticeship", "delivers strategic threat via McTanner employment", "dismisses Chase"],
+    "quotable_lines": [
+    "You were raised for more than playing soldier. Don’t be an idiot.",
+    "We’ll see. It won’t be easy… because McTanner works for me."
+    ]
+    },
+    {
+    "id": "master-mctanner",
+    "display_name": "Master McTanner",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {
+    "with": "chase",
+    "type": "mentor-aspirant",
+    "state": "sought-after",
+    "evidence": "Chase wants to train under him."
+    },
+    {
+    "with": "chancellor-margdelain",
+    "type": "employee",
+    "state": "subordinate",
+    "evidence": "Explicitly stated he works for her."
+    }
+    ],
+    "emotional_arc": { "start": "", "turning_points": [], "end": "" },
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "diplomat-emeritus-bartholomew",
+    "display_name": "Diplomat Emeritus Bartholemew",
+    "aliases": ["Bartholomew"],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {
+    "with": "chancellor-margdelain",
+    "type": "political-peer",
+    "state": "convinced under pressure",
+    "evidence": "She worked months to make him accept Chase."
+    }
+    ],
+    "emotional_arc": { "start": "", "turning_points": [], "end": "" },
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "pine-desk",
+    "name": "Pinewood executive desk",
+    "category": "other",
+    "capabilities": ["status signaling via tradition"],
+    "owner_or_users": ["chancellor-margdelain"],
+    "condition_or_state": "pristine",
+    "scene_function": "Symbolizes her public image of tradition, contrasted with futurist agenda."
+    },
+    {
+    "id": "office-datapad",
+    "name": "Margdelain’s datapad",
+    "category": "comms",
+    "capabilities": ["work surface computing", "information access"],
+    "owner_or_users": ["chancellor-margdelain"],
+    "condition_or_state": "active",
+    "scene_function": "Only disruption on the desk; underscores control and focus."
+    }
+    ],
+    "locations": [
+    {
+    "id": "fox-river-executive-office",
+    "name": "Original Fox River executive office",
+    "type": "structure",
+    "descriptors": ["cold air", "old books", "furniture polish", "cramped", "politically symbolic"],
+    "in_scene_events": ["Confrontation between Chase and Margdelain; dismissal."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "fox-river",
+    "name": "Fox River",
+    "alignment": "ally",
+    "agents_present": ["chancellor-margdelain", "chase"],
+    "motives_inferred": "Maintain civic power; balance tradition and futurism for political legitimacy.",
+    "actions_in_scene": ["Hosts the executive office where the confrontation occurs."]
+    },
+    {
+    "id": "trg",
+    "name": "TRG",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Security and training cadre; Chase’s desired path.",
+    "actions_in_scene": ["Referenced as Chase’s target organization and McTanner’s employer (per Margdelain)."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Autonomy vs control", "Legacy and self-determination", "Power as strategy", "Masks and calculation in family politics"],
+    "motifs_symbols": ["cold, book-lined office", "pristine pine desk", "controlled facial microexpressions", "dismissal gesture"],
+    "moral_questions": ["Does a parent’s engineered legacy outweigh a child’s chosen path?", "Can choice be free when mentors are controlled by power?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "political/psychological thriller",
+    "pacing": "brisk with tense pauses",
+    "voice_traits": ["tight interior monologue", "subtext through microexpressions", "clean declaratives"],
+    "sensory_notes": ["whipcrack command", "scent of old books and polish", "cold air", "leather creak"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Chase’s long training under McTanner; Margdelain is his adoptive mother and Fox River chancellor; Chase’s growing dissatisfaction with her control."
+    ],
+    "outcomes": [
+    "Chase definitively rejects the diplomacy apprenticeship.",
+    "He declares intent to enlist in TRG under McTanner.",
+    "Margdelain reveals McTanner works for her, threatening Chase’s independent plan.",
+    "Family power struggle escalates; Chase leaves undeterred but unsettled."
+    ],
+    "unanswered_questions": [
+    "Will TRG accept Chase despite Margdelain’s influence?",
+    "How will McTanner navigate loyalty to Margdelain vs mentoring Chase?",
+    "Will Margdelain actively obstruct his enlistment?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["chase", "chancellor-margdelain"],
+    "trigger": "Refusal of the apprenticeship and declaration to join TRG.",
+    "resolution": "Unresolved; Margdelain counters with McTanner’s subordination and dismisses him."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["chase", "fox-river political machinery"],
+    "trigger": "Expectations of legacy and influence vs military service.",
+    "resolution": "Unresolved; system power remains aligned with Margdelain."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["chase"],
+    "trigger": "Doubt after Margdelain’s reveal about McTanner.",
+    "resolution": "Maintains outward composure; commits to choice."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["orphanhood/adoption", "emotional manipulation"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Chase", "Chancellor Margdelain", "Master McTanner", "TRG enlistment", "Diplomat Emeritus Bartholemew", "Fox River office confrontation"],
+    "keywords_dense": "Chase, Chancellor Margdelain, Master McTanner, TRG, Fox River, executive office, diplomacy apprenticeship, Diplomat Emeritus Bartholemew, autonomy vs control, political power reveal",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chase", "Chancellor Margdelain", "Master McTanner", "Diplomat Emeritus Bartholemew"],
+    "places": ["Fox River executive office"],
+    "orgs": ["Fox River", "TRG"],
+    "terms": ["apprenticeship", "council seat"]
+    }
+    },
+    "qa_pairs": [
+    { "q": "What opportunity did Margdelain secure for Chase?", "a": "An apprenticeship with Diplomat Emeritus Bartholemew." },
+    { "q": "What path does Chase declare instead?", "a": "To enlist in the TRG and train under Master McTanner." },
+    { "q": "How does Margdelain undercut Chase’s plan?", "a": "She reveals that McTanner works for her." },
+    { "q": "Why does Margdelain keep the cramped original office?", "a": "To signal tradition and retain political support for her council seat." },
+    { "q": "How does the scene end?", "a": "Margdelain dismisses Chase after warning it won’t be easy; he leaves outwardly calm." }
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "foxriver-conflict-recap-1",
+    "type": "recap",
+    "text": "Chase is summoned into Chancellor Margdelain’s austere, tradition-signaling office. She berates him for refusing a diplomacy apprenticeship with Diplomat Emeritus Bartholemew. He insists it’s his choice to enlist in the TRG and train under Master McTanner, not rebellion. After pushing legacy and deploying personal barbs, Margdelain switches to calculation and reveals a final constraint: McTanner works for her. She dismisses him. Chase exits neutral-faced but internally twisted, recognizing she has already moved to control his chosen path."
+    },
+    {
+    "chunk_id": "foxriver-conflict-entities-2",
+    "type": "entities_focus",
+    "text": "Actors: Chase (adopted son; asserts autonomy), Chancellor Margdelain (adoptive mother; Fox River chancellor; strategist), Master McTanner (desired mentor; actually under Margdelain), Diplomat Emeritus Bartholemew (spurned apprenticeship sponsor). Orgs/Places: Fox River, TRG, original executive office. Objects: pine desk, datapad. Relations: mother-son power struggle; mentor bound to mother’s authority."
+    },
+    {
+    "chunk_id": "foxriver-conflict-style-themes-3",
+    "type": "style_theme_focus",
+    "text": "Third-person limited past focused on Chase’s interior control and reading of microexpressions. Tone is tense, political, and psychological. Themes: autonomy vs parental/political control; legacy vs self-determination; power via optics. Motifs: cold, book-scented office; pristine pine desk; dismissive gesture; choice framed against curated destiny."
+    }
+    ]
+    }

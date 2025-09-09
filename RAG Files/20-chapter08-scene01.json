@@ -1,0 +1,289 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "2186-10-07_night_wildebeest_flashpoint_dice-bet",
+    "chapter_number": 8,
+    "scene_number": 1,
+    "date_in_universe": "2186-10-07/2186-10-09",
+    "absolute_timeline_notes": "Nighttime dice game in the Wildebeest spans into following nights; immediate aftermath of leadership tensions around Quincy/Robyn/Gavin."
+    },
+    "text_windows": {
+    "full_scene_clean": "The dice rattled in the pan like bones as Quincy played Even-Odds in the Wildebeest, drinking puro but emotionally absent. Andreu tried to keep her steady. Gavin staggered in drunk, taunting Quincy about Robyn and declaring Mama Valorie had ended his arrangement with Robyn. He demanded a wager: just him and Quincy, one roll each—if he won, Quincy and Robyn were finished; if she won, he would leave them alone forever. Despite friends restraining her, Quincy, raw with grief and rage, drank on the pact and accepted. Gavin rolled first: fourteen. Quincy, nauseated and shaking, rolled and beat him by one. Gavin exploded, flipping a chair and storming into the night. Quincy’s victory felt hollow; shame and doubt crowded out relief as the players drifted away and she stumbled into the cool dark, fearing what Robyn would think of a future staked on dice.",
+    "dense_recap_250w": "In the Wildebeest livestock trailer, Quincy sits through a late-night Even-Odds dice game to keep a low profile after recent tensions. Gavin, drunk and hostile, barges in, announces that Mama Valorie has broken off his pairing with Robyn, and goads Quincy with accusations that she didn’t fight for Robyn. He escalates to a high-stakes challenge: a single roll-off between the two of them. If he wins, Quincy must end things with Robyn; if she wins, he will leave them alone. Andreu warns Quincy not to engage, but provoked and exhausted, she seals the pact with a shared shot of puro. Gavin rolls a fourteen (4,5,5). Quincy, rattled by the possibility of losing Robyn on a gambler’s bet, throws and edges him by one. Gavin erupts—chair slams, the milk stool and rolling pan tumble—and he storms out. The room freezes, then empties. Quincy’s ‘win’ resolves the immediate threat but leaves her sick with shame for risking her relationship and community standing on a drunken wager. The scene crystallizes intersecting pressures: personal love versus public provocation, self-control versus rage, and the caravan’s social games as both refuge and flashpoint.",
+    "query_handle": "Quincy vs Gavin: drunken dice wager over Robyn in the Wildebeest; Quincy wins by one and regrets the bet."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Reluctant play",
+    "what_happens": "Quincy drinks and plays Even-Odds without joy, fulfilling an obligation to be seen, not to have fun.",
+    "involved_entities": ["quincy", "andreu", "even-odds-players"],
+    "stakes_or_conflict": "Maintain composure vs grief and anger."
+    },
+    {
+    "order": 2,
+    "label": "Antagonist enters",
+    "what_happens": "Gavin arrives drunk, taunts Quincy, and claims Mama Valorie ended his pairing with Robyn.",
+    "involved_entities": ["gavin", "quincy", "andreu"],
+    "stakes_or_conflict": "Provocation threatens Quincy’s promise to avoid confrontation."
+    },
+    {
+    "order": 3,
+    "label": "The wager",
+    "what_happens": "Gavin proposes a single-roll bet to decide Robyn’s future; Quincy, enraged, accepts and drinks to seal it.",
+    "involved_entities": ["gavin", "quincy", "andreu"],
+    "stakes_or_conflict": "Love and dignity staked on a game of chance."
+    },
+    {
+    "order": 4,
+    "label": "Rolls and eruption",
+    "what_happens": "Gavin rolls fourteen; Quincy beats it by one. Gavin flips furniture and storms out.",
+    "involved_entities": ["gavin", "quincy", "even-odds-players"],
+    "stakes_or_conflict": "Immediate threat diffused; social fallout begins."
+    },
+    {
+    "order": 5,
+    "label": "Hollow victory",
+    "what_happens": "Players disperse; Quincy leaves in shame, fearing Robyn’s reaction and her own loss of control.",
+    "involved_entities": ["quincy"],
+    "stakes_or_conflict": "Self-reproach vs relief; reputation risk."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "End Gavin’s interference and protect her relationship with Robyn while keeping her place in the caravan.",
+    "obstacles": "Gavin’s drunken provocation, community scrutiny, her own anger and grief.",
+    "tactics": "Verbal dismissal, attempting restraint, then accepting a binding wager sealed with a drink.",
+    "relationships": [
+    {"with": "andreu", "type": "ally", "state": "supportive", "evidence": "Andreu restrains and warns: “Don’t do this, Quince.”"},
+    {"with": "gavin", "type": "rival", "state": "hostile", "evidence": "Dice wager over Robyn; insults exchanged."},
+    {"with": "robyn", "type": "lover", "state": "threatened/offstage", "evidence": "Quincy stakes a bet to keep Gavin away from Robyn."},
+    {"with": "mama-valorie", "type": "authority-adversary", "state": "strained", "evidence": "Gavin cites Valorie breaking off his pairing with Robyn."}
+    ],
+    "emotional_arc": {
+    "start": "numb, exhausted, simmering",
+    "turning_points": ["Gavin’s entrance and taunts", "Accepts the wager; wins by one"],
+    "end": "ashamed, unsettled, doubtful"
+    },
+    "notable_actions": ["drinks puro shots", "accepts high-stakes wager", "rolls winning dice", "rejects Gavin verbally"],
+    "quotable_lines": [
+    "I love her, goddamnit! And she loves me.",
+    "If I win, you leave us the fuck alone. Forever.",
+    "Goddammit, I want you out of our lives."
+    ]
+    },
+    {
+    "id": "gavin",
+    "display_name": "Gavin",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Undermine Quincy and reassert control over the Robyn situation via a public wager.",
+    "obstacles": "Andreu’s mediation, group disapproval, his own drunkenness.",
+    "tactics": "Public taunts, goading, setting terms of a bet, symbolic drink to bind the pact.",
+    "relationships": [
+    {"with": "quincy", "type": "rival", "state": "provocative/hostile", "evidence": "Challenges her: “Either roll the dice or stand up and take a swing.”"},
+    {"with": "robyn", "type": "intended-partner (failed)", "state": "broken", "evidence": "Claims Mama Valorie ‘broke it off.’"},
+    {"with": "mama-valorie", "type": "political-ally (fragile)", "state": "uncertain", "evidence": "Invokes her decision as leverage in taunts."}
+    ],
+    "emotional_arc": {
+    "start": "drunk, aggressive",
+    "turning_points": ["Quincy accepts wager", "Loses by one"],
+    "end": "enraged, humiliated; exits"
+    },
+    "notable_actions": ["proposes bet", "rolls fourteen", "flips chair and storms out"],
+    "quotable_lines": [
+    "I want to roll some dice. Just me and Quincy.",
+    "Either roll the dice or stand up and take a swing.",
+    "You didn’t say a damned thing when I walked off with your girl."
+    ]
+    },
+    {
+    "id": "andreu",
+    "display_name": "Andreu",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "De-escalate and keep Quincy from taking the bait.",
+    "obstacles": "Quincy’s grief and anger; Gavin’s goading.",
+    "tactics": "Physical restraint on shoulder, verbal warnings, ordering Gavin to leave.",
+    "relationships": [
+    {"with": "quincy", "type": "friend/ally", "state": "protective", "evidence": "“Don’t do this, Quince… You’ve already won.”"},
+    {"with": "gavin", "type": "opposed", "state": "confrontational", "evidence": "“Shut up and get out of here, Gavin.”"}
+    ],
+    "emotional_arc": {
+    "start": "concerned",
+    "turning_points": ["Gavin’s bet", "Quincy accepts"],
+    "end": "resigned; watches fallout"
+    },
+    "notable_actions": ["warns Quincy", "tries to eject Gavin"],
+    "quotable_lines": [
+    "Easy, Quince.",
+    "Don’t do this, Quince."
+    ]
+    },
+    {
+    "id": "robyn",
+    "display_name": "Robyn",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Offstage; subject of wager and control by others (inferred).",
+    "obstacles": "Mama Valorie’s authority; Gavin’s and Quincy’s conflict (inferred).",
+    "tactics": "N/A (offstage).",
+    "relationships": [
+    {"with": "quincy", "type": "lover", "state": "endangered", "evidence": "Outcome of bet dictates separation or freedom from Gavin."},
+    {"with": "gavin", "type": "rejected suitor", "state": "broken by authority", "evidence": "Gavin says Valorie ended it."},
+    {"with": "mama-valorie", "type": "subordinate", "state": "controlled", "evidence": "Pairing decisions imposed."}
+    ],
+    "emotional_arc": {"start": "offstage", "turning_points": [], "end": "offstage"},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "even-odds-dice-pan",
+    "name": "Even-Odds dice and rolling pan",
+    "category": "tool",
+    "capabilities": ["randomized contest resolution", "social gambling ritual"],
+    "owner_or_users": ["quincy", "gavin", "andreu", "even-odds-players"],
+    "condition_or_state": "intact (pan flipped during outburst)",
+    "scene_function": "Mechanism for the wager that decides whether Gavin must leave Quincy and Robyn alone."
+    },
+    {
+    "id": "puro-jug",
+    "name": "Jug of puro",
+    "category": "other",
+    "capabilities": ["intoxication", "ritual sealing of bets"],
+    "owner_or_users": ["quincy", "gavin", "even-odds-players"],
+    "condition_or_state": "present, consumed",
+    "scene_function": "Used to ‘drink on’ the pact; heightens volatility."
+    },
+    {
+    "id": "holocreds-stack",
+    "name": "Holocreds (currency)",
+    "category": "other",
+    "capabilities": ["stake setting", "game wagering"],
+    "owner_or_users": ["even-odds-players"],
+    "condition_or_state": "in play",
+    "scene_function": "Visible stakes at the table; Gavin flicks one at Quincy to taunt her."
+    },
+    {
+    "id": "the-wildebeest",
+    "name": "The Wildebeest (livestock trailer)",
+    "category": "other",
+    "capabilities": ["gathering venue", "shelter"],
+    "owner_or_users": ["three-shovels-caravan"],
+    "condition_or_state": "cluttered, functional",
+    "scene_function": "Closed space amplifying social pressure and spectacle during the confrontation."
+    }
+    ],
+    "locations": [
+    {
+    "id": "wildebeest-trailer",
+    "name": "The Wildebeest",
+    "type": "structure",
+    "descriptors": ["cramped", "lamplit", "stalls and rough floorboards", "smell of booze and animals"],
+    "in_scene_events": ["Dice game; Gavin’s intrusion; wager and roll; outburst; dispersal."]
+    },
+    {
+    "id": "caravan-night-grounds",
+    "name": "Three Shovels camp at night",
+    "type": "caravan",
+    "descriptors": ["cool night air", "dim, quiet paths"],
+    "in_scene_events": ["Quincy exits alone, processing shame and doubt."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": ["quincy", "andreu", "gavin"],
+    "motives_inferred": "Maintain order and cohesion; social rituals as pressure valve.",
+    "actions_in_scene": ["Hosts dice game; witnesses and tacitly arbitrates a personal dispute."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Love vs control", "Pride and provocation", "Chance vs agency", "Community judgment vs individual emotion", "Addiction/alteration increasing risk"],
+    "motifs_symbols": ["clattering dice", "puro shots sealing pacts", "hollow victory", "lamplight over rough boards"],
+    "moral_questions": ["Is it ever right to gamble a relationship under public pressure?", "Does a promise hold when weaponized against you?", "What does ‘winning’ mean if you lose yourself to rage?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "brisk and tense",
+    "voice_traits": ["sharp dialogue", "interior surge of emotion", "sensory immediacy"],
+    "sensory_notes": ["dice rattling in a pan", "sting of cheap puro", "chair scraping floorboards", "flickering lamplight", "cool night air"]
+    },
+    "causality": {
+    "prior_dependencies": ["Davian’s earlier warning to avoid being made ‘the problem’ by keeping to the dice game", "Quincy’s promise to Robyn not to fight", "Ongoing Valorie/Gavin pressure around Robyn"],
+    "outcomes": ["Public pact that Gavin must leave Quincy and Robyn alone; Gavin humiliated; Quincy’s internal shame escalates; risk of social repercussions and Robyn’s disapproval."],
+    "unanswered_questions": ["Will Gavin honor the wager?", "How will Robyn react to learning their future was risked on dice?", "Will Mama Valorie countermand or retaliate?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "gavin"],
+    "trigger": "Gavin’s drunken taunts and proposed wager over Robyn.",
+    "resolution": "Quincy wins by one; Gavin storms out. Immediate clash ends, underlying feud persists."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Choice between restraint and rage; risking love on chance.",
+    "resolution": "Unresolved; she feels shame despite ‘winning.’"
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy", "caravan-social-order"],
+    "trigger": "Public scrutiny and manipulation via games and leadership pressure.",
+    "resolution": "Unresolved; social fallout pending."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mild",
+    "addiction_or_substances": "present",
+    "sexual_content": "none",
+    "sensitive_topics": ["emotional abuse/taunting", "coercive social pressure", "relationship control"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Gavin", "Andreu", "Wildebeest", "Even-Odds", "dice wager", "holocreds", "puro", "Robyn", "Three Shovels Caravan"],
+    "keywords_dense": "Quincy, Gavin, Andreu, Wildebeest, Even-Odds dice, wager, holocreds, puro, lamplight, caravan, Robyn, Mama Valorie, public taunt, hollow victory",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Gavin", "Andreu", "Robyn", "Mama Valorie"],
+    "places": ["The Wildebeest", "Three Shovels camp"],
+    "orgs": ["Three Shovels Caravan"],
+    "terms": ["Even-Odds", "holocreds", "puro"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What terms does Gavin propose for the dice wager?", "a": "If he wins, Quincy and Robyn are finished; if Quincy wins, Gavin leaves them alone."},
+    {"q": "What number does Gavin roll?", "a": "Fourteen, on a four, five, and five."},
+    {"q": "Who wins the wager?", "a": "Quincy—she beats Gavin by one."},
+    {"q": "Why does Quincy accept the bet despite warnings?", "a": "Goaded by Gavin’s taunts and grief over Robyn, she snaps and drinks on the pact."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "flashpoint-1-recap",
+    "type": "recap",
+    "text": "During a tense late-night Even-Odds game in the Wildebeest, Gavin barges in drunk and taunts Quincy about Robyn, citing Mama Valorie’s intervention. He demands a one-roll wager to decide Robyn’s future: his win ends Quincy and Robyn; her win forces him to leave them alone. Despite Andreu’s pleas, Quincy drinks on the pact and accepts. Gavin rolls fourteen; Quincy edges him by one. He flips furniture and storms out. Quincy’s victory feels hollow, and she leaves in shame, fearing the social and personal fallout."
+    },
+    {
+    "chunk_id": "flashpoint-2-entities",
+    "type": "entities_focus",
+    "text": "Actors: Quincy (POV, lover of Robyn, provoked into a bet), Gavin (drunk antagonist), Andreu (friend mediator), offstage Robyn and Mama Valorie. Items: Even-Odds dice/pan, holocreds, jug of puro, milk stool, folding chair. Setting: The Wildebeest livestock trailer at night within the Three Shovels Caravan. Dynamics: person-vs-person taunts escalate into a public wager; chance (dice) temporarily overrides authority; community witnesses and disperses."
+    },
+    {
+    "chunk_id": "flashpoint-3-style-theme",
+    "type": "style_theme_focus",
+    "text": "Gritty, tense third-person limited around Quincy, with sensory details—dice clatter, puro burn, scraping chairs, flickering lamplight. Themes center on love versus control, pride and provocation, chance versus agency, and communal judgment. Motifs include ritual drinking to seal pacts and the hollow victory of winning at a moral cost."
+    }
+    ]
+    }

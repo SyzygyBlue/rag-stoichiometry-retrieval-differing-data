@@ -1,0 +1,294 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "2186-10-12_wild-goose-chase_trg-approach",
+    "chapter_number": 13,
+    "scene_number": 1,
+    "date_in_universe": "2186-10-12",
+    "absolute_timeline_notes": "Minutes after Quincy's distress call; TRG convoy races to contact while Chase is already forward."
+    },
+    "text_windows": {
+    "full_scene_clean": "Jebidiah McTanner gritted his teeth and shoved the microphone back in its holder. \"It's a goddamned nightmare,\" he growled, slamming his fist on the console. \"He left his navigator, Jeb. It's like he's determined to do something stupid,\" Carson muttered. \"Focus on getting there, Carson. Pray to God he's still alive.\" The TEG-6 lurched over rubble, tires clawing for grip as dust billowed behind them. \"The kid's actions have tied up the Tactical Response Group while his mom tries to drag Fox River—kicking and screaming—into the Metrofederacy,\" Carson said. \"Of the two, I'm glad we're dealing with the kid, even if he is off the rails. Maybe things would be different if his mom had been less controlling.\" \"Less controlling? Have you met Chancellor Margdelain?\" McTanner scoffed. \"Chase is a good kid. I half-raised him. He's driven, just like his mother. Every bit of this is him clawing his way out of her shadow. And Margdelain? Shoving him back in.\" \"That boy's got every advantage imaginable,\" Carson growled. \"Why doesn't he use them?\" \"He can't make a move without his mother swooping in. He may have advantages, but he's not free to use them,\" Jeb said. \"If he were a little less stubborn, she'd win. He's as strong-willed as Margdelain, and he's in full rebellion, desperate to be his own man.\" \"Even if it kills him?\" \"I'm afraid so.\" Silence. Then Carson pointed. \"Smoke.\" Jeb saw multiple pencil-thin lines rising and smearing westward. He grabbed the comms mic. \"Contacts, dead ahead. Element leaders, ready gunners. Drivers, fall into single file for a close-in pass. Watch for friendlies. Clear to fire upon confirmation of target.\" The V formation shifted into a single file as the TRG vehicles raced forward. Jeb opened the rifle case, clicking each piece together and sliding on the scope. \"Chase's TEG-2,\" Carson pointed. Jeb nodded, rolling down the window as they crested the hill.",
+    "dense_recap_250w": "Riding in a TEG-6, Jebidiah McTanner and his driver Carson push a Tactical Response Group (TRG) convoy toward smoke columns that likely mark the battle where Chase has raced ahead alone. McTanner vents at the situation—Chase abandoned his navigator and may be doing something reckless—but he defends the boy’s motives, framing them as a struggle for independence from Chancellor Margdelain’s control. Carson counters that Chase has every advantage but refuses to use them; McTanner argues those advantages are constrained by Margdelain’s interference. As dust trails the convoy over rubble, Carson spots thin smoke plumes drifting west. McTanner seizes the radio, issues contact and formation orders, and transitions the convoy from a V to single file for a close-in pass with strict friend-or-foe caution before weapons release. He assembles his rifle while Carson identifies Chase’s TEG-2 ahead, confirming they have reached the area. The scene ends with the TRG cresting a hill to enter the engagement zone, McTanner balancing command focus with paternal worry, and political tensions—Fox River’s push toward the Metrofederacy—hanging over the operation.",
+    "query_handle": "McTanner leads TRG convoy to smoke, orders single-file assault approach; spots Chase’s TEG-2 and prepares to engage."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Frustration and urgency",
+    "what_happens": "McTanner curses the situation and orders Carson to prioritize reaching Chase alive.",
+    "involved_entities": ["master-mctanner", "carson", "trg", "teg-6"],
+    "stakes_or_conflict": "Chase may be in immediate danger; commander under time pressure."
+    },
+    {
+    "order": 2,
+    "label": "Debate over control and rebellion",
+    "what_happens": "Carson critiques Chase’s defiance; McTanner frames it as a fight for autonomy from Chancellor Margdelain.",
+    "involved_entities": ["master-mctanner", "carson", "chancellor-margdelain", "chase"],
+    "stakes_or_conflict": "Personal ideology vs operational focus; parental control vs self-determination."
+    },
+    {
+    "order": 3,
+    "label": "Contact indicators",
+    "what_happens": "They spot multiple smoke columns drifting west, likely from the firefight.",
+    "involved_entities": ["master-mctanner", "carson"],
+    "stakes_or_conflict": "Navigating toward an active combat zone without blue-on-blue."
+    },
+    {
+    "order": 4,
+    "label": "Convoy orders and formation shift",
+    "what_happens": "McTanner radios elements to ready gunners and collapse into single file for a close-in pass with positive ID.",
+    "involved_entities": ["master-mctanner", "trg"],
+    "stakes_or_conflict": "Balance speed of approach with identification to avoid friendly fire."
+    },
+    {
+    "order": 5,
+    "label": "Final approach and confirmation",
+    "what_happens": "McTanner assembles his rifle as Carson spots Chase’s TEG-2; they crest a hill toward the fight.",
+    "involved_entities": ["master-mctanner", "carson", "chase", "teg-2"],
+    "stakes_or_conflict": "Engagement imminent; Chase’s status unknown."
+    }
+    ],
+    "characters": [
+    {
+    "id": "master-mctanner",
+    "display_name": "Jebidiah McTanner",
+    "aliases": ["Jeb", "McTanner"],
+    "role_in_scene": "POV",
+    "goals_now": "Reach the battle quickly, avoid friendly fire, and stabilize the situation with Chase alive.",
+    "obstacles": "Unknown enemy disposition, dust/smoke-obscured approach, political pressure from Chancellor Margdelain.",
+    "tactics": "Issue clear convoy C2 (command and control) orders, shift formation to single file for PID, prep personal rifle for immediate engagement.",
+    "relationships": [
+    {"with": "chase", "type": "mentor/guardian", "state": "worried but trusting his drive", "evidence": "“I half-raised him… Pray to God he’s still alive.”"},
+    {"with": "carson", "type": "colleague/subordinate", "state": "operational focus", "evidence": "Directs driving and formation changes."},
+    {"with": "chancellor-margdelain", "type": "reports-to", "state": "strained due to control over Chase", "evidence": "Acknowledges her dominance and its effect on Chase."}
+    ],
+    "emotional_arc": {
+    "start": "angry, anxious",
+    "turning_points": ["Spots smoke and shifts to crisp command mode", "Confirms Chase’s vehicle ahead"],
+    "end": "focused, battle-ready"
+    },
+    "notable_actions": ["issues contact/formation orders", "preps rifle for engagement", "manages convoy approach"],
+    "quotable_lines": [
+    "Contacts, dead ahead. Element leaders, ready gunners. Drivers, fall into single file… Watch for friendlies.",
+    "He may have advantages, but he’s not free to use them."
+    ]
+    },
+    {
+    "id": "carson",
+    "display_name": "Carson",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Drive fast to contact and help McTanner locate Chase.",
+    "obstacles": "Rubble-strewn terrain, dust, uncertain enemy locations.",
+    "tactics": "Maintain speed and observation; call out visual cues.",
+    "relationships": [
+    {"with": "master-mctanner", "type": "subordinate", "state": "respectful but candid", "evidence": "Challenges McTanner on Chase’s choices; follows orders."},
+    {"with": "chase", "type": "critical observer", "state": "skeptical of choices", "evidence": "Calls his actions ‘off the rails’."}
+    ],
+    "emotional_arc": {
+    "start": "irritated, skeptical",
+    "turning_points": ["Spots smoke", "IDs Chase’s TEG-2"],
+    "end": "alert, mission-focused"
+    },
+    "notable_actions": ["spots smoke plumes", "identifies Chase’s TEG-2"],
+    "quotable_lines": [
+    "Smoke.",
+    "Chase’s TEG-2."
+    ]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Unknown here; implied forward engagement.",
+    "obstacles": "Separated from TRG; potential contact with ravagers.",
+    "tactics": "Off-screen; vehicle located ahead.",
+    "relationships": [
+    {"with": "master-mctanner", "type": "mentee", "state": "rebellious but connected", "evidence": "McTanner: ‘I half-raised him.’"},
+    {"with": "chancellor-margdelain", "type": "adoptive mother", "state": "conflict over control", "evidence": "Discussion of her influence and his rebellion."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "chancellor-margdelain",
+    "display_name": "Chancellor Margdelain",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Politically align Fox River toward the Metrofederacy; maintain control.",
+    "obstacles": "Internal resistance; Chase’s defiance.",
+    "tactics": "Leverage authority over TRG leadership; tight control of opportunities.",
+    "relationships": [
+    {"with": "chase", "type": "parent/authority", "state": "controlling vs rebellious", "evidence": "‘Shoving him back in [her shadow].’"},
+    {"with": "master-mctanner", "type": "superior", "state": "constraining", "evidence": "McTanner acknowledges her control over him."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "teg-6",
+    "name": "TEG-6",
+    "category": "vehicle",
+    "capabilities": ["all-terrain traction", "convoy command platform"],
+    "owner_or_users": ["master-mctanner", "carson"],
+    "condition_or_state": "intact",
+    "scene_function": "Carries TRG command element to contact over rubble/dust."
+    },
+    {
+    "id": "teg-2",
+    "name": "TEG-2",
+    "category": "vehicle",
+    "capabilities": ["fast scout/runner"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "present ahead; status unknown",
+    "scene_function": "Confirms Chase’s forward position near engagement area."
+    },
+    {
+    "id": "trg-comms",
+    "name": "TRG convoy radio net",
+    "category": "comms",
+    "capabilities": ["element orders", "weapons control", "formation changes"],
+    "owner_or_users": ["master-mctanner", "trg"],
+    "condition_or_state": "active",
+    "scene_function": "McTanner issues contact/formation directives to prevent fratricide."
+    },
+    {
+    "id": "mctanner-rifle",
+    "name": "McTanner’s rifle with scope",
+    "category": "weapon",
+    "capabilities": ["precision mid/long-range fire"],
+    "owner_or_users": ["master-mctanner"],
+    "condition_or_state": "assembled and ready",
+    "scene_function": "Prepped for imminent engagement after cresting the hill."
+    }
+    ],
+    "locations": [
+    {
+    "id": "rubble-track-to-contact",
+    "name": "Rubble-strewn approach track",
+    "type": "wilderness",
+    "descriptors": ["dust billows", "rubble and broken terrain"],
+    "in_scene_events": ["TRG convoy races toward smoke columns."]
+    },
+    {
+    "id": "hill-crest-overwatch",
+    "name": "Hill crest near engagement zone",
+    "type": "wilderness",
+    "descriptors": ["cresting view", "pencil-thin smoke lines drifting west"],
+    "in_scene_events": ["Convoy shifts formation; Chase’s TEG-2 spotted."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "trg",
+    "name": "Tactical Response Group (Fox River)",
+    "alignment": "ally",
+    "agents_present": ["master-mctanner", "carson"],
+    "motives_inferred": "Relieve embattled friendlies and reestablish control.",
+    "actions_in_scene": ["Reconfigure formation; advance to contact under ROE caution."]
+    },
+    {
+    "id": "fox-river",
+    "name": "Fox River",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "City-state governance; political alignment debates.",
+    "actions_in_scene": []
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Regional power Chancellor seeks alignment with.",
+    "actions_in_scene": []
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Autonomy vs control", "Duty and command under pressure", "Found family/mentorship vs political power", "Risk management vs urgency"],
+    "motifs_symbols": ["pencil-thin smoke columns", "formation shift (V to single file)", "dust plumes", "mic slammed into cradle"],
+    "moral_questions": ["How far should command risk personnel to rescue a defiant subordinate?", "Do political ends justify controlling individual agency?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "tactical-cinematic",
+    "pacing": "brisk",
+    "voice_traits": ["gruff dialogue", "operational jargon", "focused urgency"],
+    "sensory_notes": ["console thud, fist slam", "rubble impacts through chassis", "dust and smoke in the air", "rifle parts clicking together"]
+    },
+    "causality": {
+    "prior_dependencies": ["Chase departed ahead, leaving his navigator; ongoing battle indicated by earlier scenes; political tension over Fox River’s Metrofederacy alignment."],
+    "outcomes": ["TRG shifts to single-file approach; McTanner prepares to engage; Chase’s TEG-2 confirmed near contact."],
+    "unanswered_questions": ["Is Chase alive and where exactly is he positioned relative to friendlies?", "What enemy strength/type lies beyond the crest?", "Will politics affect ROE or reinforcements?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["master-mctanner", "chancellor-margdelain"],
+    "trigger": "Control over Chase’s path and TRG latitude.",
+    "resolution": "Unresolved; tension frames the mission."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["trg", "ravagers (implied)"],
+    "trigger": "Smoke columns and battle sounds ahead indicate imminent contact.",
+    "resolution": "Unresolved at scene end."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["master-mctanner"],
+    "trigger": "Balancing paternal worry with command discipline.",
+    "resolution": "He channels emotion into crisp orders and preparation."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mild",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["parental control/manipulation", "impending armed conflict"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["McTanner", "Carson", "Chase", "TRG convoy", "TEG-6", "TEG-2 spotted", "formation single file", "smoke columns", "Fox River politics", "Metrofederacy"],
+    "keywords_dense": "Jebidiah McTanner, Carson, Chase, Chancellor Margdelain, TRG, Fox River, Metrofederacy, TEG-6, TEG-2, convoy command, smoke columns, formation change, single file, rules of engagement",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Jebidiah McTanner", "Carson", "Chase", "Chancellor Margdelain"],
+    "places": ["Fox River"],
+    "orgs": ["Tactical Response Group (TRG)", "Metrofederacy"],
+    "terms": ["TEG-6", "TEG-2", "V formation", "single file", "element leaders"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What formation does McTanner order for the approach?", "a": "He collapses the convoy from a V into single file for a close-in pass with positive ID."},
+    {"q": "What visual cue indicates proximity to the battle?", "a": "Multiple pencil-thin smoke columns drifting westward."},
+    {"q": "Whose vehicle do they spot near the engagement area?", "a": "Chase’s TEG-2."},
+    {"q": "What is Carson’s critique of the situation?", "a": "Chase is acting off the rails despite having many advantages, complicated by Margdelain’s control."},
+    {"q": "How does McTanner prepare personally for contact?", "a": "He assembles his rifle and mounts the scope while issuing convoy orders."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-10-12-wild-goose-chase-recap",
+    "type": "recap",
+    "text": "McTanner and Carson drive a TRG TEG-6 toward thin smoke columns marking an active battle where Chase has run ahead. As they bounce over rubble and dust, they argue about control and rebellion—Chase pushing for autonomy against Chancellor Margdelain’s influence. McTanner seizes the radio and orders element leaders to ready gunners, drivers to shift from V to single file for a close approach, and to hold fire until friendlies are confirmed. He assembles his rifle. Carson spots Chase’s TEG-2 near the engagement zone. The convoy crests a hill, poised to enter the fight with caution against fratricide."
+    },
+    {
+    "chunk_id": "2186-10-12-wild-goose-chase-entities",
+    "type": "entities_focus",
+    "text": "Key people: Jebidiah McTanner (TRG commander, POV), Carson (driver/second), Chase (forward scout, offscreen), Chancellor Margdelain (political authority, offscreen). Orgs: TRG (Fox River security), Fox River (city-state), Metrofederacy (regional power). Tech: TEG-6 convoy vehicle, TEG-2 scout, TRG radio net, McTanner’s scoped rifle. Locations: rubble-strewn approach track, hill crest with smoke columns. Actions: convoy formation change, contact orders, spotting Chase’s vehicle."
+    },
+    {
+    "chunk_id": "2186-10-12-wild-goose-chase-style-themes",
+    "type": "style_theme_focus",
+    "text": "Brisk, technical-cinematic 3rd-limited on McTanner emphasizes command voice, vehicle motion, and comms brevity. Sensory notes include console thuds, rubble impacts, dust/smoke, and rifle assembly clicks. Themes: autonomy vs control, duty under pressure, mentorship vs political authority, and risk-balanced tactics. Motifs: pencil-thin smoke lines, formation shift (V to single file), mic slammed into cradle."
+    }
+    ]
+    }

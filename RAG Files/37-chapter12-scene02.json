@@ -1,0 +1,280 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "chase-asks-mctanner-for-trg-apprenticeship",
+    "chapter_number": 12,
+    "scene_number": 2,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Morning after Chase’s confrontation with Chancellor Margdelain; set in Fox River’s TRG armory/office. Likely late Feb 2186 (inferred from adjacent scenes)."
+    },
+    "text_windows": {
+    "full_scene_clean": "Before he ever sat in the TEG-2, Chase had already made the real decision. The morning after confronting his mother, images of her control pressed on him as he walked to the TRG armory to see Master McTanner. Dropping the chin-up posture his mother taught him, he approached with open vulnerability. McTanner eyed him: “You’re here to cause me trouble, aren’t you?” Chase admitted he had told his mother he would not apprentice with the diplomatic corps and asked to start an apprenticeship with the TRG, under McTanner. McTanner frowned: the TRG was where kids with no options went; Chase was turning down a life handed to him. Chase replied he needed to find out who he was: “Do you know what it feels like to slowly disappear? … I’d like to find out while I still have the chance.” McTanner warned that the Chancellor was his boss and would pull strings; no favors would be allowed; this road would be harder than Chase thought. Chase insisted: he didn’t want guarantees, only a chance; he wanted to earn something, not have it handed to him. After a long look, McTanner sighed and shook his hand. He couldn’t promise anything but would call Chancellor Margdelain to explain the request. He cautioned Chase to keep his head down and return to his dorm: “This is far from over—it’s your mother we’re talking about.” Chase left with relief and a sense of purpose.",
+    "dense_recap_250w": "Reeling the morning after defying Chancellor Margdelain, his adoptive mother, Chase goes to the Fox River armory to speak with Master McTanner, head of the Tactical Response Group (TRG). Abandoning his mother’s coached bravado, he asks plainly to begin an apprenticeship with the TRG instead of the diplomatic career she arranged. McTanner is unsurprised but troubled: the TRG traditionally takes those without options, and Margdelain remains McTanner’s boss. He warns Chase that she will exert control, that no special treatment will be allowed, and that the path will be harder than Chase imagines. Chase explains his motive: he feels himself disappearing under others’ expectations and wants to earn an identity through the rigor and risk McTanner has taught him to respect. He does not ask for guarantees, only a chance. After a long appraisal, McTanner relents enough to act procedurally: he will call the Chancellor to explain the request but offers no promises. He advises Chase to keep a low profile and return to his dorm, reiterating that the situation is far from settled. The scene closes with a handshake, a stern warning, and Chase departing with relief and renewed purpose despite the looming influence of Margdelain over TRG command.",
+    "query_handle": "Chase petitions McTanner to join TRG; debates autonomy vs Margdelain’s control; gets a cautious procedural greenlight."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Approach without bravado",
+    "what_happens": "Chase goes to the TRG armory, drops political posturing, and asks to speak plainly.",
+    "involved_entities": ["chase", "master-mctanner", "trg"],
+    "stakes_or_conflict": "Admitting vulnerability to secure a path of his own."
+    },
+    {
+    "order": 2,
+    "label": "Refusal of diplomatic track",
+    "what_happens": "Chase states he told his mother he won’t apprentice with the diplomatic corps.",
+    "involved_entities": ["chase", "chancellor-margdelain"],
+    "stakes_or_conflict": "Defies the most powerful figure in his life."
+    },
+    {
+    "order": 3,
+    "label": "Request to join TRG",
+    "what_happens": "Chase asks McTanner to arrange a TRG apprenticeship.",
+    "involved_entities": ["chase", "master-mctanner", "trg"],
+    "stakes_or_conflict": "Personal identity vs institutional and maternal control."
+    },
+    {
+    "order": 4,
+    "label": "Warnings and conditions",
+    "what_happens": "McTanner warns Margdelain controls him, no favors will be given, the path is harsh.",
+    "involved_entities": ["master-mctanner", "chancellor-margdelain", "chase"],
+    "stakes_or_conflict": "Power dynamics threaten Chase’s autonomy."
+    },
+    {
+    "order": 5,
+    "label": "Reluctant handshake",
+    "what_happens": "McTanner agrees to call the Chancellor, tells Chase to keep his head down.",
+    "involved_entities": ["master-mctanner", "chase"],
+    "stakes_or_conflict": "Only a procedural opening; approval not guaranteed."
+    }
+    ],
+    "characters": [
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Secure a TRG apprenticeship under McTanner to earn his own path.",
+    "obstacles": "Mother’s political control over TRG; mentor’s reservations; no special treatment.",
+    "tactics": "Speak vulnerably and directly; frame request as identity and earned merit; accept hardship without guarantees.",
+    "relationships": [
+    {
+    "with": "master-mctanner",
+    "type": "mentor-superior",
+    "state": "respectful, candid",
+    "evidence": "“I wouldn’t be standing here if it wasn’t for you, sir.”"
+    },
+    {
+    "with": "chancellor-margdelain",
+    "type": "adoptive-mother / political superior",
+    "state": "tense, controlling",
+    "evidence": "Chase rejects her arranged diplomatic apprenticeship; fears her ‘hooks’ in McTanner."
+    }
+    ],
+    "emotional_arc": {
+    "start": "anxious, determined, vulnerable",
+    "turning_points": ["Admits refusal of diplomacy", "McTanner warns of Margdelain’s control", "Handshake and procedural step forward"],
+    "end": "relieved, purposeful, wary"
+    },
+    "notable_actions": ["states refusal of diplomatic corps", "requests TRG apprenticeship", "accepts no favors", "shakes McTanner’s hand", "leaves to lay low"],
+    "quotable_lines": [
+    "Do you know what it feels like to slowly disappear?",
+    "I may regret the circumstances, but I’ll never regret that I got to make the choice.",
+    "I just want to earn something — not have it handed to me."
+    ]
+    },
+    {
+    "id": "master-mctanner",
+    "display_name": "Master McTanner",
+    "aliases": ["McTanner"],
+    "role_in_scene": "major",
+    "goals_now": "Protect the unit and Chase; navigate the Chancellor’s authority; maintain standards.",
+    "obstacles": "Chancellor Margdelain’s control; ethical duty to treat Chase like any recruit.",
+    "tactics": "Sober warnings; deny favoritism; offer only procedural next steps; instruct discretion.",
+    "relationships": [
+    {
+    "with": "chase",
+    "type": "mentor-superior",
+    "state": "stern but supportive",
+    "evidence": "Relents to call the Chancellor; warns of hard road and no favors."
+    },
+    {
+    "with": "chancellor-margdelain",
+    "type": "subordinate to",
+    "state": "constrained",
+    "evidence": "“She’s my boss… she’s got her hooks in me.”"
+    }
+    ],
+    "emotional_arc": {
+    "start": "wary, resigned",
+    "turning_points": ["Hears Chase’s reasons", "Decides to call the Chancellor"],
+    "end": "guardedly cooperative"
+    },
+    "notable_actions": ["questions Chase’s choice", "outlines constraints", "shakes hands", "agrees to contact Chancellor", "orders Chase to keep his head down"],
+    "quotable_lines": [
+    "The TRG is where kids go when they don’t have anything else.",
+    "Nobody will be allowed to give you any [favors], either.",
+    "This is far from over — it’s your mother we’re talking about."
+    ]
+    },
+    {
+    "id": "chancellor-margdelain",
+    "display_name": "Chancellor Margdelain",
+    "aliases": ["Margdelain"],
+    "role_in_scene": "offstage reference",
+    "goals_now": "Place Chase in a diplomatic apprenticeship (implied prior); retain influence.",
+    "obstacles": "Chase’s refusal; McTanner’s limited autonomy.",
+    "tactics": "Exert hierarchical control over TRG (as McTanner’s boss).",
+    "relationships": [
+    {
+    "with": "chase",
+    "type": "adoptive mother",
+    "state": "controlling/strategic",
+    "evidence": "McTanner: “She’s my boss… she’ll pull the strings.”"
+    },
+    {
+    "with": "master-mctanner",
+    "type": "superior",
+    "state": "directive",
+    "evidence": "He frames her authority as limiting his ability to promise anything."
+    }
+    ],
+    "emotional_arc": {
+    "start": "",
+    "turning_points": [],
+    "end": ""
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "fox-river-armory-desk",
+    "name": "McTanner’s armory desk",
+    "category": "other",
+    "capabilities": ["workspace, command paperwork"],
+    "owner_or_users": ["master-mctanner"],
+    "condition_or_state": "intact",
+    "scene_function": "Setting focal point for the request and handshake."
+    },
+    {
+    "id": "caf-cup",
+    "name": "Cup of caf",
+    "category": "other",
+    "capabilities": ["stimulant beverage"],
+    "owner_or_users": ["master-mctanner"],
+    "condition_or_state": "in use",
+    "scene_function": "Grounds the scene in everyday realism within the armory office."
+    }
+    ],
+    "locations": [
+    {
+    "id": "fox-river-trg-armory",
+    "name": "Fox River TRG armory/office",
+    "type": "structure",
+    "descriptors": ["utilitarian", "wooden desktop", "command atmosphere", "quiet authority"],
+    "in_scene_events": ["Chase petitions McTanner; warnings and handshake; plan to contact the Chancellor."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "trg",
+    "name": "Tactical Response Group (TRG, “triggers”)",
+    "alignment": "ally",
+    "agents_present": ["master-mctanner", "chase"],
+    "motives_inferred": "Maintain readiness; uphold standards; avoid favoritism.",
+    "actions_in_scene": ["Considers a special-apprenticeship request under leadership constraints."]
+    },
+    {
+    "id": "fox-river-council",
+    "name": "Fox River Council / Chancellor’s office",
+    "alignment": "ally",
+    "agents_present": ["chancellor-margdelain"],
+    "motives_inferred": "Shape governance and elite career pipelines; manage internal power.",
+    "actions_in_scene": ["Exerts indirect control over TRG decisions (offstage)."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Self-determination vs parental/political control", "Earning merit vs inherited privilege", "Mentorship under constraint", "Identity formation under pressure"],
+    "motifs_symbols": ["handshake agreement", "armory desk as threshold", "dropped bravado vs authentic ask"],
+    "moral_questions": ["When does refusing privilege become a duty to oneself?", "How much control should a parent exert over an adult child’s path?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "character-driven, conversational",
+    "pacing": "slow-burn",
+    "voice_traits": ["introspective interiority", "direct dialogue", "mentor–student tension"],
+    "sensory_notes": ["ceramic cup of caf steaming", "wooden desktop under tapping fingers", "quiet weight of the armory office"]
+    },
+    "causality": {
+    "prior_dependencies": ["Chase’s prior confrontation with Chancellor Margdelain; lifelong mentorship under McTanner; prearranged diplomatic apprenticeship."],
+    "outcomes": ["McTanner will contact the Chancellor about the TRG apprenticeship request.", "Chase instructed to keep a low profile and await word.", "No special treatment; pathway remains uncertain."],
+    "unanswered_questions": ["Will Margdelain permit or sabotage the TRG apprenticeship?", "Can McTanner shield Chase from political strings?", "How will Chase fare without favors in TRG training?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["chase", "chancellor-margdelain"],
+    "trigger": "Chase rejects her diplomatic plan.",
+    "resolution": "Unresolved; she still holds institutional leverage."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["chase", "trg hierarchy under the Chancellor"],
+    "trigger": "Requesting entry where politics can dictate outcomes.",
+    "resolution": "Partial: procedural step (call) without promise."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["chase"],
+    "trigger": "Fear of disappearing under others’ expectations.",
+    "resolution": "Chooses harder path to earn identity."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["parental control", "nepotism/political influence"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Chase TRG apprenticeship request", "Master McTanner handshake", "Margdelain control over TRG", "Fox River armory conversation"],
+    "keywords_dense": "Chase, Master McTanner, Chancellor Margdelain, TRG, Tactical Response Group, Fox River, apprenticeship, mentorship, autonomy, political control, handshake, armory",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chase", "Master McTanner", "Chancellor Margdelain"],
+    "places": ["Fox River TRG armory"],
+    "orgs": ["Tactical Response Group (TRG)", "Fox River Council"],
+    "terms": ["triggers", "apprenticeship", "diplomatic corps", "caf"]
+    }
+    },
+    "qa_pairs": [
+    { "q": "What does Chase ask Master McTanner for?", "a": "To arrange an apprenticeship with the TRG." },
+    { "q": "Why does McTanner say he can’t promise anything?", "a": "Because Chancellor Margdelain is his boss and can pull strings; no favors will be allowed." },
+    { "q": "What reason does Chase give for rejecting the diplomatic corps?", "a": "He feels he’s disappearing under others’ expectations and wants to earn an identity." },
+    { "q": "What immediate next step does McTanner agree to?", "a": "He will call the Chancellor to explain Chase’s request." },
+    { "q": "What does McTanner tell Chase to do after their talk?", "a": "Return to his dorm, keep his head down, and wait for news." }
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "trg-ask-recap-1",
+    "type": "recap",
+    "text": "The morning after refusing his mother’s arranged diplomatic apprenticeship, Chase goes to the Fox River TRG armory to ask Master McTanner for a TRG apprenticeship. McTanner warns that Chancellor Margdelain—his boss—can still control outcomes and that no favors will be allowed; this path is harder than Chase thinks. Chase insists he wants to earn his life rather than have it handed to him. After a long assessment, McTanner agrees only to the next procedural step: he will call the Chancellor and get back to Chase. He instructs Chase to keep a low profile. Chase leaves with relief and renewed purpose, though approval remains uncertain."
+    },
+    {
+    "chunk_id": "trg-ask-entities-2",
+    "type": "entities_focus",
+    "text": "Actors: Chase (petitioning recruit), Master McTanner (TRG head/mentor), Chancellor Margdelain (adoptive mother and political superior). Orgs: TRG (“triggers”), Fox River Council. Setting: Fox River TRG armory/office with McTanner’s desk and caf cup. Relationships: Chase↔McTanner (mentor, stern support), McTanner↔Margdelain (subordinate), Chase↔Margdelain (adoptive mother exerting control)."
+    },
+    {
+    "chunk_id": "trg-ask-style-themes-3",
+    "type": "style_theme_focus",
+    "text": "Third-person limited past focused on Chase, dialogue-heavy and introspective. Themes: self-determination vs parental/political control; earning merit vs inherited privilege; mentorship under constraint. Motifs: dropped bravado, handshake as conditional pact, the armory desk as a threshold between paths."
+    }
+    ]
+    }

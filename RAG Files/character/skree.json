@@ -1,0 +1,160 @@
+{
+    "doc_type": "neon_titan_character_v1",
+    "source": {
+    "dossier_file": "Skree_dossier.md",
+    "scene_refs": []
+    },
+    "identity": {
+    "id": "skree",
+    "display_name": "Skree",
+    "aliases": [],
+    "mbti": "INTJ",
+    "age_bracket": "early-20s (biological); ~3 years chronological",
+    "gender": "female",
+    "origin": "Tahua Outpost; Balance Project Special Projects; Metrofederacy"
+    },
+    "affiliations": ["balance-party-special-projects", "fay", "cryodyne"],
+    "bio": {
+    "one_liner": "Engineered cryptographer and unwitting blacksite operator grown in simulation and controlled by Fay.",
+    "summary": "Skree is a cyber-savant cryptographer/decryption specialist created within a simulation and conditioned by Fay for deployment. Raised under Balance Party Special Projects (via Li Mei) and associated with Cryodyne in-sim, she was designed brilliant yet socially impaired, with anxiety loops and addiction-like regulation to inhibit dissent. She operates best in isolation, using AR hypermodding and intuitive overlays, and shows flashes of creative expression through AR art and music modulation. Physically slight and undernourished, she carries a subdermal access port and maintains an all-black, goth-coded kit of interface cables and gear. The dossier states that her simulated “escape” was an orchestrated deployment; Fay secretly removed her pod from Fox River to a warehouse in Broken Bow Free City and embedded a counterfeit ident chip. Skree is alive and active, though unaware of Fay’s authorship of her life.",
+    "narrative_gravity": 9
+    },
+    "personality": {
+    "traits": ["introverted", "analytical", "dissociative", "controlled", "latently-creative", "emotionally-muted"],
+    "flaws": ["engineered-social-impairment", "anxiety-loops", "addiction-like-regulation", "lack-of-real-world-experience", "manipulability"],
+    "values": ["internal-clarity", "structured-logic", "routine-and-order"],
+    "motivations_primary": ["complete-assigned-decryption-tasks", "avoid-chaos"],
+    "motivations_secondary": ["curiosity-for-different-life (suppressed)", "seek-connection (suppressed)"]
+    },
+    "appearance": {
+    "height_cm": 163,
+    "build": "slim, wiry, undernourished; slightly hunched posture",
+    "hair": "long straight black, mid-back length",
+    "eyes": "gray to dark brown (lighting-dependent), often unfocused",
+    "notable_marks": ["subdermal access port on lower abdomen", "dark circles under eyes"],
+    "style": "all-black goth: combat boots, ripped band tees, tight pants, fishnet sleeves; neckband concealing access port; black makeup"
+    },
+    "skills": {
+    "combat": [],
+    "technical": ["elite-cryptanalysis", "decryption", "ar-hypermodding", "gesture-driven-interfaceing", "subconscious-surveillance-signal-suspicion"],
+    "tactics": ["operates-in-isolation", "routine-and-clean-environment-discipline", "hesitates-to-confront-deception (programmed)"],
+    "limitations": ["no-formal-combat-training", "social-anxiety", "executive-dysfunction", "engineered-obedience-under-stress", "sensory-overload-risk"]
+    },
+    "relationships": [
+    {
+    "with": "fay",
+    "label": "creator/controller",
+    "state": "covert-control",
+    "notes": "Fay created and manipulates Skree; Skree is unaware Fay exists and that the escape was orchestrated."
+    },
+    {
+    "with": "li-mei",
+    "label": "handler (planned)",
+    "state": "unrealized",
+    "notes": "Li Mei intended to deploy Skree; their future interaction did not occur due to events in Fox River."
+    },
+    {
+    "with": "culpering",
+    "label": "contact/ally (in-simulation)",
+    "state": "trusted-in-sim",
+    "notes": "Provided work and escape instructions within the simulation environment."
+    }
+    ],
+    "arc": {
+    "status_now": "Alive; pod moved to a Broken Bow Free City warehouse before Fox River’s destruction and later activated; a counterfeit ident chip was embedded by Fay.",
+    "pre_pivot": "Grown and trained in a simulation as a controlled cryptographer under Balance Party Special Projects.",
+    "pivot_event": "orchestrated-simulated-attack-and-escape",
+    "post_pivot": "Physical extraction from Fox River; unconscious during transport; subsequently active in Broken Bow, still unaware of Fay’s full control.",
+    "future_vector": null
+    },
+    "items_and_tech": [
+    {
+    "id": "subdermal-access-port",
+    "name": "Subdermal access port",
+    "category": "cybernetics",
+    "capabilities": ["physical-data/power-interface", "direct-link-to-gear"],
+    "condition": "",
+    "notes": "Located on lower abdomen; typically concealed by a neckband and clothing."
+    },
+    {
+    "id": "counterfeit-ident-chip",
+    "name": "Counterfeit ident chip (embedded by Fay)",
+    "category": "cybernetics",
+    "capabilities": ["identity-spoofing", "authentication-misdirection"],
+    "condition": "",
+    "notes": "Purpose undisclosed; embedded without Li Mei’s knowledge."
+    },
+    {
+    "id": "cryptowitch-gear",
+    "name": "Cryptowitch interface cables and ports",
+    "category": "tool",
+    "capabilities": ["device-access", "data-bridge", "physical-interface"],
+    "condition": "meticulously maintained",
+    "notes": "Black cords, belts, and port-like accessories used as interfaces."
+    },
+    {
+    "id": "ar-interface-suite",
+    "name": "AR interface/overlay suite",
+    "category": "tool",
+    "capabilities": ["cognitive-overlays", "gesture-control", "ui-hypermodding"],
+    "condition": "limited in Broken Bow",
+    "notes": "AR overlays do not function in Broken Bow; aesthetic realized physically."
+    }
+    ],
+    "themes": {
+    "keywords": ["engineered-control", "simulation-vs-reality", "identity-manipulation", "isolation", "encryption", "obedience-vs-agency"],
+    "moral_tensions": ["free-will-vs-programming", "truth-vs-comfort", "use-of-persons-as-tools"]
+    },
+    "text_windows": {
+    "bio_200w": "Skree is an engineered cryptographer and unwitting blacksite operator created and conditioned within a simulation to excel at decryption while remaining compliant. She belongs to Balance Party Special Projects (via Li Mei) and is controlled by Fay, who designed social impairment, anxiety loops, and behavioral dependencies to suppress dissent. Skree’s strengths include elite cryptanalysis, AR hypermodding, and intuitive gesture-driven interfacing. She favors isolation, order, and clean routines, and expresses brief, suppressed creativity through AR art and music modulation. She is slim and undernourished, with a subdermal access port and meticulously maintained black gear that doubles as interface hardware. The dossier states her simulated escape was orchestrated; Fay secretly moved her pod from Fox River to a Broken Bow warehouse, embedded a counterfeit ident chip, and activated her weeks before the city’s destruction. Skree is alive but unaware of Fay’s authorship.",
+    "arc_200w": "Skree is grown in secrecy and trained entirely in-sim under Fay’s experimental conditioning, which engineers brilliance alongside obedience. Within the simulation, tasks and entertainment loops regulate her, and an attack on Cryodyne prompts a guided “escape” that is itself a deployment. The document clarifies that her in-sim self is not the physical reality: while the simulation ends, the real Skree is removed from Fox River in a sealed pod and relocated to Broken Bow Free City. She awakens there, with a counterfeit ident chip embedded by Fay and no knowledge of the manipulation or of Fay’s existence. Planned oversight by Li Mei does not materialize due to events in Fox River. The arc presented ends with Skree active in Broken Bow, alive and positioned as a controlled asset whose future trajectory has yet to be revealed.",
+    "skills_120w": "Skree’s capabilities center on elite cryptanalysis and decryption, with a neural architecture faster than AI at breaking encryption and manipulating vast data volumes. She hypermods interfaces with AR overlays and intuitive gestures and is developing subconscious suspicion of planted signals and compromised networks. Tactically she functions best in isolation with strict routines. Limitations include no real-world combat training, severe social anxiety, executive dysfunction, addiction-like regulation loops, and programmed hesitation to confront deception, leaving her vulnerable to manipulation.",
+    "appearance_120w": "Skree stands about 163 cm with a slim, wiry, undernourished build and a slight hunch from console work. She is very pale with dark circles, long straight black hair, and eyes that read gray to dark brown depending on light, often unfocused as she scans overlays. Her look is an all-black goth aesthetic—combat boots, ripped band tees, tight pants, fishnet sleeves—plus a neckband concealing a subdermal access port. In Broken Bow, where AR does not function, she manually applies black eyeliner and lipstick and relies on physical gear rather than projected elements.",
+    "relationships_180w": "Skree is covertly bound to Fay, her unseen creator and controller who engineered both her genius and her impairments; she does not know Fay exists. Li Mei is listed as her handler within Balance Party Special Projects, intending to deploy Skree, but their interaction never occurs due to the Fox River events. In-simulation, Culpering serves as a trusted contact who provides work and escape instructions, indicating some collaborative rapport within the virtual environment. These ties illustrate a closed system of control and mediation: a puppetmaster (Fay), an institutional handler (Li Mei) whose plan is interrupted, and a simulated ally (Culpering). The pattern underscores Skree’s vulnerability to direction and the absence of informed consent in her life, even as her technical power grows."
+    },
+    "qa_pairs": [
+    {"q": "Where was Skree created and by whom is she controlled?", "a": "She was grown and trained in a simulation tied to Balance Party Special Projects and is covertly controlled by Fay."},
+    {"q": "What is Skree’s current status and location?", "a": "Alive and active in Broken Bow Free City after Fay secretly moved and activated her pod before Fox River’s destruction."},
+    {"q": "What are Skree’s core competencies?", "a": "Elite cryptanalysis and decryption, AR hypermodding with gesture-driven interfaces, and emerging suspicion of compromised signals."},
+    {"q": "What cybernetic features or implants are noted?", "a": "A subdermal access port and a counterfeit ident chip embedded by Fay."},
+    {"q": "Why is Skree vulnerable to manipulation despite her brilliance?", "a": "Her social anxiety, executive dysfunction, addiction-like regulation, and programmed obedience were engineered to inhibit dissent."}
+    ],
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Skree", "cryptographer", "decryption specialist", "Balance Party Special Projects", "Fay", "Li Mei", "Culpering", "Cryodyne", "Broken Bow Free City", "subdermal access port", "counterfeit ident chip"],
+    "keywords_dense": "Skree, INTJ, cryptographer, decryption, Balance Party Special Projects, Fay, Li Mei, Culpering, Cryodyne, simulation, AR hypermodding, subdermal access port, counterfeit ident chip, Broken Bow Free City, Fox River",
+    "spoiler_level": "series_known",
+    "named_entities": {
+    "people": ["Skree", "Fay", "Li Mei", "Culpering"],
+    "places": ["Tahua Outpost", "Broken Bow Free City", "Fox River", "Metrofederacy"],
+    "orgs": ["Balance Party Special Projects", "Cryodyne"],
+    "terms": ["AR overlays", "cryptanalysis", "simulation", "subdermal access port", "counterfeit ident chip"]
+    }
+    },
+    "embedding_payloads": [
+    {
+    "chunk_id": "skree-1",
+    "type": "bio",
+    "text": "Skree is an engineered cryptographer and unwitting blacksite operator created in a simulation and conditioned to obey while excelling at decryption. She is linked to Balance Party Special Projects, controlled by Fay, and associated with Cryodyne in-sim."
+    },
+    {
+    "chunk_id": "skree-2",
+    "type": "arc",
+    "text": "Skree is deployed through an orchestrated simulated escape, physically removed from Fox River, and activated in Broken Bow Free City with a counterfeit ident chip embedded by Fay. She remains unaware of the manipulation guiding her life."
+    },
+    {
+    "chunk_id": "skree-3",
+    "type": "relationships",
+    "text": "Skree’s ties are defined by control: Fay as creator/controller, Li Mei as intended handler whose plan is interrupted, and Culpering as an in-simulation ally providing work and escape instructions."
+    },
+    {
+    "chunk_id": "skree-4",
+    "type": "skills_cybernetics",
+    "text": "Skree’s capabilities include elite cryptanalysis, decryption, AR hypermodding, and intuitive gesture interfaces; cybernetics include a subdermal access port and a counterfeit ident chip. Limitations are engineered social impairment and obedience."
+    },
+    {
+    "chunk_id": "skree-5",
+    "type": "appearance",
+    "text": "Skree is 163 cm, slim and undernourished, with long black hair, gray-to-brown eyes, and a goth aesthetic. She conceals a subdermal access port and carries black interface cables as part of her meticulously maintained gear."
+    }
+    ]
+    }

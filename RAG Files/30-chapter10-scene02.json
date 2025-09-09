@@ -1,0 +1,250 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Redline or Go Blind — Battery Swap",
+    "scene_id": "2186-10-12_battery-swap_trust-pact",
+    "chapter_number": 10,
+    "scene_number": 2,
+    "date_in_universe": "2186-10-12",
+    "absolute_timeline_notes": "Short halt during the southbound pursuit, a few hours after prior sprint; daytime, hot/windy grasslands."
+    },
+    "text_windows": {
+    "full_scene_clean": "Two hours later, the two-seater's power dipped—time for a battery swap. Quincy steered into a shallow depression cloaked in tall grass, a perfect spot to do the exchange and stretch their cramped legs. The air hung heavy, thick with the scent of parched earth and the faint, acrid smell of hot resin from the overworked electric motor. A gust of wind whipped through the tall grass, causing the tasseled tops of the dry, yellow weeds to ripple in waves.\n\"My ass is numb,\" Quincy grumbled, jumping out and arching her back with a satisfying groan.\n\"Feels like I've taken a beating,\" Demmy agreed, unfolding his stiff limbs from the cart.\nQuincy walked past, tracing a grimy finger along one of the cart's welds, then headed deeper into the grass. \"She's holding up well. Wish my bones felt the same,\" she mumbled, flexing her stiff shoulders.\nA few meters into the grass, Quincy found a good spot and squatted. A line of ants, segmented bodies gleaming a menacing red, marched in a line near the toes of her boots. Ignoring the prickly stalks poking her, she finished, pulled up her pants, and tied the cinch.\n\"Ground's swarming with these big red fuckers,\" Demmy warned, swatting at a cloud of gnats.\n\"Red ants,\" Quincy confirmed.\n\"Don't let them on you.\"\n\"Hell no. Let's get the batteries changed and scoot.\"\n\"I hate bugs,\" Demmy muttered. \"Been bitten... way too many times.\"\n\"I slept in tents my whole life,\" Quincy said, rummaging through her toolbox.\nDemmy's jaw clenched. \"No, you don't. There's no way you can truly get it. Quincy, your worst day was better than my best. We're not the same.\"\nAwkward seconds ticked by. Demmy looked to the horizon. \"You want to catch up to your caravan, I get that. But when we get there... what happens to me? Who's in charge of Three Shovels?\"\n\"The old man, Davian and his wife, Valorie.\"\n\"Will they let me join?\"\n\"Yeah, I'm pretty sure. They’ll take you in.\"\n\"But you're not certain.\"\n\"I'm not going to speak for Davian. We just lost a lot of good caravanners and will need able bodies. It's a safe assumption.\"\n\"Know what happens if they turn me away? I'm just a dirty skerv, maggot meat.\"\n\"That's not right! We've trusted each other… I have no intention of leaving you behind. And as a caravanner, my word means something.\"\n\"If caravanners are so trustworthy, explain Gavin.\"\nQuincy flinched. \"I'm not like him. When I see him next time, I'm going to kill him. But I swear, you can trust me. On my life, you can.\"\nThey stare each other down. Quincy asks why he hasn’t robbed her. Demmy admits he stayed to learn because she could make ravager carts work; now it feels real and he’s starting to believe. \"People like me can't afford friends… But I'm starting to feel like we could be friends.\"\n\"You're no skerv to me. You're a friend. If we make it to the caravan, they either take us both or neither of us. If they turn us away, we'll leave together and figure it out. That's a promise.\"\nDemmy frowns. \"My gut still warns me…\"\n\"If you come with me and give me your trust, you have an excellent chance. If you walk away, you have no chance at all. It's simple math. Pick one.\"\nHe nods. A fragile understanding settles. \"Sounds suspiciously like hope,\" Demmy mutters. \"Hope's a bitch when it's all you got.\"\n\"You've got more than hope. You have a friend.\"\nThey clasp hands. Quincy feels fear, then resolve: she will keep her promise. She thinks of Robyn and Davian, then kneels to finish the swap. Once the batteries are secured, they climb back in. Quincy floors the throttle toward the shimmering horizon.",
+    "dense_recap_250w": "Quincy and Demmy halt their ravager two-seater in a grassland depression to swap depleted batteries. Heat, wind, and the acrid smell of hot resin underscore fatigue as red ants and gnats crawl and swirl. The pause triggers a hard conversation: Demmy challenges Quincy’s ability to understand his life of deprivation and asks what happens to him if Three Shovels refuses him. Quincy cites Davian and Mama Valorie as leaders and says she’s “pretty sure” they’ll accept him after recent losses, but won’t guarantee it. Demmy, calling himself a “dirty skerv,” presses the risk; he also cites Gavin as proof caravanners can’t always be trusted. Quincy rejects the comparison, vows to kill Gavin when she sees him, and swears that Demmy can trust her. She offers a binding promise: if the caravan won’t take Demmy, she’ll leave with him and they’ll survive together. Demmy admits he first stayed to learn from her mechanical skill, but now he’s starting to believe—and to risk friendship. They seal a tentative pact with a handshake. Quincy, shaken by how far she’s committed and mindful of Robyn, finishes the battery change, and the pair drive on, recommitted to catching the caravan with Demmy’s future now tied to hers.",
+    "query_handle": "Battery swap in tall grass; Quincy promises Demmy both-or-neither with Three Shovels; resume pursuit."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Tactical halt",
+    "what_happens": "Power dips force a battery swap; they pull into a grassy depression to work and stretch.",
+    "involved_entities": ["quincy", "demmy", "two-seater-ravager-rig", "spare-batteries-pack"],
+    "stakes_or_conflict": "Maintain pursuit without exposing themselves."
+    },
+    {
+    "order": 2,
+    "label": "Class and trauma rift",
+    "what_happens": "Demmy asserts Quincy can’t grasp his hardship; tension rises amid insects and heat.",
+    "involved_entities": ["quincy", "demmy"],
+    "stakes_or_conflict": "Trust gap could fracture the partnership."
+    },
+    {
+    "order": 3,
+    "label": "Future with Three Shovels",
+    "what_happens": "Demmy demands clarity on joining the caravan; Quincy is confident but can’t guarantee.",
+    "involved_entities": ["quincy", "demmy", "three-shovels-caravan", "davian", "mama-valorie"],
+    "stakes_or_conflict": "If refused, Demmy faces abandonment and death."
+    },
+    {
+    "order": 4,
+    "label": "Oath and handshake",
+    "what_happens": "Quincy promises both-or-neither acceptance; Demmy admits he’s beginning to believe and risks friendship.",
+    "involved_entities": ["quincy", "demmy"],
+    "stakes_or_conflict": "Quincy binds herself to a risky promise that could cost her place and love."
+    },
+    {
+    "order": 5,
+    "label": "Back on the road",
+    "what_happens": "Battery swap finishes; they accelerate toward the horizon.",
+    "involved_entities": ["quincy", "demmy", "two-seater-ravager-rig"],
+    "stakes_or_conflict": "Pursuit continues under time and resource pressure."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Swap batteries quickly and resume pursuit of Three Shovels; secure Demmy’s safety and potential acceptance.",
+    "obstacles": "Mechanical fatigue, environmental heat/bugs, Demmy’s distrust, uncertainty about caravan admission.",
+    "tactics": "De-escalation and empathy, making a binding promise, technical efficiency on the swap, leadership-by-oath.",
+    "relationships": [
+    {"with": "demmy", "type": "ally/friend", "state": "forming-trust", "evidence": "Handshake after promise: \"You have a friend.\""},
+    {"with": "three-shovels-caravan", "type": "home/community", "state": "distant/uncertain reentry with outsider", "evidence": "Plans for acceptance; fears consequences of promise."},
+    {"with": "robyn", "type": "lover", "state": "offstage/motivating", "evidence": "Thinks of Robyn while weighing the cost of her promise."},
+    {"with": "davian", "type": "leader", "state": "respect/uncertainty", "evidence": "Won’t speak for him; expects need for mechanics."},
+    {"with": "mama-valorie", "type": "leader", "state": "tense/uncertain", "evidence": "Acknowledges Valorie’s authority alongside Davian."},
+    {"with": "gavin", "type": "rival/hostile", "state": "vengeful", "evidence": "When I see him next time, I'm going to kill him."}
+    ],
+    "emotional_arc": {
+    "start": "weary, task-focused",
+    "turning_points": ["Confronted by Demmy’s distrust and status fears", "Makes risky both-or-neither oath"],
+    "end": "anxious but resolute, recommitted to chase"
+    },
+    "notable_actions": ["guides vehicle into concealment", "performs battery swap", "promises to stand with Demmy", "resumes high-speed pursuit"],
+    "quotable_lines": [
+    "If we make it to the caravan, they either take us both or neither of us.",
+    "If you walk away, you have no chance at all. It’s simple math. Pick one."
+    ]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Survive the journey and secure acceptance into Three Shovels; avoid betrayal.",
+    "obstacles": "Stigma as a \"skerv\", leadership uncertainty, fear of friendship as liability.",
+    "tactics": "Direct confrontation, force clarity, test Quincy’s loyalty, accept a conditional pact.",
+    "relationships": [
+    {"with": "quincy", "type": "ally/friend", "state": "cautious-trust", "evidence": "Handshake after she vows both-or-neither."}
+    ],
+    "emotional_arc": {
+    "start": "defensive, bitter",
+    "turning_points": ["Challenges Quincy’s understanding and the caravan’s fairness", "Admits belief growing and risks friendship"],
+    "end": "tentatively trusting, focused on the chase"
+    },
+    "notable_actions": ["voices distrust and status risk", "tests Quincy with Gavin example", "accepts pact", "pushes to get moving"],
+    "quotable_lines": [
+    "Your worst day was better than my best.",
+    "Hope’s a bitch when it’s all you got."
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "two-seater-ravager-rig",
+    "name": "Two-seater ravager rig",
+    "category": "vehicle",
+    "capabilities": ["electric propulsion", "high-speed traverse", "short concealment profile"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "overworked motor; steering pull noted earlier; operational",
+    "scene_function": "Transport underpins the pursuit; necessitates battery swap."
+    },
+    {
+    "id": "spare-batteries-pack",
+    "name": "Spare battery pack",
+    "category": "other",
+    "capabilities": ["rapid swap energy store"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "charged from solar/generator; swapped successfully",
+    "scene_function": "Extends range; reason for tactical stop."
+    },
+    {
+    "id": "toolbox",
+    "name": "Toolbox",
+    "category": "tool",
+    "capabilities": ["stores hand tools for field repairs"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "intact",
+    "scene_function": "Provides tools for battery change and maintenance."
+    },
+    {
+    "id": "screwdriver",
+    "name": "Screwdriver",
+    "category": "tool",
+    "capabilities": ["open/secure battery box connectors"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "intact",
+    "scene_function": "Used to finish the swap before departure."
+    },
+    {
+    "id": "battery-box",
+    "name": "Battery box",
+    "category": "other",
+    "capabilities": ["houses packs; quick access"],
+    "owner_or_users": ["two-seater-ravager-rig"],
+    "condition_or_state": "serviceable",
+    "scene_function": "Interface for the swap operation."
+    }
+    ],
+    "locations": [
+    {
+    "id": "grassland-depression",
+    "name": "Tall-grass depression",
+    "type": "wilderness",
+    "descriptors": ["windy", "parched earth", "yellow weeds", "concealment", "ants and gnats present"],
+    "in_scene_events": ["Battery swap; tense conversation; pact formed."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Rebuild after losses; may accept capable newcomers.",
+    "actions_in_scene": ["Offstage; acceptance uncertainty drives the conflict."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Trust vs survival calculus", "Class and dignity under scarcity", "Promises and moral risk", "Hope versus realism", "Community gatekeeping"],
+    "motifs_symbols": ["red ants and gnats", "hot resin smell", "shimmering horizon", "handshake oath", "dice-risk memory"],
+    "moral_questions": ["Is it ethical to bind your fate to another with a promise you may not control?", "Can friendship exist where survival punishes attachment?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/lyrical/technical",
+    "pacing": "slow-burn within chase",
+    "voice_traits": ["mechanical detail", "raw candor", "survival pragmatism"],
+    "sensory_notes": ["acrid hot resin", "parched dust", "wind through tall grass", "insect crawl", "sun glare"]
+    },
+    "causality": {
+    "prior_dependencies": ["Ongoing pursuit in ravager rig; energy budget from prior solar/generator charging; history with Gavin; earlier ravager attack separating them from Three Shovels."],
+    "outcomes": ["Battery swap completed; pursuit resumes immediately", "Quincy pledges both-or-neither acceptance for Demmy", "Demmy moves from skepticism toward tentative trust", "Risk created: Quincy’s oath may conflict with her standing and love for Robyn"],
+    "unanswered_questions": ["Will Davian/Mama Valorie accept Demmy?", "Will Quincy honor the promise if acceptance is denied?", "Can they catch the caravan before resources or luck fail?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "demmy"],
+    "trigger": "Demmy challenges trust and prospects with the caravan; cites Gavin as counterexample.",
+    "resolution": "Tentative via Quincy’s both-or-neither oath and handshake; underlying risk persists."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Realizes the promise may jeopardize her home/relationship; fear vs duty.",
+    "resolution": "Chooses commitment; resumes pursuit despite doubt."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy", "demmy", "heat/bugs/mechanical wear"],
+    "trigger": "Depleted batteries; hot, buggy conditions.",
+    "resolution": "Perform quick swap and depart."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mild",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["class stigma ('skerv' slur)", "threats of lethal violence", "trauma allusions"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Demmy", "battery swap", "handshake oath", "Three Shovels acceptance", "trust vs survival", "grassland depression"],
+    "keywords_dense": "Quincy, Demmy, battery swap, ravager two-seater, tall grass depression, red ants, gnats, hot resin smell, trust pact, both-or-neither promise, Davian, Mama Valorie, Gavin, Three Shovels Caravan, pursuit resumes",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Demmy", "Davian", "Mama Valorie", "Gavin", "Robyn"],
+    "places": ["Tall-grass depression (wilderness)"],
+    "orgs": ["Three Shovels Caravan"],
+    "terms": ["skerv"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Why do Quincy and Demmy stop the vehicle?", "a": "To swap depleted batteries in a concealed tall-grass depression."},
+    {"q": "What promise does Quincy make to Demmy about joining the caravan?", "a": "If Three Shovels won’t take Demmy, she’ll leave with him—both or neither."},
+    {"q": "Who does Quincy say leads Three Shovels?", "a": "Davian and his wife, Mama Valorie (and the old man is mentioned)."},
+    {"q": "What insects and conditions underscore the scene’s discomfort?", "a": "Red ants and gnats amid heat, wind, and the acrid smell of hot resin."},
+    {"q": "Why does Demmy distrust caravanners?", "a": "He cites his status as a ‘skerv’ and uses Gavin as an example of untrustworthy behavior."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-10-12-batt-swap-recap",
+    "type": "recap",
+    "text": "During a hot, windy midday halt in a tall-grass depression, Quincy and Demmy swap batteries on their ravager two-seater. Amid red ants, gnats, and the acrid smell of an overworked motor, Demmy confronts Quincy about whether Three Shovels will accept him. Quincy can’t guarantee it but makes a risky oath: both-or-neither acceptance. Demmy admits he first stayed to learn from her mechanical skill but now believes—and risks friendship. They seal it with a handshake. Quincy, anxious about the cost to her home and to Robyn, finishes the swap, and they accelerate toward the shimmering horizon to resume the pursuit."
+    },
+    {
+    "chunk_id": "2186-10-12-batt-swap-entities",
+    "type": "entities_focus",
+    "text": "Actors: Quincy (mechanic/driver, POV), Demmy (ally, cautious outsider). Offstage mentions: Davian, Mama Valorie, Gavin, Robyn. Org: Three Shovels Caravan. Tech: ravager two-seater; spare battery pack; battery box; toolbox; screwdriver. Place: tall-grass depression (concealment). Key acts: battery swap; oath/handshake; departure. Stakes: Demmy’s acceptance vs Quincy’s standing/love; trust under scarcity."
+    },
+    {
+    "chunk_id": "2186-10-12-batt-swap-style-themes",
+    "type": "style_theme_focus",
+    "text": "Third-person limited past with gritty, sensory detail and technical texture; pacing slows for an emotional crossroads inside a chase. Themes: trust vs survival calculus; class stigma and dignity; promises that bind beyond one’s control; hope as risk. Motifs: insects (red ants, gnats), hot resin, wind through grass, the horizon, the handshake oath, echoes of past dice-rolling risk."
+    }
+    ]
+    }

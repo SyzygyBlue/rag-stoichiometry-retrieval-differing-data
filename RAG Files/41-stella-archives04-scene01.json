@@ -1,0 +1,284 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "A Neurochemical Romance",
+    "scene_id": "2170-06-03_neurochemical-romance_randy-fay",
+    "chapter_number": "Stella Archives 04",
+    "scene_number": "Scene 01",
+    "date_in_universe": "2170-06-03",
+    "absolute_timeline_notes": "Set ~16 years before 2186 events; urban Stella Metrofederacy context."
+    },
+    "text_windows": {
+    "full_scene_clean": "Randy and his girlfriend, Fay, stand in a holotainment center’s 3×3 m room, immersed in a tri-D world they built: riding a balloon through a gas giant’s upper atmosphere. Mist beads on their faces while megafauna with hydrogen bladders drift by. They focus on an olefin—long bladder, manta-like wings. Fay suggests a crenulated crest; she re-instantiates the model and edits while Randy adjusts coloring. The live scene morphs; they kiss. Fay’s passion is physics-realistic VR; Randy loves joining her and recalls her underwater holotank world that now requires scarce bookings. He’s just earned a second master’s (EE) after mechanics and started SAIR progress for a Ph.D., eager for independence. Fay, three months older, already holds a Ph.D. in neuroinformatics, specializing in corpus callosum mapping. She invites him to a couple’s pod; Stella, the civic system, has told her to spend more frivolous recreation time. They change clothes; Stella applies AR styling (his blue stripe; her yellow-green tea flowers). Opting to jog twelve blocks, they check exercise bars. As they run, Randy asks about her research; she steers him to his neuroject menu—the one she unlocked—and tells him to bump Q13 by 3%. He accepts the warning about SAIR impact and doses. A cocktail of dopamine, norepinephrine, oxytocin floods him; desire surges. Fay jokes and slaves his optics to her feed while she jogs backward; she teases, promising the pod is close. He asks if it’s safe; she says never go over three. They reach the automated facility, preregistered. Kissing in the elevator, they stumble into the assigned pod as the door whispers shut and noise cancellation clicks on.",
+    "dense_recap_250w": "In 2170 within the Stella Metrofederacy, Randy (19), an ambitious dual-master’s engineering student working toward SAIR requirements, and his equally young but further-advanced girlfriend Fay (Ph.D. neuroinformatics, corpus callosum specialist) co-create in a holotainment suite: a physics-rigorous gas-giant balloon world featuring an ‘olefin’ creature they modify in real time. Fay, mandated by Stella’s recreation policy, invites Randy to a couple’s pod twelve blocks away. After changing into AR-styled outfits, they jog, monitoring personal exercise bars. Fay directs Randy to his implanted neuroject interface she previously unlocked and has him increase Q13 by 3%, a blend including dopamine, norepinephrine, and oxytocin, despite a caution that overuse may affect his SAIR. The dose heightens arousal and bonding; Fay playfully slaves Randy’s optics to her view as she jogs backward, guiding him while teasing. He asks about safety; she warns never to exceed three. They arrive at a fully automated pod facility (pre-booked, no attendant), ride the elevator while kissing, and enter as noise cancellation engages. The scene establishes their techno-romance, Fay’s cutting-edge brain research, Stella’s pervasive governance (AR clothing, quotas, SAIR), and normalized neurochemical self-modulation in leisure and intimacy.",
+    "query_handle": "Randy & Fay co-edit VR creature; jog to automated couple’s pod; Fay has Randy dose neuroject Q13 (≤3%) amid Stella AR/SAIR rules."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Co-creation in VR",
+    "what_happens": "Randy and Fay refine an ‘olefin’ creature in a tri-D gas-giant scene and share a kiss.",
+    "involved_entities": ["randy", "fay", "holotainment-center", "olefin-model"],
+    "stakes_or_conflict": "Creative alignment and attraction; none overt."
+    },
+    {
+    "order": 2,
+    "label": "Invite to pod",
+    "what_happens": "Fay, under Stella’s recreation mandate, invites Randy to a couple’s pod.",
+    "involved_entities": ["randy", "fay", "stella-ai"],
+    "stakes_or_conflict": "Balancing SAIR/work with recreation and intimacy."
+    },
+    {
+    "order": 3,
+    "label": "Jog with AR styling",
+    "what_happens": "They change; Stella overlays AR clothes and they jog twelve blocks, tracking exercise bars.",
+    "involved_entities": ["randy", "fay", "stella-ai"],
+    "stakes_or_conflict": "Time/fitness vs schedule; playful tension."
+    },
+    {
+    "order": 4,
+    "label": "Neuroject Q13",
+    "what_happens": "Fay has Randy increase Q13 by 3%, spiking bonding and arousal; she slaves his optics while jogging backward.",
+    "involved_entities": ["randy", "fay", "neuroject-implant", "q13-program"],
+    "stakes_or_conflict": "Safety vs pleasure; subtle power dynamics."
+    },
+    {
+    "order": 5,
+    "label": "Automated arrival",
+    "what_happens": "Pre-registered pod opens; they enter as noise cancellation engages.",
+    "involved_entities": ["randy", "fay", "couples-pod-facility"],
+    "stakes_or_conflict": "Anticipation; boundary of private vs system-managed intimacy."
+    }
+    ],
+    "characters": [
+    {
+    "id": "randy",
+    "display_name": "Randy",
+    "aliases": ["Citizen 291874237"],
+    "role_in_scene": "POV",
+    "goals_now": "Enjoy time with Fay; support her creative work; indulge in recreation despite SAIR pressure.",
+    "obstacles": "SAIR warnings about neuroject use; self-consciousness; schedule demands.",
+    "tactics": "Defers to Fay’s expertise; doses Q13; accepts optics slaving; prioritizes relationship over work.",
+    "relationships": [
+    {"with": "fay", "type": "lover/partner", "state": "adoring, playful, trusting", "evidence": "Kisses; follows her Q13 guidance; joins her projects."},
+    {"with": "stella-ai", "type": "citizen vs system", "state": "compliant but wary", "evidence": "Acknowledges SAIR warning then proceeds."}
+    ],
+    "emotional_arc": {
+    "start": "awed, affectionate",
+    "turning_points": ["Q13 dose intensifies feelings", "Safety concern about dosing cap"],
+    "end": "aroused, committed to intimacy"
+    },
+    "notable_actions": ["edits VR coloration", "calculates SAIR impact", "doses Q13 to +3%", "accepts optics slaving", "chooses jogging over transpo"],
+    "quotable_lines": ["How’s your exercise bar?", "This feels... so good. Are you sure it’s safe?"]
+    },
+    {
+    "id": "fay",
+    "display_name": "Fay",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Pursue playful intimacy; balance Stella’s mandated recreation with workaholic habits.",
+    "obstacles": "System mandates; limited holotank access; time pressure from research.",
+    "tactics": "Guides Q13 dosing; slaving optics; playful teasing; prebooks automated pod.",
+    "relationships": [
+    {"with": "randy", "type": "lover/partner", "state": "mutual desire, mentor-ish", "evidence": "Unlocks his neuroject menu; directs Q13; invites to pod."},
+    {"with": "stella-ai", "type": "subject to policy", "state": "nudged by recreation requirement", "evidence": "Stella says I need more frivolous recreation time."}
+    ],
+    "emotional_arc": {
+    "start": "creative focus, mischievous",
+    "turning_points": ["Shifts from work to recreation", "Q13 instruction and teasing escalate mood"],
+    "end": "hungry, affectionate"
+    },
+    "notable_actions": ["re-instantiates and edits olefin model", "unlocks Randy’s neuroject menu", "directs Q13 +3%", "slaves optics", "pre-registers pod"],
+    "quotable_lines": ["Wanna come with me to a couple’s pod?", "Just never go over three.", "Stella says I need to spend more frivolous recreation time."]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "holotainment-center",
+    "name": "Holotainment center (3×3 m pod)",
+    "category": "other",
+    "capabilities": ["reactive floor (temp/air/moisture)", "tri-D scene rendering", "shared world editing"],
+    "owner_or_users": ["randy", "fay"],
+    "condition_or_state": "intact",
+    "scene_function": "Stage for co-creating gas-giant balloon simulation."
+    },
+    {
+    "id": "olefin-model",
+    "name": "Olefin megafauna VR model",
+    "category": "other",
+    "capabilities": ["physics-realistic morphing", "crest/texture/color edits"],
+    "owner_or_users": ["fay", "randy"],
+    "condition_or_state": "updated with crenulated crest",
+    "scene_function": "Demonstrates Fay’s scientific artistry and their collaboration."
+    },
+    {
+    "id": "holotank-underwater",
+    "name": "Underwater holotank (10 m cube)",
+    "category": "other",
+    "capabilities": ["full-body immersion", "breathing apparatus/goggles", "physics realism"],
+    "owner_or_users": ["fay", "citizens"],
+    "condition_or_state": "popular/overbooked",
+    "scene_function": "Backstory establishing Fay’s acclaimed work and scarcity."
+    },
+    {
+    "id": "neuroject-implant",
+    "name": "Neuroject implant",
+    "category": "cybernetics",
+    "capabilities": ["programmable neurochemical dosing", "Q-series profiles (e.g., Q13)"],
+    "owner_or_users": ["randy", "fay (expert user)"],
+    "condition_or_state": "functional; SAIR-monitored",
+    "scene_function": "Enables consensual mood/arousal modulation; raises safety/ethics."
+    },
+    {
+    "id": "q13-program",
+    "name": "Q13 neurochemical program",
+    "category": "medical",
+    "capabilities": ["mix of dopamine, norepinephrine, oxytocin, others", "dose capped (≤3% advised)"],
+    "owner_or_users": ["randy"],
+    "condition_or_state": "active (3% dose)",
+    "scene_function": "Catalyzes heightened bonding/arousal en route to the pod."
+    },
+    {
+    "id": "ar-styling",
+    "name": "Stella AR clothing overlay",
+    "category": "comms",
+    "capabilities": ["dynamic garment patterns", "public-space augmentation"],
+    "owner_or_users": ["randy", "fay"],
+    "condition_or_state": "active",
+    "scene_function": "Visualizes system presence (blue stripe; tea flowers)."
+    },
+    {
+    "id": "optics-slaving",
+    "name": "Optics slaving link",
+    "category": "comms",
+    "capabilities": ["share live field of view", "remote navigation while moving backward"],
+    "owner_or_users": ["fay", "randy"],
+    "condition_or_state": "active during jog",
+    "scene_function": "Playful guidance as Fay jogs backward."
+    },
+    {
+    "id": "couples-pod-facility",
+    "name": "Automated couple’s pod",
+    "category": "other",
+    "capabilities": ["preregistration", "auto-open", "noise cancellation"],
+    "owner_or_users": ["fay", "randy"],
+    "condition_or_state": "operational",
+    "scene_function": "Private destination enabling intimacy."
+    }
+    ],
+    "locations": [
+    {
+    "id": "stella-city-holocenter",
+    "name": "City holotainment center",
+    "type": "structure",
+    "descriptors": ["solid gray room", "reactive climate floor", "tri-D editing tools"],
+    "in_scene_events": ["VR co-creation; decision to seek a couple’s pod."]
+    },
+    {
+    "id": "stella-city-streets",
+    "name": "Urban streets (jog route)",
+    "type": "city",
+    "descriptors": ["twelve-block jog", "AR garments visible", "exercise bars in HUD"],
+    "in_scene_events": ["Q13 dosing; optics slaving; teasing jog."]
+    },
+    {
+    "id": "stella-city-couples-facility",
+    "name": "Automated couple’s pod facility",
+    "type": "structure",
+    "descriptors": ["no attendant", "elevator access", "noise cancellation"],
+    "in_scene_events": ["Arrival; entry into pod."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "stella-metrofederacy",
+    "name": "Stella Metrofederacy",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Technocratic governance emphasizing productivity, health, and regulated recreation.",
+    "actions_in_scene": ["provides holotainment/holotank access", "tracks SAIR", "enforces recreation quotas"]
+    },
+    {
+    "id": "stella-ai",
+    "name": "Stella (civic AI/system)",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Optimize citizen well-being and output; nudge behaviors.",
+    "actions_in_scene": ["applies AR styling", "logs neuroject warnings", "nudges Fay toward recreation"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["tech-mediated intimacy", "consent and control in neurochemistry", "work–life balance under algorithmic governance", "identity and achievement pressure"],
+    "motifs_symbols": ["opalescent mist and megafauna (wonder)", "AR garments as system imprint", "dose cap of ‘three’ as boundary", "exercise bars/gamified health"],
+    "moral_questions": ["When is engineered chemistry enhancing connection vs coercing it?", "How much should a civic system steer private life?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "techno-romantic/clinical detail",
+    "pacing": "brisk with intimate pauses",
+    "voice_traits": ["worldbuilding via interfaces", "sensory VR description", "playful banter"],
+    "sensory_notes": ["mist on skin", "reactive floor climate shifts", "visual AR flourishes", "neurochemical warmth/rush"]
+    },
+    "causality": {
+    "prior_dependencies": ["Fay previously unlocked Randy’s neuroject menu; her acclaimed underwater holotank exists and is popular."],
+    "outcomes": ["They engage Q13 at 3% and enter an automated couple’s pod; norm of consensual neurochem use is established; Stella’s soft governance is foregrounded."],
+    "unanswered_questions": ["What are long-term SAIR or health effects of Q13 use?", "How does Stella’s governance shape their future choices?", "Does Randy’s immigrant background affect access/opportunity later?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_system",
+    "parties": ["fay", "stella-ai"],
+    "trigger": "Stella mandates increased recreation time.",
+    "resolution": "Fay complies by scheduling a couple’s pod session."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["randy"],
+    "trigger": "Neuroject warning vs desire and trust in Fay.",
+    "resolution": "He doses Q13 to 3% and proceeds."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "present",
+    "sexual_content": "implied",
+    "sensitive_topics": ["neurochemical manipulation", "algorithmic nudging of behavior"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Randy", "Fay", "neuroject Q13", "Stella Metrofederacy", "AR styling", "holotainment center", "olefin creature", "corpus callosum mapping", "couple’s pod", "SAIR"],
+    "keywords_dense": "Randy, Fay, Stella, Metrofederacy, neuroject, Q13, dopamine, norepinephrine, oxytocin, SAIR, AR clothing, holotainment, holotank, VR creature design, optics slaving, couple’s pod, exercise bar",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Randy", "Fay"],
+    "places": [],
+    "orgs": ["Stella Metrofederacy", "Stella"],
+    "terms": ["olefin", "neuroject", "Q13", "SAIR", "AR styling", "tri-D", "corpus callosum", "optics slaving", "couple’s pod"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What dose does Fay tell Randy to set for Q13?", "a": "Three percent, with a warning to never go over three."},
+    {"q": "Which neurochemicals are explicitly named in Q13?", "a": "Dopamine, norepinephrine, and oxytocin (plus others)."},
+    {"q": "Why does Fay suggest going to a couple’s pod?", "a": "Stella mandated she spend more frivolous recreation time, and she wants to spend it with Randy. It is presumed they will have engage in sexual activity heighten by the neurochemicals to increase arousal and pleasure."},
+    {"q": "What VR creature do they modify together?", "a": "An ‘olefin’—a hydrogen-bladder megafauna with manta-like wings."},
+    {"q": "How does Fay run while facing Randy?", "a": "She jogs backward and slaves Randy’s optics to her view so she can see ahead."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2170-06-03-neurochem-recap",
+    "type": "recap",
+    "text": "Randy and Fay co-edit a physics-realistic VR scene in a holotainment pod, then decide to visit an automated couple’s pod per Stella’s recreation mandates. After AR outfit overlays, they jog twelve blocks, tracking exercise bars. Fay, a neuroinformatics prodigy, has Randy raise his neuroject program Q13 to 3% (dopamine, norepinephrine, oxytocin), despite a SAIR caution. The dose heightens arousal and bonding as Fay playfully slaves Randy’s optics and guides him. They arrive, kiss in the elevator, and enter the noise-canceled pod. The scene foregrounds tech-mediated intimacy, normalized neurochem modulation, and Stella’s algorithmic governance."
+    },
+    {
+    "chunk_id": "2170-06-03-neurochem-entities",
+    "type": "entities_focus",
+    "text": "Characters: Randy (19, dual-master’s engineer; SAIR-tracked), Fay (19, Ph.D. neuroinformatics; corpus callosum specialist). Orgs/Systems: Stella Metrofederacy; Stella civic AI (AR, SAIR, recreation nudges). Tech: holotainment center, underwater holotank, neuroject implant with Q13, AR styling, optics slaving, automated couple’s pod. Objects: olefin VR creature. Locations: city holocenter; urban streets; couple’s facility. Actions: VR co-creation, dosing Q13, jogging with AR, entering automated pod."
+    },
+    {
+    "chunk_id": "2170-06-03-neurochem-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-limited past tense with techno-romantic register: lush VR imagery (opalescent mist, gas-giant fauna) mixed with interface minutiae (SAIR, Q13). Themes: tech-mediated intimacy, consent and control in neurochemistry, algorithmic governance of leisure, youthful ambition and pride. Motifs: AR garments as system imprint, ‘never over three’ dose boundary, exercise bars as gamified health, automated privacy in couple’s pods."
+    }
+    ]
+    }

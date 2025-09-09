@@ -1,0 +1,321 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "faraday-negotiation-06sep2182",
+    "chapter_number": null,
+    "scene_number": null,
+    "date_in_universe": "2182-09-06",
+    "absolute_timeline_notes": "Flashback set four years before the Fox River events; EM-shielded meeting at Humanity Party HQ above Jinbar Falls (Semien Gondar Zone) with Stella disconnected."
+    },
+    "text_windows": {
+    "full_scene_clean": "In an electromagnetically shielded conference room at the Humanity Party Headquarters above Jinbar Falls, Cervantes Adlawan (Industry Party chair) sat with Romuald Anwar (Teragen CEO) while Giles Montague (Humanity Party chair) arrived. With PIDs dead and no sensors present, they debated the Metrofederacy’s immigration paralysis and the accelerating die-off outside its walls. Adlawan defended slow, risk-averse stewardship of the Stella AI for the sake of two billion citizens; Montague pressed the moral cost—tens of thousands dying daily—and demanded a plan to induct up to a billion new citizens per rules cycle. Romuald argued Stella could not scale safely without vast human behavior auditors to train and supervise models. Montague floated leverage (recreation allowances) and Balance-Party votes, then steered a “thought experiment”: procure ~100,000 culturally diverse human reviewers, but—if they were compulsively motivated via neurochemical ‘neuroject’ hacks (attributed to Li Mei)—fewer might suffice by working sixteen hours daily. Adlawan called it monstrous but admitted it would produce the labor. Montague countered that letting a billion die was worse and hinted at sealing a rule under Article 18 privilege if a Balance executive co-signed. Romuald was aghast; Adlawan warned Balance would crush their SAIRs. Montague insisted the discussion was not hypothetical and that Romuald would implement delivery if it proceeded. The Faraday cage’s secrecy underscored the gravity: they were weighing coercive means to save lives versus preserving ethical and technical order.",
+    "dense_recap_250w": "In a Faraday-caged room at Humanity Party HQ, Giles Montague meets Industry Chair Cervantes Adlawan and Teragen CEO Romuald Anwar with Stella communications purposely severed. Montague castigates Industry’s caution for enabling mass death outside the Metrofederacy, arguing for immediate, massive citizenship waves—up to a billion people per rules cycle. Adlawan defends the duty to protect core Stella AI stability for existing citizens, recounting history (attacks spurred by the ‘Eat the Metrofederacy’ slogan and the first civilian collapse) as rationale for restraint. Romuald says scale is limited by the need for many human behavior auditors to supervise and train Stella on diverse cultures and signals. Montague offers political leverage (exotic recreation allowances) and Balance Party defections, then tests a darker ‘thought experiment’: compel wildlanders into auditing by using neurochemical ‘neuroject’ hacks (referencing Li Mei’s work), allowing relentless sixteen-hour shifts to bootstrap Stella until automation improves. Adlawan calls the idea monstrous yet acknowledges its feasibility; Montague argues the real monstrosity is letting millions die. He suggests hiding authorizations under Article 18 privilege, provided a Balance executive signs. Romuald is horrified, while Adlawan doubts Balance would permit it without punitive SAIR consequences. The scene ends with Montague implying the plan is already in motion and that Romuald would be tasked with implementation, laying bare a choice between coercive salvation and ethical governance.",
+    "query_handle": "Faraday-caged negotiation: Humanity vs Industry debate mass immigration; proposal to coerce neurochem auditors for Stella; Article 18 leverage."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Sealed-room opening",
+    "what_happens": "In a sensorless Faraday room, leaders meet without Stella connectivity.",
+    "involved_entities": ["giles-montague", "cervantes-adlawan", "romuald-anwar", "humanity-party-hq-faraday-room"],
+    "stakes_or_conflict": "Secrecy to discuss extra-legal policy."
+    },
+    {
+    "order": 2,
+    "label": "Moral indictment",
+    "what_happens": "Montague condemns Industry’s caution amid mass death beyond the Metrofederacy.",
+    "involved_entities": ["giles-montague", "cervantes-adlawan"],
+    "stakes_or_conflict": "Ethics vs stability; urgency vs risk."
+    },
+    {
+    "order": 3,
+    "label": "Scale constraint",
+    "what_happens": "Romuald explains auditing bottlenecks to scale Stella for massive immigration.",
+    "involved_entities": ["romuald-anwar", "stella-ai"],
+    "stakes_or_conflict": "Technical feasibility vs humanitarian demand."
+    },
+    {
+    "order": 4,
+    "label": "Coercive proposal",
+    "what_happens": "Montague proposes using neuroject hacks to compel wildlanders into 16-hour auditing shifts.",
+    "involved_entities": ["giles-montague", "cervantes-adlawan", "romuald-anwar", "neuroject-hacks-li-mei"],
+    "stakes_or_conflict": "Utilitarian calculus vs human rights."
+    },
+    {
+    "order": 5,
+    "label": "Rule-shield gambit",
+    "what_happens": "Article 18 privilege and Balance votes are floated to hide or pass the plan.",
+    "involved_entities": ["giles-montague", "balance-party", "article-18-privilege"],
+    "stakes_or_conflict": "Political cover vs institutional backlash."
+    }
+    ],
+    "characters": [
+    {
+    "id": "giles-montague",
+    "display_name": "Giles Montague",
+    "aliases": ["Chairman Montague"],
+    "role_in_scene": "major",
+    "goals_now": "Force policy change to admit massive numbers of wildlanders into the Metrofederacy quickly.",
+    "obstacles": "Industry’s risk aversion; Balance Party gatekeeping; technical scaling limits; moral and legal constraints.",
+    "tactics": "Moral pressure, political bargaining (recreation allowances), secret venue, proposing Article 18 privilege, reframing as lesser-evils choice.",
+    "relationships": [
+    {"with": "cervantes-adlawan", "type": "rivals", "state": "adversarial", "evidence": "He calls out Industry’s inaction; Adlawan labels his plan absurd/monstrous."},
+    {"with": "romuald-anwar", "type": "political-ally-of-convenience", "state": "pressuring", "evidence": "Declares Romuald would implement the solution."}
+    ],
+    "emotional_arc": {
+    "start": "compassionate, frustrated",
+    "turning_points": ["Shifts from moral plea to concrete coercive ‘thought experiment’.", "Signals plan may proceed under Article 18."],
+    "end": "grimly resolved"
+    },
+    "notable_actions": ["demands billion-per-cycle admissions", "proposes coerced auditing via neuroject hacks", "suggests Article 18 sealing"],
+    "quotable_lines": [
+    "If I can save a billion people at the cost of a hundred thousand, I’ll pay the price.",
+    "We’re in an EM-sealed Faraday cage for a reason."
+    ]
+    },
+    {
+    "id": "cervantes-adlawan",
+    "display_name": "Cervantes Adlawan",
+    "aliases": ["Industry Chairman"],
+    "role_in_scene": "major",
+    "goals_now": "Preserve Stella AI stability and prioritize current citizens; block risky humanitarian expansions.",
+    "obstacles": "Public morality arguments, Humanity’s bargaining chips, Balance defections.",
+    "tactics": "Institutional doctrine, historical precedent, political blocking, casting proposal as unethical and unpassable.",
+    "relationships": [
+    {"with": "giles-montague", "type": "rivals", "state": "contemptuous", "evidence": "Calls the plan ridiculous and monstrous; prioritizes core code stability."},
+    {"with": "romuald-anwar", "type": "ally/subordinate", "state": "guiding", "evidence": "Calms Romuald; frames Balance consequences and SAIR risks."}
+    ],
+    "emotional_arc": {
+    "start": "unconcerned, defensive",
+    "turning_points": ["Recognizes Article 18 possibility but dismisses feasibility."],
+    "end": "weary, resistant"
+    },
+    "notable_actions": ["rejects responsibility for outsiders", "warns of Balance/SAIR backlash", "acknowledges feasibility of coercion while condemning it"],
+    "quotable_lines": [
+    "We won’t risk the stability of core Stella AI code.",
+    "That’s monstrous."
+    ]
+    },
+    {
+    "id": "romuald-anwar",
+    "display_name": "Romuald Anwar",
+    "aliases": ["Teragen CEO"],
+    "role_in_scene": "major",
+    "goals_now": "Protect technical integrity of Stella expansion; avoid unethical implementations.",
+    "obstacles": "Political pressure, humanitarian urgency, proposed coercive methods.",
+    "tactics": "Technical constraints framing, scaling math, pushing back on non-volunteer labor idea.",
+    "relationships": [
+    {"with": "cervantes-adlawan", "type": "ally", "state": "deferential", "evidence": "Echoes Industry constraints; looks to Adlawan for cues."},
+    {"with": "giles-montague", "type": "tense counterpart", "state": "alarmed", "evidence": "Calls the coercive proposal impossible/unacceptable."}
+    ],
+    "emotional_arc": {
+    "start": "nervous, cautious",
+    "turning_points": ["Pressed to provide auditor estimates; hears coercion plan."],
+    "end": "aghast, resistant"
+    },
+    "notable_actions": ["estimates ~100k diverse auditors needed initially", "rejects 16-hour forced work premise"],
+    "quotable_lines": [
+    "Stella can’t possibly support a billion new citizens.",
+    "That’s not possible. Nobody could do that."
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "faraday-conference-room",
+    "name": "EM-shielded Faraday conference room",
+    "category": "other",
+    "capabilities": ["blocks all EM signals", "prevents Stella connectivity", "sensorless deliberation"],
+    "owner_or_users": ["humanity-party"],
+    "condition_or_state": "operational",
+    "scene_function": "Ensures secrecy for extra-legal policy discussion."
+    },
+    {
+    "id": "pid-personal-interface",
+    "name": "PID (personal interface device)",
+    "category": "comms",
+    "capabilities": ["access to Stella, profiles, comms"],
+    "owner_or_users": ["romuald-anwar", "cervantes-adlawan", "giles-montague"],
+    "condition_or_state": "no-signal",
+    "scene_function": "Shows isolation from Stella: ‘NO SIGNAL’."
+    },
+    {
+    "id": "stella-ai",
+    "name": "Stella AI",
+    "category": "other",
+    "capabilities": ["governance", "population management", "behavioral oversight"],
+    "owner_or_users": ["metrofederacy"],
+    "condition_or_state": "stable; capacity-limited",
+    "scene_function": "Central system whose scaling and ethics are debated."
+    },
+    {
+    "id": "neuroject-hacks-li-mei",
+    "name": "Neuroject hacks (Li Mei’s method)",
+    "category": "medical",
+    "capabilities": ["alter neurochemistry", "compel task fixation"],
+    "owner_or_users": [],
+    "condition_or_state": "referenced concept",
+    "scene_function": "Proposed means to coerce massive auditing labor."
+    },
+    {
+    "id": "article-18-privilege",
+    "name": "Article 18 privilege",
+    "category": "other",
+    "capabilities": ["seal rules", "restrict disclosure with Balance sign-off"],
+    "owner_or_users": ["balance-party"],
+    "condition_or_state": "available (unused for decades)",
+    "scene_function": "Suggested legal cover to hide controversial policy."
+    },
+    {
+    "id": "sair-score",
+    "name": "SAIR (Stella accountability/impact rating)",
+    "category": "other",
+    "capabilities": ["career sanctioning", "behavioral accountability"],
+    "owner_or_users": ["metrofederacy-citizens"],
+    "condition_or_state": "active",
+    "scene_function": "Threat used to deter proposing unethical rules."
+    }
+    ],
+    "locations": [
+    {
+    "id": "humanity-party-hq-faraday-room",
+    "name": "Humanity Party HQ Faraday conference room",
+    "type": "structure",
+    "descriptors": ["concrete benches and table", "damp", "cleanser smell", "no electronics", "caf and pastries"],
+    "in_scene_events": ["Secret tripartite negotiation about scaling immigration and coerced auditors."]
+    },
+    {
+    "id": "jinbar-falls-complex",
+    "name": "Headquarters above Jinbar Falls, Semien Gondar Zone (Geech Abyss rim)",
+    "type": "city",
+    "descriptors": ["breathtaking overlook", "office spaces above", "tracker display upstairs (referenced)"],
+    "in_scene_events": ["Holographic population tracker referenced as moral pressure (offroom)."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "humanity-party",
+    "name": "Humanity Party",
+    "alignment": "unknown",
+    "agents_present": ["giles-montague"],
+    "motives_inferred": "Maximize human survival by rapidly expanding citizenship.",
+    "actions_in_scene": ["Hosts secret meeting", "offers political trades", "floats coercive auditor plan"]
+    },
+    {
+    "id": "industry-party",
+    "name": "Industry Party",
+    "alignment": "unknown",
+    "agents_present": ["cervantes-adlawan", "romuald-anwar"],
+    "motives_inferred": "Protect Stella AI stability; prioritize current citizens.",
+    "actions_in_scene": ["Resists rapid expansion", "warns of Balance/SAIR consequences"]
+    },
+    {
+    "id": "balance-party",
+    "name": "Balance Party",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Maintain proportionality and operational equilibrium of Stella.",
+    "actions_in_scene": ["Referenced as veto/approval gate; potential Article 18 signatory"]
+    },
+    {
+    "id": "teragen",
+    "name": "Teragen",
+    "alignment": "unknown",
+    "agents_present": ["romuald-anwar"],
+    "motives_inferred": "Deliver technical solutions for Stella scaling without destabilization.",
+    "actions_in_scene": ["Quantifies auditor needs; rejects coercion"]
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Govern two billion citizens via Stella; cautious growth.",
+    "actions_in_scene": ["Referenced context for governance, walls, self-healing tech"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["utilitarianism vs human rights", "security vs compassion", "power operating in secrecy", "technology governance", "ends and means"],
+    "motifs_symbols": ["Faraday silence", "population counter upstairs", "concrete austerity vs opulence above", "caf and pastries amid grim choices"],
+    "moral_questions": ["Is coercive neurochemical labor justified to save vastly more lives?", "What obligations do insulated societies owe to those outside their walls?", "Can secrecy ever legitimize extraordinary rulemaking?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "omniscient",
+    "tense": "past",
+    "register": "political/technical with ethical debate",
+    "pacing": "slow-burn",
+    "voice_traits": ["policy dialectic", "historical framing", "clinical detail against moral heat"],
+    "sensory_notes": ["damp concrete and cleanser", "EM silence (NO SIGNAL)", "soft rattle of vents", "clink of china", "distant grandeur of falls (implied)"]
+    },
+    "causality": {
+    "prior_dependencies": ["Centennial of the Metrofederacy; prior global ‘Eat the Metrofederacy’ assaults; first civilian collapse; self-healing wall tech; immigration bottlenecks; Li Mei’s neuroject research (referenced)."],
+    "outcomes": ["Coercive auditor concept and Article 18 sealing are placed on the table; Montague signals intent; Romuald flagged as potential implementer; leverage via recreation allowances discussed."],
+    "unanswered_questions": ["Will a Balance executive authorize Article 18 sealing?", "Will coerced auditing be implemented and at what human cost?", "How would SAIR enforcement respond to such a rule?", "Who is Li Mei in relation to Balance and how did Humanity access the hack?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["giles-montague", "cervantes-adlawan"],
+    "trigger": "Demand for mass admissions vs insistence on AI stability and citizen-first duty.",
+    "resolution": "Unresolved; sharp rhetorical clash."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["giles-montague", "balance-party/stella-governance"],
+    "trigger": "Need to bypass/hide rules via Article 18 and Balance sign-off.",
+    "resolution": "Unresolved; path identified but blocked by politics."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["romuald-anwar"],
+    "trigger": "Asked to quantify and potentially implement an unethical scaling plan.",
+    "resolution": "Rejects coercion conceptually; remains pressured."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mentioned",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["coercion/forced labor via neurochemistry", "mass death/famine", "religious radicalization", "state secrecy"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Giles Montague", "Cervantes Adlawan", "Romuald Anwar", "Faraday meeting", "Article 18", "Li Mei neuroject hacks", "behavior auditors", "Stella AI", "Metrofederacy parties"],
+    "keywords_dense": "Faraday cage meeting, Humanity Party, Industry Party, Balance Party, Stella AI, Metrofederacy, immigration scaling, behavior auditors, SAIR, recreation allowances, Article 18 privilege, Li Mei neuroject hacks, coerced labor, Jinbar Falls, Geech Abyss, Semien Gondar Zone",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Giles Montague", "Cervantes Adlawan", "Romuald Anwar", "Li Mei"],
+    "places": ["Humanity Party HQ", "Jinbar Falls", "Semien Gondar Zone", "Geech Abyss"],
+    "orgs": ["Humanity Party", "Industry Party", "Balance Party", "Teragen", "Metrofederacy", "Stella AI"],
+    "terms": ["PID", "SAIR", "Article 18 privilege", "behavior auditors", "neuroject hacks", "self-healing nanotech walls", "recreation allowances", "Eat the Metrofederacy"]
+    }
+    },
+    "qa_pairs": [
+    {
+    "q": "What controversial solution does Giles Montague propose to obtain enough behavior auditors to scale Stella for mass immigration?",
+    "a": "Using neurochemical ‘neuroject’ hacks to coerce wildlanders into auditing Stella footage for very long shifts."
+    },
+    {
+    "q": "Why is the meeting held in an electromagnetically shielded room?",
+    "a": "To cut off Stella and all sensors, ensuring secrecy for discussing extra-legal policy options like Article 18 and coercive labor."
+    }
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "faraday-negotiation-2182-recap",
+    "type": "recap",
+    "text": "In a Faraday-caged room at Humanity Party HQ above Jinbar Falls, Humanity’s Giles Montague confronts Industry’s Cervantes Adlawan and Teragen’s Romuald Anwar about mass deaths outside the Metrofederacy. He demands billion-per-cycle citizenship surges, but Romuald cites auditing bottlenecks for Stella. Montague proposes a coercive fix: use neuroject hacks to compel wildlanders to audit behavior video for extreme hours, then hide authorization under Article 18 privilege with a Balance sign-off. Adlawan decries the idea as monstrous yet feasible; Romuald is horrified. The meeting’s secrecy underlines a stark tradeoff: coerced salvation versus ethical and technical order."
+    },
+    {
+    "chunk_id": "faraday-negotiation-2182-entities",
+    "type": "entities_focus",
+    "text": "Actors: Giles Montague (Humanity chair), Cervantes Adlawan (Industry chair), Romuald Anwar (Teragen CEO). Orgs: Humanity, Industry, Balance Parties; Metrofederacy; Stella AI; Teragen. Tech/terms: Faraday room (EM shield), PID ‘NO SIGNAL’, behavior auditors, SAIR, recreation allowances, Article 18 privilege, neuroject hacks (Li Mei), self-healing walls. Places: Humanity HQ above Jinbar Falls, Semien Gondar Zone on Geech Abyss. Roles: Montague pushes rapid citizenship via coerced auditing; Adlawan defends stability; Romuald quantifies and resists."
+    },
+    {
+    "chunk_id": "faraday-negotiation-2182-style-theme",
+    "type": "style_theme_focus",
+    "text": "Omniscient past-tense, policy-dialectic tone set in austere sensory detail (cold concrete, cleanser, caf) under EM silence. Themes: utilitarianism vs rights, secrecy in governance, technological capacity vs moral duty, ends vs means. Motifs: Faraday silence, population ticker, pastries amid grim calculus. Moral questions: Is coercion justified to save far more lives? What is owed beyond fortified walls? Can hidden rules ever be legitimate?"
+    }
+    ]
+    }

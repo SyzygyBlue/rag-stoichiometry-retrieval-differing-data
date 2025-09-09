@@ -1,0 +1,217 @@
+{
+  "doc_type": "neon_titan_character_v1",
+  "source": {
+    "dossier_file": "randy_dossier.md",
+    "scene_refs": []
+  },
+  "identity": {
+    "id": "randy",
+    "display_name": "Randy",
+    "aliases": [],
+    "mbti": "ENTP",
+    "age_bracket": "teen",
+    "gender": "male",
+    "origin": "Immigrant family to the Metrofederacy"
+  },
+  "affiliations": [
+    "metrofederacy",
+    "education-centers"
+  ],
+  "bio": {
+    "one_liner": "Engineering prodigy of the immigrant family, whose meteoric rise and tragic death reshape Shelly\u2019s destiny.",
+    "summary": "Randy, son of Lucas and Michelle and older brother of Shelly, embodies the promise and peril of Stella\u2019s system. A gifted student, he earns dual master\u2019s degrees in mechanical and electrical engineering by 17 while preparing for a Ph.D. His intense curiosity and drive for mastery make him both a symbol of Metrofederacy achievement and vulnerable to manipulation, particularly through his relationship with Fay. Randy\u2019s death becomes the central trauma that galvanizes Shelly\u2019s forensic crusade and reframes Stella\u2019s ethical failures.",
+    "narrative_gravity": 7
+  },
+  "personality": {
+    "traits": [
+      "curious",
+      "industrious",
+      "romantic",
+      "impressionable",
+      "competitive",
+      "humble-next-to-fay"
+    ],
+    "flaws": [
+      "susceptible-to-influence",
+      "overconfident",
+      "tunnel-vision-on-achievement"
+    ],
+    "values": [
+      "mastery",
+      "achievement",
+      "love",
+      "belonging",
+      "independence"
+    ],
+    "motivations_primary": [
+      "excel-in-studies",
+      "prove-worth"
+    ],
+    "motivations_secondary": [
+      "nurture-relationship-with-fay",
+      "secure-independence"
+    ]
+  },
+  "appearance": {
+    "height_cm": null,
+    "build": null,
+    "hair": null,
+    "eyes": null,
+    "notable_marks": [],
+    "style": null
+  },
+  "skills": {
+    "combat": [],
+    "technical": [
+      "graduate-math-physics",
+      "dual-masters-engineering",
+      "direct-plasma-sintering",
+      "holotank-vr-worldbuilding"
+    ],
+    "tactics": [
+      "rapid-learning",
+      "optimization-of-sair-path"
+    ],
+    "limitations": [
+      "youthful-naivete",
+      "risk-taking-under-fay\u2019s-influence"
+    ]
+  },
+  "relationships": [
+    {
+      "with": "fay",
+      "label": "girlfriend",
+      "state": "intense",
+      "notes": "Older neuroinformatics prodigy; guides his neuroject experimentation."
+    },
+    {
+      "with": "lucas",
+      "label": "father",
+      "state": "supportive",
+      "notes": "Proud of Randy's acceleration and mentors him."
+    },
+    {
+      "with": "michelle",
+      "label": "mother",
+      "state": "complex",
+      "notes": "Sees him as evidence of Stella's potential but emotionally strained."
+    },
+    {
+      "with": "shelly",
+      "label": "sister",
+      "state": "close",
+      "notes": "Her later investigations are driven by his death."
+    }
+  ],
+  "arc": {
+    "status_now": "Deceased; legacy shapes Shelly's pursuit of truth.",
+    "pre_pivot": "Accelerates through Stella's education system, earning advanced degrees as a teen.",
+    "pivot_event": "deepening-relationship-with-fay-and-neuroject-experiments",
+    "post_pivot": "Death becomes catalytic trauma for family and wider narrative.",
+    "future_vector": "Legacy continues through Shelly's investigations and Metrofederacy ethical crises."
+  },
+  "items_and_tech": [
+    {
+      "id": "neuroject",
+      "name": "Neuroject",
+      "category": "implant",
+      "capabilities": [
+        "neurochemical-modulation"
+      ],
+      "condition": "functional",
+      "notes": "Adjusted under Fay's influence, creating risk factors."
+    }
+  ],
+  "themes": {
+    "keywords": [
+      "prodigy",
+      "love",
+      "loss",
+      "achievement",
+      "influence"
+    ],
+    "moral_tensions": [
+      "ambition-vs-safety",
+      "love-vs-independence"
+    ]
+  },
+  "text_windows": {
+    "bio_200w": "Randy, born around 2153, immigrated with his family into the Metrofederacy and thrived in its educational system. By age 13 he was already mastering graduate-level material, and by 17 he held dual master's degrees in mechanics and electrical engineering. Intensely curious and industrious, he pursued mastery through SAIR optimization while nurturing a romantic, impressionable bond with Fay, a slightly older prodigy who encouraged risky neuroject experimentation. His combination of competitiveness and humility defined his character: eager to excel yet awed by Fay's brilliance. Randy's tragic death, linked to his accelerated path and neurochemical manipulation, devastates his family and reshapes Shelly's trajectory. Though he appears in relatively few scenes, Randy's brilliance and loss exert major narrative pull, symbolizing both the promise and peril of Stella's system.",
+    "arc_200w": "Randy begins as a bright, eager immigrant student excited to integrate into Stella's structures. He races ahead academically, optimizing his SAIR path and achieving accelerated mastery. His arc pivots around his relationship with Fay, who draws him into deeper neurochemical self-experiments and creative VR projects. This bond intensifies his sense of belonging and independence but also creates vulnerabilities. His sudden death ends his personal story but catalyzes broader arcs: Shelly's transformation into a forensic crusader, Lucas's deepening reliance on puzzles and planning, and Michelle's conflict with sterile systems. Randy's narrative role shifts from protagonist of youthful promise to symbolic loss that defines ethical stakes for the Metrofederacy.",
+    "skills_120w": "Randy demonstrates precocious technical expertise: graduate-level math and physics at 13, dual master's degrees in mechanics and electrical engineering at 17, and readiness for Ph.D. studies. He excels at rapid learning, plasma sintering, and VR holotank projects. His tactical skill lies in optimizing SAIR paths, but he lacks combat or survival training. His vulnerabilities stem from youth and overconfidence, particularly his susceptibility to Fay's influence in risky neuroject experiments.",
+    "appearance_120w": "Randy's physical description is not emphasized. His defining presence is intellectual: a prodigy driven by curiosity, academic achievement, and romance. He projects intensity and eagerness rather than distinct physical traits.",
+    "relationships_180w": "Randy's life is defined by relationships. With Fay, he experiences first love, deep admiration, and risky guidance in neuroject use. With Lucas, he shares an engineering bond, supported by paternal pride and structured mentoring. With Michelle, the relationship is emotionally complex but grounded in maternal recognition of his promise. With Shelly, Randy's closeness becomes immortalized through her grief and determination after his death, driving her investigation into systemic wrongdoing."
+  },
+  "qa_pairs": [
+    {
+      "q": "What is Randy's main achievement?",
+      "a": "By 17, he earned dual master's degrees in mechanical and electrical engineering."
+    },
+    {
+      "q": "Who most influenced Randy's risks?",
+      "a": "Fay, who guided him into neuroject experimentation."
+    },
+    {
+      "q": "Why is Randy important after his death?",
+      "a": "His death catalyzes Shelly's investigations and frames the ethical stakes of Stella."
+    }
+  ],
+  "metadata_for_indexing": {
+    "retrieval_keys": [
+      "Randy",
+      "Lucas",
+      "Michelle",
+      "Shelly",
+      "Fay",
+      "prodigy"
+    ],
+    "keywords_dense": "Randy, engineering prodigy, Metrofederacy, Fay, Shelly, Lucas, Michelle, Stella, neuroject, SAIR, tragedy, catalyst",
+    "spoiler_level": "book1_end",
+    "named_entities": {
+      "people": [
+        "Randy",
+        "Lucas",
+        "Michelle",
+        "Shelly",
+        "Fay"
+      ],
+      "places": [
+        "Metrofederacy"
+      ],
+      "orgs": [
+        "Stella"
+      ],
+      "terms": [
+        "neuroject",
+        "SAIR"
+      ]
+    }
+  },
+  "embedding_payloads": [
+    {
+      "chunk_id": "randy-1",
+      "type": "bio",
+      "text": "Engineering prodigy, immigrant to Metrofederacy, dual master's by 17, impressionable and trusting, especially with Fay."
+    },
+    {
+      "chunk_id": "randy-2",
+      "type": "arc",
+      "text": "Accelerates through Stella system, guided into neuroject risks by Fay, dies young, catalyzes Shelly's arc."
+    },
+    {
+      "chunk_id": "randy-3",
+      "type": "relationships",
+      "text": "Boyfriend of Fay, son of Lucas and Michelle, older brother of Shelly; his death defines their trajectories."
+    },
+    {
+      "chunk_id": "randy-4",
+      "type": "skills_cybernetics",
+      "text": "Graduate-level math, dual master's, fabrication skills, VR holotank projects, SAIR optimization."
+    },
+    {
+      "chunk_id": "randy-5",
+      "type": "appearance",
+      "text": "No strong physical description; intellectual presence defines him."
+    }
+  ]
+}

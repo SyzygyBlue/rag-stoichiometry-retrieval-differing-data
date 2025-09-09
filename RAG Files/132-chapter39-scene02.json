@@ -1,0 +1,175 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Instrument of Wrath",
+    "scene_id": "2186-11-27_lower-secure-wing-rescue",
+    "chapter_number": 39,
+    "scene_number": 2,
+    "date_in_universe": "2186-11-27",
+    "absolute_timeline_notes": "Direct continuation of Demmy’s lower-level incursion; TRG entry coincides with hostage standoff and extraction."
+    },
+    "text_windows": {
+    "full_scene_clean": "At a massive metal door with a yellow-lit pad, Demmy tries palm and red card—no luck—then hears a shout for security. He uses the yellow card; the pad turns green and the lock clicks. As the door opens from the other side, he stabs the entrant in the neck with bloody scissors and pushes through. Two robed men charge with clubs: Demmy catches one’s swing with the scissor handle and drives a letter opener through his larynx; he dodges the second’s telegraphed strike and finishes him with scissor thrusts under the chin and into the spine. A scream of “DEMMY!” freezes him—Evelyn is held at knifepoint by an older priest; she’s bruised, lip split, fingers broken. A massive cleric with a spiked mace rushes Demmy. Barefoot and agile, Demmy feints toward an office, pivots close to nullify the weapon, inflicts wounds to the side, back, and knee, gets grabbed, then blinds the man with a letter opener to the eye and ends him with repeated neck thrusts. The older cleric presses the knife deeper, taunts that he tortured Evelyn, and orders Demmy to leave. Demmy, sobbing, admits he gave her the ravager datapad. A rifle crack explodes; the older cleric’s skull bursts—shot by gray-haired, armored McTanner. TRG fighters flood in, subdue remaining clergy, and begin seizing records. Demmy cradles Evelyn; she whispers she didn’t tell. Paramedics take her toward the med bay. McTanner promises justice and notes Margdelain has long awaited this purge, though Jessop is still at large. Ascending the stairs, Demmy reflects that the scripture he repeated—“The avenger shall put the murderer to death”—no longer fully defines him; he hopes Evelyn will heal and forgive him.",
+    "dense_recap_250w": "Demmy reaches a secured lower-wing door, fails with palm and a red card, but the yellow card unlocks it as alarms rise. He kills the first man as the door opens, then defeats two club-wielding robed men with a mix of scissor strikes and a letter opener to the larynx. A heavyweight cleric armed with a brutal spiked mace charges; Demmy uses footwork, close-in angles, and multiple punctures (side, back, knee, eye) before finishing him with repeated scissor thrusts. The fight halts when an older cleric holds Evelyn at knifepoint—she’s visibly tortured and injured. Demmy threatens revenge but can’t close the distance without getting her killed; the cleric gloats about torturing her and the datapad. When Demmy admits he gave it to her, a single sniper-precise shot from gray-haired, armored McTanner blows out the captor’s skull. TRG units pour in, secure the area, and collect datapads, logs, and storage devices as evidence. Evelyn, insisting she never talked, is taken by paramedics to the med bay. McTanner assures Demmy that Chancellor Margdelain intends to dismantle the corrupt faction, though Jessop remains missing. As they leave the lower levels, Demmy realizes the vengeance verse that fueled him no longer fully matches who he is; he resolves to grow in faith while still ready to cut down evil if called, and he hopes Evelyn can recover—and forgive.",
+    "query_handle": "Demmy breaches secure door, kills defenders, Evelyn rescued by McTanner’s shot; TRG seizes lower level; Demmy’s vow shifts from pure vengeance to tempered purpose."
+    },
+    "narrative_beats": [
+    {"order": 1, "label": "Access and alarm", "what_happens": "Demmy reaches a secure door; red card fails, yellow card unlocks as shouts for security erupt.", "involved_entities": ["demmy", "yellow-card", "red-card", "lower-secure-door"], "stakes_or_conflict": "Timer expires on stealth; must breach before reinforcements overwhelm him."},
+    {"order": 2, "label": "Door kill and corridor melee", "what_happens": "He kills the first entrant, then drops two club-wielding clerics using scissors and a letter opener.", "involved_entities": ["demmy", "order-guards-1", "repurposed-scissors", "order-letter-openers", "wooden-clubs"], "stakes_or_conflict": "Survive close-quarters combat while advancing to Evelyn."},
+    {"order": 3, "label": "Heavy cleric duel", "what_happens": "A trained bruiser with a spiked mace attacks; Demmy disables him with mobility and targeted stabs, then kills him.", "involved_entities": ["demmy", "big-cleric-mace", "spiked-mace", "repurposed-scissors", "order-letter-openers"], "stakes_or_conflict": "A single solid hit could incapacitate Demmy."},
+    {"order": 4, "label": "Hostage standoff", "what_happens": "An older priest holds Evelyn at knifepoint and admits torture; Demmy cannot risk a charge.", "involved_entities": ["demmy", "evelyn", "old-cleric-hostage", "hostage-knife"], "stakes_or_conflict": "Evelyn’s life versus Demmy’s need for justice."},
+    {"order": 5, "label": "Intervention shot", "what_happens": "McTanner arrives with TRG and snipes the hostage-taker; teams flood the wing and secure it.", "involved_entities": ["mctanner", "trg", "old-cleric-hostage", "trg-rifle"], "stakes_or_conflict": "Neutralize captor without harming Evelyn; seize evidence."},
+    {"order": 6, "label": "Extraction and vows", "what_happens": "Paramedics take Evelyn; McTanner promises justice and mentions Margdelain’s move; Demmy reevaluates his scripture-fueled identity.", "involved_entities": ["evelyn", "demmy", "mctanner", "trg-paramedics"], "stakes_or_conflict": "Evelyn’s recovery; future pursuit of Jessop; Demmy’s moral recalibration."}
+    ],
+    "characters": [
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Breach the secure wing, save Evelyn alive, and survive the defenders.",
+    "obstacles": "Locked access, armed clergy, hostage at knife, risk of killing Evelyn if he charges.",
+    "tactics": "Use correct access card; ambush at thresholds; stay inside opponents’ swing arcs; precision stabbing; psychological threats; yield to a superior shot.",
+    "relationships": [
+    {"with": "evelyn", "type": "ally/romantic", "state": "protective, tender", "evidence": "He holds her and kisses her forehead; she says she didn’t tell to protect him."},
+    {"with": "mctanner", "type": "ally", "state": "trust forming", "evidence": "McTanner calls him ‘son’ and promises justice; Demmy accepts help."},
+    {"with": "the-order", "type": "enemy", "state": "lethal conflict", "evidence": "Kills multiple clerics; confronts torturer holding Evelyn."}
+    ],
+    "emotional_arc": {"start": "focused, adrenalized, vengeful", "turning_points": ["Frozen by hostage threat", "Rescue shot breaks the deadlock", "Reflects that vengeance verse no longer fully defines him"], "end": "resolute, morally tempered, hopeful but worried for Evelyn"},
+    "notable_actions": ["unlocks door with yellow card", "kills multiple attackers with scissors and letter openers", "defeats spiked-mace cleric", "halts charge to avoid hurting hostage", "comforts Evelyn", "queries McTanner about justice"],
+    "quotable_lines": ["Now, it's time for the real fighting to begin.", "I don't want Evelyn to die.", "None of it's mine.", "And letter openers."]
+    },
+    {
+    "id": "evelyn",
+    "display_name": "Evelyn",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Survive captivity; avoid revealing information.",
+    "obstacles": "Severe injuries; hostage knife; torture.",
+    "tactics": "Refusal under torture; minimal speech.",
+    "relationships": [
+    {"with": "demmy", "type": "ally/romantic", "state": "devoted", "evidence": "I didn't tell them... Wouldn't..."}
+    ],
+    "emotional_arc": {"start": "terrified, injured", "turning_points": ["Hostage-taker killed"], "end": "weak but safe, transferred to med care"},
+    "notable_actions": ["affirms she protected Demmy", "touches his face to calm him"],
+    "quotable_lines": ["I didn't tell them... Wouldn't..."]
+    },
+    {
+    "id": "mctanner",
+    "display_name": "Master McTanner",
+    "aliases": ["McTanner"],
+    "role_in_scene": "supporting",
+    "goals_now": "Neutralize hostage-taker; lead TRG seizure; secure evidence.",
+    "obstacles": "Tight space; hostage risk; multiple combatants.",
+    "tactics": "Precision rifle shot; coordinated TRG entry; reassurance and leadership.",
+    "relationships": [
+    {"with": "demmy", "type": "ally", "state": "supportive", "evidence": "We're on it, son. Justice is coming."},
+    {"with": "chancellor-margdelain", "type": "ally", "state": "operational alignment", "evidence": "Says she’s waited decades to burn the organization down."}
+    ],
+    "emotional_arc": {"start": "professional, calm", "turning_points": ["Registers Evelyn’s injuries"], "end": "grim determination"},
+    "notable_actions": ["headshot on hostage-taker", "directs TRG to secure area and collect records"],
+    "quotable_lines": ["Remind me never to make you mad, kid."]
+    },
+    {
+    "id": "big-cleric-mace",
+    "display_name": "Big cleric with spiked mace",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Crush Demmy.",
+    "obstacles": "Demmy’s agility and close-in tactics.",
+    "tactics": "Power swings with a spiked mace; grappling attempt.",
+    "relationships": [],
+    "emotional_arc": {"start": "aggressive", "turning_points": ["Blinded by eye strike"], "end": "killed"},
+    "notable_actions": ["engages Demmy with mace", "grabs Demmy’s wrist"],
+    "quotable_lines": ["Fuck you, you little shit."]
+    },
+    {
+    "id": "old-cleric-hostage",
+    "display_name": "Older cleric (hostage-taker)",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Control Demmy via Evelyn; preserve secrets.",
+    "obstacles": "TRG marksman; Demmy’s resolve.",
+    "tactics": "Knife to throat; taunting; threats; confession of torture.",
+    "relationships": [],
+    "emotional_arc": {"start": "confident, cruel", "turning_points": ["Neutralized by sniper shot"], "end": "killed"},
+    "notable_actions": ["holds Evelyn at knife", "admits torture"],
+    "quotable_lines": ["Face it, you lost, boy!"]
+    }
+    ],
+    "items_and_tech": [
+    {"id": "lower-secure-door", "name": "Massive metal door with pad", "category": "other", "capabilities": ["badge access via color-coded cards"], "owner_or_users": ["the-order"], "condition_or_state": "intact", "scene_function": "Primary barrier to the captive wing; opened by yellow card."},
+    {"id": "yellow-card", "name": "Yellow access card", "category": "other", "capabilities": ["unlocks secure pad (green)"], "owner_or_users": ["demmy", "the-order"], "condition_or_state": "collected", "scene_function": "Enables entry when red fails."},
+    {"id": "red-card", "name": "Red access card", "category": "other", "capabilities": ["access (insufficient here)"], "owner_or_users": ["demmy", "the-order"], "condition_or_state": "collected", "scene_function": "Failed attempt highlights tiered access."},
+    {"id": "repurposed-scissors", "name": "Forearm-length scissor blade", "category": "weapon", "capabilities": ["silent thrusts", "severs spine", "repeated neck strikes"], "owner_or_users": ["demmy"], "condition_or_state": "bloodied; one blade broken by end", "scene_function": "Demmy’s primary close-quarters weapon."},
+    {"id": "order-letter-openers", "name": "Order-emblem letter openers", "category": "weapon", "capabilities": ["larynx puncture", "eye thrust", "joint disable"], "owner_or_users": ["demmy"], "condition_or_state": "intact", "scene_function": "Secondary blades for rapid strikes."},
+    {"id": "wooden-clubs", "name": "Wooden clubs (guards)", "category": "weapon", "capabilities": ["blunt-force strikes"], "owner_or_users": ["the-order"], "condition_or_state": "intact", "scene_function": "Used by initial attackers; neutralized."},
+    {"id": "spiked-mace", "name": "Multi-flanged spiked mace", "category": "weapon", "capabilities": ["crushing/tearing trauma"], "owner_or_users": ["big-cleric-mace"], "condition_or_state": "intact", "scene_function": "Threat escalator requiring close-in counter."},
+    {"id": "hostage-knife", "name": "Hostage taker’s knife", "category": "weapon", "capabilities": ["throat control; lethal threat"], "owner_or_users": ["old-cleric-hostage"], "condition_or_state": "intact", "scene_function": "Forces Demmy to halt; precipitates sniper solution."},
+    {"id": "trg-rifle", "name": "TRG marksman rifle", "category": "weapon", "capabilities": ["precision headshot"], "owner_or_users": ["mctanner"], "condition_or_state": "intact", "scene_function": "Ends standoff without harming Evelyn."},
+    {"id": "seized-records", "name": "Datapads, logs, storage devices", "category": "other", "capabilities": ["evidence collection"], "owner_or_users": ["trg"], "condition_or_state": "secured", "scene_function": "Material for Margdelain’s purge of the corrupt faction."}
+    ],
+    "locations": [
+    {"id": "lower-secure-vestibule", "name": "Lower secure vestibule", "type": "structure", "descriptors": ["massive steel door", "badge pad glowing yellow/green"], "in_scene_events": ["Access attempts; first kill at threshold."]},
+    {"id": "inner-secure-corridor", "name": "Inner secure corridor/office wing", "type": "structure", "descriptors": ["harsh LED lighting", "blood-slick floor", "adjacent offices"], "in_scene_events": ["Melee with guards; hostage standoff; TRG entry and evidence sweep."]},
+    {"id": "stairwell-up", "name": "Stairwell to upper levels", "type": "structure", "descriptors": ["concrete steps", "echoing"], "in_scene_events": ["Demmy and McTanner ascend; post-fight reflection."]},
+    {"id": "med-bay-upstairs", "name": "Med bay (upstairs)", "type": "structure", "descriptors": ["clinical care area (implied)"], "in_scene_events": ["Paramedics transport Evelyn for treatment."]}
+    ],
+    "factions_orgs": [
+    {"id": "the-order", "name": "The Order (corrupt lower-level faction)", "alignment": "hostile", "agents_present": ["old-cleric-hostage", "big-cleric-mace", "order-guards-1"], "motives_inferred": "Control and conceal abuses; extract info via torture.", "actions_in_scene": ["Hostage taking", "Armed resistance", "Torture admission"]},
+    {"id": "trg", "name": "Tactical Response Group (Fox River)", "alignment": "ally", "agents_present": ["mctanner"], "motives_inferred": "Seize the lower levels as a crime scene; rescue victims; collect evidence.", "actions_in_scene": ["Precision shooting", "Area sweep", "Evidence collection"]},
+    {"id": "chancellor-margdelain", "name": "Chancellor Margdelain’s government", "alignment": "ally", "agents_present": [], "motives_inferred": "Long-standing intent to dismantle the corrupt faction within the Order.", "actions_in_scene": ["Authorizes/backs TRG operation (reported)"]}
+    ],
+    "themes_and_motifs": {
+    "themes": ["vengeance vs mercy", "hostage ethics under extremis", "corrupt institutions vs corrective force", "identity and faith after violence"],
+    "motifs_symbols": ["color-coded access (red vs yellow)", "blood spray and LED glare", "bare feet for stealth", "scriptural refrain shifting meaning"],
+    "moral_questions": ["When is lethal force justified to save a hostage?", "Can righteous intent survive repeated killing without corrosion?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic/visceral",
+    "pacing": "high-intensity",
+    "voice_traits": ["fight choreography detail", "scripture-laced inner voice", "dry, grim humor amid carnage"],
+    "sensory_notes": ["rifle crack and echo", "whoosh of mace swing", "copper tang of blood", "LED harshness", "wet shhhck of blade"]
+    },
+    "causality": {
+    "prior_dependencies": ["Demmy’s infiltration and earlier kills; acquisition of red and yellow credentials; Evelyn’s abduction and torture; TRG mobilization triggered by leadership."],
+    "outcomes": ["Evelyn rescued alive; multiple Order guards killed; evidence seized; Jessop still missing; Demmy’s moral frame evolves beyond simple vengeance."],
+    "unanswered_questions": ["Extent of Evelyn’s lasting trauma", "Where is Jessop?", "How broad is the Order’s complicity beyond this wing?"]
+    },
+    "conflicts": [
+    {"type": "person_vs_person", "parties": ["demmy", "order-guards-1"], "trigger": "Door breach and immediate opposition", "resolution": "Demmy kills initial defenders."},
+    {"type": "person_vs_person", "parties": ["demmy", "big-cleric-mace"], "trigger": "Mace-armed charge", "resolution": "Demmy disables and kills the bruiser."},
+    {"type": "person_vs_person", "parties": ["demmy", "old-cleric-hostage"], "trigger": "Evelyn held at knife point", "resolution": "McTanner snipes the captor; TRG secures area."},
+    {"type": "person_vs_self", "parties": ["demmy"], "trigger": "Scriptural vengeance versus protecting Evelyn", "resolution": "He restrains himself; later reframes his identity."},
+    {"type": "person_vs_system", "parties": ["trg", "the-order"], "trigger": "Purge of corrupt lower levels", "resolution": "TRG dominates and collects evidence; ongoing pursuit of leaders."}
+    ],
+    "safety_and_content_tags": {
+    "violence": "graphic",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["torture", "religious corruption", "hostage situation", "graphic gore"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Demmy", "Evelyn rescue", "McTanner", "TRG raid", "yellow access card", "hostage standoff", "spiked mace duel", "Fox River lower levels", "Chancellor Margdelain", "Jessop mention"],
+    "keywords_dense": "Demmy, Evelyn, hostage, secure door, yellow card, red card, scissors, letter opener, spiked mace, TRG, McTanner, headshot, Margdelain, Jessop missing, evidence seizure, lower levels, Fox River",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Demmy", "Evelyn", "Master McTanner", "Older cleric (hostage-taker)", "Big cleric with spiked mace"],
+    "places": ["Lower secure vestibule", "Inner secure corridor/office wing", "Med bay (upstairs)"],
+    "orgs": ["The Order", "TRG", "Chancellor Margdelain’s government"],
+    "terms": ["hostage standoff", "color-coded access card", "spiked mace", "paramedics"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Which card unlocked the secure door for Demmy?", "a": "The yellow access card."},
+    {"q": "Who kills the hostage-taking cleric holding Evelyn?", "a": "Master McTanner, with a precision rifle shot."}
+    ],
+    "embedding_payloads": [
+    {"chunk_id": "2186-11-27-securewing-recap", "type": "recap", "text": "Demmy breaches a lower secure wing using a yellow access card after the red fails. He kills multiple club-armed clerics with scissors and letter openers and defeats a mace-wielding bruiser using close-in movement and targeted stabbing. An older cleric holds Evelyn at knifepoint, admitting torture; Demmy cannot rush without risking her life. Gray-haired McTanner arrives with TRG, snipes the captor, and teams secure the area and seize records. Paramedics evacuate Evelyn. McTanner says Margdelain intends to dismantle the corrupt faction, though Jessop is still missing. Demmy departs reflecting that pure vengeance no longer defines him."},
+    {"chunk_id": "2186-11-27-securewing-entities", "type": "entities_focus", "text": "Actors: Demmy (POV rescuer), Evelyn (injured captive), Master McTanner (TRG lead), older cleric hostage-taker, big cleric with spiked mace, TRG squads. Artifacts: yellow/red access cards, forearm scissor blade, Order letter openers, wooden clubs, spiked mace, hostage knife, TRG rifle, seized datapads/logs. Locales: lower secure vestibule, inner secure corridor, stairwell, med bay."},
+    {"chunk_id": "2186-11-27-securewing-stylethemes", "type": "style_theme_focus", "text": "Visceral 3rd-limited combat prose with procedural choreography and scripture-tinged interiority. Themes: vengeance versus mercy, hostage ethics, institutional purge, identity and faith after violence. Motifs: color-coded access, barefoot stealth, LED glare, the repeated but evolving verse about the avenger. Sonic and tactile details—rifle crack, whoosh of mace, shhhck of steel, copper blood tang—anchor the tone."}
+    ]
+    }

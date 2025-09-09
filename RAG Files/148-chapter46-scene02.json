@@ -1,0 +1,281 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Retrospectives",
+    "scene_id": "retrospectives-2186-12-04-lesha",
+    "chapter_number": 46,
+    "scene_number": 2,
+    "date_in_universe": "2186-12-04",
+    "absolute_timeline_notes": "In-transit in a TEG-6 after the Calum-Tam escape; en route toward Broken Bow; Lesha POV reflecting on stims, the trio, and Blacklight."
+    },
+    "text_windows": {
+    "full_scene_clean": "Lesha’s withdrawal has started: a crawling, electric ache under her skin. She clenches her jaw and fights the urge to dig into Quincy’s seat-bag for the two vials Quincy took from Lenya’s stash. Broken Bow is far; she tells herself to space the chems or she will come apart. She studies the others: Quincy—pragmatic, stoic, magnetic; Chase—the ex-politician’s son, maimed and fading, whose broken arm needs to be pulled straight and set soon or it will fester; Demmy—preternaturally aware, a ghost with a knife who would be terrifying with implants, if any psych eval would pass him. The scale of the catastrophe they are in chills her; she thinks of a city leveled, and the Blacklight Syndicate’s name makes her blood run cold. She has been a merc and a killer and once considered Blacklight, but they were far too hardcore even for her. She keeps staring at Quincy’s bag. A taste would stop the pain and light her up. Not yet. Get to Broken Bow. Find supply. Until then, do right by these kids. She breathes, wills the tremors down, and chooses—for now—to help them and not steal the vials, knowing the junk makes liars of everyone.",
+    "dense_recap_250w": "Inside the moving TEG-6, Lesha wrestles with stimulant withdrawal while eyeing the two vials stashed in Quincy’s bag. She forces herself to delay dosing until they reach Broken Bow, calculating that using now will sabotage the long haul. Evaluating the team, she admires Quincy’s competence and presence, notes that Chase’s broken arm must be stretched and set soon to prevent infection, and recognizes Demmy’s exceptional situational awareness and reflexes—the kind of raw talent mercenary outfits covet, implants or not. The broader situation unnerves her: they are entangled in forces powerful enough to level a city, and the mention of the Blacklight Syndicate signals stakes beyond anything the trio understands. Lesha’s mercenary past and self-loathing surface; she once contemplated joining Blacklight but judged it too extreme. Temptation surges as she fixates on the bag—just a taste would stop the pain—but she recommits to spacing doses, helping the others, and waiting to resupply in Broken Bow. She sets a near-term medical priority for Chase, privately vows not to betray the group, and admits the hard truth: addiction turns intentions into lies. The scene frames Lesha’s internal battle between dependency and duty, while positioning her as a hardened guardian deciding, for now, to protect the younger survivors rather than feed her habit.",
+    "query_handle": "Lesha battles withdrawal in the TEG-6, resists stims in Quincy’s bag, assesses Chase’s injury and Demmy’s potential, and fears Blacklight."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Temptation spikes",
+    "what_happens": "Lesha’s withdrawal surges as she stares at Quincy’s bag holding two stimulant vials.",
+    "involved_entities": ["lesha", "quincy", "stims-vials", "quincys-bag"],
+    "stakes_or_conflict": "Relapse vs. keeping the group safe."
+    },
+    {
+    "order": 2,
+    "label": "Triage thinking",
+    "what_happens": "She prioritizes Chase’s care, deciding his broken arm must be stretched and set before Broken Bow.",
+    "involved_entities": ["lesha", "chase"],
+    "stakes_or_conflict": "Risk of infection and long-term disability."
+    },
+    {
+    "order": 3,
+    "label": "Talent appraisal",
+    "what_happens": "Lesha evaluates Demmy’s uncanny awareness and potential with implants.",
+    "involved_entities": ["lesha", "demmy"],
+    "stakes_or_conflict": "Potential recruitment vs. psychological stability."
+    },
+    {
+    "order": 4,
+    "label": "Shadow of Blacklight",
+    "what_happens": "She reflects on a catastrophe’s scale and the terrifying reputation of the Blacklight Syndicate.",
+    "involved_entities": ["lesha", "blacklight-syndicate"],
+    "stakes_or_conflict": "Overwhelming external threat beyond the group’s capacity."
+    },
+    {
+    "order": 5,
+    "label": "Choice deferred",
+    "what_happens": "Lesha decides to delay dosing, help the trio reach Broken Bow, and hope to resupply later.",
+    "involved_entities": ["lesha", "teg-6", "broken-bow"],
+    "stakes_or_conflict": "Self-control now vs. later collapse; trust within the group."
+    }
+    ],
+    "characters": [
+    {
+    "id": "lesha",
+    "display_name": "Lesha",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Manage withdrawal without relapsing; keep group moving toward Broken Bow; initiate first aid for Chase.",
+    "obstacles": "Acute stimulant withdrawal; limited chems; long distance to care; guilt from mercenary past.",
+    "tactics": "Self-talk and dose spacing; medical prioritization; observation and assessment; delaying gratification.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "respect/attraction", "evidence": "Sees Quincy as pragmatic, stoic, and magnetic; resists raiding her bag."},
+    {"with": "chase", "type": "ally", "state": "protective/clinical", "evidence": "Plans to stretch and set his broken arm before infection sets in."},
+    {"with": "demmy", "type": "ally", "state": "curious/mentor-leaning", "evidence": "Notes his rare awareness and potential with implants."}
+    ],
+    "emotional_arc": {
+    "start": "itching, tempted, ashamed",
+    "turning_points": ["Fixates on stims but reframes toward group needs", "Decides to wait until Broken Bow"],
+    "end": "restrained, duty-focused, wary"
+    },
+    "notable_actions": ["resists raiding Quincy's bag", "sets medical priority for Chase", "evaluates Demmy’s combat potential", "chooses to space doses"],
+    "quotable_lines": ["These kids need you. Don’t fuck them over.", "The junk makes liars out of everyone."]
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Keep the evac moving; safeguard supplies (including vials).",
+    "obstacles": "Long run to Broken Bow; companions’ injuries and withdrawal.",
+    "tactics": "Holds chems; drives/coordinates (implied, off-page here).",
+    "relationships": [
+    {"with": "lesha", "type": "ally", "state": "mutual utility/trust-building", "evidence": "Lesha resists stealing from Quincy’s bag and commits to help."}
+    ],
+    "emotional_arc": {
+    "start": "steady",
+    "turning_points": [],
+    "end": "steady"
+    },
+    "notable_actions": ["stores stims in her bag (referenced)"]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Survive transport and receive medical care.",
+    "obstacles": "Broken arm likely to fester without reduction; limited access to resources.",
+    "tactics": "Endures; relies on team care.",
+    "relationships": [
+    {"with": "lesha", "type": "ally", "state": "patient/caregiver dynamic", "evidence": "Lesha plans immediate orthopedic intervention en route."}
+    ],
+    "emotional_arc": {
+    "start": "weakened",
+    "turning_points": [],
+    "end": "weakened"
+    },
+    "notable_actions": []
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Travel with group; process recent events (off-page in this slice).",
+    "obstacles": "Trauma fallout (implied).",
+    "tactics": "Silent resilience; observed by Lesha.",
+    "relationships": [
+    {"with": "lesha", "type": "ally", "state": "growing respect", "evidence": "Lesha sees him as a ‘ghost with a knife’ and high-potential operative."}
+    ],
+    "emotional_arc": {
+    "start": "reserved",
+    "turning_points": [],
+    "end": "reserved"
+    },
+    "notable_actions": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "stims-vials",
+    "name": "Stimulant vials (two)",
+    "category": "medical",
+    "capabilities": ["reduce withdrawal symptoms", "increase alertness/energy (inferred)"],
+    "owner_or_users": ["lesha"],
+    "condition_or_state": "intact",
+    "scene_function": "Central temptation and resource triage; Lesha chooses to delay dosing until Broken Bow."
+    },
+    {
+    "id": "quincys-bag",
+    "name": "Quincy’s seat-bag",
+    "category": "other",
+    "capabilities": ["carry supplies", "secure storage"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "intact",
+    "scene_function": "Holds the stims; focal point of Lesha’s self-control."
+    },
+    {
+    "id": "lesha-augments",
+    "name": "Lesha’s armored augmentations",
+    "category": "cybernetics",
+    "capabilities": ["enhanced durability", "ballistic resistance (implied from prior)"],
+    "owner_or_users": ["lesha"],
+    "condition_or_state": "operational",
+    "scene_function": "Context for her mercenary past and interest in Demmy’s potential."
+    },
+    {
+    "id": "teg-6",
+    "name": "TEG-6 six-seater",
+    "category": "vehicle",
+    "capabilities": ["off-road transport", "navigation"],
+    "owner_or_users": ["quincy", "demmy", "lesha", "chase"],
+    "condition_or_state": "intact",
+    "scene_function": "Moving setting for introspection and planning."
+    }
+    ],
+    "locations": [
+    {
+    "id": "teg-6-cabin",
+    "name": "TEG-6 cabin",
+    "type": "structure",
+    "descriptors": ["confined", "rattling ride", "seat-bag accessible"],
+    "in_scene_events": ["Lesha resists dosing; assesses team; sets medical priorities."]
+    },
+    {
+    "id": "broken-bow",
+    "name": "Broken Bow",
+    "type": "city",
+    "descriptors": ["destination", "medical hope"],
+    "in_scene_events": ["Target for care and possible resupply (anticipated)."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "blacklight-syndicate",
+    "name": "Blacklight Syndicate",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Elite, ruthless organization; involvement implies extreme risk.",
+    "actions_in_scene": ["Referenced as a looming threat; Lesha rejects association."]
+    },
+    {
+    "id": "mercenary-corps",
+    "name": "Mainline mercenary corps (generic)",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Profit-driven; augment-backed operations; potential recruiters of talents like Demmy.",
+    "actions_in_scene": ["Referenced in Lesha’s background and evaluations."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["addiction vs duty", "redemption and restraint", "field medicine and triage", "power and ethics of augmentation", "small team vs overwhelming forces"],
+    "motifs_symbols": ["two glass vials", "seat-bag temptation", "itching skin/electric pangs", "mercenary mirror to the kids"],
+    "moral_questions": ["When survival depends on a vice, what does keeping a promise look like?", "Do ends justify augmenting a damaged psyche for combat effectiveness?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "slow-burn",
+    "voice_traits": ["hardboiled introspection", "combat pragmatism", "dark humor"],
+    "sensory_notes": ["jaw clicking under stress", "skin-crawl electricity of withdrawal", "vehicle hum and rattle", "dust-dry breath control"]
+    },
+    "causality": {
+    "prior_dependencies": ["Stims were taken from Lenya’s stash; group is exfiltrating in a TEG-6; Chase’s arm is broken; catastrophic destruction has recently occurred; Blacklight was mentioned earlier."],
+    "outcomes": ["Lesha commits to delaying stims use until Broken Bow.", "She sets an actionable plan to stretch and set Chase’s arm en route.", "She flags Blacklight as an existential-level threat and views Demmy as high-potential with caveats."],
+    "unanswered_questions": ["Will Lesha relapse before Broken Bow?", "Can they safely reduce and splint Chase’s arm in the field?", "Will Blacklight intersect their path again—and how soon?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["lesha"],
+    "trigger": "Acute withdrawal and easy access to two vials.",
+    "resolution": "Temporary restraint; vows to wait until Broken Bow."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["lesha and group", "distance/time to medical aid"],
+    "trigger": "Chase’s worsening fracture and infection risk on a long route.",
+    "resolution": "Plan to set the arm and push to Broken Bow (ongoing)."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["group", "blacklight-syndicate (looming)"],
+    "trigger": "Realization of elite, ruthless actors behind wider events.",
+    "resolution": "Unresolved; avoidance and concealment implied."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "present",
+    "sexual_content": "implied",
+    "sensitive_topics": ["addiction/withdrawal", "medical neglect risk", "mercenary violence (referenced)"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Lesha withdrawal", "stimulant vials", "Quincy seat-bag", "Broken Bow destination", "Chase broken arm triage", "Demmy potential implants", "Blacklight Syndicate", "TEG-6 interior"],
+    "keywords_dense": "Lesha, withdrawal, stims, vials, Quincy, bag, Chase broken arm, set bone, infection risk, Demmy awareness, implants, Blacklight Syndicate, mercenary past, TEG-6, Broken Bow",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Lesha", "Quincy", "Chase", "Demmy", "Lenya"],
+    "places": ["Broken Bow"],
+    "orgs": ["Blacklight Syndicate", "Mainline mercenary corps"],
+    "terms": ["TEG-6", "stims", "augments"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What is Lesha tempted to take from Quincy’s bag?", "a": "Two stimulant vials."},
+    {"q": "Where are they trying to reach for medical help and resupply?", "a": "Broken Bow."},
+    {"q": "What immediate medical step does Lesha think Chase needs?", "a": "Stretch and set his broken arm to prevent infection."},
+    {"q": "Which organization does Lesha consider too hardcore even for her?", "a": "The Blacklight Syndicate."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "retrospectives-lesha-1",
+    "type": "recap",
+    "text": "In the rattling TEG-6, Lesha fights stimulant withdrawal while eyeing two vials secured in Quincy’s seat-bag. She forces herself to delay dosing until Broken Bow, sets a field-care priority to stretch and set Chase’s broken arm, and evaluates Demmy as a rare natural talent who could be fearsome with implants. The wider disaster and the specter of the Blacklight Syndicate convince her the stakes are beyond the trio’s grasp. She chooses—for now—to help the others and not relapse, accepting that addiction makes promises fragile."
+    },
+    {
+    "chunk_id": "retrospectives-lesha-2",
+    "type": "entities_focus",
+    "text": "Lesha (POV: merc past, withdrawal management, caregiver stance); Quincy (keeper of supplies; respected by Lesha); Chase (patient with a dangerously broken arm); Demmy (exceptional awareness; potential implant candidate). Tech/Items: TEG-6 transport; two stims vials in Quincy’s bag; Lesha’s augmentations. Orgs: Blacklight Syndicate (looming threat); generic mercenary corps (context). Places: TEG-6 cabin; route toward Broken Bow."
+    },
+    {
+    "chunk_id": "retrospectives-lesha-3",
+    "type": "style_theme_focus",
+    "text": "Third-person limited on Lesha in a gritty, introspective register; slow-burn pacing focused on addiction vs duty, triage, and trust. Motifs include two glass vials, jaw-clicking withdrawal, the confined vehicle as a moving confessional, and the shadow of Blacklight. Moral tension centers on whether restraint can hold under pain and whether augmenting damaged people for combat can ever be ethical."
+    }
+    ]
+    }

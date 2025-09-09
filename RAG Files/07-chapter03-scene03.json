@@ -1,0 +1,234 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "ch3-s3_ravine-repair-and-dust-cloud",
+    "chapter_number": null,
+    "scene_number": null,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "After the barn exfil with the buggy; same day toward late afternoon/sunset while ~60 km from the ravager camp, en route toward Broken Bow."
+    },
+    "text_windows": {
+    "full_scene_clean": "They stop in a rocky ravine long enough to hook their second-best battery to the rooftop solar panel and catch the last sunlight. After two hours of driving—about sixty kilometers from the ravager camp—there is no visible pursuit, but the flats offer little cover. Quincy prepares to reconnect the buggy’s final motor phase, estimating 45 minutes if smooth or up to four hours if rewinding coils is required; if it’s irreparable they will limp toward Broken Bow at reduced performance. Demmy worries about being spotted and keeps watch from a shale-and-sandstone outcrop. He points out a far-off dust cloud to the east—likely a vehicle some 30 km away—reinforcing their need for speed and concealment. Quincy explains that running without the fix will drain batteries faster and keep them slow and catchable. She finishes tidying and reconnecting wiring; with a last twist of the wrench, the cart is ready to roll. The distant dust plume appears to be moving away as they steer the two-seater back onto the track. Demmy keeps glancing back, the thin smear of dust on the horizon a constant reminder of danger across the open plains.",
+    "dense_recap_250w": "Quincy and Demmy pause in a shallow ravine after two hours and roughly sixty kilometers of travel from the ravager camp. They mount their second-best battery to the roof’s solar panel to sip the day’s last light while Quincy opens her toolbox to address the buggy’s lingering powertrain fault: a disconnected or failed phase on the electric motor. She estimates a best-case fix of forty-five minutes, or four hours if she must redo windings, noting that leaving it unfixed will increase system stress and accelerate battery drain—keeping them slow and vulnerable. Demmy takes a lookout position on the shale-sandstone ridge and spots a distant dust plume to the east, perhaps thirty kilometers away. The landscape is too flat to hide in, so they need to regain speed or risk being easy prey. Quincy methodically tidies and reconnects wiring; if the motor is truly toast, they plan to limp toward Broken Bow regardless, but she remains confident she can keep it working. With a final wrench turn the buggy is operational; the distant dust seems to be heading away. They strap in and pull onto the rough track, Demmy checking the horizon as the faint dust line lingers—an ever-present prompt that pursuit or accident could still erase their lead.",
+    "query_handle": "Ravine pit stop: Quincy fixes final motor phase and solar-charges; Demmy spots distant dust plume; they roll out across exposed flats."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Emergency pit stop",
+    "what_happens": "They shelter in a rocky ravine, roof-charging a battery while Quincy prepares a motor-phase reconnection.",
+    "involved_entities": ["quincy", "demmy", "two-seater-buggy", "solar-panel-1x1", "battery-pack-secondary", "rocky-ravine"],
+    "stakes_or_conflict": "Need speed vs exposure on flat terrain."
+    },
+    {
+    "order": 2,
+    "label": "Repair calculus",
+    "what_happens": "Quincy outlines repair timelines and risks; running unfixed increases drain and risk of being caught.",
+    "involved_entities": ["quincy", "toolbox", "two-seater-buggy"],
+    "stakes_or_conflict": "Time to repair vs probability of interception."
+    },
+    {
+    "order": 3,
+    "label": "Eyes on the horizon",
+    "what_happens": "Demmy spots a far dust cloud and estimates distance; the terrain offers almost no concealment.",
+    "involved_entities": ["demmy", "distant-vehicle-dust"],
+    "stakes_or_conflict": "Potential pursuers vs limited cover."
+    },
+    {
+    "order": 4,
+    "label": "Button-up and go",
+    "what_happens": "Quincy completes the wiring; the buggy is ready. They drive out while monitoring the dust plume.",
+    "involved_entities": ["quincy", "demmy", "two-seater-buggy"],
+    "stakes_or_conflict": "Maintain lead vs unknown threat vector."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Restore full motor phase and mobility to reduce capture risk and reach Broken Bow.",
+    "obstacles": "Daylight fading, exposed flats, potential pursuers, possible need to rewind coils.",
+    "tactics": "On-the-spot diagnostics, phased repair plan, rooftop solar trickle, pragmatic risk acceptance.",
+    "relationships": [
+    {"with": "demmy", "type": "ally", "state": "coordinated-under-stress", "evidence": "Trades timelines and contingencies while he keeps watch."}
+    ],
+    "emotional_arc": {
+    "start": "focused, tense",
+    "turning_points": ["Spots eastern dust cloud", "Finishes wiring with last wrench twist"],
+    "end": "cautiously resolved, alert"
+    },
+    "notable_actions": ["hooks-battery-to-solar", "reconnects-final-phase", "explains power-train tradeoffs", "drives-back-to-track"],
+    "quotable_lines": [
+    "Forty-five minutes if it goes smooth. Four hours if I have to redo the windings.",
+    "We can’t run. But honestly, we were never going to."
+    ]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Prevent surprise contact while Quincy repairs; push for mobility and concealment.",
+    "obstacles": "Flat terrain, limited effect if spotted, unknown identity of distant vehicle.",
+    "tactics": "High-ground lookout, distance estimation, pressure to minimize pit time.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "protective-pragmatic", "evidence": "Keeps watch and urges speed: 'Let’s just get it done.'"}
+    ],
+    "emotional_arc": {
+    "start": "anxious vigilance",
+    "turning_points": ["Identifies dust plume", "Buggy goes rolling again"],
+    "end": "watchful, uneasy"
+    },
+    "notable_actions": ["scrambles-to-outcrop", "spots-dust-cloud", "continues-rear-watch"],
+    "quotable_lines": [
+    "No skerv is comfortable with being easy meat."
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "two-seater-buggy",
+    "name": "Two-seater electric buggy",
+    "category": "vehicle",
+    "capabilities": ["short-range travel", "silent electric drive"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "operational; final phase reconnected; prior coil fault managed",
+    "scene_function": "Primary mobility; subject of repair decision-making."
+    },
+    {
+    "id": "solar-panel-1x1",
+    "name": "Rigid solar panel (1m×1m)",
+    "category": "other",
+    "capabilities": ["trickle-charge auxiliary battery"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "intact, roof-mounted",
+    "scene_function": "Extends range; buys repair time at stop."
+    },
+    {
+    "id": "battery-pack-secondary",
+    "name": "Second-best traction battery",
+    "category": "other",
+    "capabilities": ["energy storage for drive system"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "in use; charging via solar",
+    "scene_function": "Charged during pit stop to offset drain."
+    },
+    {
+    "id": "toolbox",
+    "name": "Quincy’s toolbox",
+    "category": "tool",
+    "capabilities": ["mechanical/electrical repair"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "complete; in use",
+    "scene_function": "Enables phase reconnection and wiring tidy-up."
+    }
+    ],
+    "locations": [
+    {
+    "id": "rocky-ravine",
+    "name": "Rocky shale-and-sandstone ravine",
+    "type": "wilderness",
+    "descriptors": ["ugly gray/tan rock", "minimal cover", "late sun angles"],
+    "in_scene_events": ["Solar top-up; lookout; motor-phase repair; departure."]
+    },
+    {
+    "id": "open-flats-track",
+    "name": "Exposed flats with rough track",
+    "type": "wilderness",
+    "descriptors": ["flat, little concealment", "long sightlines", "dust plumes visible"],
+    "in_scene_events": ["Re-entry to route while monitoring distant dust cloud."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Destination cohort Quincy aims to rejoin; offstage.",
+    "actions_in_scene": []
+    },
+    {
+    "id": "broken-bow",
+    "name": "Broken Bow Free City",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Nearest viable sanctuary if they can reach it.",
+    "actions_in_scene": []
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Survival through maintenance", "Speed vs safety under scarcity", "Vulnerability in open terrain", "Pragmatism over panic"],
+    "motifs_symbols": ["dust plume on horizon (looming threat)", "last light on solar (borrowed time)", "wrench twist (agency)"],
+    "moral_questions": ["When is stopping to fix the system wiser than fleeing with a failing machine?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "technical/cinematic",
+    "pacing": "brisk with tense pauses",
+    "voice_traits": ["mechanical specificity", "survival pragmatics", "laconic gallows humor"],
+    "sensory_notes": ["late-day sun heat", "grit of shale", "view of far-off dust", "tool-metal clink"]
+    },
+    "causality": {
+    "prior_dependencies": ["Buggy previously patched at the barn; solar panel roof-mounted; ongoing plan to reach Broken Bow and/or rejoin caravan"],
+    "outcomes": ["Final phase reconnected and vehicle rolling", "Battery strategy set (solar trickle + secondary pack)", "Distant vehicle noted but not engaged"],
+    "unanswered_questions": ["Who raised the distant dust cloud?", "Will the repair hold under load?", "Can they overtake the caravan before power scarcity returns?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy-and-demmy", "open-flats-and-distance-to-safety"],
+    "trigger": "Exposure on flat terrain with limited concealment and uncertain pursuers.",
+    "resolution": "Minimize stop time; complete repair; resume movement."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy", "buggy-electric-drive-system"],
+    "trigger": "Failed/disconnected motor phase and battery drain dynamics.",
+    "resolution": "Reconnects final phase; charges secondary pack via solar."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": []
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Demmy", "buggy final phase repair", "solar trickle charge", "rocky ravine stop", "distant dust plume", "Broken Bow route"],
+    "keywords_dense": "Quincy, Demmy, rocky ravine, solar panel, second-best battery, electric buggy, final phase reconnection, wiring, coil windings, dust cloud, open flats, Broken Bow",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Demmy"],
+    "places": ["Broken Bow Free City"],
+    "orgs": ["Three Shovels Caravan"],
+    "terms": ["phase reconnection", "windings", "distribution/battery drain (implied)"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What repair is Quincy performing on the buggy?", "a": "Reconnecting the final motor phase and tidying wiring."},
+    {"q": "Why is stopping to fix the buggy risky but necessary?", "a": "Running unfixed drains batteries faster and keeps them slow and easy to catch; the repair restores speed and range."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "ch3-s3_ravine-repair-and-dust-cloud_1",
+    "type": "recap",
+    "text": "In a rocky ravine after two hours and ~60 km from the ravager camp, Quincy roof-charges a secondary battery and reconnects the buggy’s final motor phase while Demmy keeps watch. He spots a far eastern dust cloud across flat, coverless terrain, pressing their time. Quincy explains the tradeoffs—unfixed means faster drain and slow speed. With a final wrench twist, they roll back onto the track, the distant plume still on the horizon."
+    },
+    {
+    "chunk_id": "ch3-s3_ravine-repair-and-dust-cloud_2",
+    "type": "entities_focus",
+    "text": "People: Quincy (mechanic/driver), Demmy (lookout). Items/Tech: two-seater electric buggy; rigid 1×1 m roof solar panel; second-best battery; Quincy’s toolbox. Places: rocky shale-sandstone ravine; exposed flats track. Signals/Threats: distant vehicle dust cloud ~30 km east. Purpose: regain speed/range to reach Broken Bow or rejoin the caravan."
+    },
+    {
+    "chunk_id": "ch3-s3_ravine-repair-and-dust-cloud_3",
+    "type": "style_theme_focus",
+    "text": "Third-limited, technically grounded survival sequence focused on repair-vs-run calculus. Themes: maintenance as survival; speed vs safety; vulnerability in open spaces. Motifs: horizon dust as looming threat; last sunlight on solar as borrowed time; wrench twist as agency."
+    }
+    ]
+    }

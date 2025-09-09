@@ -1,0 +1,284 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "At Last, Broken Bow",
+    "scene_id": "bbow-recovery-quincy-decision",
+    "chapter_number": 50,
+    "scene_number": 3,
+    "date_in_universe": "2186-12-08",
+    "absolute_timeline_notes": "After Broken Bow clinic surgery; Chase is moved to a shabby room. Quincy, Lesha, Demmy present."
+    },
+    "text_windows": {
+    "full_scene_clean": "Quincy and Lesha manhandle the unconscious, bandaged Chase up a stairwell and into a shabby room. They drop him on the bed; Lesha collapses on the couch, already sweating and shaking with Sykotiq withdrawal. Demmy sits against the far wall, knees up, eyes open but hollow, not speaking since Fox River. Quincy holds their last half-vial of Sykotiq, hesitating as Lesha tries to be stoic and tells Quincy to give it to her and go chase leads on a cryptowitch. The room is stale and dim, a flickering holoscreen spitting ads. Quincy is torn: leave to search for her missing family or stay and care for her wrecked crew. They share cigarettes. Lesha gently but firmly reframes the choice: either go and cut clean, or stay and own it fully—because loyalty isn’t endless. They talk about Chase’s character and past sacrifice for Quincy, how he took beatings to protect her at Calum-Tam and never backed down. Lesha argues that not all brothers are blood and suggests Quincy survived because of him. Quincy admits she “never wanted to see it.” Finally, Quincy decides. She presses the vial into Lesha’s palm, vowing to find more Sykotiq, and accepts responsibility for “her people.” Lesha doses with a click and ragged exhale; the tension eases. Quincy looks at Chase’s new blue-black prosthetic arm, the wrap over his eyes, and Demmy’s empty stare. No more excuses—she commits to stay and lead, for better or worse.",
+    "dense_recap_250w": "Exhausted from hauling an unconscious, freshly augmented Chase to a dingy room, Quincy and a shaking, withdrawing Lesha confront a brutal resource triage: a half-vial of Sykotiq remains, Demmy is catatonic, and Chase lies bandaged with a new prosthetic arm and wrapped eyes awaiting calibration. Quincy, desperate to hunt a cryptowitch and her lost family, weighs leaving against the immediate needs of her crew. Lesha urges clarity: either go and don’t look back, or stay and own the consequences because loyalty has limits. Over cigarettes, they reckon with Chase’s history—he took beatings for Quincy at Calum-Tam and never stopped protecting her. Lesha frames him as the rare ally who shows up when you’re too deep in the suck, the kind you never have to ask. The realization breaks through Quincy’s defenses; she admits she chose not to see it. She thanks Lesha, decides, and places the last Sykotiq vial in Lesha’s hand, promising to find more. Lesha doses, the withdrawal easing. Quincy internalizes an ethic voiced from her caravan days—“Trust is earned, but loyalty is demonstrated”—and claims the mess as hers: Chase’s recovery, Demmy’s hollowed trauma, and Lesha’s dependency. She will not walk away; she will lead and provide. The scene cements Quincy’s pivot from lone mission-seeker to responsible anchor for her wounded team.",
+    "query_handle": "Quincy chooses her crew: gives Lesha the last Sykotiq, vows to stay and own Chase’s recovery and Demmy’s care."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Haul and collapse",
+    "what_happens": "Quincy and Lesha drag the unconscious Chase upstairs into a shabby room; Demmy sits catatonic.",
+    "involved_entities": ["quincy", "lesha", "chase", "demmy", "sykotiq-vial"],
+    "stakes_or_conflict": "Physical exhaustion and limited resources set the stage for hard choices."
+    },
+    {
+    "order": 2,
+    "label": "Withdrawal clock starts",
+    "what_happens": "Lesha’s Sykotiq withdrawal worsens; Quincy holds their last half-vial and hesitates.",
+    "involved_entities": ["lesha", "quincy", "sykotiq-vial"],
+    "stakes_or_conflict": "Health risk vs conserving scarce drug; leadership responsibility."
+    },
+    {
+    "order": 3,
+    "label": "The dilemma",
+    "what_happens": "Quincy debates leaving to chase a cryptowitch and her family vs staying to care for the team.",
+    "involved_entities": ["quincy", "lesha", "chase", "demmy"],
+    "stakes_or_conflict": "Mission vs duty; loyalty limits."
+    },
+    {
+    "order": 4,
+    "label": "Reframing through loyalty",
+    "what_happens": "Lesha argues loyalty must be owned; invokes Chase’s past sacrifices for Quincy.",
+    "involved_entities": ["lesha", "quincy", "chase"],
+    "stakes_or_conflict": "Quincy’s pride vs acknowledging debt and interdependence."
+    },
+    {
+    "order": 5,
+    "label": "Decision and dose",
+    "what_happens": "Quincy commits to her people, hands Lesha the vial, vows to find more Sykotiq; Lesha doses.",
+    "involved_entities": ["quincy", "lesha", "sykotiq-vial"],
+    "stakes_or_conflict": "Immediate relief for Lesha vs dwindling resources; Quincy’s path chosen."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Choose between leaving to find a cryptowitch/family or staying to care for Chase, Demmy, and Lesha.",
+    "obstacles": "Lesha’s withdrawal, Demmy’s catatonia, Chase’s fragile state, scarce Sykotiq, emotional debt.",
+    "tactics": "Seeks counsel, tests her own resolve, recalls past debts, ultimately commits resources and responsibility.",
+    "relationships": [
+    {"with": "lesha", "type": "ally", "state": "mutual respect; tough love", "evidence": "Lesha: “If you stay… you own it.” Quincy hands her the vial and promises more."},
+    {"with": "chase", "type": "ally/found-family", "state": "guilt softening to commitment", "evidence": "Admits he took beatings for her; vows to lead and provide now."},
+    {"with": "demmy", "type": "ally", "state": "protective caretaker", "evidence": "Worries what happens if she leaves while he’s hollowed out."}
+    ],
+    "emotional_arc": {
+    "start": "overloaded, conflicted, resentful of obligation",
+    "turning_points": ["Lesha’s loyalty ultimatum", "Recognition of Chase’s sacrifices"],
+    "end": "resolved, accepting leadership and duty"
+    },
+    "notable_actions": ["carries Chase with Lesha", "decides to stay and ‘own it’", "gives Lesha the last Sykotiq", "promises to source more"],
+    "quotable_lines": ["“Trust is earned, but loyalty is demonstrated.”", "“No more excuses. It’s mine now. My people.”"]
+    },
+    {
+    "id": "lesha",
+    "display_name": "Lesha",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Manage withdrawal enough to protect and stabilize the group; force clarity in Quincy’s decision.",
+    "obstacles": "Severe Sykotiq withdrawal; dwindling supply; physical exhaustion.",
+    "tactics": "Stoicism, humor, cigarettes; frames a binary choice; accepts the vial only after Quincy decides.",
+    "relationships": [
+    {"with": "quincy", "type": "mentor/ally", "state": "blunt guidance", "evidence": "“If you stay… then you fucking own it… loyalty ain’t endless.”"},
+    {"with": "chase", "type": "ally", "state": "respectful sympathy", "evidence": "Advocates for his recovery; recognizes his rare loyalty."}
+    ],
+    "emotional_arc": {
+    "start": "hurting, controlled, proud",
+    "turning_points": ["Pushes Quincy to decide", "Receives the vial"],
+    "end": "relieved, proud of Quincy’s choice"
+    },
+    "notable_actions": ["carries Chase", "counsels Quincy", "self-administers Sykotiq dose"],
+    "quotable_lines": ["“If you’re gonna go, then go… If you stay, you own it.”", "“Not all brothers are blood kin.”"]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": ["Sparkles"],
+    "role_in_scene": "supporting",
+    "goals_now": "Recover (unconscious).",
+    "obstacles": "Post-op fragility; prosthetic arm; ocular wraps; infection aftermath.",
+    "tactics": "—",
+    "relationships": [
+    {"with": "quincy", "type": "ally/found-family", "state": "devoted protector", "evidence": "Previously took beatings at Calum-Tam to shield her."}
+    ],
+    "emotional_arc": {
+    "start": "unconscious",
+    "turning_points": [],
+    "end": "unconscious"
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Survive acute trauma (catatonic).",
+    "obstacles": "Psychic shock from Fox River; mutism; dissociation.",
+    "tactics": "—",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "dependent; protected", "evidence": "Quincy fears what happens if she leaves him like this."}
+    ],
+    "emotional_arc": {
+    "start": "empty, hollow",
+    "turning_points": [],
+    "end": "unchanged (catatonic)"
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "sykotiq-vial",
+    "name": "Sykotiq (last vial)",
+    "category": "other",
+    "capabilities": ["stimulant/maintenance for augmented body; withdrawal relief"],
+    "owner_or_users": ["lesha"],
+    "condition_or_state": "nearly empty; administered",
+    "scene_function": "Scarce resource forcing Quincy’s leadership decision; Lesha’s immediate medical need."
+    },
+    {
+    "id": "gl7q-prosthetic",
+    "name": "Arthrobotics GL-7Q prosthetic arm",
+    "category": "cybernetics",
+    "capabilities": ["graphene-titanium laminate", "small-caliber resistant", "smart-touch sensory matrix"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "newly installed; inert beside him",
+    "scene_function": "Visual reminder of Chase’s condition and Quincy’s duty."
+    },
+    {
+    "id": "room-holoscreen",
+    "name": "Flickering holoscreen",
+    "category": "other",
+    "capabilities": ["low-grade ad loop"],
+    "owner_or_users": [],
+    "condition_or_state": "glitching",
+    "scene_function": "Sets oppressive, broken ambience during the decision."
+    },
+    {
+    "id": "cigs-lighter",
+    "name": "Cigarettes and lighter",
+    "category": "other",
+    "capabilities": ["nicotine relief", "ritual pause for reflection"],
+    "owner_or_users": ["quincy", "lesha"],
+    "condition_or_state": "running low",
+    "scene_function": "Facilitates candid talk; marks scarcity theme."
+    }
+    ],
+    "locations": [
+    {
+    "id": "broken-bow-room",
+    "name": "Shabby upstairs room, Broken Bow",
+    "type": "room",
+    "descriptors": ["stale air", "dim light", "flickering ads", "makeshift recovery space"],
+    "in_scene_events": ["Chase laid to bed; Quincy–Lesha loyalty decision; Lesha doses Sykotiq."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "calum-tam-holdfast",
+    "name": "Calum-Tam Holdfast",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Prior captors; source of past abuse.",
+    "actions_in_scene": ["Referenced in dialogue as context for Chase’s sacrifice."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["chosen family vs blood", "loyalty and debt", "leadership under scarcity", "addiction and triage", "survival after trauma"],
+    "motifs_symbols": ["last vial", "doorway threshold choice", "cigarette ember", "flickering screen", "prosthetic lying inert"],
+    "moral_questions": ["When is it right to leave a mission to care for people who saved you?", "How far does loyalty obligate action amid scarcity?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "slow-burn",
+    "voice_traits": ["tough tenderness", "dialogue-driven introspection", "material scarcity details"],
+    "sensory_notes": ["stale air", "dim flicker of ads", "smoke and ash", "glass vial coolness", "ragged exhale after dosing"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Chase’s surgery and prosthetic/ocular work at the Broken Bow clinic.",
+    "Fox River’s destruction leading to Demmy’s catatonia.",
+    "Lesha’s dependence on Sykotiq with dwindling supply.",
+    "Quincy’s broader quest to find a cryptowitch and her family."
+    ],
+    "outcomes": [
+    "Quincy commits to staying and ‘owning’ the team’s welfare.",
+    "Lesha receives the last Sykotiq dose; withdrawal temporarily stabilized.",
+    "Quincy vows to procure more Sykotiq and continue leading recovery."
+    ],
+    "unanswered_questions": [
+    "Can Quincy source more Sykotiq in time?",
+    "Will Demmy recover speech/agency?",
+    "How quickly will Chase’s optics calibrate and arm integrate?",
+    "When and how can Quincy resume the cryptowitch/family search?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Decision to leave for her mission or stay with injured allies.",
+    "resolution": "Chooses to stay and accept responsibility."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["lesha"],
+    "trigger": "Sykotiq withdrawal and pride vs asking for help.",
+    "resolution": "Accepts the vial after pushing Quincy to decide."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["group vs scarcity"],
+    "trigger": "Limited medical supplies, last stimulant vial, shabby shelter.",
+    "resolution": "Short-term relief; long-term procurement required."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "present",
+    "sexual_content": "none",
+    "sensitive_topics": ["addiction withdrawal", "medical trauma recovery", "psychological shock/catatonia"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy decision", "Lesha withdrawal", "Sykotiq vial", "Chase recovery", "Demmy catatonia", "loyalty vs mission", "Broken Bow room"],
+    "keywords_dense": "Quincy, Lesha, Chase, Demmy, Sykotiq withdrawal, last vial, Broken Bow room, loyalty decision, chosen family, cigarettes, flickering holoscreen, prosthetic arm idle, cryptowitch lead, Calum-Tam backstory",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Lesha", "Chase", "Demmy", "Davian", "Carl", "Lenya"],
+    "places": ["Broken Bow Free City", "Calum-Tam Holdfast"],
+    "orgs": [],
+    "terms": ["Sykotiq", "cryptowitch"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What scarce resource forces Quincy’s decision in the room?", "a": "The last half-vial of Sykotiq that Lesha needs to stave off withdrawal."},
+    {"q": "What choice does Lesha present to Quincy?", "a": "Either leave clean and don’t look back, or stay and ‘own it’ fully because loyalty has limits."},
+    {"q": "How is Demmy behaving during the scene?", "a": "He sits against the wall, mute and hollow, effectively catatonic."},
+    {"q": "What commitment does Quincy make after giving Lesha the vial?", "a": "She commits to her people’s care and vows to find more Sykotiq."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "bbow-recovery-quincy-decision-1",
+    "type": "recap",
+    "text": "In a shabby Broken Bow room, Quincy and Lesha haul the unconscious, bandaged Chase to bed as Demmy sits catatonic. Lesha’s Sykotiq withdrawal worsens; a half-vial remains. Torn between leaving to hunt a cryptowitch and staying to protect her broken crew, Quincy hears Lesha’s ultimatum: go clean or stay and own it, because loyalty isn’t endless. Remembering Chase’s past sacrifices, Quincy chooses to stay and lead. She gives Lesha the last vial, promises to find more, and claims responsibility for Chase’s recovery and Demmy’s care."
+    },
+    {
+    "chunk_id": "bbow-recovery-quincy-decision-2",
+    "type": "entities_focus",
+    "text": "Actors: Quincy (POV; leader at a crossroads), Lesha (merc in Sykotiq withdrawal; truth-teller), Chase (unconscious post-op; new GL-7Q arm; eyes wrapped), Demmy (mute, hollow). Items: Sykotiq vial (last), GL-7Q prosthetic arm, cigarettes/lighter, glitching holoscreen. Location: upstairs shabby room, Broken Bow. Dynamics: Lesha reframes the moral choice; Quincy commits resources and responsibility; Lesha doses; team stabilizes short-term."
+    },
+    {
+    "chunk_id": "bbow-recovery-quincy-decision-3",
+    "type": "style_theme_focus",
+    "text": "Gritty third-limited past with intimate dialogue and scarcity detail. Themes: chosen family, loyalty vs mission, leadership under constraint, addiction triage, debt and gratitude. Motifs: last vial as moral pivot, cigarette embers during hard talk, doorway as threshold, flickering ads mirroring unstable lives, prosthetic lying inert as burden of care."
+    }
+    ]
+    }

@@ -1,0 +1,206 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Retrospectives",
+    "scene_id": "retrospectives-2186-12-04-chase",
+    "chapter_number": 46,
+    "scene_number": 3,
+    "date_in_universe": "2186-12-04",
+    "absolute_timeline_notes": "Immediately after the Calum-Tam escape and Fox River’s destruction; in-transit, Chase POV processing injury and loss."
+    },
+    "text_windows": {
+    "full_scene_clean": "Chase\nEach jolt sent agony through him. He bit back a scream, teeth grinding. The world was a blur, dust and shadows. One eye was blurry—he couldn't blink it away. All he could focus on was the throb in his arm, the stabs in his ribs, and keeping his mouth shut so he didn't scream.\nHe had wanted independence, freedom. He had been carving out a life, a chance to prove his worth.\nSeems like I got my wish.\nFox River, his home, was gone. Reduced to ashes. Everyone he knew, everyone he loved, was dead. His mother, his friends... all gone. And even though he knew it was true, he felt confused. It felt like a circuit breaker had popped. Like a tri-D horror vid, when the scary music starts, and then suddenly, everything goes quiet... and you knew the monsters were about to arrive.\nExcept these monsters were real.\nToo much. He squeezed his eyes shut.\nHow could it have been Jessop? Chase still didn't believe it. Jessop loved Fox River. He had helped raise half the children Chase's age. Seen them in church. Been to their grandparents' funerals, baptized babies, presided at marriages. How could he destroy it? There was no way.\nConfusion. Disbelief. He couldn't comprehend the scale of the tragedy—the senselessness. The pain masked the ache. His mother was gone. No home, no bed. McTanner... a gut punch.\nNausea. He fought back the urge to vomit. It was sinking in. He was alone. Alone, with no idea what to do. His whole future had become a wasteland.",
+    "dense_recap_250w": "Wracked by pain with a broken arm, likely broken ribs, and a swollen eye, Chase endures each jolt as he is moved through dust and shadow. His thoughts spiral from a hard-won independence to the annihilation of Fox River and everyone he knew, including his mother. The shock feels like a tripped circuit breaker—an eerie quiet before real monsters—capturing his dissociation and rising nausea. He cannot reconcile rumors that Jessop, a beloved priest who baptized babies, presided at marriages, and shepherded families, could be responsible for the destruction; he rejects the idea as impossible even as the loss becomes undeniable. Memories of McTanner hit like a gut punch, underscoring how completely his support network has been stripped away. Overwhelmed by grief, disbelief, and physical agony, Chase recognizes that he is alone with no clear path forward and that his imagined future has become a wasteland. The scene is interior, intimate, and focused on trauma processing: a character once intent on proving himself now confronts total devastation and a crisis of faith in people he trusted.",
+    "query_handle": "Chase, gravely injured, processes Fox River’s annihilation, doubts Jessop’s guilt, and feels utterly alone."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Body in crisis",
+    "what_happens": "Chase endures severe pain from arm and rib injuries while visual perception blurs.",
+    "involved_entities": ["chase"],
+    "stakes_or_conflict": "Physical collapse vs. holding himself together."
+    },
+    {
+    "order": 2,
+    "label": "Home erased",
+    "what_happens": "He acknowledges Fox River has been destroyed and its people—including his mother—are gone.",
+    "involved_entities": ["chase", "fox-river"],
+    "stakes_or_conflict": "Acceptance of loss vs. dissociation."
+    },
+    {
+    "order": 3,
+    "label": "Cognitive dissonance about Jessop",
+    "what_happens": "Chase struggles to believe that Jessop could be behind the destruction, recalling the priest’s community care.",
+    "involved_entities": ["chase", "jessop"],
+    "stakes_or_conflict": "Trust and memory vs. emerging evidence."
+    },
+    {
+    "order": 4,
+    "label": "Isolation realized",
+    "what_happens": "He feels futureless and alone, nausea rising as the scope of loss settles.",
+    "involved_entities": ["chase"],
+    "stakes_or_conflict": "Despair vs. faint will to continue."
+    }
+    ],
+    "characters": [
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": ["Sparkles (by Quincy)"],
+    "role_in_scene": "POV",
+    "goals_now": "Survive the ride and manage overwhelming pain; make sense of Fox River’s destruction.",
+    "obstacles": "Broken arm and ribs, facial swelling; shock and grief; uncertainty about allies.",
+    "tactics": "Clenches teeth, stays silent to avoid screaming; mental review of facts and memories.",
+    "relationships": [
+    {"with": "margdelain", "type": "family", "state": "bereaved (inferred)", "evidence": "His mother is gone."},
+    {"with": "jessop", "type": "mentor/priest (community)", "state": "shattered trust vs disbelief", "evidence": "“Jessop loved Fox River… baptized babies… marriages… How could he destroy it?”"},
+    {"with": "jeb-mctanner", "type": "mentor/superior (inferred)", "state": "loss/anguish", "evidence": "“McTanner… a gut punch.”"}
+    ],
+    "emotional_arc": {
+    "start": "acute pain, shock",
+    "turning_points": ["Confronts fact of Fox River’s annihilation", "Rejects the idea Jessop could be responsible"],
+    "end": "numb, isolated, overwhelmed"
+    },
+    "notable_actions": ["suppresses screams despite injuries", "mentally audits community ties and losses"],
+    "quotable_lines": [
+    "It felt like a circuit breaker had popped.",
+    "How could it have been Jessop?",
+    "His whole future had become a wasteland."
+    ]
+    },
+    {
+    "id": "jessop",
+    "display_name": "Jessop",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "chase", "type": "spiritual leader/community figure", "state": "contested faith and trust", "evidence": "Chase recalls Jessop’s pastoral acts and doubts his guilt."}
+    ],
+    "emotional_arc": {
+    "start": "",
+    "turning_points": [],
+    "end": ""
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "margdelain",
+    "display_name": "Margdelain",
+    "aliases": ["Chancellor Margdelain"],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "chase", "type": "family", "state": "dead (inferred)", "evidence": "“His mother… gone.”"}
+    ],
+    "emotional_arc": {
+    "start": "",
+    "turning_points": [],
+    "end": ""
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "jeb-mctanner",
+    "display_name": "Jeb McTanner",
+    "aliases": ["Master McTanner"],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "chase", "type": "dead (inferred)", "state": "loss felt by Chase", "evidence": "“McTanner… a gut punch.”"}
+    ],
+    "emotional_arc": {
+    "start": "",
+    "turning_points": [],
+    "end": ""
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [],
+    "locations": [],
+    "factions_orgs": [],
+    "themes_and_motifs": {
+    "themes": ["grief and survivor’s guilt", "betrayal of trust", "identity after catastrophe", "pain endurance"],
+    "motifs_symbols": ["circuit breaker silence", "tri-D horror vid quiet before monsters", "dust and shadow blur"],
+    "moral_questions": ["How do you reconcile beloved leaders with unthinkable crimes?", "What anchors identity when home and family are erased?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/psychological",
+    "pacing": "slow-burn",
+    "voice_traits": ["interior monologue", "sensory minimalism", "trauma-focused imagery"],
+    "sensory_notes": ["bone-deep throbbing arm pain", "stabbed ribs with each jolt", "one eye swollen/blurry", "nausea rising with motion"]
+    },
+    "causality": {
+    "prior_dependencies": ["Fox River has been destroyed recently; Chase sustained severe injuries before/around the escape; rumors or claims implicate Jessop."],
+    "outcomes": ["Chase enters a grief-stricken, distrustful state; he rejects the idea of Jessop’s culpability despite loss.", "Psychological isolation is established for subsequent decisions."],
+    "unanswered_questions": ["Was Jessop actually responsible for Fox River’s destruction?", "Where can Chase find safety and medical care next?", "Will pain and grief impair his judgment?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["chase"],
+    "trigger": "Overwhelming physical pain and knowledge of Fox River’s annihilation.",
+    "resolution": "Unresolved; endures silently, falls into numb isolation."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["chase", "collapsed community order"],
+    "trigger": "City erased; authority figures lost or implicated.",
+    "resolution": "Unresolved; future uncertain."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mild",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["mass casualty/disaster", "grief and bereavement", "trauma"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Chase grief", "Fox River destroyed", "Jessop accusation", "post-catastrophe trauma", "broken arm and ribs"],
+    "keywords_dense": "Chase, Fox River annihilation, grief, trauma, broken arm, broken ribs, swollen eye, Jessop doubt, McTanner, circuit breaker metaphor",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chase", "Jessop", "Margdelain", "Jeb McTanner"],
+    "places": ["Fox River"],
+    "orgs": [],
+    "terms": ["tri-D horror vid"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What physical injuries is Chase coping with in this scene?", "a": "A broken arm, painful ribs likely broken, and a swollen/blurry eye."},
+    {"q": "What happened to Fox River, according to Chase?", "a": "It was destroyed—reduced to ashes—with its people gone."},
+    {"q": "How does Chase feel about rumors that Jessop caused the destruction?", "a": "He disbelieves it, recalling Jessop’s devotion to the community."},
+    {"q": "What metaphor does Chase use to describe his shock?", "a": "He says it feels like a circuit breaker has popped and a tri-D horror vid’s ominous quiet."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "retrospectives-chase-1",
+    "type": "recap",
+    "text": "Chase, gravely injured with a broken arm, rib pain, and a swollen eye, endures each jolt as he is moved through dust and shadow. He confronts the annihilation of Fox River and the deaths of those he loved, including his mother. Struggling to accept claims that Jessop, a beloved priest and pillar of the community, could be responsible, he rejects the idea despite mounting loss. Nausea and shock set in as he realizes he is alone and futureless."
+    },
+    {
+    "chunk_id": "retrospectives-chase-2",
+    "type": "entities_focus",
+    "text": "Primary: Chase (POV, injured, grieving). Mentioned: Jessop (trusted priest whose alleged culpability Chase doubts), Margdelain (Chase’s mother, presumed dead), Jeb McTanner (mentor figure evoking a gut punch). Place: Fox River (destroyed). No gear is foregrounded; the scene centers on pain, memory, and loss."
+    },
+    {
+    "chunk_id": "retrospectives-chase-3",
+    "type": "style_theme_focus",
+    "text": "Third-person limited, trauma-immersive, with gritty, psychological focus and slow-burn pacing. Themes: grief, betrayal of trust, identity after catastrophe, endurance of pain. Motifs: circuit breaker silence, tri-D horror vid’s ominous quiet, dust-and-shadow blur. Moral tension: reconciling beloved leadership with possible atrocity; forging purpose when home is erased."
+    }
+    ]
+    }

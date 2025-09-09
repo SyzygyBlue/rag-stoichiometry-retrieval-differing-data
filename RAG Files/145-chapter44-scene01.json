@@ -1,0 +1,330 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Unmaking",
+    "scene_id": "the-unmaking-fox-river-destruction",
+    "chapter_number": 44,
+    "scene_number": 1,
+    "date_in_universe": "2186-12-03",
+    "absolute_timeline_notes": "Night in Fox River; hours-long comms blackout after a Macrobus crash; explosion occurs roughly 30 minutes after a hidden system mixes diesel and fertilizer beneath the city."
+    },
+    "text_windows": {
+    "full_scene_clean": "Night settled over Fox River as Margdelain savored council wins and the near-certainty of Metrofederacy membership. She reviewed budgets on her datapad, smiling at progress and assuming this would be the last year she worried about allocations—once the Macrobus outage was solved. A few days earlier, the Macrobus had crashed across Fox River; technicians blamed data volume, but she doubted it. With networks dark, Jeb used runners to fetch messages to the localnet, so all news arrived late. One report spiked her attention: the Calum-Tam Holdfast was under attack by Jessop’s ravagers—odd, given their supposed alliance. She took another sip of whiskey and thought of Chase at Calum-Tam, trusting he would find a way out. \n\nBelow Fox River, a sealed chamber’s computer clicked a relay. Servo valves opened, flooding hundreds of gallons of diesel into dozens of one-ton fertilizer crates, then held to mix. Thirty minutes later, igniters fired. \n\nA white flash seared the night. A shockwave shattered stone, steel, and bodies; a fireball clawed into the sky. Kilometers away, people staggered from beds to witness an orange midnight sun and the rain of debris—metal, glass, and worse. \n\nIn the days that followed, the city was a charred skeleton: acrid air, warped vehicles, and the dead scattered among ruins. Looters pawed through wreckage as vultures gorged, while survivors wandered in shock—calling names into silence. Fox River was gone; more than a city had been lost.",
+    "dense_recap_250w": "Margdelain ends a successful day of council work believing Metrofederacy membership is near. Despite pride in budget progress, she worries about a citywide Macrobus crash that has left Fox River in an unusual blackout, forcing Jeb’s runners to shuttle delayed updates to the localnet. A new report announces that the Calum-Tam Holdfast is under attack by Jessop’s ravagers—confusing, given their supposed alliance. She drinks, reassures herself about her son Chase’s resilience, and reads on. Beneath Fox River, an automated device quietly opens servo valves to mix diesel with fertilizer packed into heavy crates. After a timed thirty-minute blend, the computer fires igniters. The detonation obliterates the city center: a blinding flash, a crushing shockwave, and a towering fireball. Debris rains down for kilometers as buildings crumple. In the aftermath, the ruins reek of burned metal and flesh; vehicles are blistered and twisted. Looters comb the wreckage; overfed vultures hop in soot. Survivors stumble through devastation, searching for loved ones and small remnants of their lives. The scene leaves Fox River effectively destroyed and raises questions about the blackout, the hidden bomb system, and the broader conflict hinted by Jessop’s moves at Calum-Tam.",
+    "query_handle": "Fox River blackout and council calm shatter as an underground device mixes ANFO and detonates, destroying the city; Calum-Tam under attack."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Council triumph and near-membership",
+    "what_happens": "Margdelain reflects on progress toward Metrofederacy membership and budget wins.",
+    "involved_entities": ["margdelain", "fox-river-council", "metrofederacy"],
+    "stakes_or_conflict": "Political ascent vs. looming instability."
+    },
+    {
+    "order": 2,
+    "label": "Citywide blackout and delayed intel",
+    "what_happens": "Macrobus crash forces manual message relays; Margdelain receives hours-old updates.",
+    "involved_entities": ["margdelain", "jeb-mctanner", "macrobus-system", "localnet-runners"],
+    "stakes_or_conflict": "Operational blindness increases risk."
+    },
+    {
+    "order": 3,
+    "label": "Report: Calum-Tam under attack",
+    "what_happens": "News claims Jessop’s ravagers assault Calum-Tam despite presumed alliance.",
+    "involved_entities": ["margdelain", "calum-tam-holdfast", "jessop", "ravagers"],
+    "stakes_or_conflict": "Alliances are unreliable; threat landscape shifts."
+    },
+    {
+    "order": 4,
+    "label": "Arming the buried device",
+    "what_happens": "In a sealed chamber beneath Fox River, a computer opens valves to mix diesel and fertilizer.",
+    "involved_entities": ["underground-device", "diesel", "fertilizer-crates"],
+    "stakes_or_conflict": "Hidden sabotage primes a mass-casualty event."
+    },
+    {
+    "order": 5,
+    "label": "Detonation and annihilation",
+    "what_happens": "Igniters fire; a catastrophic blast and fireball devastate Fox River.",
+    "involved_entities": ["underground-device", "fox-river"],
+    "stakes_or_conflict": "Existential destruction of the city."
+    },
+    {
+    "order": 6,
+    "label": "Aftermath tableau",
+    "what_happens": "Looters, vultures, and shattered survivors haunt the ruins.",
+    "involved_entities": ["fox-river-survivors", "looters", "vultures"],
+    "stakes_or_conflict": "Human cost and collapse of social order."
+    }
+    ],
+    "characters": [
+    {
+    "id": "margdelain",
+    "display_name": "Margdelain",
+    "aliases": ["Chancellor Margdelain"],
+    "role_in_scene": "major",
+    "goals_now": "Secure Metrofederacy membership and stabilize Fox River systems.",
+    "obstacles": "Citywide Macrobus crash; information delays; emerging external threats.",
+    "tactics": "Leverage council momentum; monitor delayed reports; rely on runners during blackout.",
+    "relationships": [
+    {"with": "jeb-mctanner", "type": "ally/subordinate", "state": "operational trust", "evidence": "Jeb dispatches runners to ferry updates."},
+    {"with": "chase", "type": "family", "state": "concerned", "evidence": "Worries about her son at Calum-Tam."},
+    {"with": "metrofederacy", "type": "aspirant-member", "state": "optimistic", "evidence": "Believes membership is near."}
+    ],
+    "emotional_arc": {
+    "start": "satisfied, confident",
+    "turning_points": ["Sees report of Calum-Tam under attack", "Unforeseen detonation destroys Fox River"],
+    "end": "unknown (citywide annihilation; her fate unshown)"
+    },
+    "notable_actions": ["reviews budgets on datapad", "consumes whiskey while processing delayed intel"],
+    "quotable_lines": []
+    },
+    {
+    "id": "jeb-mctanner",
+    "display_name": "Jeb McTanner",
+    "aliases": ["McTanner"],
+    "role_in_scene": "cameo",
+    "goals_now": "Maintain message flow during blackout.",
+    "obstacles": "Macrobus outage across Fox River.",
+    "tactics": "Uses runners to fetch and sideload messages to localnet.",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": ["dispatches runners"],
+    "quotable_lines": []
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Survive events at Calum-Tam (implied).",
+    "obstacles": "Distant battle; mother’s limited intel due to blackout.",
+    "tactics": "",
+    "relationships": [
+    {"with": "margdelain", "type": "family", "state": "worried parent", "evidence": "She hopes his knack for survival holds."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "jessop",
+    "display_name": "Brother Jessop",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Leads ravagers reported attacking Calum-Tam (as per intel).",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "macrobus-system",
+    "name": "Macrobus (citywide system)",
+    "category": "comms",
+    "capabilities": ["infrastructure backbone for data/services (exact function unclear)"],
+    "owner_or_users": ["fox-river"],
+    "condition_or_state": "crashed/outage",
+    "scene_function": "Blackout forces manual relays; may mask or enable sabotage timing."
+    },
+    {
+    "id": "localnet-runners",
+    "name": "Runner-mediated message relay",
+    "category": "comms",
+    "capabilities": ["physically fetch remote updates", "sideload to local network"],
+    "owner_or_users": ["jeb-mctanner", "fox-river-council"],
+    "condition_or_state": "operational workaround",
+    "scene_function": "Explains delayed situational awareness."
+    },
+    {
+    "id": "underground-device",
+    "name": "Automated explosive mixing & ignition rig",
+    "category": "other",
+    "capabilities": ["open/hold servo valves", "mix diesel with fertilizer", "time-delayed ignition"],
+    "owner_or_users": [],
+    "condition_or_state": "activated; completes detonation",
+    "scene_function": "Causes the catastrophic destruction of Fox River."
+    },
+    {
+    "id": "diesel",
+    "name": "Diesel fuel",
+    "category": "other",
+    "capabilities": ["combustible; ANFO component"],
+    "owner_or_users": [],
+    "condition_or_state": "released into fertilizer crates",
+    "scene_function": "Explosive mixture component."
+    },
+    {
+    "id": "fertilizer-crates",
+    "name": "One-ton fertilizer crates",
+    "category": "other",
+    "capabilities": ["oxidizer; ANFO component"],
+    "owner_or_users": [],
+    "condition_or_state": "soaked with diesel",
+    "scene_function": "Explosive mixture component leading to citywide blast."
+    },
+    {
+    "id": "margdelain-datapad",
+    "name": "Margdelain’s datapad",
+    "category": "comms",
+    "capabilities": ["budget review", "notification display (via local server)"],
+    "owner_or_users": ["margdelain"],
+    "condition_or_state": "operational (local server)",
+    "scene_function": "Delivers the Calum-Tam attack report amid blackout."
+    },
+    {
+    "id": "igniters",
+    "name": "Embedded igniters",
+    "category": "other",
+    "capabilities": ["initiate primary explosive reaction on command"],
+    "owner_or_users": [],
+    "condition_or_state": "triggered",
+    "scene_function": "Final step that detonates the mixed ANFO."
+    }
+    ],
+    "locations": [
+    {
+    "id": "fox-river",
+    "name": "Fox River",
+    "type": "city",
+    "descriptors": ["once-proud", "industrial", "reduced to blackened skeletons", "acrid stench of burned metal and flesh"],
+    "in_scene_events": ["Catastrophic explosion levels the city; aftermath of ruins, looting, mourning."]
+    },
+    {
+    "id": "margdelain-office",
+    "name": "Chancellor’s office, Fox River",
+    "type": "room",
+    "descriptors": ["council documents", "whiskey glass", "datapad glow"],
+    "in_scene_events": ["Margdelain reviews budgets and delayed reports; reads Calum-Tam attack note."]
+    },
+    {
+    "id": "fox-river-underchamber",
+    "name": "Sealed underground chamber beneath Fox River",
+    "type": "structure",
+    "descriptors": ["sealed", "contains relays, servo valves, igniters, fuel and fertilizer"],
+    "in_scene_events": ["Automated mixing and ignition that triggers the city-destroying blast."]
+    },
+    {
+    "id": "calum-tam-holdfast",
+    "name": "Calum-Tam Holdfast",
+    "type": "holdfast",
+    "descriptors": ["distant", "under attack (per report)"],
+    "in_scene_events": ["Referenced as being assaulted by Jessop’s ravagers."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "fox-river-council",
+    "name": "Fox River Council",
+    "alignment": "ally",
+    "agents_present": ["margdelain", "jeb-mctanner"],
+    "motives_inferred": "Stabilize governance and secure Metrofederacy membership.",
+    "actions_in_scene": ["Runs city during blackout; uses runners to maintain information flow."]
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Supranational bloc that Fox River seeks to join.",
+    "actions_in_scene": ["Referenced as Margdelain’s strategic objective."]
+    },
+    {
+    "id": "ravagers",
+    "name": "Jessop’s ravagers",
+    "alignment": "hostile",
+    "agents_present": ["jessop"],
+    "motives_inferred": "Militant zealotry; attacking Calum-Tam despite prior ties.",
+    "actions_in_scene": ["Reported assault on Calum-Tam."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["hubris and fragility of order", "information blackout and vulnerability", "terror as asymmetrical warfare", "grief and communal loss", "the price of ambition"],
+    "motifs_symbols": ["midnight sun fireball", "rain of debris", "vultures gorging", "child’s singed teddy bear", "silenced music box"],
+    "moral_questions": ["Did the blackout enable the sabotage, and who bears responsibility?", "What is sovereignty worth if it invites catastrophic retaliation?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "multi",
+    "tense": "past",
+    "register": "lyrical/cinematic with grim realism",
+    "pacing": "slow-burn to sudden cataclysm",
+    "voice_traits": ["political calculation", "foreboding technical detail", "visceral aftermath imagery"],
+    "sensory_notes": ["searing white flash", "crushing shockwave", "acrid stench of burned flesh and metal", "distant screams", "soft fall of ash and debris"]
+    },
+    "causality": {
+    "prior_dependencies": ["Macrobus crash had blinded Fox River’s comms; tensions around Jessop and ravagers; Calum-Tam conflict brewing; city storing or being infiltrated by explosive precursors."],
+    "outcomes": ["Fox River destroyed; survivors traumatized; power vacuum likely; Metrofederacy bid thrown into chaos; raises suspicion of sophisticated sabotage."],
+    "unanswered_questions": ["Who installed and triggered the underground device?", "Was the Macrobus crash part of the attack plan?", "Is Margdelain alive and able to lead?", "How does the Calum-Tam assault connect to the bombing?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_system",
+    "parties": ["margdelain", "macrobus-system"],
+    "trigger": "Citywide Macrobus crash and blackout hamper governance.",
+    "resolution": "Temporary workaround via runners; root cause unresolved."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["unknown-saboteur", "fox-river"],
+    "trigger": "Automated underground device mixes and detonates ANFO.",
+    "resolution": "Fox River is annihilated; perpetrator unknown."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["fox-river-survivors", "ruins and aftermath"],
+    "trigger": "Post-blast devastation, fire, debris, and death.",
+    "resolution": "Unresolved suffering; survival uncertain."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["jessop’s ravagers", "calum-tam-holdfast"],
+    "trigger": "Reported attack despite prior alliance.",
+    "resolution": "Unresolved in-scene."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "graphic",
+    "addiction_or_substances": "mentioned",
+    "sexual_content": "none",
+    "sensitive_topics": ["mass-casualty bombing", "death of civilians including children (implied)", "graphic remains"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Fox River destruction", "underground explosive device", "Macrobus blackout", "Calum-Tam under attack", "Jessop’s ravagers", "Metrofederacy membership risk", "Margdelain council session"],
+    "keywords_dense": "Fox River, Margdelain, Macrobus crash, blackout, runners, Calum-Tam Holdfast, Jessop, ravagers, diesel fertilizer explosive, igniters, shockwave, fireball, looters, vultures, survivors, Metrofederacy",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Margdelain", "Jeb McTanner", "Chase", "Brother Jessop"],
+    "places": ["Fox River", "Calum-Tam Holdfast"],
+    "orgs": ["Fox River Council", "Metrofederacy", "Jessop’s ravagers"],
+    "terms": ["Macrobus", "localnet", "servo valves", "igniters"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What physically destroys Fox River in this scene?", "a": "A hidden automated system mixes diesel with fertilizer and triggers igniters, causing a massive explosion."},
+    {"q": "Why are Margdelain’s updates delayed and incomplete?", "a": "A citywide Macrobus crash caused a blackout, so Jeb uses runners to sideload messages to the local network."},
+    {"q": "Who is reported to be attacking the Calum-Tam Holdfast?", "a": "Jessop’s ravagers, despite their supposed alliance with the holdfast."},
+    {"q": "What is Margdelain’s strategic goal before the blast?", "a": "Securing Fox River’s membership in the Metrofederacy."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "the-unmaking-recap",
+    "type": "recap",
+    "text": "At night in Fox River, Margdelain enjoys council progress and expects Metrofederacy membership, even as a citywide Macrobus crash forces delayed updates via runners. A report claims Jessop’s ravagers are attacking the Calum-Tam Holdfast, contradicting presumed alliances. Beneath the city, a concealed system opens servo valves to mix diesel with fertilizer; thirty minutes later, igniters fire. A blinding flash and colossal shockwave devastate Fox River. In the aftermath, ruins smolder, looters and vultures crowd the wreckage, and survivors wander in shock."
+    },
+    {
+    "chunk_id": "the-unmaking-entities",
+    "type": "entities_focus",
+    "text": "Key actors: Margdelain (chancellor), Jeb McTanner (logistics via runners), Chase (son at Calum-Tam, referenced), Brother Jessop (linked to attacking ravagers). Orgs/places: Fox River, Fox River Council, Metrofederacy, Calum-Tam Holdfast, Jessop’s ravagers. Tech/items: Macrobus (failed city system), runner-based localnet, underground automated explosive rig (servo valves, diesel, fertilizer, igniters)."
+    },
+    {
+    "chunk_id": "the-unmaking-style-theme",
+    "type": "style_theme_focus",
+    "text": "Tone shifts from political calm to apocalyptic horror in a lyrical-cinematic register. Themes: hubris and the fragility of order, blackout-enabled vulnerability, terror as asymmetric force, and collective grief. Motifs: midnight sun fireball, rain of debris, vultures, and mute relics (teddy bear, music box). The moral terrain questions who engineered the attack and whether the blackout was part of the plan."
+    }
+    ]
+    }

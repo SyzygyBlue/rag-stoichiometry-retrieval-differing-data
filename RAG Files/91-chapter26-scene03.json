@@ -1,0 +1,285 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Library Restlessness",
+    "scene_id": "foxriver-library-demmy-evelyn-two-weeks-later",
+    "chapter_number": 26,
+    "scene_number": 3,
+    "date_in_universe": "2186-11-11 to 2186-11-25",
+    "absolute_timeline_notes": "Roughly two weeks after Demmy began initiation studies at the Fox River monastery."
+    },
+    "text_windows": {
+    "full_scene_clean": "Two weeks into monastery life, Demmy sits in the Fox River Library stalled on an archaic religious tome, feeling guilt and restlessness as people still suffer in the wildlands. Evelyn has been meeting him daily—discussing assigned texts, walking in the garden, and asking about his past. Today she finishes chores early and joins him. They debate study and prayer versus urgent action: Demmy calls sitting and reading a kind of hiding; Evelyn argues for patience, faith, and wisdom before action, yet agrees prayer alone is not enough. She shows a worn paperback, The Dark Heart of Eldoria, admits she loves stories, and confesses she was assigned to help him—but now feels called to break the “normal, boring” rules to truly help. She proposes they walk to the gardens and later find a quiet place at night where Demmy can tell her everything. Demmy hesitates—suspecting he’s being kept safely tucked away—but is moved by Evelyn’s sincerity. They leave the library together, Demmy praying not for himself but for her safety.",
+    "dense_recap_250w": "Demmy struggles to engage with a dense, metaphor-heavy religious text while survivor’s guilt gnaws at him: people are dying in the wildlands as he studies in safety. Over the prior two weeks, Evelyn has become his daily companion—curious about his past, gently supportive, and increasingly focused on him more than the books. When she arrives, they candidly debate whether study and prayer are sufficient. Demmy fears reading is “hiding,” while Evelyn insists learning to ask God the right questions matters, but concedes that faith must pair with action. A revealing beat follows: a worn paperback, The Dark Heart of Eldoria, shows Evelyn’s appetite for heroic narratives. She then discloses that she was officially assigned to help Demmy because she follows rules—yet now feels called not to follow the usual script. Evelyn proposes a walk to the gardens and later a clandestine, quiet place to talk that night so Demmy can share everything. Demmy recognizes signs he’s being kept in the monastery to study and remain out of public view, but Evelyn’s warmth and seriousness shift his mood. He agrees to go with her, wrestling with trust and danger, and whispers a prayer that God keep Evelyn safe.",
+    "query_handle": "Demmy doubts study-only path; Evelyn reveals assignment and vows to help; they plan a private talk after a garden walk."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Study Stall",
+    "what_happens": "Demmy rereads an archaic text, feeling guilt and impotence about suffering in the wildlands.",
+    "involved_entities": ["demmy", "library-fox-river", "religious-tome"],
+    "stakes_or_conflict": "Conscience vs institutional pace; fear of inaction while others die."
+    },
+    {
+    "order": 2,
+    "label": "Evelyn Arrives",
+    "what_happens": "Evelyn finishes chores early to join Demmy, asks about his progress.",
+    "involved_entities": ["demmy", "evelyn"],
+    "stakes_or_conflict": "Support vs distraction; growing bond."
+    },
+    {
+    "order": 3,
+    "label": "Faith and Action Debate",
+    "what_happens": "They wrestle over prayer/study versus urgent action; both admit neither alone is enough.",
+    "involved_entities": ["demmy", "evelyn", "divine-order-sanctifying-flame"],
+    "stakes_or_conflict": "Method (patience) vs mission (immediacy)."
+    },
+    {
+    "order": 4,
+    "label": "Paperback Reveal",
+    "what_happens": "Evelyn reveals her worn novel, The Dark Heart of Eldoria, hinting at longing for adventure.",
+    "involved_entities": ["evelyn", "eldoria-paperback", "demmy"],
+    "stakes_or_conflict": "Fantasy ideals vs Demmy’s brutal reality."
+    },
+    {
+    "order": 5,
+    "label": "Assigned… and Choosing Not to Obey",
+    "what_happens": "Evelyn admits she was assigned to help but chooses to step beyond the rules to truly aid Demmy.",
+    "involved_entities": ["evelyn", "demmy", "divine-order-sanctifying-flame"],
+    "stakes_or_conflict": "Obedience to institution vs personal calling; trust test for Demmy."
+    },
+    {
+    "order": 6,
+    "label": "Plan the Garden Walk",
+    "what_happens": "Evelyn proposes a garden visit and a secret meeting place at night for full disclosure.",
+    "involved_entities": ["evelyn", "demmy", "monastery-gardens"],
+    "stakes_or_conflict": "Secrecy and risk; choice to confide."
+    },
+    {
+    "order": 7,
+    "label": "Departure and Prayer",
+    "what_happens": "They leave the library together; Demmy silently prays for Evelyn’s safety.",
+    "involved_entities": ["demmy", "evelyn", "library-fox-river"],
+    "stakes_or_conflict": "Commitment to a path that may invite danger."
+    }
+    ],
+    "characters": [
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Help the wildlands; avoid being a passive bystander; decide how much truth to share with Evelyn.",
+    "obstacles": "Institutional containment via study; survivor’s guilt; fear of endangering Evelyn; distrust of fantasy solutions.",
+    "tactics": "Candid dialogue; cautious withholding; prayer for her safety; agreeing to walk and talk privately.",
+    "relationships": [
+    {"with": "evelyn", "type": "ally/potential romantic", "state": "deepening trust, protective concern", "evidence": "Handholding; private plans; ‘God… keep her safe.’"},
+    {"with": "divine-order-sanctifying-flame", "type": "institution", "state": "grateful but wary of being ‘tucked away’", "evidence": "Food brought to dorm; heavy reading; sense of being kept studying."}
+    ],
+    "emotional_arc": {
+    "start": "restless, guilty, stalled",
+    "turning_points": ["Evelyn’s insistence on faith-and-action balance", "Her admission of assignment and choice to help beyond rules"],
+    "end": "tentatively hopeful, protective, willing to risk limited trust"
+    },
+    "notable_actions": ["debates study vs action", "admits fear reading is hiding", "agrees to garden walk and private talk", "prays for Evelyn’s safety"],
+    "quotable_lines": [
+    "It feels like hiding, Evelyn.",
+    "God, if you’re listening… forget about me. Just keep her safe."
+    ]
+    },
+    {
+    "id": "evelyn",
+    "display_name": "Evelyn",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Truly help Demmy discern his path; move beyond rote obedience; learn his full story.",
+    "obstacles": "Institutional expectations; inexperience with real danger; Demmy’s guardedness.",
+    "tactics": "Empathy, physical reassurance (hand, chin lift), frank confession of assignment, proposing discreet meetings.",
+    "relationships": [
+    {"with": "demmy", "type": "ally/potential romantic", "state": "sincere, electrified interest", "evidence": "‘I feel like helping you is part of what I’m meant to do.’"}
+    ],
+    "emotional_arc": {
+    "start": "earnest, curious",
+    "turning_points": ["Reveals her assignment; chooses to deviate from rules", "Proposes clandestine talk"],
+    "end": "resolute, conspiratorial, hopeful"
+    },
+    "notable_actions": ["arrives early to study with Demmy", "reveals paperback The Dark Heart of Eldoria", "admits assignment, chooses to help beyond rules", "proposes garden walk and secret meeting"],
+    "quotable_lines": [
+    "It takes both. Heart and head. Faith and action.",
+    "I was assigned… but I don’t think I’m going to do that this time."
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "religious-tome",
+    "name": "Archaic Religious Tome",
+    "category": "other",
+    "capabilities": ["doctrinal instruction", "symbolic teaching"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "intact, challenging prose",
+    "scene_function": "Embodies Demmy’s frustration with study-only progress."
+    },
+    {
+    "id": "eldoria-paperback",
+    "name": "The Dark Heart of Eldoria (paperback)",
+    "category": "other",
+    "capabilities": ["narrative escape", "heroic archetype mirror"],
+    "owner_or_users": ["evelyn"],
+    "condition_or_state": "dog-eared, well-loved",
+    "scene_function": "Reveals Evelyn’s taste and longing for adventure; contrasts fantasy vs Demmy’s reality."
+    },
+    {
+    "id": "reading-list-stack",
+    "name": "Reading List Stack",
+    "category": "other",
+    "capabilities": ["curriculum workload"],
+    "owner_or_users": ["demmy", "evelyn"],
+    "condition_or_state": "complete set located in library",
+    "scene_function": "Signals months of study and Demmy’s dread at delays to action."
+    },
+    {
+    "id": "evelyn-satchel",
+    "name": "Evelyn’s Satchel",
+    "category": "other",
+    "capabilities": ["carry books/personal items"],
+    "owner_or_users": ["evelyn"],
+    "condition_or_state": "in use",
+    "scene_function": "Holds the revealed paperback."
+    }
+    ],
+    "locations": [
+    {
+    "id": "library-fox-river",
+    "name": "Fox River Monastery Library",
+    "type": "structure",
+    "descriptors": ["quiet tables", "stacks of intimidating tomes", "safe, studious atmosphere"],
+    "in_scene_events": ["Debate on study vs action; Evelyn’s assignment confession; decision to leave for the gardens."]
+    },
+    {
+    "id": "monastery-gardens",
+    "name": "Monastery Gardens",
+    "type": "structure",
+    "descriptors": ["quiet paths", "contemplative space (offstage)"],
+    "in_scene_events": ["Proposed walk now and plan for later private conversation."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "divine-order-sanctifying-flame",
+    "name": "Divine Order of the Sanctifying Flame",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Educate and contain initiates via study and prayer; maintain order during wider Fox River unrest.",
+    "actions_in_scene": ["Assigns Evelyn as Demmy’s helper/handler (revealed)", "Feeds/studies keep Demmy within monastery (implied)."]
+    },
+    {
+    "id": "fox-river-leadership",
+    "name": "Fox River Leadership",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Political stability amid uproar (missing councilman mentioned).",
+    "actions_in_scene": ["Referenced as context by Evelyn; not directly acting here."]
+    },
+    {
+    "id": "ravagers",
+    "name": "Ravagers",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Predatory force in the wildlands.",
+    "actions_in_scene": ["Referenced as threat; prior gunfight noted."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["faith vs action", "survivor’s guilt", "calling and vocation", "trust and secrecy", "institution vs individual conscience", "budding intimacy"],
+    "motifs_symbols": ["dog-eared novel vs dusty scripture", "library quiet as containment", "garden as threshold to decision"],
+    "moral_questions": ["Is patient study moral while others suffer now?", "When is breaking rules justified by calling?", "How much truth should be shared when it may endanger others?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "introspective, tender, quietly political",
+    "pacing": "slow-burn",
+    "voice_traits": ["trauma-aware interiority", "earnest dialogue", "romantic undercurrent"],
+    "sensory_notes": ["library hush", "texture of worn paperback", "warmth/pressure of handholding"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Demmy’s assignment to extensive reading and prayer.",
+    "Evelyn’s prior daily meetings and curiosity about Demmy’s past.",
+    "Demmy’s survival of ravager gunfight and rescue to Fox River; Chase/Quincy’s departure (referenced)."
+    ],
+    "outcomes": [
+    "Evelyn reveals institutional assignment and personal decision to help beyond rules.",
+    "Plan to meet privately, increasing risk and trust.",
+    "Demmy’s guilt softens into focused protectiveness of Evelyn."
+    ],
+    "unanswered_questions": [
+    "Will they actually meet at night and what will Demmy reveal?",
+    "Is the Order intentionally sequestering Demmy, and why?",
+    "Can Evelyn handle the danger Demmy anticipates?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["demmy"],
+    "trigger": "Studying while others suffer; fear of endangering Evelyn.",
+    "resolution": "Partial—agrees to walk and consider private talk; prays for her safety."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["demmy", "divine-order-sanctifying-flame"],
+    "trigger": "Perceived containment via reading regimen and seclusion.",
+    "resolution": "Unresolved—Evelyn chooses to deviate from rules."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["demmy", "evelyn"],
+    "trigger": "Disagreement on pace: action now vs preparation.",
+    "resolution": "Synthesis—both affirm ‘faith and action’ and plan discreet steps."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["survivor’s guilt", "starvation and death in wildlands (referenced)", "political unrest (missing councilman, implied)"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Demmy", "Evelyn", "Fox River Monastery Library", "Divine Order of the Sanctifying Flame", "The Dark Heart of Eldoria", "faith vs action", "garden meeting plan"],
+    "keywords_dense": "Demmy, Evelyn, Fox River library, Divine Order of the Sanctifying Flame, reading list, survivor’s guilt, prayer and action, clandestine meeting, garden, paperback fantasy novel, Eldoria, wildlands suffering, institutional containment",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Demmy", "Evelyn", "Chancellor Margdelain’s son (Chase)"],
+    "places": ["Fox River Monastery Library", "Monastery Gardens", "Wildlands", "Fox River"],
+    "orgs": ["Divine Order of the Sanctifying Flame", "Fox River Leadership", "Ravagers"],
+    "terms": ["reading list", "calling", "prayer", "The Dark Heart of Eldoria"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What non-scripture book does Evelyn show Demmy?", "a": "A worn paperback titled The Dark Heart of Eldoria."},
+    {"q": "Why is Demmy frustrated with study?", "a": "He feels reading is ‘hiding’ while people in the wildlands are starving, bleeding, or hunted."},
+    {"q": "What does Evelyn reveal about her role?", "a": "She was assigned by the Order to help Demmy but chooses to go beyond the rules to truly help."},
+    {"q": "Where do they plan to go to talk?", "a": "They leave for the gardens and plan to find a quiet place later that night."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "library-two-weeks-1-recap",
+    "type": "recap",
+    "text": "In the Fox River Library two weeks into initiation, Demmy stalls on dense doctrine, wracked by survivor’s guilt about the wildlands. Evelyn arrives, and they debate the balance of prayer/study and action; both agree neither alone is enough. She reveals a beloved adventure paperback and confesses she was assigned to help him but now feels called to break routine to truly assist. She proposes a garden walk and a later private place to talk so Demmy can share everything. He senses he’s being kept safely in the monastery, yet trusts her enough to go, praying for her safety."
+    },
+    {
+    "chunk_id": "library-two-weeks-2-entities",
+    "type": "entities_focus",
+    "text": "Key people: Demmy (traumatized initiate torn between study and action), Evelyn (assigned helper choosing to defy norms to aid him). Orgs/factions: Divine Order of the Sanctifying Flame (institution shaping study and containment), Fox River leadership (political unrest referenced), Ravagers (external threat). Items: archaic religious tome; The Dark Heart of Eldoria paperback; reading list stack; Evelyn’s satchel. Places: Fox River Monastery Library; Monastery Gardens (planned meeting site)."
+    },
+    {
+    "chunk_id": "library-two-weeks-3-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-limited, past tense with intimate interiority and gentle romance. Themes: faith vs action; survivor’s guilt; calling vs obedience; trust and secrecy; fantasy vs reality. Motifs: dusty scripture vs dog-eared novel; garden as threshold; handholding as trust signal. Tone is quiet, earnest, and contemplative with a slow-burn pace."
+    }
+    ]
+    }

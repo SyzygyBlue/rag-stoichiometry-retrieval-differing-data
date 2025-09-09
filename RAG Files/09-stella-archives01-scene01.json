@@ -1,0 +1,360 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "first-light-in-a-new-world-2165-08-19",
+    "chapter_number": "Stella Archives 01",
+    "scene_number": "Scene 01",
+    "date_in_universe": "2165-08-19",
+    "absolute_timeline_notes": "Metro immigration/induction day for Lucas’s family; post-implant recovery and onboarding at a Stella facility."
+    },
+    "text_windows": {
+    "full_scene_clean": "Citizen ID 291874232 Lucas undergoes successful optic-nerve interface surgery with nerve-collar implants and temporary corneal displays for calibration. Technicians explain that Stella will map the optic pathways over three weeks, after which images can be projected directly to cortex. Lucas’s family—wife Michelle, son Randy, daughter Shelly—visit in recovery. Technician Charlie demonstrates UI: an upgraded tongue mag-dot and reactive ink patterns on palate/teeth, enabling lingual control of a Personal Information Display (PID). Lucas authorizes Charlie’s shadow control and begins Stella’s induction course. They discuss SAIR (Stella Aggregated Identity Ranking), Goldilocks Zone learning, and daily planning around objectives. Randy is eager for surgery; Michelle hesitates and withholds Shelly for now, proposing the girls go later. In a common area, Lucas practices voice and tongue inputs, views his SAIR dashboard, and consents for Randy’s procedure via a message panel. Randy departs with Charlie to begin, while Lucas continues onboarding, feeling both pride and apprehension about their new life under Stella and the Metrofederacy.",
+    "dense_recap_250w": "In 2165, Lucas completes Metrofederacy optic-nerve implant surgery: interface collars are placed on the optic nerves and temporary corneal displays installed for calibration. A technician, Charlie, introduces Lucas to Stella’s interface stack—an upgraded tongue ‘mag-dot’ working with reactive ink on palate/teeth to control a Personal Information Display (PID). Lucas accepts Charlie’s shadow request and starts the training module. Stella’s SAIR (Aggregated Identity Ranking) and the ‘Goldilocks Zone’ learning model are explained as the basis for careers, compensation, and daily goals. Michelle is cautious about rapid adoption, agreeing that Randy (12) can proceed now while she and Shelly (7) wait. In the bustling induction common area, Lucas uses voice and lingual gestures to bring up his SAIR, navigates graphs, and signs a digital consent so Randy can enter a surgery surgepod immediately. The scene balances awe at seamless human–AI integration with concerns about surveillance and family pacing of adoption. Lucas feels both excitement and responsibility as he embraces the Metrofederacy’s promise and prepares to guide his family through the transition.",
+    "query_handle": "Lucas completes optic-nerve implant; learns PID/SAIR; family debates timing; consents Randy’s induction in Stella facility."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Surgery success & calibration plan",
+    "what_happens": "Lucas receives optic-nerve collars and temporary corneal displays; Stella will complete mapping in ~3 weeks.",
+    "involved_entities": ["lucas", "charlie-tech", "optic-nerve-collars", "corneal-displays-temp"],
+    "stakes_or_conflict": "Trust in invasive tech vs promised capability."
+    },
+    {
+    "order": 2,
+    "label": "Lingual interface onboarding",
+    "what_happens": "Charlie enables Lucas’s PID via tongue mag-dot and reactive palate ink; Lucas accepts a shadow request and starts training.",
+    "involved_entities": ["lucas", "charlie-tech", "lingual-magdot", "reactive-ink-palate", "pid"],
+    "stakes_or_conflict": "Learning curve and control vs disorientation."
+    },
+    {
+    "order": 3,
+    "label": "SAIR and Goldilocks Zone explained",
+    "what_happens": "Charlie and Randy outline SAIR scoring and skill-building pathways that guide careers and daily objectives.",
+    "involved_entities": ["lucas", "charlie-tech", "randy", "sair"],
+    "stakes_or_conflict": "Opportunity vs systemic assessment/surveillance."
+    },
+    {
+    "order": 4,
+    "label": "Family friction on timing",
+    "what_happens": "Randy pushes to go next; Michelle balks and holds back Shelly, proposing the girls later.",
+    "involved_entities": ["michelle", "randy", "shelly", "lucas"],
+    "stakes_or_conflict": "Parental caution vs youthful eagerness; consent pacing."
+    },
+    {
+    "order": 5,
+    "label": "Consent and handoff",
+    "what_happens": "In the common area, Lucas practices PID, views SAIR, signs digital consent; Randy departs with Charlie.",
+    "involved_entities": ["lucas", "charlie-tech", "randy", "pid", "surgepod"],
+    "stakes_or_conflict": "Embracing system vs parental anxiety."
+    }
+    ],
+    "characters": [
+    {
+    "id": "lucas",
+    "display_name": "Lucas",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Adopt Stella interface, begin training, responsibly onboard family into Metro life.",
+    "obstacles": "New UI modality, surveillance concerns, family hesitations.",
+    "tactics": "Follow technician guidance, practice voice/lingual inputs, review SAIR data, complete required consents.",
+    "relationships": [
+    {"with": "michelle", "type": "spouse", "state": "supportive-with-tension", "evidence": "She frowns at fast-tracking both children; he tries to reassure and lead."},
+    {"with": "randy", "type": "parent-child", "state": "encouraging/proud", "evidence": "Approves consent; shares excitement for tech."},
+    {"with": "shelly", "type": "parent-child", "state": "protective/warm", "evidence": "Reassures about pain; acknowledges waiting plan."},
+    {"with": "charlie-tech", "type": "patient-technician", "state": "trusting", "evidence": "Accepts shadow control; follows training steps."}
+    ],
+    "emotional_arc": {
+    "start": "anxious but hopeful",
+    "turning_points": ["Sees PID welcome screen", "Understands SAIR’s role", "Signs consent for Randy"],
+    "end": "cautious optimism, renewed responsibility"
+    },
+    "notable_actions": ["accepts-shadow-request", "initiates-training-module", "navigates-sair-dashboard", "consents-randy-surgery"],
+    "quotable_lines": [
+    "I see a glowing green tooth… and the words 'shadow request from Charlie_182719034'."
+    ]
+    },
+    {
+    "id": "michelle",
+    "display_name": "Michelle",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Protect children; pace adoption of invasive tech.",
+    "obstacles": "Institutional momentum; family enthusiasm.",
+    "tactics": "Delay Shelly’s procedure; propose mother–daughter later slot; question SAIR implications.",
+    "relationships": [
+    {"with": "lucas", "type": "spouse", "state": "aligned-but-cautious", "evidence": "Reluctant smile; frown at fast consent."},
+    {"with": "randy", "type": "parent-child", "state": "restraining but supportive", "evidence": "Allows after Lucas acclimates."},
+    {"with": "shelly", "type": "parent-child", "state": "soothing/protective", "evidence": "Comforts disappointment; 'Just us girls' later."}
+    ],
+    "emotional_arc": {
+    "start": "worried, skeptical",
+    "turning_points": ["Sees tech demo projecting to datapad", "Negotiates girls’ timing"],
+    "end": "guarded acceptance"
+    },
+    "notable_actions": ["sets-boundaries-for-children", "defers-shelly-implant"],
+    "quotable_lines": [
+    "So, this AI… it judges us? Tracks our every move and gives us a grade?"
+    ]
+    },
+    {
+    "id": "randy",
+    "display_name": "Randy",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Get implants and join Stella quickly.",
+    "obstacles": "Parental consent; scheduling.",
+    "tactics": "Cite knowledge of SAIR and Goldilocks Zone; push enthusiasm.",
+    "relationships": [
+    {"with": "lucas", "type": "parent-child", "state": "admiring/excited", "evidence": "‘Can I go next?’; 'Just be there when I wake up.'"}
+    ],
+    "emotional_arc": {
+    "start": "eager",
+    "turning_points": ["Receives consent", "Heads to surgepod"],
+    "end": "triumphant anticipation"
+    },
+    "notable_actions": ["advocates-for-procedure", "quotes-stella-concepts"],
+    "quotable_lines": [
+    "I read all about this, Mom… Stella will guide you through it."
+    ]
+    },
+    {
+    "id": "shelly",
+    "display_name": "Shelly",
+    "aliases": ["Shelly (daughter)"],
+    "role_in_scene": "supporting",
+    "goals_now": "Reassurance and inclusion.",
+    "obstacles": "Age/parental caution.",
+    "tactics": "Asks to go next; accepts delay with mother.",
+    "relationships": [
+    {"with": "michelle", "type": "parent-child", "state": "comforted", "evidence": "‘Just us girls’ plan."},
+    {"with": "lucas", "type": "parent-child", "state": "affectionate", "evidence": "Holds hand; asks about pain."}
+    ],
+    "emotional_arc": {
+    "start": "concerned for dad",
+    "turning_points": ["Told to wait", "Consoled by Michelle"],
+    "end": "disappointed but calm"
+    },
+    "notable_actions": ["seeks-reassurance"],
+    "quotable_lines": [
+    "Does it hurt?"
+    ]
+    },
+    {
+    "id": "charlie-tech",
+    "display_name": "Charlie",
+    "aliases": ["Charlie_182719034"],
+    "role_in_scene": "supporting",
+    "goals_now": "Onboard patient; explain Stella UI and SAIR; process consent.",
+    "obstacles": "Patient unfamiliarity; family concern.",
+    "tactics": "Shadow request, stepwise training, screen-projection to reduce disorientation.",
+    "relationships": [
+    {"with": "lucas", "type": "clinician-patient", "state": "professional/trusted", "evidence": "Guides to training; validates steps."}
+    ],
+    "emotional_arc": {
+    "start": "confident/informative",
+    "turning_points": ["Gains control of display", "Schedules Randy"],
+    "end": "efficient, upbeat"
+    },
+    "notable_actions": ["initiates-shadow-control", "starts-training-module", "queues-surgepod"],
+    "quotable_lines": [
+    "Most people wake up and look at their SAIR, and then plan their day around objectives."
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "optic-nerve-collars",
+    "name": "Optic nerve interface collars",
+    "category": "cybernetics",
+    "capabilities": ["direct neural visual projection", "nerve fiber mapping via crystal growth"],
+    "owner_or_users": ["lucas"],
+    "condition_or_state": "newly implanted; mapping pending (~3 weeks)",
+    "scene_function": "Core augmentation enabling Stella’s direct-to-cortex visuals."
+    },
+    {
+    "id": "corneal-displays-temp",
+    "name": "Temporary corneal displays",
+    "category": "cybernetics",
+    "capabilities": ["visual overlays for calibration/training"],
+    "owner_or_users": ["lucas"],
+    "condition_or_state": "installed; slated for removal after mapping",
+    "scene_function": "Bridge UI until neural link is active."
+    },
+    {
+    "id": "lingual-magdot",
+    "name": "Tongue mag-dot implant",
+    "category": "cybernetics",
+    "capabilities": ["high-resolution lingual input gestures"],
+    "owner_or_users": ["lucas"],
+    "condition_or_state": "upgraded",
+    "scene_function": "Primary input for PID selections/commands."
+    },
+    {
+    "id": "reactive-ink-palate",
+    "name": "Reactive ink palate/teeth patterns",
+    "category": "cybernetics",
+    "capabilities": ["gesture sensing", "tooth-tap shortcuts"],
+    "owner_or_users": ["lucas"],
+    "condition_or_state": "freshly applied",
+    "scene_function": "Enables precise, hidden command inputs."
+    },
+    {
+    "id": "pid",
+    "name": "Personal Information Display (PID)",
+    "category": "comms",
+    "capabilities": ["HUD overlays", "messaging/consent", "data dashboards"],
+    "owner_or_users": ["lucas"],
+    "condition_or_state": "activated",
+    "scene_function": "Lucas’s interface to Stella, SAIR, and training."
+    },
+    {
+    "id": "sair",
+    "name": "Stella Aggregated Identity Ranking (SAIR)",
+    "category": "other",
+    "capabilities": ["multidimensional scoring", "eligibility gating", "goal management"],
+    "owner_or_users": [],
+    "condition_or_state": "operational system-wide",
+    "scene_function": "Explains incentives and life-structuring within Metrofederacy."
+    },
+    {
+    "id": "surgepod",
+    "name": "Surgery surgepod",
+    "category": "medical",
+    "capabilities": ["automated implantation", "remote surgical support"],
+    "owner_or_users": [],
+    "condition_or_state": "available (nine free)",
+    "scene_function": "Randy’s queued procedure."
+    },
+    {
+    "id": "technician-datapad",
+    "name": "Technician datapad (projected display)",
+    "category": "comms",
+    "capabilities": ["externalizing AR data for lay comfort"],
+    "owner_or_users": ["charlie-tech"],
+    "condition_or_state": "used as prop/projection surface",
+    "scene_function": "Human factors—reduces patient disorientation."
+    },
+    {
+    "id": "audio-studs",
+    "name": "Mic/lip and tragus speaker studs",
+    "category": "cybernetics",
+    "capabilities": ["voice I/O to Stella"],
+    "owner_or_users": ["lucas"],
+    "condition_or_state": "pre-existing, functional",
+    "scene_function": "Voice commands during early training."
+    }
+    ],
+    "locations": [
+    {
+    "id": "stella-med-recovery",
+    "name": "Stella medical recovery room",
+    "type": "structure",
+    "descriptors": ["sterile white", "antiseptic scent", "soft machine hum"],
+    "in_scene_events": ["Post-op briefing; PID activation; family visit."]
+    },
+    {
+    "id": "induction-common",
+    "name": "Induction common area",
+    "type": "structure",
+    "descriptors": ["bustling", "voices and tech hum", "refreshment stand"],
+    "in_scene_events": ["SAIR dashboard exploration; consent signing; Randy’s handoff."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Integrate citizens with post-scarcity compensation and skill pathways.",
+    "actions_in_scene": ["Provides surgery, onboarding, and training infrastructure."]
+    },
+    {
+    "id": "stella-ai",
+    "name": "Stella AI",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Optimize citizen development, govern via SAIR and tailored learning.",
+    "actions_in_scene": ["Runs PID, courses, SAIR scoring, and voice responses."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Integration of human and AI", "Surveillance vs opportunity", "Family consent and pacing", "Learning as continuous optimization"],
+    "motifs_symbols": ["glowing tooth tap", "black welcome square", "blank datapad as social prop"],
+    "moral_questions": ["How much autonomy do you trade for optimized outcomes?", "Who decides the pace of invasive tech for children?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "technical/hopeful/clinical",
+    "pacing": "brisk onboarding with reflective beats",
+    "voice_traits": ["procedural clarity", "expository dialogue", "awe tempered by caution"],
+    "sensory_notes": ["antiseptic smell", "machine hum", "visual HUD overlays"]
+    },
+    "causality": {
+    "prior_dependencies": ["Family saved holocreds; purchased Metro citizenship; prior corneal lenses from a Free City."],
+    "outcomes": ["Lucas begins PID/SAIR training", "Randy queued for surgery", "Michelle delays Shelly’s procedure", "Family embedded into Metro systems workflow"],
+    "unanswered_questions": ["How will SAIR impact each family member’s path?", "Will Michelle accept full integration?", "How will the neural link change Lucas’s perception after mapping?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_system",
+    "parties": ["michelle", "sair/stella-ai"],
+    "trigger": "SAIR’s evaluative role and pervasive tracking.",
+    "resolution": "Unresolved; cautious compliance."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["michelle", "lucas"],
+    "trigger": "Decision to proceed immediately with children’s procedures.",
+    "resolution": "Partial compromise: Randy proceeds; Shelly waits."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["lucas"],
+    "trigger": "Adapting to invasive UI and responsibility for family’s transition.",
+    "resolution": "Leans into training, accepts stewardship."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["invasive medical procedure", "child medical consent", "surveillance/governance"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Lucas", "Michelle", "Randy", "Shelly", "Stella AI", "SAIR", "PID", "optic nerve implant", "Metro onboarding"],
+    "keywords_dense": "Lucas, Michelle, Randy, Shelly, Charlie, Stella AI, Metrofederacy, optic nerve collars, corneal displays, mag-dot tongue implant, reactive ink palate, PID, SAIR, Goldilocks Zone, surgepod, onboarding, consent",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Lucas", "Michelle", "Randy", "Shelly", "Charlie"],
+    "places": [],
+    "orgs": ["Metrofederacy", "Stella"],
+    "terms": ["PID", "SAIR", "Goldilocks Zone", "shadow request", "surgepod", "mag-dot"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What implants and interfaces does Lucas use immediately after surgery?", "a": "Optic-nerve collars with temporary corneal displays, an upgraded tongue mag-dot, and reactive ink palate/teeth to control the PID."},
+    {"q": "Why is SAIR important in the Metrofederacy?", "a": "It aggregates identity metrics to unlock careers, compensation, housing, and guides skill development via tailored objectives."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2165-08-19-recap",
+    "type": "recap",
+    "text": "After successful optic-nerve implant surgery, Lucas activates a tongue-and-palate-driven PID under technician Charlie’s guidance. Stella’s SAIR system and Goldilocks learning model are explained as foundations of Metro life. Michelle is cautious; Randy is eager and receives consent to enter a surgery surgepod, while Shelly will wait. In a common area, Lucas practices HUD control, views his SAIR dashboard, and finalizes Randy’s consent—embracing the Metrofederacy’s promise amid concerns about surveillance and family pacing."
+    },
+    {
+    "chunk_id": "2165-08-19-entities",
+    "type": "entities_focus",
+    "text": "People: Lucas (new citizen, engineer), Michelle (cautious spouse), Randy (tech-enthused 12-year-old), Shelly (7, reassured), Charlie (technician). Tech: optic-nerve collars, temporary corneal displays, tongue mag-dot, reactive ink palate/teeth, PID HUD, SAIR ranking, surgepods, audio/mic studs, technician datapad projection. Orgs: Metrofederacy, Stella AI. Places: Recovery room, induction common area."
+    },
+    {
+    "chunk_id": "2165-08-19-style-theme",
+    "type": "style_theme_focus",
+    "text": "Clinical, technical third-limited narration balances awe and caution. Themes: human–AI integration, optimization vs autonomy, parental consent, data-driven life planning. Motifs: glowing tooth tap, black ‘Welcome to Stella’ square, blank datapad as social mask. Tension centers on embracing a surveilled but opportunity-rich system while safeguarding family agency."
+    }
+    ]
+    }

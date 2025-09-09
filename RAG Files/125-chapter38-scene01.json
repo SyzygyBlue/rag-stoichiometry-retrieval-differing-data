@@ -1,0 +1,373 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Never Waste a Good Crisis",
+    "scene_id": "2186-11-27-never-waste-a-good-crisis",
+    "chapter_number": 38,
+    "scene_number": 1,
+    "date_in_universe": "2186-11-27",
+    "absolute_timeline_notes": "POV Margdelain in Fox River chancellery office; Olafsen delivers Chase’s letter and screenshots; Margdelain mobilizes TRG via McTanner to seize lower levels after Evelyn’s abduction and Demmy’s descent."
+    },
+    "text_windows": {
+    "full_scene_clean": "Master Scrivener Francis announces Brother Olafsen, who brings a letter from Chase and screenshots tied to a ravager datapad Evelyn borrowed from Demmy. Olafsen reports church higher-ups were monitoring the device, abducted Evelyn, and took the datapad; he fears Demmy is descending to the lower levels to rescue her, citing violent scripture and warning innocents be cleared. Margdelain feigns concern, asks for copies, and secretly sends sublingual orders: contact McTanner to recover the datapad and mobilize the TRG to secure the barred lower levels under the cover of a crime scene. Internally, she intends to use the crisis to destroy Brother Jessop politically, possibly elevate Olafsen, and later spin Demmy as a hero if he survives. As Olafsen departs, she receives confirmation McTanner’s forces are moving, pours whiskey, and reflects on never wasting a good crisis.",
+    "dense_recap_250w": "In her Fox River office, Chancellor Margdelain receives Brother Olafsen, who brings a letter from her son Chase to Demmy and screenshots of messages tied to a ravager datapad. Olafsen explains Evelyn borrowed Demmy’s captured device; senior clergy monitored it, abducted her, and seized the datapad minutes after it came online. He fears Demmy is already infiltrating the forbidden lower levels to rescue Evelyn, empowered by biblical justifications and the will to harm those responsible. Margdelain outwardly expresses alarm and promises to alert the TRG, while internally she sees opportunity: she privately orders Master Scrivener Francis (via sublingual message) to have McTanner retrieve the datapad and mobilize the TRG to take the long-barred lower levels as a crime scene, planning to end Brother Jessop’s political campaign against her. She resolves to leverage any evidence found—or fabricate it amid the chaos—and considers rewarding Olafsen and even decorating Demmy if he survives. As Olafsen leaves, Margdelain’s aural implant confirms McTanner’s forces are already moving. She toasts the moment with whiskey, thinking, “Never waste a good crisis,” recognizing the situation as a gift to consolidate power and neutralize the church’s interference.",
+    "query_handle": "Margdelain exploits Olafsen’s warning—orders TRG via McTanner to seize Fox River’s lower levels after Evelyn’s abduction."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Urgent audience",
+    "what_happens": "Francis ushers in Brother Olafsen with a letter and device; he insists the matter is urgent.",
+    "involved_entities": ["margdelain", "brother-olafsen", "master-scrivener-francis", "handheld-olafsen", "letter-chase-to-demmy"],
+    "stakes_or_conflict": "Potential exposure of church–ravager collusion and looming violence."
+    },
+    {
+    "order": 2,
+    "label": "Abduction and surveillance revealed",
+    "what_happens": "Olafsen reports Evelyn’s abduction and that higher-ups monitored Demmy’s captured datapad.",
+    "involved_entities": ["brother-olafsen", "evelyn", "ravager-datapad", "the-order-fox-river"],
+    "stakes_or_conflict": "Evidence chain and a kidnapped initiate imply deep corruption."
+    },
+    {
+    "order": 3,
+    "label": "Demmy’s intent and warning",
+    "what_happens": "Olafsen fears Demmy is descending to rescue Evelyn and will harm obstructors; he urges intervention.",
+    "involved_entities": ["brother-olafsen", "demmy", "evelyn"],
+    "stakes_or_conflict": "Risk of bloodshed in restricted levels."
+    },
+    {
+    "order": 4,
+    "label": "Realpolitik pivot",
+    "what_happens": "Margdelain outwardly agrees to act, but secretly orders McTanner to mobilize TRG and seize the lower levels.",
+    "involved_entities": ["margdelain", "mctanner", "trg", "master-scrivener-francis"],
+    "stakes_or_conflict": "Power consolidation vs. public appearance; timing before Jessop acts."
+    },
+    {
+    "order": 5,
+    "label": "Spin and consolidation",
+    "what_happens": "She plans to end Jessop, elevate Olafsen, and spin Demmy as a hero if useful.",
+    "involved_entities": ["margdelain", "brother-jessop", "brother-olafsen", "demmy"],
+    "stakes_or_conflict": "Political survival and narrative control."
+    },
+    {
+    "order": 6,
+    "label": "Toast to the crisis",
+    "what_happens": "McTanner’s movement confirmed; Margdelain drinks whiskey and savors the opportunity.",
+    "involved_entities": ["margdelain", "mctanner", "whiskey-bottle"],
+    "stakes_or_conflict": "Commitment to course; moral ambiguity deepens."
+    }
+    ],
+    "characters": [
+    {
+    "id": "margdelain",
+    "display_name": "Chancellor Margdelain",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Exploit the crisis to neutralize Jessop, seize the lower levels, and obtain the datapad.",
+    "obstacles": "Church control of lower levels, Jessop’s impeachment campaign, limited hard evidence.",
+    "tactics": "Feign concern, sublingual directives, deploy TRG via McTanner, narrative spin and potential fabrication.",
+    "relationships": [
+    {"with": "brother-jessop", "type": "rival", "state": "open political warfare", "evidence": "“campaign for her impeachment… damning evidence, blatant fabrications.”"},
+    {"with": "brother-olafsen", "type": "ally-of-convenience", "state": "cultivating", "evidence": "Considers facilitating his rise if useful."},
+    {"with": "demmy", "type": "opportunistic-patron", "state": "instrumental", "evidence": "Would medal him if he survives; lets him ‘clear out that viper’s nest.’"},
+    {"with": "chase", "type": "family", "state": "distant but approving of resourcefulness", "evidence": "“A flicker of admiration… her son’s resourcefulness.”"}
+    ],
+    "emotional_arc": {
+    "start": "exhausted, embattled",
+    "turning_points": ["sees screenshots confirming collusion and abduction", "decides to mobilize TRG covertly"],
+    "end": "energized, calculating, satisfied"
+    },
+    "notable_actions": ["orders McTanner to recover datapad", "mobilizes TRG under crime-scene pretext", "requests screenshots", "maintains public facade", "drinks whiskey to celebrate"],
+    "quotable_lines": ["“I’ll alert the TRG immediately!”", "“Never waste a good crisis.”"]
+    },
+    {
+    "id": "brother-olafsen",
+    "display_name": "Brother Olafsen",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Warn leadership, prevent Demmy’s rampage, protect innocents.",
+    "obstacles": "Complicit superiors, loss of datapad, limited authority.",
+    "tactics": "Provide evidence (letter, screenshots), appeal to Margdelain’s power.",
+    "relationships": [
+    {"with": "margdelain", "type": "petitioning-ally", "state": "hopeful", "evidence": "Seeks her intervention; provides materials."},
+    {"with": "demmy", "type": "concerned-observer", "state": "fearful of his capacity", "evidence": "“I believe he’s capable of it.”"}
+    ],
+    "emotional_arc": {
+    "start": "anxious, urgent",
+    "turning_points": ["reveals abduction and monitoring", "admits fear of Demmy’s intent"],
+    "end": "somber but relieved to have acted"
+    },
+    "notable_actions": ["delivers letter and screenshots", "shows map location", "requests action to stop Demmy"],
+    "quotable_lines": ["“I fear something terrible is about to happen.”", "“I’m pretty sure he thinks he’s the angel of death.”"]
+    },
+    {
+    "id": "master-scrivener-francis",
+    "display_name": "Master Scrivener Francis",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Facilitate urgent audience; relay Margdelain’s covert orders.",
+    "obstacles": "Political sensitivity; secrecy.",
+    "tactics": "Gatekeep access; execute sublingual directives.",
+    "relationships": [],
+    "emotional_arc": {
+    "start": "alarmed",
+    "turning_points": [],
+    "end": "tasked"
+    },
+    "notable_actions": ["announces Olafsen", "receives sublingual orders to contact McTanner"],
+    "quotable_lines": []
+    },
+    {
+    "id": "brother-jessop",
+    "display_name": "Brother Jessop",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Impeach Margdelain; maintain control (implied).",
+    "obstacles": "Emerging scandal; potential TRG intervention.",
+    "tactics": "Fabrications; political pressure (reported).",
+    "relationships": [
+    {"with": "margdelain", "type": "rival", "state": "hostile", "evidence": "“campaign for her impeachment.”"}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Rescue Evelyn in lower levels (reported).",
+    "obstacles": "Restricted access; armed clergy; danger.",
+    "tactics": "Direct action; potential lethal force (reported).",
+    "relationships": [
+    {"with": "evelyn", "type": "ally/romantic-interest", "state": "imperiled-rescue", "evidence": "Heading down to save her."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "evelyn",
+    "display_name": "Evelyn",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "Abducted; datapad seized (reported).",
+    "tactics": "",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "mctanner",
+    "display_name": "McTanner",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Execute Margdelain’s order: move TRG and secure datapad.",
+    "obstacles": "Hostile lower levels; church control.",
+    "tactics": "Deploy forces rapidly.",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": ["moves forces toward lower levels (reported)"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "ravager-datapad",
+    "name": "Captured ravager datapad",
+    "category": "comms",
+    "capabilities": ["stores intercepted messages", "trackable when powered"],
+    "owner_or_users": ["demmy", "evelyn", "the-order-fox-river"],
+    "condition_or_state": "seized by higher-ups (offscreen)",
+    "scene_function": "Catalyst evidence object linking church to ravagers; motive for TRG seizure."
+    },
+    {
+    "id": "handheld-olafsen",
+    "name": "Brother Olafsen’s handheld with screenshots",
+    "category": "comms",
+    "capabilities": ["display saved message screenshots", "map with location marker"],
+    "owner_or_users": ["brother-olafsen", "margdelain"],
+    "condition_or_state": "intact; used as evidence proxy",
+    "scene_function": "Provides proof of messages and Evelyn’s location marker."
+    },
+    {
+    "id": "aural-implant",
+    "name": "Aural implant",
+    "category": "cybernetics",
+    "capabilities": ["receive secure confirmations/updates"],
+    "owner_or_users": ["margdelain"],
+    "condition_or_state": "active",
+    "scene_function": "Confirms McTanner’s movement in real time."
+    },
+    {
+    "id": "sublingual-messenger",
+    "name": "Sublingual messaging interface",
+    "category": "comms",
+    "capabilities": ["silent short-range directives"],
+    "owner_or_users": ["margdelain", "master-scrivener-francis"],
+    "condition_or_state": "active",
+    "scene_function": "Lets Margdelain issue covert orders while feigning concern."
+    },
+    {
+    "id": "letter-chase-to-demmy",
+    "name": "Chase’s letter to Demmy",
+    "category": "other",
+    "capabilities": ["context on Fox River power struggle and requests"],
+    "owner_or_users": ["chase", "demmy", "brother-olafsen", "margdelain"],
+    "condition_or_state": "folded paper; delivered",
+    "scene_function": "Anchors Olafsen’s report and Margdelain’s assessment of her son."
+    },
+    {
+    "id": "whiskey-bottle",
+    "name": "Margdelain’s whiskey",
+    "category": "other",
+    "capabilities": ["liquid courage; ritual punctuation"],
+    "owner_or_users": ["margdelain"],
+    "condition_or_state": "opened; consumed",
+    "scene_function": "Signals cynicism and triumphal framing of crisis."
+    }
+    ],
+    "locations": [
+    {
+    "id": "fox-river-chancellery-office",
+    "name": "Margdelain’s office, Fox River",
+    "type": "structure",
+    "descriptors": ["administrative suite", "desk with clear space", "private enough for covert comms"],
+    "in_scene_events": ["Olafsen presents evidence; Margdelain issues covert orders; political calculus made"]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "fox-river-civil",
+    "name": "Fox River Civil Government",
+    "alignment": "ally",
+    "agents_present": ["margdelain", "master-scrivener-francis", "mctanner"],
+    "motives_inferred": "Reassert control, counter Jessop, secure evidence.",
+    "actions_in_scene": ["Mobilizes TRG", "Orders datapad recovery", "Coordinates via covert comms"]
+    },
+    {
+    "id": "the-order-fox-river",
+    "name": "The Order (Fox River Church)",
+    "alignment": "hostile",
+    "agents_present": ["brother-olafsen"],
+    "motives_inferred": "Some leaders collude with ravagers; control lower levels; suppress evidence.",
+    "actions_in_scene": ["Previously monitored datapad", "Abducted Evelyn (reported)"]
+    },
+    {
+    "id": "trg",
+    "name": "TRG (Tactical Response Group)",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Execute chancellery orders to secure lower levels.",
+    "actions_in_scene": ["Deploys under McTanner toward lower levels (reported)"]
+    },
+    {
+    "id": "ravagers",
+    "name": "Ravagers",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Violence and collusion with corrupt clergy (reported).",
+    "actions_in_scene": ["Datapad originally theirs; implicated in communications"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["realpolitik and narrative control", "institutional corruption vs. justice", "weaponizing crisis", "faith rhetoric vs. pragmatic power"],
+    "motifs_symbols": ["whiskey as victory ritual", "silent sublingual orders", "screenshots as fragile proof", "‘angel of death’ framing"],
+    "moral_questions": ["Is exploiting a crisis justified if it dismantles corruption?", "When leaders fabricate evidence, does the end ever justify the means?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "political-thriller/sardonic",
+    "pacing": "slow-burn",
+    "voice_traits": ["cynical inner asides", "strategic calculation", "dry wit"],
+    "sensory_notes": ["office hush", "whiskey burn", "silent haptic/aural cues from implants"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Evelyn borrowed Demmy’s captured datapad; abducted by church agents.",
+    "Jessop’s ongoing impeachment push and fabricated evidence.",
+    "Demmy already descending toward lower levels (reported)."
+    ],
+    "outcomes": [
+    "TRG mobilized under McTanner to seize lower levels as ‘crime scene’.",
+    "Margdelain gains screenshots and pretext to move against Jessop.",
+    "Olafsen positioned as potential political ally."
+    ],
+    "unanswered_questions": [
+    "Will TRG retrieve the datapad before the church hides or destroys evidence?",
+    "Can Margdelain control the narrative if Demmy’s actions turn catastrophic?",
+    "What exactly is in the barred lower levels?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["margdelain", "brother-jessop"],
+    "trigger": "Impeachment campaign and fabricated evidence.",
+    "resolution": "Margdelain uses crisis to counterattack; final outcome pending."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["demmy", "the-order-fox-river"],
+    "trigger": "Rescue mission into restricted lower levels (offscreen).",
+    "resolution": "Unresolved in-scene; leveraged by Margdelain."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["margdelain", "complicit church leadership"],
+    "trigger": "Evidence of collusion with ravagers.",
+    "resolution": "Moves TRG to seize ground; evidence handling TBD."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mild",
+    "addiction_or_substances": "present",
+    "sexual_content": "none",
+    "sensitive_topics": ["abduction", "religious corruption", "political manipulation"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": [
+    "Never Waste a Good Crisis",
+    "Margdelain mobilizes TRG",
+    "Brother Olafsen warning",
+    "Evelyn abduction evidence",
+    "McTanner deployment",
+    "Brother Jessop impeachment",
+    "Ravager datapad screenshots"
+    ],
+    "keywords_dense": "Margdelain, Brother Olafsen, Master Scrivener Francis, McTanner, TRG, Brother Jessop, Chase, Demmy, Evelyn, Fox River, lower levels, sublingual message, aural implant, datapad screenshots, political maneuver, crisis exploitation",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chancellor Margdelain", "Brother Olafsen", "Master Scrivener Francis", "Brother Jessop", "McTanner", "Chase", "Demmy", "Evelyn"],
+    "places": ["Fox River"],
+    "orgs": ["Fox River Civil Government", "The Order (Fox River Church)", "TRG", "Ravagers"],
+    "terms": ["sublingual message", "aural implant", "lower levels", "crime scene seizure"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What does Brother Olafsen bring to Margdelain?", "a": "A letter from Chase to Demmy and screenshots of messages tied to the ravager datapad."},
+    {"q": "Whom does Margdelain secretly task to recover the datapad and move forces?", "a": "McTanner, directing the TRG."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-11-27-NWGC-1",
+    "type": "recap",
+    "text": "Margdelain meets Brother Olafsen, who presents a letter from Chase and screenshots showing church collusion and Evelyn’s abduction after she powered a ravager datapad borrowed from Demmy. Olafsen fears Demmy is descending to the barred lower levels to rescue her. Margdelain outwardly vows help but covertly orders McTanner to mobilize the TRG and seize the lower levels as a crime scene to crush Jessop’s campaign. Confirmation pings her aural implant; she toasts the opportunity with whiskey, resolved to control the narrative."
+    },
+    {
+    "chunk_id": "2186-11-27-NWGC-2",
+    "type": "entities_focus",
+    "text": "Actors: Margdelain (chancellor strategist), Brother Olafsen (whistleblower), Brother Jessop (antagonist), McTanner (TRG commander), Demmy and Evelyn (offscene catalysts), Francis (aide), Chase (son). Objects/tech: ravager datapad, Olafsen’s handheld screenshots, sublingual messaging, aural implant, whiskey. Orgs: Fox River civil gov’t, The Order, TRG, ravagers. Place: Margdelain’s office."
+    },
+    {
+    "chunk_id": "2186-11-27-NWGC-3",
+    "type": "style_theme_focus",
+    "text": "Third-limited POV with sardonic political-thriller tone: internal asides, covert comms, and calculated optics. Themes: exploiting crisis for power; institutional rot vs. expedient justice; truth vs. manufactured narrative. Motifs: silent sublingual orders, screenshots as tenuous proof, the ‘angel of death’ trope, whiskey as victory ritual."
+    }
+    ]
+    }

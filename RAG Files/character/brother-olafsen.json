@@ -1,0 +1,251 @@
+{
+  "doc_type": "neon_titan_character_v1",
+  "source": {
+    "dossier_file": null,
+    "scene_refs": [
+      "34_03_Twenty-Four.txt",
+      "34_04_Twenty-Four.txt",
+      "38_01_Twenty-Six.txt",
+      "38_02_Twenty-Six.txt",
+      "49_01_Thirty-Four.txt",
+      "53_01_Thirty-Eight.txt",
+      "57_03_Forty-One.txt"
+    ]
+  },
+  "identity": {
+    "id": "brother-olafsen",
+    "display_name": "Brother Olafsen",
+    "aliases": [
+      "Olafsen"
+    ],
+    "mbti": "ISFJ",
+    "age_bracket": "adult",
+    "gender": "male",
+    "origin": "Fox River"
+  },
+  "affiliations": [
+    "divine-order-of-the-sanctifying-flame",
+    "fox-river-monastery"
+  ],
+  "bio": {
+    "one_liner": "Kind but duty\u2011bound cleric who mentors Demmy, exposes church corruption, and becomes Margdelain\u2019s key witness.",
+    "summary": "Brother Olafsen serves in the Fox River monastery of the Divine Order of the Sanctifying Flame. He welcomes and pastors Demmy during recovery, prays with him, and frames the Order\u2019s mission as both mercy and righteous force. When evidence surfaces that higher clergy are collaborating with ravagers, Olafsen helps Demmy document messages and carries a note and screenshots to Chancellor Margdelain. He warns that Demmy intends to descend beneath Fox River to rescue Evelyn and urges protection of innocents. His actions bridge the gap between monastery and chancellery and set the TRG\u2019s seizure of the lower levels in motion.",
+    "narrative_gravity": 8
+  },
+  "personality": {
+    "traits": [
+      "pastoral",
+      "gentle",
+      "dutiful",
+      "courageous-in-conscience",
+      "orderly",
+      "earnest"
+    ],
+    "flaws": [
+      "institutionally-naive",
+      "conflicted-loyalty",
+      "risk-averse-until-crisis"
+    ],
+    "values": [
+      "mercy",
+      "truth",
+      "order",
+      "service",
+      "discipline"
+    ],
+    "motivations_primary": [
+      "protect-innocents",
+      "shepherd-demmy"
+    ],
+    "motivations_secondary": [
+      "reform-the-order",
+      "support-fox-river-stability"
+    ]
+  },
+  "appearance": {
+    "height_cm": null,
+    "build": null,
+    "hair": "blond",
+    "eyes": "blue",
+    "notable_marks": [],
+    "style": "pressed clerical clothing or robes; pendant of flaming sword"
+  },
+  "skills": {
+    "combat": [],
+    "technical": [
+      "documentation-screenshots",
+      "evidence-handling",
+      "basic-communications"
+    ],
+    "tactics": [
+      "de-escalation",
+      "pastoral-counsel",
+      "intermediation-with-civil-authority"
+    ],
+    "limitations": [
+      "not-a-combatant",
+      "constrained-by-hierarchy"
+    ]
+  },
+  "relationships": [
+    {
+      "with": "demmy",
+      "label": "pastor/mentor",
+      "state": "trust-building",
+      "notes": "Helps Demmy settle, prays with him, later equips him with a pendant and promises to carry evidence to Margdelain."
+    },
+    {
+      "with": "brother-ernesto",
+      "label": "colleague",
+      "state": "pastoral-team",
+      "notes": "Visits and counsels Demmy together."
+    },
+    {
+      "with": "evelyn",
+      "label": "concerned-for-initiates",
+      "state": "protective",
+      "notes": "Learns she was abducted after discovering incriminating messages."
+    },
+    {
+      "with": "chancellor-margdelain",
+      "label": "messenger/witness",
+      "state": "cooperating",
+      "notes": "Delivers screenshots and Chase\u2019s letter; warns of impending violence."
+    },
+    {
+      "with": "brother-jessop",
+      "label": "superiors/suspected",
+      "state": "disillusioned",
+      "notes": "Evidence implies higher clergy collaborated with ravagers."
+    }
+  ],
+  "arc": {
+    "status_now": "Alive; cooperating with Margdelain while remaining in the Order.",
+    "pre_pivot": "Pastoral routine\u2014welcoming Demmy, teaching Order tenets, emphasizing charity and discipline.",
+    "pivot_event": "Discovers messages linking higher clergy to ravagers; Evelyn abducted; Demmy vows a rescue beneath Fox River.",
+    "post_pivot": "Carries evidence to Margdelain; catalyzes TRG intervention; navigates loyalty vs. truth.",
+    "future_vector": "Potential reformer and liaison if church accountability proceeds; risks retaliation from implicated superiors."
+  },
+  "items_and_tech": [
+    {
+      "id": "flaming-sword-pendant",
+      "name": "Flaming Sword Pendant",
+      "category": "symbolic",
+      "capabilities": [
+        "religious-icon",
+        "moral-anchor"
+      ],
+      "condition": "worn",
+      "notes": "Gifts it to Demmy before the descent."
+    },
+    {
+      "id": "handheld-screenshots",
+      "name": "Personal Handheld Screenshots",
+      "category": "evidence",
+      "capabilities": [
+        "message-capture"
+      ],
+      "condition": "complete",
+      "notes": "Images of Evelyn\u2019s messages about clergy\u2013ravager collusion."
+    }
+  ],
+  "themes": {
+    "keywords": [
+      "faith",
+      "conscience",
+      "corruption-exposed",
+      "mercy-and-justice",
+      "institution-vs-truth"
+    ],
+    "moral_tensions": [
+      "loyalty-vs-honesty",
+      "order-vs-righteous-action"
+    ]
+  },
+  "text_windows": {
+    "bio_200w": "Brother Olafsen is a gentle, dutiful cleric of the Divine Order in Fox River. He helps shepherd Demmy from the med ward into monastery life, prays with him, and frames the Order\u2019s mission as both mercy to the poor and holy fire against ravagers. When Evelyn\u2019s messages reveal senior clergy collaborating with ravagers, Olafsen responds with conscience over convenience: he preserves evidence, takes screenshots, and agrees to deliver them\u2014along with Chase\u2019s letter\u2014to Chancellor Margdelain. He warns that Demmy, convinced by scripture, intends to descend beneath Fox River to rescue Evelyn and may harm anyone complicit. Though risk\u2011averse by temperament, Olafsen acts decisively in crisis, becoming the bridge between the monastery and civil authority and helping set in motion the TRG operation that follows. His faith centers on protecting innocents and telling hard truths, even when they indict his own institution.",
+    "arc_200w": "Olafsen\u2019s arc begins in pastoral routine\u2014welcoming Demmy, teaching tenets through mentors like Elder Florian, and presenting the Order\u2019s blend of charity and discipline. The turning point arrives when the abducted initiate Evelyn and a seized datapad expose collusion between higher clergy and ravagers. Torn between loyalty and truth, Olafsen chooses evidence and transparency: he captures the messages, carries Chase\u2019s note, and brings both to Margdelain, explicitly warning that Demmy is moving to the lower levels and urging civilian protection. This choice catalyzes a wider reckoning and empowers secular forces to intervene. Post\u2011pivot, Olafsen\u2019s trajectory points toward reform and cooperation with civil governance, tempered by the real danger of retaliation from implicated leadership. He remains pastoral at heart but no longer naive about the costs of institutional sin.",
+    "skills_120w": "Pastoral care, de\u2011escalation, and trust\u2011building with traumatized youths; clear communication with secular leaders; basic evidence handling (screenshots, device context), and principled decision\u2011making under pressure. Weaknesses include deference to hierarchy and delayed confrontation until crisis, plus a lack of combat capability.",
+    "appearance_120w": "Tall, blond, blue\u2011eyed cleric typically in pressed clericals or robes. Wears or carries the flaming\u2011sword pendant of the Order. Presentation is neat, approachable, and disciplined, conveying care rather than intimidation.",
+    "relationships_180w": "With Demmy, Olafsen is a steadying pastor\u2014he prays with him in the ward, welcomes him into the monastery, and later gifts a flaming\u2011sword pendant before the rescue attempt. With Evelyn, he is concerned and alarmed after her abduction, committing to expose the truth. With Brother Ernesto, he forms a pastoral pair. With Chancellor Margdelain, he becomes a crucial witness and courier of screenshots and Chase\u2019s note, warning of Demmy\u2019s plan so innocents can be evacuated. With Jessop and implicated superiors, he shifts from deference to disillusionment and quiet defiance."
+  },
+  "qa_pairs": [
+    {
+      "q": "What decisive action does Brother Olafsen take when corruption surfaces?",
+      "a": "He captures screenshots of incriminating messages and delivers them, with Chase\u2019s letter, to Chancellor Margdelain."
+    },
+    {
+      "q": "How does Olafsen relate to Demmy?",
+      "a": "Pastor and mentor\u2014he helps Demmy acclimate, prays with him, and supports his moral agency while urging protection of innocents."
+    },
+    {
+      "q": "Is Olafsen a fighter?",
+      "a": "No. He is non\u2011combatant; his strength is conscience, evidence handling, and intermediation with civil authority."
+    }
+  ],
+  "metadata_for_indexing": {
+    "retrieval_keys": [
+      "Brother Olafsen",
+      "Divine Order",
+      "Fox River",
+      "Demmy",
+      "Evelyn",
+      "Margdelain"
+    ],
+    "keywords_dense": "Brother Olafsen, Divine Order of the Sanctifying Flame, Fox River monastery, Demmy, Evelyn, screenshots, datapad, TRG, Margdelain, Jessop",
+    "spoiler_level": "book1_end",
+    "named_entities": {
+      "people": [
+        "Brother Olafsen",
+        "Demmy",
+        "Evelyn",
+        "Chancellor Margdelain",
+        "Brother Ernesto",
+        "Brother Jessop",
+        "Elder Florian",
+        "McTanner"
+      ],
+      "places": [
+        "Fox River",
+        "Monastery",
+        "Lower Levels beneath Fox River"
+      ],
+      "orgs": [
+        "Divine Order of the Sanctifying Flame",
+        "TRG"
+      ],
+      "terms": [
+        "flaming-sword pendant",
+        "screenshots",
+        "datapad"
+      ]
+    }
+  },
+  "embedding_payloads": [
+    {
+      "chunk_id": "olafsen-1",
+      "type": "bio",
+      "text": "Pastoral Fox River cleric who mentors Demmy and exposes clergy\u2013ravager collusion by delivering evidence to the Chancellor."
+    },
+    {
+      "chunk_id": "olafsen-2",
+      "type": "arc",
+      "text": "From dutiful monk to conscience\u2011driven witness; pivots when Evelyn is abducted and messages reveal corruption; triggers TRG action."
+    },
+    {
+      "chunk_id": "olafsen-3",
+      "type": "relationships",
+      "text": "Mentor to Demmy; colleague of Brother Ernesto; liaison to Margdelain; disillusioned with Jessop and superiors; protective of Evelyn."
+    },
+    {
+      "chunk_id": "olafsen-4",
+      "type": "skills",
+      "text": "Pastoral care, documentation, de\u2011escalation, liaison with civil authority; non\u2011combatant, hierarchy\u2011bound until crisis."
+    },
+    {
+      "chunk_id": "olafsen-5",
+      "type": "appearance",
+      "text": "Tall blond blue\u2011eyed cleric; neat robes/clericals; flaming\u2011sword pendant as symbol and gift to Demmy."
+    }
+  ]
+}

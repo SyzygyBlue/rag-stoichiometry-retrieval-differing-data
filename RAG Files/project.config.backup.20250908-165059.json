@@ -1,0 +1,14 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "llama_url": "http://127.0.0.1:8080",
+  "default_index_dir": "d:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\indexes",
+  "scene_globs": [
+    "RAG Files/*.json"
+  ],
+  "manual_overrides": "d:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\mappings\\manual_alias_overrides.json",
+  "rechunk": false,
+  "chunking": "payload",
+  "target_tokens": 120,
+  "overlap_tokens": 30,
+  "knowledge_jsonl": "d:\\Windsurf Projects\\Create-RAG-Vector-Database\\RAG Files\\knowledgeFile\\knowledge.jsonl"
+}

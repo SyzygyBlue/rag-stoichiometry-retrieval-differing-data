@@ -1,0 +1,373 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Chapter Six",
+    "scene_id": "what-every-caravanner-fears_2186-10-07_morning",
+    "chapter_number": 6,
+    "scene_number": 1,
+    "date_in_universe": "2186-10-07",
+    "absolute_timeline_notes": "Morning after Robyn’s arranged-marriage revelation; workday at the Three Shovels caravan market/maintenance area."
+    },
+    "text_windows": {
+    "full_scene_clean": "Quincy grunted, sweat stinging her eyes as she fought a stubborn suspension bolt. The wrench slipped, scraping her knuckles. Better this than crying. Her eyes were raw from last night. Rest was dangerous—too many shadows in the quiet: Robyn’s laugh, her breath, her soap. So she worked: uninstall, clean, inspect, reinstall. She had promised not to fight. A stupid promise, but all she had. She tightened a bolt until her hand shook. She wanted to hit something. Gavin’s smirk. Mama Valorie’s voice like rusted wire. She squeezed the wrench until her blistered palm throbbed and kept going. Outside, the market swelled—skerv runners hauling crates, eyes flicking toward her, then away. Another screw, another breath. She kept moving, only stopping when dusk stole the light. She washed at the rear spigot, scrubbing grease that wouldn’t come off, road dirt under nails, a rust-colored smear on her arm—oil, maybe blood. Sober, she faced the dark. Sleep came somewhere in the night. Dawn bled across red dirt. Quincy sat up, bones stiff, hands sore. Another day: unbolt, inspect, scrub, reinstall. Mid-morning, newcomers arrived—dust-caked, wide-eyed refugees. Not yet skerv-lean: remnants of holdfast clothes, laced shoes, a girl clutching a doll, mothers with infants, a hollow-eyed boy. Fewer men. When holocreds aren’t enough, some stay behind. Most don’t make it this far. She forced her mind back to work. Lucky: alive, tools, work. But Robyn would lay in someone else’s bed. Their love would go underground. She tightened another part and let anger thrum in her wrists. By evening, Mama Valorie’s words echoed: be grateful. Look at these people. You could be them. Quincy stared into the wash bucket’s murk; her reflection looked bruised and hollow. A broken laugh clawed up. “Fuck Mama Valorie,” she whispered. The part slipped into the parts wash and hit the bucket with a cold, heavy thud.",
+    "dense_recap_250w": "Quincy spends a punishing workday in the Three Shovels caravan market area, using mechanical labor to blunt the pain of the previous night’s revelation that Robyn must marry Gavin at Mama Valorie’s direction. Vowing not to fight, she channels rage into maintenance: uninstalling, cleaning, inspecting, and reinstalling parts, fighting a seized suspension bolt until her knuckles bleed. She pointedly avoids puro, fearing she’ll do something reckless if she drinks. As the market bustles, skerv runners keep their distance while she works until dusk, washes at a rear spigot, and collapses into uneasy sleep. At dawn she resumes, only to be confronted mid-morning by a small group of refugees—recently dispossessed families still wearing remnants of holdfast clothing, including a girl clutching a doll and a hollow-eyed boy. The sight underscores Mama Valorie’s rhetoric about gratitude and survival, but Quincy bristles at being told to accept injustice; she has done everything asked and still must watch the woman she loves be promised to another. Her thoughts circle Gavin, Mama Valorie, and the line between gratitude and complicity. She keeps tightening bolts, using work as anesthesia, yet recognizes that their love has been forced into secrecy. By day’s end, staring into a dirty parts bucket at a bruised reflection, she rejects imposed gratitude with a bitter whisper—“Fuck Mama Valorie”—and drops the part into the wash, its heavy thud matching the weight in her chest.",
+    "query_handle": "At Three Shovels market, Quincy works herself raw to avoid breaking a promise about Robyn’s forced marriage; refugees arrive, sharpening her anger at Mama Valorie."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Work as anesthesia",
+    "what_happens": "Quincy attacks a seized suspension bolt and cycles through maintenance tasks to drown out grief and rage.",
+    "involved_entities": ["quincy", "wrench", "suspension-bolt", "wash-bucket"],
+    "stakes_or_conflict": "Person vs self—avoid lashing out despite fury."
+    },
+    {
+    "order": 2,
+    "label": "Promise vs impulse",
+    "what_happens": "She recalls promising not to fight despite wanting to hurt Gavin and defy Mama Valorie.",
+    "involved_entities": ["quincy", "gavin", "mama-valorie", "robyn"],
+    "stakes_or_conflict": "Honor promise or act on anger; risk exile or worse."
+    },
+    {
+    "order": 3,
+    "label": "Sober control",
+    "what_happens": "She refuses puro, cleans up, and endures a sleepless night before returning to work at dawn.",
+    "involved_entities": ["quincy", "puro"],
+    "stakes_or_conflict": "Avoid self-sabotage via intoxication."
+    },
+    {
+    "order": 4,
+    "label": "Refugees arrive",
+    "what_happens": "Newly dispossessed families reach the market, emphasizing the caravan’s harsh calculus.",
+    "involved_entities": ["refugees-group", "market-zone", "three-shovels"],
+    "stakes_or_conflict": "Moral tension between gratitude narrative and personal injustice."
+    },
+    {
+    "order": 5,
+    "label": "Rejection of imposed gratitude",
+    "what_happens": "Quincy rejects Mama Valorie’s framing and curses her quietly, dropping a part into the wash.",
+    "involved_entities": ["quincy", "mama-valorie", "wash-bucket"],
+    "stakes_or_conflict": "Internal defiance vs outward compliance."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Stay composed; keep working to avoid breaking her promise and to retain her place in the caravan.",
+    "obstacles": "Grief over Robyn, anger at leadership, physical pain, social scrutiny, temptation to drink.",
+    "tactics": "Channel emotions into mechanical labor; maintain sobriety; isolate in work zone; self-talk to regulate impulses.",
+    "relationships": [
+    {
+    "with": "robyn",
+    "type": "lover",
+    "state": "torn/secret",
+    "evidence": "“Their love hadn’t died—just gone underground.”"
+    },
+    {
+    "with": "mama-valorie",
+    "type": "authority/opponent",
+    "state": "resentful",
+    "evidence": "“Fuck Mama Valorie.”"
+    },
+    {
+    "with": "gavin",
+    "type": "rival",
+    "state": "hostile (internal)",
+    "evidence": "Imagines breaking his nose; blames him as beneficiary of the arrangement."
+    }
+    ],
+    "emotional_arc": {
+    "start": "raw, furious, grief-struck",
+    "turning_points": ["Refuses alcohol and doubles down on work", "Refugees’ arrival reframes gratitude vs injustice"],
+    "end": "quiet defiance, controlled exterior"
+    },
+    "notable_actions": [
+    "fights-suspension-bolt",
+    "uninstalls-cleans-inspects-reinstalls",
+    "refuses-puro",
+    "observes-refugees",
+    "curses-mama-valorie-quietly"
+    ],
+    "quotable_lines": [
+    "Better this than crying.",
+    "I had promised not to fight.",
+    "Fuck Mama Valorie."
+    ]
+    },
+    {
+    "id": "robyn",
+    "display_name": "Robyn",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Comply with arranged marriage (offstage).",
+    "obstacles": "Caravan leadership control, safety calculus.",
+    "tactics": "Keep love secret (inferred from prior).",
+    "relationships": [
+    {
+    "with": "quincy",
+    "type": "lover",
+    "state": "forbidden/secret",
+    "evidence": "Quincy recalls scent, nights, and secrecy of their bond."
+    },
+    {
+    "with": "gavin",
+    "type": "arranged-spouse",
+    "state": "mandated",
+    "evidence": "Referenced as the man she must marry."
+    }
+    ],
+    "emotional_arc": {
+    "start": "offstage",
+    "turning_points": [],
+    "end": "offstage"
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "mama-valorie",
+    "display_name": "Mama Valorie",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Enforce caravan policy and arranged marriage for perceived good of caravan (implied).",
+    "obstacles": "Dissent from those affected (Quincy).",
+    "tactics": "Moral framing (“be grateful”), authority.",
+    "relationships": [
+    {
+    "with": "quincy",
+    "type": "authority-subject",
+    "state": "tense",
+    "evidence": "Quincy resents her edicts and rhetoric."
+    }
+    ],
+    "emotional_arc": {
+    "start": "offstage",
+    "turning_points": [],
+    "end": "offstage"
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "gavin",
+    "display_name": "Gavin",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Prospective spouse by arrangement (implied).",
+    "obstacles": [],
+    "tactics": "Beneficiary of leadership decision (implied).",
+    "relationships": [
+    {
+    "with": "quincy",
+    "type": "rival",
+    "state": "hostile (from Quincy)",
+    "evidence": "Quincy fantasizes about hitting him."
+    }
+    ],
+    "emotional_arc": {
+    "start": "offstage",
+    "turning_points": [],
+    "end": "offstage"
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "refugees-group",
+    "display_name": "Newly arrived refugees",
+    "aliases": ["newcomers"],
+    "role_in_scene": "supporting",
+    "goals_now": "Purchase passage/survival with holocreds; find safety.",
+    "obstacles": "Displacement, scarcity, family separation.",
+    "tactics": "Arrive at market with few belongings; seek trade.",
+    "relationships": [],
+    "emotional_arc": {
+    "start": "wide-eyed, exhausted",
+    "turning_points": [],
+    "end": "uncertain"
+    },
+    "notable_actions": [
+    "arrive-at-market",
+    "children-clutch-doll"
+    ],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "wrench",
+    "name": "Box wrench",
+    "category": "tool",
+    "capabilities": ["apply torque to fasteners"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "intact, bloody knuckles",
+    "scene_function": "Focus object for labor-as-coping; used on seized suspension bolt."
+    },
+    {
+    "id": "caliper",
+    "name": "Caliper",
+    "category": "tool",
+    "capabilities": ["measure part dimensions, clearances"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "intact",
+    "scene_function": "Precision checking during maintenance."
+    },
+    {
+    "id": "suspension-bolt",
+    "name": "Seized suspension bolt",
+    "category": "other",
+    "capabilities": ["fastens suspension component"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "seized, resistant",
+    "scene_function": "Embodiment of struggle; task anchor."
+    },
+    {
+    "id": "wash-bucket",
+    "name": "Parts wash bucket",
+    "category": "other",
+    "capabilities": ["clean parts; reflective surface"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "murky solvent",
+    "scene_function": "End beat prop; mirror for self-perception; punctuation via heavy thud."
+    },
+    {
+    "id": "puro",
+    "name": "Puro (alcohol)",
+    "category": "other",
+    "capabilities": ["intoxication, numbing pain"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "available/declined",
+    "scene_function": "Temptation she refuses to avoid reckless actions."
+    }
+    ],
+    "locations": [
+    {
+    "id": "market-zone",
+    "name": "Three Shovels market/work zone",
+    "type": "caravan",
+    "descriptors": ["bustling stalls", "runners hauling crates", "rear spigot", "canvas tents", "red-dirt yard"],
+    "in_scene_events": ["Quincy’s maintenance marathon", "arrival of refugees", "evening wash and self-reflection"]
+    },
+    {
+    "id": "quincy-tent",
+    "name": "Quincy’s tent (off to the side)",
+    "type": "structure",
+    "descriptors": ["canvas", "rumpled blanket with Robyn’s scent"],
+    "in_scene_events": ["Referenced as avoided space due to grief"]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "three-shovels",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": ["mama-valorie"],
+    "motives_inferred": "Survival and stability through trade; leadership enforces marriages for caravan interests.",
+    "actions_in_scene": ["Markets operate; accepts paying refugees; enforces social order (implied)."]
+    },
+    {
+    "id": "skervs",
+    "name": "Skervs (wildlanders)",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Scavenge/trade to survive (contextual).",
+    "actions_in_scene": ["Runners pass by, wary of Quincy’s mood."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Love vs duty", "Authority and compliance", "Survival economics", "Grief management through labor", "Class and displacement"],
+    "motifs_symbols": ["grease and blood on knuckles", "tools as therapy", "wash bucket mirror", "doll clutched by child", "promise as cage", "red dirt dawn"],
+    "moral_questions": ["When does gratitude become complicity?", "Is keeping a harmful promise honorable or cowardly?", "What is the cost of stability imposed by leadership?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/lyrical/technical",
+    "pacing": "slow-burn interiority punctuated by hard labor",
+    "voice_traits": ["angry restraint", "mechanical specificity", "bitter irony"],
+    "sensory_notes": ["sting of sweat and solvent", "scrape of wrench slip", "market clamor", "cold spigot water", "heavy thud in wash bucket", "soap scent memory"]
+    },
+    "causality": {
+    "prior_dependencies": ["Robyn’s forced marriage to Gavin decreed by Mama Valorie; Quincy’s promise not to fight."],
+    "outcomes": ["Quincy reaffirms outward compliance while nurturing inward defiance; avoids alcohol; witnesses refugee influx highlighting caravan politics; continues maintenance readiness."],
+    "unanswered_questions": ["Will Quincy keep the promise as pressure mounts?", "How will Robyn’s marriage proceed?", "Will Quincy confront Gavin or Mama Valorie?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Rage and grief after Robyn’s arranged marriage; temptation to drink or lash out.",
+    "resolution": "Chooses labor and sobriety; internal defiance remains."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "mama-valorie"],
+    "trigger": "Leadership imposes marriage and demands gratitude.",
+    "resolution": "Quincy complies externally but rejects the framing (“Fuck Mama Valorie”)."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "gavin"],
+    "trigger": "Gavin as imposed partner for Robyn.",
+    "resolution": "No confrontation; violent impulse suppressed."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy", "caravan-order"],
+    "trigger": "Caravan’s survivalist policies and social control.",
+    "resolution": "Endures by working; moral dissent grows."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "mentioned",
+    "sexual_content": "none",
+    "sensitive_topics": ["forced marriage/arranged pairing", "displacement/refugees", "emotional distress"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy labor coping", "Robyn arranged marriage", "Mama Valorie edict", "Gavin rival", "refugees arrive at market", "promise not to fight"],
+    "keywords_dense": "Quincy, Three Shovels, market, refugees, skerv runners, wrench, suspension bolt, parts wash bucket, sobriety, puro, Mama Valorie, Gavin, Robyn, promise, gratitude vs injustice, love vs duty",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Robyn", "Mama Valorie", "Gavin"],
+    "places": ["Three Shovels market/work zone", "Quincy’s tent"],
+    "orgs": ["Three Shovels Caravan"],
+    "terms": ["skerv", "holocreds", "puro"]
+    }
+    },
+    "qa_pairs": [
+    {
+    "q": "Why does Quincy avoid drinking puro despite wanting it?",
+    "a": "She fears she’d do something reckless if drunk and is trying to keep her promise not to fight."
+    },
+    {
+    "q": "What event in the market reinforces Quincy’s resentment toward leadership?",
+    "a": "The arrival of newly ruined refugees, used in leadership rhetoric about ‘gratitude,’ which Quincy rejects."
+    },
+    {
+    "q": "How does Quincy cope with the pain of Robyn’s arranged marriage?",
+    "a": "By immersing herself in mechanical work—uninstalling, cleaning, inspecting, and reinstalling parts through the day and into night."
+    }
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-10-07-recap",
+    "type": "recap",
+    "text": "In the Three Shovels market, Quincy works herself raw on vehicle maintenance to contain rage and grief after promising not to fight over Robyn’s arranged marriage to Gavin. She refuses alcohol, scrubs up, and returns at dawn to repeat the cycle. A small group of refugees arrives—families still wearing remnants of holdfast clothing—sharpening the caravan’s harsh survival calculus. Quincy resents Mama Valorie’s ‘be grateful’ rhetoric, recognizing that her love has been forced into secrecy. She ends the day in quiet defiance, whispering “Fuck Mama Valorie” as a part thuds into the wash bucket."
+    },
+    {
+    "chunk_id": "2186-10-07-entities",
+    "type": "entities_focus",
+    "text": "Characters: Quincy (mechanic, POV), Robyn (offstage lover), Mama Valorie (caravan matriarch enforcing arranged marriage), Gavin (prospective spouse), refugees (newly dispossessed), skerv runners (workers). Items/tech: box wrench, caliper, seized suspension bolt, parts wash bucket, puro (declined). Locations: Three Shovels market/work zone; Quincy’s tent (avoided). Orgs/factions: Three Shovels Caravan; skervs (wildlanders)."
+    },
+    {
+    "chunk_id": "2186-10-07-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-person limited past with gritty, lyrical technical detail. Themes: love vs duty, authority vs autonomy, survival economics, coping through labor. Motifs: grease-streaked knuckles, tools as therapy, murky wash-bucket reflection, doll in a refugee child’s arms, red-dirt dawn. Moral questions: when does gratitude become complicity, and is keeping a harmful promise honorable or cowardly?"
+    }
+    ]
+    }

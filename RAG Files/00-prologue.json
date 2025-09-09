@@ -1,0 +1,309 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Ten-Month Ultimatum",
+    "scene_id": "stella_deception_outpost_preupdate_2181-08-27",
+    "chapter_number": null,
+    "scene_number": null,
+    "date_in_universe": "2181-08-27",
+    "absolute_timeline_notes": "Set at Thórsmörk Palace (Industry Party HQ) in Icelandic mountains, labeled 'Before the Last Rules Update.'"
+    },
+    "text_windows": {
+    "full_scene_clean": "Romuald Anwar, CEO of Teragen, waits in an empty conference room at Thórsmörk Palace, Industry Party HQ, after being 'invited'—without real choice—to meet Chairman Cervantes Adlawan. He debates fleeing by suborbital but stays, rattled by an ultimatum: integrate one hundred million new citizens in ten months. Adlawan arrives, confident and unsparing. Romuald argues the plan is impossible; Stella’s models and buffers will fail under a sudden surge, risking misclassifications, public distrust, and systemic collapse. Adlawan counters with political inevitability, citing Humanity Party Chairman Giles Montague’s persuasive campaign and a holographic population countdown that frames inaction as complicity in rising wildlands deaths. He shares a recent tri-D drone video of a ravager-razed holdfast and a maimed child crawling through the ruins. Shaken, Romuald concedes the pressure is unstoppable. He proposes a long-shot contingency Teragen has been simulating: temporarily reintroduce human auditors—triple-blind—to stabilize throughput while models retrain. Adlawan, grim but resolute, accepts the only viable play and requests specs for the new career type. He delivers the ultimatum: ten months to make it work. Romuald leaves under the weight of the deadline and the world it threatens.",
+    "dense_recap_250w": "At Thórsmörk Palace, Chairman Cervantes Adlawan informs Teragen CEO Romuald Anwar that the Humanity Party will force a rules update to integrate 100 million wildlanders into Stella within ten months. Romuald argues this rapid expansion will overwhelm Stella’s non-buffered processing, spike misclassifications, and trigger a cascading collapse of SAIR rankings, trust, and public order. Adlawan cites political inevitability—Giles Montague’s real-time mortality display and council pressure—and shares a fresh tri-D drone feed of a devastated holdfast and a grievously injured child to convey urgency. Cornered by moral and political forces, Romuald offers a radical mitigation: temporarily add human auditors under triple-blind verification to absorb load while retraining models and scaling infrastructure. Adlawan accepts the approach, asks for formal specs for a new auditor career type, and sets a firm ten-month deadline. The scene establishes stakes (civilizational stability versus humanitarian crisis), clarifies system constraints (Stella has no backlog/buffer and degrades catastrophically if behind), and introduces a controversial compromise (human bias reintroduced under controls) as the only near-term path to avert failure.",
+    "query_handle": "Industry Chair gives Romuald a 10-month ultimatum to integrate 100M; temporary human auditors proposed to prevent Stella collapse."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Coerced summons",
+    "what_happens": "Romuald waits at Industry HQ, contemplating escape as he rereads the demand to integrate 100M in ten months.",
+    "involved_entities": ["romuald-anwar", "thorsmork-palace", "teragen", "stella-ai"],
+    "stakes_or_conflict": "Personal dread vs duty; looming systemic risk."
+    },
+    {
+    "order": 2,
+    "label": "Adlawan’s entrance",
+    "what_happens": "Chairman Cervantes Adlawan arrives, framing the task as inevitable and testing Romuald’s resistance.",
+    "involved_entities": ["cervantes-adlawan", "romuald-anwar", "industry-party"],
+    "stakes_or_conflict": "Political pressure vs engineering feasibility."
+    },
+    {
+    "order": 3,
+    "label": "Systemic collapse argument",
+    "what_happens": "Romuald explains Stella’s lack of buffer and the catastrophic effects of falling behind.",
+    "involved_entities": ["romuald-anwar", "stella-ai", "teragen"],
+    "stakes_or_conflict": "Integrity of SAIR vs rushed scale-up."
+    },
+    {
+    "order": 4,
+    "label": "Humanitarian lever",
+    "what_happens": "Adlawan invokes Montague’s mortality countdown and shares a ravager aftermath drone feed to underscore urgency.",
+    "involved_entities": ["cervantes-adlawan", "giles-montague", "wildlands-holdfast", "humanity-party"],
+    "stakes_or_conflict": "Lives lost now vs risks of systemic failure later."
+    },
+    {
+    "order": 5,
+    "label": "Compromise proposal",
+    "what_happens": "Romuald reveals a contingency: temporary triple-blind human auditors to stabilize throughput while models retrain.",
+    "involved_entities": ["romuald-anwar", "teragen", "stella-ai"],
+    "stakes_or_conflict": "Reintroducing bias vs meeting the deadline."
+    },
+    {
+    "order": 6,
+    "label": "Ultimatum accepted",
+    "what_happens": "Adlawan accepts the plan, requests specs for a new auditor career type, and sets a ten-month deadline.",
+    "involved_entities": ["cervantes-adlawan", "romuald-anwar", "industry-party"],
+    "stakes_or_conflict": "Execution risk under hard deadline."
+    }
+    ],
+    "characters": [
+    {
+    "id": "romuald-anwar",
+    "display_name": "Romuald Anwar",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Protect Stella’s stability; avoid catastrophic misclassification; resist impossible mandate.",
+    "obstacles": "Political pressure; humanitarian optics; Stella’s architectural limits and time constraints.",
+    "tactics": "Technical rebuttals; highlight systemic risks; propose controlled human-auditor stopgap.",
+    "relationships": [
+    {"with": "cervantes-adlawan", "type": "political-stakeholder", "state": "tense", "evidence": "Adlawan presses inevitability; Romuald resists on technical grounds."},
+    {"with": "stella-ai", "type": "steward-architectural", "state": "protective", "evidence": "Warns about buffers and degradation when Stella falls behind."}
+    ],
+    "emotional_arc": {
+    "start": "anxious, resistant",
+    "turning_points": ["Confronted with drone atrocity footage", "Accepts inevitability and offers stopgap"],
+    "end": "resigned, determined under duress"
+    },
+    "notable_actions": ["localcasts a technical report", "argues bufferless failure dynamics", "proposes triple-blind human auditors"],
+    "quotable_lines": [
+    "This isn't hard, Adlawan. It's a goddamn disaster.",
+    "There’s one option… temporarily add human auditors—triple-blind—until the models are retrained."
+    ]
+    },
+    {
+    "id": "cervantes-adlawan",
+    "display_name": "Cervantes Adlawan",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Deliver mandate; secure a workable plan within ten months; avoid political collapse.",
+    "obstacles": "Engineering constraints; public sentiment; inter-party dynamics.",
+    "tactics": "Moral framing; inevitability narrative; evidentiary shock (drone video); deadline ultimatum.",
+    "relationships": [
+    {"with": "romuald-anwar", "type": "principal-agent", "state": "pressuring but pragmatic", "evidence": "Sets deadline; accepts human-auditor plan."},
+    {"with": "giles-montague", "type": "political-ally/pressure source", "state": "aligned on urgency", "evidence": "Amplifies Montague’s countdown and council push."}
+    ],
+    "emotional_arc": {
+    "start": "controlled, confident",
+    "turning_points": ["Shows atrocity footage", "Accepts controversial mitigation"],
+    "end": "grim, resolute"
+    },
+    "notable_actions": ["presents ultimatum", "shares drone tri-D feed", "authorizes specs for new auditor career type"],
+    "quotable_lines": [
+    "Politics isn't engineering. It isn't required to make sense.",
+    "You have ten months. Make it work."
+    ]
+    },
+    {
+    "id": "giles-montague",
+    "display_name": "Giles Montague",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Force integration to save lives; win council support.",
+    "obstacles": "Engineering feasibility; Balance Party skepticism.",
+    "tactics": "Holographic mortality countdown; persuasive oratory; political pressure campaign.",
+    "relationships": [
+    {"with": "cervantes-adlawan", "type": "interparty-pressure", "state": "cooperative", "evidence": "Adlawan cites Montague’s display and council influence."}
+    ],
+    "emotional_arc": {
+    "start": "offstage influence",
+    "turning_points": [],
+    "end": "offstage influence"
+    },
+    "notable_actions": ["drives council sentiment with mortality display"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "stella-ai",
+    "name": "Stella AI",
+    "category": "other",
+    "capabilities": ["Individual governance via SAIR rankings", "Predictive regulation", "Real-time behavioral modeling"],
+    "owner_or_users": ["metrofederacy"],
+    "condition_or_state": "operational but capacity-limited (no backlog buffer)",
+    "scene_function": "Central system at risk of overload; basis of integration debate."
+    },
+    {
+    "id": "localcast-neural-interface",
+    "name": "Localcast neural interface",
+    "category": "comms",
+    "capabilities": ["Direct report/video transfer", "AR/tri-D display"],
+    "owner_or_users": ["romuald-anwar", "cervantes-adlawan"],
+    "condition_or_state": "intact",
+    "scene_function": "Transmits reports and the atrocity video."
+    },
+    {
+    "id": "suborbital-corporate-shuttle",
+    "name": "Suborbital shuttle",
+    "category": "vehicle",
+    "capabilities": ["Rapid intercity travel"],
+    "owner_or_users": ["romuald-anwar"],
+    "condition_or_state": "ready/refueling",
+    "scene_function": "Represents a briefly considered escape vector."
+    },
+    {
+    "id": "holo-mortality-countdown",
+    "name": "Holographic mortality countdown",
+    "category": "other",
+    "capabilities": ["Real-time visualization of death rate"],
+    "owner_or_users": ["giles-montague"],
+    "condition_or_state": "operational",
+    "scene_function": "Persuades council by dramatizing urgency."
+    },
+    {
+    "id": "triple-blind-human-auditing",
+    "name": "Triple-blind human auditing (proposal)",
+    "category": "other",
+    "capabilities": ["Human-in-the-loop adjudication", "Bias control via blinding", "Load stabilization during retraining"],
+    "owner_or_users": ["teragen"],
+    "condition_or_state": "proposed",
+    "scene_function": "Controversial stopgap to meet deadline without collapse."
+    }
+    ],
+    "locations": [
+    {
+    "id": "thorsmork-palace",
+    "name": "Thórsmörk Palace",
+    "type": "structure",
+    "descriptors": ["sapphire-glass windows", "overlooks Icelandic mountain ranges", "Industry Party HQ", "austere conference room"],
+    "in_scene_events": ["Romuald and Adlawan negotiate the ultimatum and accept the human-auditor plan."]
+    },
+    {
+    "id": "wildlands-holdfast",
+    "name": "Unnamed wildlander holdfast",
+    "type": "holdfast",
+    "descriptors": ["toppled", "breached perimeter", "burning structures", "heat shimmer", "corpses"],
+    "in_scene_events": ["Appears in tri-D drone footage illustrating escalating atrocities."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "industry-party",
+    "name": "Industry Party",
+    "alignment": "ally",
+    "agents_present": ["cervantes-adlawan"],
+    "motives_inferred": "Stabilize Stella and preserve Metrofederacy; enact feasible integration.",
+    "actions_in_scene": ["Delivers ultimatum", "Sanctions human-auditor stopgap"]
+    },
+    {
+    "id": "humanity-party",
+    "name": "Humanity Party",
+    "alignment": "pressure",
+    "agents_present": [],
+    "motives_inferred": "Immediate humanitarian integration to stop wildlands deaths.",
+    "actions_in_scene": ["Applies political pressure via council votes and mortality display (offstage)"]
+    },
+    {
+    "id": "balance-party",
+    "name": "Balance Party",
+    "alignment": "uncertain",
+    "agents_present": [],
+    "motives_inferred": "Guard Stella’s stability; swayed by humanitarian case.",
+    "actions_in_scene": ["Potential swing votes (offstage)"]
+    },
+    {
+    "id": "teragen",
+    "name": "Teragen",
+    "alignment": "ally",
+    "agents_present": ["romuald-anwar"],
+    "motives_inferred": "Maintain technical integrity of Stella; avoid collapse.",
+    "actions_in_scene": ["Proposes triple-blind auditor solution"]
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Preserve order, dignity, and autonomy via Stella.",
+    "actions_in_scene": ["Context/stakeholder"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Humanitarian urgency vs systemic risk", "Power and responsibility", "Politics vs engineering reality", "Bias and control", "Inevitability and compromise"],
+    "motifs_symbols": ["Sapphire-glass and aurora (fragile grandeur)", "Mortality countdown (time pressure)", "Drone footage (unflinching evidence)"],
+    "moral_questions": ["Is reintroducing human bias justified to prevent greater catastrophe?", "How many lives justify risking civilizational systems?", "Who bears responsibility for the wildlands’ suffering?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "cinematic-technical",
+    "pacing": "tense, boardroom confrontation",
+    "voice_traits": ["dry irony", "precise systems language", "political pragmatism"],
+    "sensory_notes": ["cold conference room stillness", "aurora over mountains through sapphire glass", "heat shimmer and smoke in drone video"]
+    },
+    "causality": {
+    "prior_dependencies": ["Stella launched ~100 years prior; Metrofederacy stability relies on continuous oversight", "Wildlands instability and ravager violence rising", "Avarice Wars ~70 years earlier shattered Old Earth power structures"],
+    "outcomes": ["Ten-month integration mandate established", "Temporary triple-blind human auditing accepted in principle", "Specs for an auditor career type requested"],
+    "unanswered_questions": ["How will auditors be selected and blinded?", "Can models be retrained fast enough?", "Will Balance Party acquiesce?", "What are unintended consequences of reintroducing human bias?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["romuald-anwar", "cervantes-adlawan"],
+    "trigger": "Mandated integration timeline vs technical impossibility",
+    "resolution": "Conditional agreement on human-auditor stopgap under deadline"
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["romuald-anwar", "stella-ai capacity constraints"],
+    "trigger": "No backlog/buffer; risk of cascading failure if Stella falls behind",
+    "resolution": "Mitigation plan (temporary auditors) accepted"
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["metrofederacy", "wildlands chaos"],
+    "trigger": "Escalating ravager violence and civilian deaths",
+    "resolution": "Political will hardens toward rapid integration"
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "graphic",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["war atrocities", "child injury", "political coercion"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Romuald Anwar", "Cervantes Adlawan", "Giles Montague", "ten-month ultimatum", "human auditors", "triple-blind", "Stella AI bufferless risk", "mortality countdown", "wildlands atrocity footage", "Industry Party HQ Thórsmörk"],
+    "keywords_dense": "Romuald Anwar, Cervantes Adlawan, Giles Montague, Stella AI, SAIR, Industry Party, Humanity Party, Balance Party, Teragen, Thórsmörk Palace, Icelandic mountains, wildlands holdfast, drone tri-D footage, mortality countdown, human auditors, triple-blind verification, integration deadline, bufferless processing, misclassification risk, political inevitability",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Romuald Anwar", "Cervantes Adlawan", "Giles Montague"],
+    "places": ["Thórsmörk Palace", "Icelandic mountain ranges", "wildlands holdfast"],
+    "orgs": ["Teragen", "Industry Party", "Humanity Party", "Balance Party", "Metrofederacy"],
+    "terms": ["Stella AI", "SAIR rankings", "triple-blind human auditing", "localcast", "suborbital", "holographic mortality countdown"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What ultimatum is issued in this scene?", "a": "Integrate 100 million new citizens into Stella within ten months."},
+    {"q": "How does Romuald propose preventing Stella’s collapse under load?", "a": "By temporarily adding triple-blind human auditors while models retrain."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "stella_deception_outpost_preupdate_2181-08-27-1",
+    "type": "recap",
+    "text": "In an austere meeting at Thórsmörk Palace, Industry Chair Cervantes Adlawan orders Teragen CEO Romuald Anwar to integrate 100M wildlanders into Stella within ten months. Romuald warns Stella’s bufferless design would collapse if overloaded, tanking SAIR and public trust. Adlawan cites Humanity Party pressure and shows tri-D drone footage of a ravaged holdfast to underscore urgency. Cornered, Romuald proposes a controversial stopgap: triple-blind human auditors to stabilize throughput while retraining models and scaling capacity. Adlawan accepts and requests specs for a new auditor career type under the fixed deadline."
+    },
+    {
+    "chunk_id": "stella_deception_outpost_preupdate_2181-08-27-2",
+    "type": "entities_focus",
+    "text": "Actors: Romuald Anwar (Teragen CEO, POV), Cervantes Adlawan (Industry Party Chair), Giles Montague (Humanity Party; offstage pressure). Systems and tech: Stella AI (SAIR governance, no backlog), localcast neural interface, tri-D drone footage, holographic mortality countdown, proposed triple-blind human auditing. Orgs: Teragen, Industry Party, Humanity Party, Balance Party, Metrofederacy. Places: Thórsmörk Palace (Icelandic mountains), unnamed wildlands holdfast (in footage). Roles: Adlawan imposes deadline; Romuald defends systemic integrity; Montague drives council sentiment."
+    },
+    {
+    "chunk_id": "stella_deception_outpost_preupdate_2181-08-27-3",
+    "type": "style_theme_focus",
+    "text": "Tone and style: cinematic-technical boardroom drama, 3rd-limited past with tight internal tension. Themes: humanitarian urgency vs systemic risk; politics versus engineering; bias reintroduced as a controlled compromise; inevitability and agency under constraint. Motifs: aurora beyond sapphire glass (fragility under grandeur), mortality countdown (time pressure), drone atrocity footage (evidence as lever). Moral questions: Is controlled bias acceptable to avert collapse? What responsibility does a stable society have to the dying beyond its borders?"
+    }
+    ]
+    }

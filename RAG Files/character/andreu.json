@@ -1,0 +1,68 @@
+{
+    "doc_type": "neon_titan_character_v1",
+    "source": {"dossier_file": null, "scene_refs": []},
+    "identity": {
+      "id": "andreu",
+      "display_name": "Andreu",
+      "aliases": [],
+      "mbti": "ESFP",
+      "age_bracket": "adult",
+      "gender": "male",
+      "origin": "Three Shovels Caravan"
+    },
+    "affiliations": ["three-shovels-caravan"],
+    "bio": {
+      "one_liner": "A fun-loving gambler of the Three Shovels Caravan, who masks danger with good humor but genuinely cares for his mates.",
+      "summary": "Andreu thrives on dice games, jokes, and good times within the Three Shovels Caravan, acting as a social glue. While often underestimated as just a gambler, he has deep loyalty to his friends and proves dependable in moments of crisis. His levity contrasts the brutality of the Wildlands, but beneath it lies a real concern for caravan survival and the bonds between its people.",
+      "narrative_gravity": 5
+    },
+    "personality": {
+      "traits": ["fun-loving", "gregarious", "optimistic", "loyal"],
+      "flaws": ["risk-prone", "sometimes-irresponsible"],
+      "values": ["friendship", "fun", "loyalty"],
+      "motivations_primary": ["enjoy-life", "support-mates"],
+      "motivations_secondary": ["avoid-despair", "find-luck-in-gambling"]
+    },
+    "appearance": {
+      "height_cm": null,
+      "build": "average",
+      "hair": null,
+      "eyes": null,
+      "notable_marks": [],
+      "style": "caravan leisure clothes; dice in pocket"
+    },
+    "skills": {
+      "combat": [],
+      "technical": [],
+      "tactics": ["gambling", "lighthearted-distraction"],
+      "limitations": ["not-combat-ready", "risk-taking"]
+    },
+    "relationships": [],
+    "arc": {
+      "status_now": "Alive during early caravan arcs; later fate unresolved.",
+      "pre_pivot": "Gambler and jokester of caravan life.",
+      "pivot_event": null,
+      "post_pivot": null,
+      "future_vector": "Potentially matures if survival forces change."
+    },
+    "items_and_tech": [],
+    "themes": {
+      "keywords": ["gambling", "loyalty", "fun", "friendship"],
+      "moral_tensions": ["levity-vs-survival"]
+    },
+    "text_windows": {
+      "bio_200w": "",
+      "arc_200w": "",
+      "skills_120w": "",
+      "appearance_120w": "",
+      "relationships_180w": ""
+    },
+    "qa_pairs": [],
+    "metadata_for_indexing": {
+      "retrieval_keys": ["Andreu", "Three Shovels Caravan"],
+      "keywords_dense": "Andreu, gambler, Three Shovels Caravan, loyalty, fun, levity",
+      "spoiler_level": "book1_mid",
+      "named_entities": {"people": ["Andreu"], "places": ["Three Shovels Caravan"], "orgs": [], "terms": ["dice"]}
+    },
+    "embedding_payloads": []
+  }

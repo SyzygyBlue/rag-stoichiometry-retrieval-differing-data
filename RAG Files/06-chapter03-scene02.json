@@ -1,0 +1,332 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Chapter 03 Scene 02",
+    "scene_id": "ch3-s2_barn-buggy-exfil",
+    "chapter_number": 3,
+    "scene_number": 2,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Immediately after Quincy and Demmy leave the bramble hide to cross the ravager camp and attempt a vehicle exfil."
+    },
+    "text_windows": {
+    "full_scene_clean": "Flies buzz over carnage as Quincy and Demmy cross open ground toward a leaning barn. Quincy carries a rusted iron pipe and her toolbox; Andreu’s .45 stays holstered unless last resort. They pass bodies and tin huts. A shed door opens: an old ravager shuffles out with a datapad. Quincy freezes until Demmy signals; she swings the pipe, felling him, and Demmy finishes him with precise shiv strikes. Shaken, Quincy follows Demmy to a field of stripped vehicles. Outside is a junkyard, but inside the dim barn are two motorcycles and a two-seat buggy. Using a light-amplification loop, Quincy inspects: one bike needs time-consuming swingarm work; the other has a bullet-holed motor; the buggy has a disconnected steering linkage (easy) and an open phase-coil circuit (she can patch). She repairs the linkage, patches wiring, and searches for charging gear, finally finding a rigid 1m×1m solar panel. They lash it on with old tie-downs and hook it to the distribution node. Packs and toolbox secured, Quincy hands Demmy the .45, then drives the buggy out as Demmy coaches her to mimic ravager swagger. A jump-scare mannequin riddled with bullet holes briefly panics Quincy, then they roll away from the camp toward red dirt and blue sky.",
+    "dense_recap_250w": "Quincy and Demmy risk a daylight crossing through a ravager camp’s aftermath to reach a leaning barn that might hide workable transport. Quincy, gripping a rusted pipe and her toolbox, freezes when a shed opens and an old ravager steps out focused on a datapad. Pushed past paralysis, she clubs him down; Demmy dispatches him efficiently with a shiv. At the vehicle yard, exterior hulks are hopelessly cannibalized, but inside the barn Quincy finds two motorcycles and a two-seat electric buggy. Using a monocular light-amplification loop, she triages options: one bike would require drilling out a swingarm bolt; the second’s motor is bullet-destroyed; the buggy needs a steering re-link and has an open circuit on a motor phase coil—repairable enough to move, though inefficient and slow until fully fixed. Power is the next constraint; Demmy doesn’t know the tech, but Quincy locates a rigid 1m×1m solar panel. They strap it to the roof with weathered tie-downs, connect it to the distribution node, and load the toolbox and packs. Quincy gives Demmy the .45 for overwatch, then drives the buggy out while they feign ravager bravado to blend. A bullet-riddled mannequin spooks them, but no sentries appear. They clear the camp perimeter and head the way the caravan likely traveled, speed-limited and battery-constrained yet finally mobile.",
+    "query_handle": "Quincy & Demmy kill a ravager, triage vehicles, patch an electric buggy, strap a solar panel, and bluff past the camp as ‘ravagers’ to escape."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Through the killing ground",
+    "what_happens": "Quincy and Demmy cross the corpse-strewn yard toward a leaning barn.",
+    "involved_entities": ["quincy", "demmy", "ravager-camp-yard", "leaning-barn"],
+    "stakes_or_conflict": "Exposure to returning patrols; psychological shock."
+    },
+    {
+    "order": 2,
+    "label": "Shed encounter",
+    "what_happens": "An old ravager exits a tin shed; Quincy hesitates then clubs him; Demmy finishes with shiv strikes.",
+    "involved_entities": ["quincy", "demmy", "old-ravager", "iron-pipe", "shiv", "datapad"],
+    "stakes_or_conflict": "Silence vs discovery; kill or be killed."
+    },
+    {
+    "order": 3,
+    "label": "Junkyard vs workshop",
+    "what_happens": "Outside vehicles are stripped beyond use; inside the barn there are two bikes and a buggy.",
+    "involved_entities": ["leaning-barn", "stripped-vehicles", "two-seater-buggy", "motorcycles"],
+    "stakes_or_conflict": "Finding viable transport under time pressure."
+    },
+    {
+    "order": 4,
+    "label": "Rapid triage and repair",
+    "what_happens": "Quincy uses a light-amp loop to inspect; chooses the buggy; fixes steering and patches a motor coil.",
+    "involved_entities": ["quincy", "light-amp-loop", "two-seater-buggy"],
+    "stakes_or_conflict": "Speed vs reliability; limited tools and light."
+    },
+    {
+    "order": 5,
+    "label": "Power constraint solved",
+    "what_happens": "They locate a rigid solar panel, lash it, and connect to the distribution node.",
+    "involved_entities": ["solar-panel-1x1", "tie-down-straps", "distribution-node"],
+    "stakes_or_conflict": "Energy scarcity vs mobility."
+    },
+    {
+    "order": 6,
+    "label": "Disguise and exfil",
+    "what_happens": "Armed with the .45 and ‘ravager face,’ they drive out; a bullet-riddled mannequin spooks them but no alarm rises.",
+    "involved_entities": ["quincy", "demmy", "andreus-45-automag", "mannequin-target", "two-seater-buggy"],
+    "stakes_or_conflict": "Blend or be spotted while exiting the camp."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Secure working transport and escape the ravager area.",
+    "obstacles": "Freeze response, time pressure, limited power, risk of patrols.",
+    "tactics": "Improvised weapon use, rapid diagnostics and repair, camouflage by behavior, gear scavenging.",
+    "relationships": [
+    {"with": "demmy", "type": "ally", "state": "pragmatic trust", "evidence": "Hands him the .45; follows his bluffing advice."}
+    ],
+    "emotional_arc": {
+    "start": "hypervigilant, nauseated",
+    "turning_points": ["Kills on Demmy’s cue", "Finds a workable buggy and a solar panel"],
+    "end": "grimly resolute, adrenaline-high"
+    },
+    "notable_actions": ["clubs-ravager-with-pipe", "vehicle-triage", "repairs-steering-linkage", "patches-motor-coil", "wires-solar-charger", "drives-exfil"],
+    "quotable_lines": ["One of these will work.", "I think I pissed myself a little."]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": ["skerv-youth"],
+    "role_in_scene": "major",
+    "goals_now": "Get out alive without drawing attention.",
+    "obstacles": "Open terrain, unknown tech, possible sentries.",
+    "tactics": "Predator-calm scanning, decisive finishing, deception posture, lets Quincy lead repairs.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "protective-wry", "evidence": "Coaches ravager act; accepts driving role split."}
+    ],
+    "emotional_arc": {
+    "start": "cold-focus",
+    "turning_points": ["Silent kill to prevent alarm", "Accepts buggy plan once workable"],
+    "end": "alert, sardonic"
+    },
+    "notable_actions": ["shiv-finisher", "loot-check", "adopts-ravager-snarls", "opens-barn-doors"],
+    "quotable_lines": ["You can’t do that.", "We’re ravagers now… just out for a joyride."]
+    },
+    {
+    "id": "old-ravager",
+    "display_name": "Old ravager with datapad",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": null,
+    "obstacles": null,
+    "tactics": null,
+    "relationships": [],
+    "emotional_arc": {"start": "oblivious", "turning_points": [], "end": "dead"},
+    "notable_actions": ["exits-shed-distracted-by-datapad"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "iron-pipe",
+    "name": "Rusty iron pipe (~1m)",
+    "category": "weapon",
+    "capabilities": ["blunt-force strike"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "improvised/intact",
+    "scene_function": "Quincy’s first lethal blow on the shed ravager."
+    },
+    {
+    "id": "shiv",
+    "name": "Jagged metal shiv",
+    "category": "weapon",
+    "capabilities": ["silent kill at close range"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "serviceable",
+    "scene_function": "Finishing strikes to prevent alarm."
+    },
+    {
+    "id": "datapad",
+    "name": "Ravager datapad",
+    "category": "other",
+    "capabilities": ["information device (contents unknown)"],
+    "owner_or_users": ["old-ravager", "demmy"],
+    "condition_or_state": "intact",
+    "scene_function": "Looted from the victim; potential intel (not explored here)."
+    },
+    {
+    "id": "two-seater-buggy",
+    "name": "Two-seater electric buggy",
+    "category": "vehicle",
+    "capabilities": ["short-range transport", "silent electric drive"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "functional-with-fault (open phase coil; patched)",
+    "scene_function": "Primary exfil vehicle; speed/battery inefficient until full repair."
+    },
+    {
+    "id": "motorcycle-1",
+    "name": "Motorcycle with stripped swingarm bolt",
+    "category": "vehicle",
+    "capabilities": ["potential transport (requires machining)"],
+    "owner_or_users": [],
+    "condition_or_state": "repairable-but-time-consuming",
+    "scene_function": "Rejected under time pressure."
+    },
+    {
+    "id": "motorcycle-2",
+    "name": "Motorcycle with bullet-holed motor",
+    "category": "vehicle",
+    "capabilities": ["none (destroyed motor)"],
+    "owner_or_users": [],
+    "condition_or_state": "unsalvageable",
+    "scene_function": "Rejected."
+    },
+    {
+    "id": "light-amp-loop",
+    "name": "Monocular light-amplification loop",
+    "category": "tool",
+    "capabilities": ["low-light inspection"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "working",
+    "scene_function": "Enables quick diagnostics inside dim barn."
+    },
+    {
+    "id": "solar-panel-1x1",
+    "name": "Rigid solar panel (1m×1m)",
+    "category": "other",
+    "capabilities": ["trickle charging via charger/controller"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "intact/awkward",
+    "scene_function": "Mitigates battery constraint; roof-lashed for charging."
+    },
+    {
+    "id": "tie-down-straps",
+    "name": "Aged tie-down straps",
+    "category": "tool",
+    "capabilities": ["secure cargo to roof/rack"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "worn but usable",
+    "scene_function": "Strap solar panel to buggy roof."
+    },
+    {
+    "id": "mannequin-target",
+    "name": "Bullet-riddled mannequin",
+    "category": "other",
+    "capabilities": ["decoy/target"],
+    "owner_or_users": [],
+    "condition_or_state": "shot-up",
+    "scene_function": "Jump scare; tests their nerves during exfil."
+    },
+    {
+    "id": "andreus-45-automag",
+    "name": "Andreu’s .45 automag",
+    "category": "weapon",
+    "capabilities": ["sidearm defense"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "loaded/ready",
+    "scene_function": "Exfil overwatch while driving."
+    }
+    ],
+    "locations": [
+    {
+    "id": "ravager-camp-yard",
+    "name": "Ravager camp yard",
+    "type": "wilderness",
+    "descriptors": ["corpses, flies, coppery blood smell", "tin huts", "burnt-out vehicles"],
+    "in_scene_events": ["Crossing under daylight; shed encounter; exit route used."]
+    },
+    {
+    "id": "tin-shed",
+    "name": "Tin shed by huts",
+    "type": "structure",
+    "descriptors": ["creaking door", "shadowed threshold"],
+    "in_scene_events": ["Old ravager exits; Quincy and Demmy kill silently."]
+    },
+    {
+    "id": "leaning-barn",
+    "name": "Leaning wood-and-tin barn",
+    "type": "structure",
+    "descriptors": ["patched tin, bullet holes, dim interior"],
+    "in_scene_events": ["Vehicle triage; quick repairs; solar panel found; buggy rolls out."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "ravagers",
+    "name": "Ravagers",
+    "alignment": "hostile",
+    "agents_present": ["old-ravager"],
+    "motives_inferred": "Predatory control of the area; trophies/targets in camp.",
+    "actions_in_scene": ["Shed patrol emerges (killed); camp otherwise quiet during exfil."]
+    },
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Offstage goal for Quincy to rejoin.",
+    "actions_in_scene": []
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Survival through transformation", "Improvisation under scarcity", "Camouflage and deception", "Speed vs safety tradeoffs"],
+    "motifs_symbols": ["blood and flies (cost of survival)", "toolbox and loop (competence)", "solar panel (hope/energy)", "ravager mask (performed identity)"],
+    "moral_questions": ["What self must be sacrificed to survive?", "When does disguise become complicity?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic with technical detail",
+    "pacing": "brisk with spikes of shock",
+    "voice_traits": ["visceral imagery", "tactical triage", "wry gallows humor"],
+    "sensory_notes": ["flies’ buzz", "copper tang of blood", "creaking hinges", "electric hum and gear whine", "sun glare in blue sky"]
+    },
+    "causality": {
+    "prior_dependencies": ["Separation from caravan; earlier decision to seek a vehicle; possession of toolbox and .45"],
+    "outcomes": ["Quincy crosses psychological threshold of killing", "Electric buggy acquired and mobile but power-limited", "Adopted ravager disguise tactic for movement"],
+    "unanswered_questions": ["Will the buggy’s coil fault and limited charging impede catching the caravan?", "Does the datapad hold useful intel?", "Are patrols already tracking them?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy-demmy", "old-ravager"],
+    "trigger": "Shed door opens during crossing.",
+    "resolution": "Silent kill; no alarm raised."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy", "her-freeze-response-and-identity-shift"],
+    "trigger": "Hesitation at moment of contact; mirror recognition.",
+    "resolution": "Acts decisively; accepts cost to self."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy-and-demmy", "camp-exposure-and-scarcity"],
+    "trigger": "Need to find workable transport and power.",
+    "resolution": "Patch buggy; strap solar panel; exfiltrate."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "graphic",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["corpse desecration/looting", "close-quarters killing", "war-zone aftermath"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Demmy", "two-seater buggy", "solar panel charger", "light-amplification loop", "ravager disguise", "shed encounter", "vehicle triage"],
+    "keywords_dense": "Quincy, Demmy, ravager camp, tin shed, datapad, iron pipe, shiv, leaning barn, motorcycles, electric buggy, steering linkage, phase coil, solar panel, tie-down straps, mannequin target, exfiltration",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Demmy"],
+    "places": ["Ravager camp yard", "Leaning wood-and-tin barn", "Tin shed"],
+    "orgs": ["Ravagers", "Three Shovels Caravan"],
+    "terms": ["light-amplification loop", "phase coil", "distribution node"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Which vehicle do Quincy and Demmy use to escape?", "a": "A two-seat electric buggy with a patched motor coil and reattached steering linkage."},
+    {"q": "How do they address the buggy’s power limitation?", "a": "They lash a rigid 1m×1m solar panel to the roof and connect it to the distribution node for charging."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "ch3-s2_barn-buggy-exfil_1",
+    "type": "recap",
+    "text": "Amid flies and bodies, Quincy and Demmy cross a ravager camp. Quincy clubs a shed ravager; Demmy finishes him. Outside hulks are useless; inside a dim barn Quincy triages two bikes and a two-seat electric buggy. She fixes steering, patches a motor coil, and finds a rigid 1×1 m solar panel to charge. They strap it, load packs, adopt a ‘ravager’ act, spook at a bullet-riddled mannequin, then drive out toward the caravan’s direction."
+    },
+    {
+    "chunk_id": "ch3-s2_barn-buggy-exfil_2",
+    "type": "entities_focus",
+    "text": "People: Quincy (mechanic/POV), Demmy (skerv ally), old ravager (shed victim). Items/Tech: iron pipe; shiv; datapad; two-seat electric buggy (steering fixed; phase coil patched); two motorcycles (one time-heavy, one destroyed); monocular light-amp loop; rigid solar panel; tie-downs; Andreu’s .45. Places: ravager camp yard; tin shed; leaning barn. Factions: Ravagers (hostile), Three Shovels (offstage)."
+    },
+    {
+    "chunk_id": "ch3-s2_barn-buggy-exfil_3",
+    "type": "style_theme_focus",
+    "text": "Gritty third-limited past with visceral sensory detail and technical triage. Themes: survival via improvisation; moral cost of killing; deception as camouflage; scarcity of power. Motifs: flies/blood, toolbox/inspection loop, solar panel as hope, ravager mask as necessary performance."
+    }
+    ]
+    }

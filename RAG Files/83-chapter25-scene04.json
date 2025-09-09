@@ -1,0 +1,305 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "calum-tam-courtyard-dawn-lenya-confrontation",
+    "chapter_number": 25,
+    "scene_number": 4,
+    "date_in_universe": "2186-10-29/2186-11-20",
+    "absolute_timeline_notes": "Dawn in the Calum–Tam Holdfast: wake-up from cells and morning rations immediately after Chase’s staged beating."
+    },
+    "text_windows": {
+    "full_scene_clean": "Before dawn, a guard bangs a club on doors to wake prisoners. Quincy pulls the loose brick to check on Chase; he’s wrecked but claims it was worth it. They’re marched to the courtyard with about thirty others, issued wooden bowls and tin cups for porridge and water. Lenya Tam arrives in breeches, boots, waistcoat and a pistol belt, clipboard in hand. Her gaze locks on Chase’s blood-crusted shirt and bruised face; she demands to know what happened. A nearby guard stays silent under her stare. Lenya steps to Chase and orders him to speak. He gambles on audacity, quipping, “must have cut myself shaving,” holding eye contact. For a beat her composure cracks—an eyebrow, a twitch of a smile—then she turns and leaves. Chase reads it as a win and looks down, careful not to seem cowed. Now they wait to see what the reaction sets in motion.",
+    "dense_recap_250w": "Roused by a guard pounding clubs on doors, Quincy checks on the battered Chase through the loose brick between cells. He insists the beating was ‘worth it,’ echoing last night’s plan to leverage Lenya Tam’s prior interest and authority. The prisoners—about thirty—file into the Calum–Tam courtyard, each given a wooden bowl and tin cup for porridge and water. Lenya appears dressed for command, pistol belt and clipboard telegraphing control. The instant she notices Chase’s injuries, her pleasant veneer hardens into anger. She demands an explanation; a guard wilts but refuses to answer. Lenya closes the distance to Chase and orders him to speak. Chase executes his social gambit: he delivers a dry deflection—“must have cut myself shaving”—with practiced eye contact and just enough insolent charm to force a reaction without outright insubordination. For a heartbeat, Lenya’s mask slips—eyebrow raised, lip curling—before she breaks contact and walks away. Chase, aching but elated, interprets the micro-signal as acknowledgement and potential leverage over the abusive chain of command. Quincy, who had mocked the risk as suicidal, watches the opening unfold. The scene ends on poised uncertainty: Lenya knows someone hurt a prisoner under her watch; the guard’s silence suggests fear or complicity; and Chase’s visible bruises now function as political evidence in a power game that might change their conditions—or escalate danger.",
+    "query_handle": "Dawn rollcall: Lenya confronts Chase’s injuries; guard silence; Chase’s audacious quip nudges power dynamics."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Wake-up and check-in",
+    "what_happens": "Guards rouse prisoners; Quincy uses the loose brick to verify Chase is alive. They trade barbs.",
+    "involved_entities": ["quincy", "chase", "brick-comm-port", "calum-tam-guards"],
+    "stakes_or_conflict": "Physical injury vs. the need to push a risky plan."
+    },
+    {
+    "order": 2,
+    "label": "Courtyard assembly",
+    "what_happens": "About thirty prisoners line up for porridge and water; bowls and cups are issued.",
+    "involved_entities": ["quincy", "chase", "calum-tam-guards"],
+    "stakes_or_conflict": "Routine control underscores their captivity."
+    },
+    {
+    "order": 3,
+    "label": "Lenya’s confrontation",
+    "what_happens": "Lenya notices Chase’s injuries, demands answers from guards, then from Chase directly.",
+    "involved_entities": ["lenya-tam", "chase", "calum-tam-guards"],
+    "stakes_or_conflict": "Authority tested; potential exposure of overseer abuse."
+    },
+    {
+    "order": 4,
+    "label": "Calculated insolence",
+    "what_happens": "Chase delivers a quip and unwavering eye contact to provoke interest without open defiance.",
+    "involved_entities": ["chase", "lenya-tam"],
+    "stakes_or_conflict": "Audacity could win leverage—or trigger reprisal."
+    },
+    {
+    "order": 5,
+    "label": "Tells and retreat",
+    "what_happens": "Lenya’s micro-expression betrays intrigue before she departs; Chase reads it as a win.",
+    "involved_entities": ["lenya-tam", "chase", "quincy"],
+    "stakes_or_conflict": "Ambiguous outcome sets stage for fallout."
+    }
+    ],
+    "characters": [
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": ["Sparkles"],
+    "role_in_scene": "POV",
+    "goals_now": "Exploit Lenya’s authority and interest to alter power dynamics and improve escape odds.",
+    "obstacles": "Painful injuries; guard silence; risk of provoking harsher control.",
+    "tactics": "Public audacity, eye contact, controlled humor; present visible injuries as implicit evidence.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "tense trust", "evidence": "Morning banter and shared plan context."},
+    {"with": "lenya-tam", "type": "potential-ally", "state": "testing boundaries", "evidence": "Her focus on his injuries; micro-expression after his quip."}
+    ],
+    "emotional_arc": {
+    "start": "hurting but resolute",
+    "turning_points": ["Lenya demands answers", "Her mask slips"],
+    "end": "weary optimism"
+    },
+    "notable_actions": ["stands despite pain", "meets Lenya’s gaze", "deflects with quip"],
+    "quotable_lines": [
+    "Sorry, must have cut myself shaving.",
+    "Feeling like it was worth it."
+    ]
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Keep pressure on escape timeline; ensure Chase’s gamble doesn’t get them killed.",
+    "obstacles": "Heavy security; uncertainty about Lenya’s response.",
+    "tactics": "Surveillance via loose brick; sardonic prodding; readiness to pivot.",
+    "relationships": [
+    {"with": "chase", "type": "ally", "state": "wary cooperation", "evidence": "Checks on him; warns, “You’re going to get us both killed.”"},
+    {"with": "lenya-tam", "type": "adversary-to-unknown", "state": "skeptical", "evidence": "Watches for leverage but doubts outcome."}
+    ],
+    "emotional_arc": {
+    "start": "anxious, skeptical",
+    "turning_points": ["Witnesses Lenya’s anger and focus on Chase"],
+    "end": "guarded hope"
+    },
+    "notable_actions": ["removes brick to observe Chase", "tracks Lenya’s reaction"],
+    "quotable_lines": [
+    "Oh, and if ‘beat to absolute fuck’ was the style you were going for, I’d say you nailed it.",
+    "You’re going to get us both killed."
+    ]
+    },
+    {
+    "id": "lenya-tam",
+    "display_name": "Lenya Tam",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Assert control; identify who injured a prisoner under her authority.",
+    "obstacles": "Guard reluctance to implicate overseers; public setting constraints.",
+    "tactics": "Public interrogation; commanding presence; nonverbal signaling.",
+    "relationships": [
+    {"with": "chase", "type": "potential-ally-or-threat", "state": "intrigued/irritated", "evidence": "Direct focus on him; eyebrow and lip twitch before exit."}
+    ],
+    "emotional_arc": {
+    "start": "composed authority",
+    "turning_points": ["Sees Chase’s injuries; confronts guard; hears quip"],
+    "end": "contained anger with a hint of curiosity"
+    },
+    "notable_actions": ["demands explanation from guard", "confronts Chase directly"],
+    "quotable_lines": [
+    "What in the hell happened to him?",
+    "Alright, tell me what happened."
+    ]
+    },
+    {
+    "id": "calum-tam-guards",
+    "display_name": "Calum–Tam Guards",
+    "aliases": ["guards"],
+    "role_in_scene": "supporting",
+    "goals_now": "Maintain order and avoid self-incrimination.",
+    "obstacles": "Lenya’s scrutiny; visible evidence on Chase.",
+    "tactics": "Silence; minimal responses.",
+    "relationships": [],
+    "emotional_arc": {"start": "routine enforcement", "turning_points": ["Lenya’s interrogation"], "end": "uneasy"},
+    "notable_actions": ["issue bowls and cups", "avoid answering Lenya"]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "brick-comm-port",
+    "name": "Loose brick between cells",
+    "category": "other",
+    "capabilities": ["visual/voice link between adjacent prisoners"],
+    "owner_or_users": ["quincy", "chase"],
+    "condition_or_state": "loose; usable",
+    "scene_function": "Allows Quincy to verify Chase and coordinate before the courtyard."
+    },
+    {
+    "id": "guard-club",
+    "name": "Guard’s club",
+    "category": "weapon",
+    "capabilities": ["door banging wake-up", "melee control"],
+    "owner_or_users": ["calum-tam-guards"],
+    "condition_or_state": "intact",
+    "scene_function": "Signals authority and initiates the morning assembly."
+    },
+    {
+    "id": "ration-issue",
+    "name": "Wooden bowls and tin cups",
+    "category": "other",
+    "capabilities": ["serve porridge and water"],
+    "owner_or_users": ["prisoners"],
+    "condition_or_state": "serviceable",
+    "scene_function": "Frames the rationing routine and headcount."
+    },
+    {
+    "id": "lenya-pistol-belt",
+    "name": "Lenya’s pistol belt & sidearm",
+    "category": "weapon",
+    "capabilities": ["sidearm carry; deterrence"],
+    "owner_or_users": ["lenya-tam"],
+    "condition_or_state": "holstered; ready",
+    "scene_function": "Visualizes her authority and capacity for force."
+    },
+    {
+    "id": "lenya-clipboard",
+    "name": "Lenya’s clipboard",
+    "category": "tool",
+    "capabilities": ["hold work details, roll call notes"],
+    "owner_or_users": ["lenya-tam"],
+    "condition_or_state": "in use",
+    "scene_function": "Symbol of administrative control; used to point at Chase."
+    }
+    ],
+    "locations": [
+    {
+    "id": "calum-tam-cellblock",
+    "name": "Calum–Tam cellblock (pre-dawn)",
+    "type": "structure",
+    "descriptors": ["dim", "brick walls", "metal doors", "echoing club strikes"],
+    "in_scene_events": ["Guard wake-up; Quincy checks on Chase via brick"]
+    },
+    {
+    "id": "calum-tam-courtyard",
+    "name": "Calum–Tam courtyard",
+    "type": "structure",
+    "descriptors": ["open yard", "ration line", "tense silence at dawn"],
+    "in_scene_events": ["Ration distribution", "Lenya confronts guards and Chase", "Nonverbal power play"]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "calum-tam-holdfast",
+    "name": "Calum–Tam Holdfast",
+    "alignment": "hostile",
+    "agents_present": ["lenya-tam", "calum-tam-guards"],
+    "motives_inferred": "Exploit captive labor while maintaining a controlled image of order.",
+    "actions_in_scene": ["Rationing prisoners", "Leadership scrutiny of unexplained injuries"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["power and performance", "oppression and control", "strategy vs. recklessness", "identity as leverage"],
+    "motifs_symbols": ["visible bruise as evidence", "clipboard as authority", "dawn muster", "brick aperture"],
+    "moral_questions": ["Is calculated provocation justified to expose abuse?", "How do symbols of power (uniforms, weapons) shape truth in captive systems?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "brisk with charged pauses",
+    "voice_traits": ["dry humor under duress", "micro-expression reading", "tactical inner monologue"],
+    "sensory_notes": ["club banging on doors", "pre-dawn chill", "clink of tin cups", "silence stretching in the yard", "eye-contact tension"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Chase staged a beating the previous night to create visible evidence.",
+    "Quincy and Chase agreed to a dual-track approach (people leverage + escape mechanics)."
+    ],
+    "outcomes": [
+    "Lenya is publicly confronted with Chase’s injuries and guard silence.",
+    "Chase perceives a crack in Lenya’s composure, suggesting potential leverage.",
+    "Group witnesses set the stage for internal disciplinary or political fallout."
+    ],
+    "unanswered_questions": [
+    "Will Lenya punish or sideline the responsible enforcers?",
+    "Does this shift their work assignments or security posture?",
+    "Can Quincy capitalize on any procedural disruption for escape?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy", "chase", "calum-tam-holdfast"],
+    "trigger": "Ration muster under armed authority and surveillance.",
+    "resolution": "Unresolved; potential opening via Lenya’s reaction."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["chase", "lenya-tam"],
+    "trigger": "Lenya interrogates; Chase answers with audacious deflection.",
+    "resolution": "Partial; Lenya disengages, signaling interest but withholding action."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Fear that Chase’s gambit could backfire vs. hope it shifts power.",
+    "resolution": "Unresolved; remains vigilant."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mild",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["slavery/forced labor", "physical abuse aftermath"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": [
+    "Lenya confronts injuries at dawn muster",
+    "Guard silence under scrutiny",
+    "Chase quip ‘cut myself shaving’",
+    "Visible bruise as leverage",
+    "Courtyard ration line",
+    "Brick communication pre-muster"
+    ],
+    "keywords_dense": "Calum–Tam Holdfast, dawn courtyard, prisoner ration line, Lenya Tam, Chase bruised, guard silence, clipboard authority, pistol belt, audacious quip, brick hole communication",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chase", "Quincy", "Lenya Tam"],
+    "places": ["Calum–Tam cellblock", "Calum–Tam courtyard"],
+    "orgs": ["Calum–Tam Holdfast"],
+    "terms": []
+    }
+    },
+    "qa_pairs": [
+    {"q": "How many prisoners are assembled in the courtyard?", "a": "About thirty."},
+    {"q": "What does Lenya demand upon seeing Chase?", "a": "She demands to know what happened to him and asks for an explanation."},
+    {"q": "What items are issued to prisoners at rations?", "a": "Wooden bowls and tin cups."},
+    {"q": "Why does Chase consider the beating ‘worth it’?", "a": "He believes the visible injuries will force Lenya’s attention and create leverage."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "ct-courtyard-lev-1",
+    "type": "recap",
+    "text": "At dawn, Calum–Tam guards wake prisoners. Quincy checks on battered Chase through a loose brick. In the courtyard ration line, Lenya Tam spots Chase’s blood-stained shirt and bruised face, publicly demands answers, and confronts him directly when guards keep silent. Chase executes a calculated quip with unwavering eye contact to provoke controlled curiosity rather than punishment. Lenya’s mask slips—an eyebrow and hint of a smile—before she walks away, leaving Chase convinced the gambit worked and that internal power dynamics may shift."
+    },
+    {
+    "chunk_id": "ct-courtyard-lev-2",
+    "type": "entities_focus",
+    "text": "Key actors: Chase (injured strategist), Quincy (mechanical planner, wary ally), Lenya Tam (authority with sidearm and clipboard), Calum–Tam Guards (silent enforcers). Artifacts: loose brick comm port; guard club; wooden bowls and tin cups; Lenya’s pistol belt and clipboard. Places: Calum–Tam cellblock (pre-dawn), Calum–Tam courtyard (rations). Function: Use of visible injury as political evidence to pressure leadership."
+    },
+    {
+    "chunk_id": "ct-courtyard-lev-3",
+    "type": "style_theme_focus",
+    "text": "Third-limited past with gritty, cinematic staging and micro-expression reading. Themes: power and performance; manipulation as survival under oppression; systems of control vs. individual agency. Motifs: dawn muster, clipboard as authority, bruise as signal, brick aperture communication. Moral tension: Is theatrical defiance ethical if it endangers others but may expose abuse?"
+    }
+    ]
+    }

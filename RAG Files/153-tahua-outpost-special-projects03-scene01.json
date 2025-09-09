@@ -1,0 +1,282 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Chaos Dreams",
+    "scene_id": "2186-07-13-chaos-dreams-tahua-outpost-fay-skree",
+    "chapter_number": "tahua-outpost-special-projects03",
+    "scene_number": "1",
+    "date_in_universe": "2186-07-13",
+    "absolute_timeline_notes": "Pre-Fox River arc. Inside Tahua Outpost (Special Projects Three), Fay oversees Skree’s VR context minutes before a scripted attack against Cryodyne triggers the asset’s displacement/control handoff."
+    },
+    "text_windows": {
+    "full_scene_clean": "Fay sat cross-legged, hovering centimeters above the floor, her spectral form observing Skree—unaware these were her final hours in the holo. Skree’s physical body would soon be boxed and shipped to Li Mei’s handlers. Li Mei had teams combing Skree’s interface code for back doors and logic bombs. Fay had left decoys—obvious traps—to keep them busy and to avoid raising suspicion. Once the handoff occurred, Fay would lose all contact. Skree’s control matrices were shielded by advanced AEGIS, and Skree was hardwired not to perceive them. Li Mei also masked the handlers’ identity: objectives would arrive via a hardened security digest to an artificial third node in Skree’s brain, which would translate orders into intuitions and neurochemical prompts—an “unbreakable leash.” “Only virtually impenetrable,” Fay murmured. In the simulated world Skree believed real, a klaxon sounded; the scripted attack against Cryodyne—the mostly fictitious company Skree “worked” for—began in VR, forcing her to flee. These were the last minutes Fay would see Skree, for now. A girl needs options. As long as no one could do what Fay could, she could get away with almost anything. Skree’s PID populated with alerts. With a flick of her lingual interface, Fay piggybacked on Skree’s optics to watch what Skree saw.",
+    "dense_recap_250w": "At Tahua Outpost’s Special Projects Three, Fay observes her creation, Skree, inside a VR ‘holo’ environment during the final minutes before a control transfer to Li Mei’s network. Anticipating code audits, Fay previously planted obvious decoy back doors and logic bombs so Li Mei’s consultants would find and remove them, satisfying suspicion while protecting Fay’s true options. After the handoff, Fay expects to lose direct access: Skree’s control matrices are wrapped in top-tier AEGIS defenses, Skree is hardwired not to perceive them, and all operational orders will be routed through an encrypted digest into an artificial ‘third node’ in Skree’s brain that converts instructions into intuitions and neurochemical cues—intended as an unbreakable leash. Fay considers it only ‘virtually’ impenetrable. A scripted attack on ‘Cryodyne’—a mostly fictitious employer front within the simulation—kicks off on cue, designed to force Skree to flee and thus transition into the next phase under Li Mei’s handlers. As alarms blare and data flood Skree’s PID, Fay uses her lingual interface to piggyback Skree’s optics, ensuring real-time visibility in these last moments of access. The scene frames a power struggle of authorship and control around Skree: Fay’s covert safeguards vs. Li Mei’s compartmentalized command chain.",
+    "query_handle": "Fay watches VR-scripted attack to force Skree’s handoff; Li Mei’s AEGIS-leashed third-node control; decoy backdoors; Fay piggybacks Skree’s optics."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Set-up in Special Projects",
+    "what_happens": "Fay hovers in holo, monitoring Skree during the final hours before a control transfer to Li Mei’s handlers.",
+    "involved_entities": ["fay", "skree", "li-mei"],
+    "stakes_or_conflict": "Loss of access vs. maintaining covert influence."
+    },
+    {
+    "order": 2,
+    "label": "Decoy audits",
+    "what_happens": "Li Mei’s consultants locate and remove planted decoy back doors; Fay intended this to allay suspicion.",
+    "involved_entities": ["fay", "li-mei", "li-mei-consultants"],
+    "stakes_or_conflict": "Conceal true capabilities while satisfying adversarial scrutiny."
+    },
+    {
+    "order": 3,
+    "label": "The leash architecture",
+    "what_happens": "Handler instructions will pass via secure digest to Skree’s artificial third node, translating orders into intuitions and neurochemistry under AEGIS protection.",
+    "involved_entities": ["skree", "handlers-unknown", "aegis", "third-node"],
+    "stakes_or_conflict": "Engineered control vs. autonomy; Fay calls it only ‘virtually’ impenetrable."
+    },
+    {
+    "order": 4,
+    "label": "Scripted trigger",
+    "what_happens": "A klaxon signals a staged VR attack on Cryodyne to force Skree’s flight and the operational transition.",
+    "involved_entities": ["skree", "cryodyne"],
+    "stakes_or_conflict": "Forcing asset movement under hostile supervision."
+    },
+    {
+    "order": 5,
+    "label": "Last look",
+    "what_happens": "Fay piggybacks Skree’s optics via lingual interface to witness events in real time.",
+    "involved_entities": ["fay", "skree", "pid", "lingual-interface"],
+    "stakes_or_conflict": "Capturing intelligence before visibility is cut off."
+    }
+    ],
+    "characters": [
+    {
+    "id": "fay",
+    "display_name": "Fay",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Maintain covert leverage over Skree as control transfers; observe the trigger sequence.",
+    "obstacles": "AEGIS-protected control matrices; handler anonymity; code audits by Li Mei’s teams.",
+    "tactics": "Plants obvious decoys; piggybacks Skree’s optics; leverages superior VR/infosec skills.",
+    "relationships": [
+    {"with": "skree", "type": "creator/asset", "state": "possessive/protective", "evidence": "“These were the last minutes she would be seeing Skree… for now.”"},
+    {"with": "li-mei", "type": "rivals/power struggle", "state": "covertly adversarial", "evidence": "Calls Li Mei a ‘treacherous old woman’ and counters her audits with decoys."}
+    ],
+    "emotional_arc": {
+    "start": "confident, predatory, calculating",
+    "turning_points": ["Accepts loss of official access; asserts system is only ‘virtually’ impenetrable.", "Chooses to piggyback optics at the last moment."],
+    "end": "composed vigilance under narrowing access"
+    },
+    "notable_actions": ["plants decoy back doors", "monitors audits", "initiates optic piggyback via lingual interface"],
+    "quotable_lines": [
+    "Only virtually impenetrable.",
+    "A girl’s gotta have options."
+    ]
+    },
+    {
+    "id": "skree",
+    "display_name": "Skree",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "React to alarms and survive the VR ‘attack’ scenario.",
+    "obstacles": "Unseen AEGIS leash; impending handler control; ignorance of true context.",
+    "tactics": "Follows PID inputs and perceived threats in-sim (implicit).",
+    "relationships": [
+    {"with": "fay", "type": "asset/creation", "state": "unaware dependence", "evidence": "Skree is oblivious to Fay’s oversight and the decoy audits."},
+    {"with": "li-mei", "type": "controller/subject", "state": "covert control", "evidence": "Handlers to command via third node translating orders."}
+    ],
+    "emotional_arc": {
+    "start": "unaware, routine",
+    "turning_points": ["Klaxon and alerts hit PID; flight likely begins."],
+    "end": "reactive, threatened (implied)"
+    },
+    "notable_actions": ["monitors PID", "prepares to flee the VR attack (implied)"],
+    "quotable_lines": []
+    },
+    {
+    "id": "li-mei",
+    "display_name": "Li Mei",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Seize operational control of Skree, ensure no hidden back doors, keep handlers anonymous.",
+    "obstacles": "Fay’s countermeasures and potential undisclosed capabilities.",
+    "tactics": "Deploys consultants to scour code; isolates control via AEGIS and third-node digest.",
+    "relationships": [
+    {"with": "fay", "type": "adversaries", "state": "mutually distrustful", "evidence": "Li Mei audits; Fay plants decoys to satisfy suspicion."}
+    ],
+    "emotional_arc": {
+    "start": "suspicious, methodical",
+    "turning_points": [],
+    "end": "apparently satisfied by decoy removals (for now)"
+    },
+    "notable_actions": ["orders code audits", "enforces handler anonymity", "locks control behind AEGIS"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "aegis",
+    "name": "AEGIS defensive control matrices",
+    "category": "comms",
+    "capabilities": ["high-grade access control", "tamper shielding", "operator-blind leash integration"],
+    "owner_or_users": ["li-mei", "handlers-unknown"],
+    "condition_or_state": "intact",
+    "scene_function": "Shields Skree’s control plane and hides the leash from her awareness."
+    },
+    {
+    "id": "third-node",
+    "name": "Artificial third node (Skree brain)",
+    "category": "cybernetics",
+    "capabilities": ["ingests secure digests", "transduces orders into intuitions/neurochemical prompts"],
+    "owner_or_users": ["skree", "handlers-unknown"],
+    "condition_or_state": "active",
+    "scene_function": "Implements the behavioral leash translating handler intent into impulses."
+    },
+    {
+    "id": "pid",
+    "name": "PID (personal interface device)",
+    "category": "comms",
+    "capabilities": ["alerts", "tasking display", "data feed"],
+    "owner_or_users": ["skree"],
+    "condition_or_state": "intact",
+    "scene_function": "Delivers the in-sim alerts that cue Skree’s reaction to the attack."
+    },
+    {
+    "id": "lingual-interface",
+    "name": "Lingual interface",
+    "category": "comms",
+    "capabilities": ["hands-free UI control", "vision piggyback selection"],
+    "owner_or_users": ["fay"],
+    "condition_or_state": "intact",
+    "scene_function": "Allows Fay to tap into Skree’s optics with a subtle tongue gesture."
+    },
+    {
+    "id": "vr-holo-environment",
+    "name": "VR holo environment",
+    "category": "other",
+    "capabilities": ["simulated workplace context", "scripted attack scenarios"],
+    "owner_or_users": ["skree", "fay"],
+    "condition_or_state": "active",
+    "scene_function": "Stage for the Cryodyne ‘attack’ that forces Skree’s movement."
+    }
+    ],
+    "locations": [
+    {
+    "id": "tahua-outpost-sp3",
+    "name": "Tahua Outpost – Special Projects Three",
+    "type": "structure",
+    "descriptors": ["secure lab", "oversight node", "code-audit operations"],
+    "in_scene_events": ["Fay monitors Skree’s session and audits’ progress."]
+    },
+    {
+    "id": "chaos-dreams-vr",
+    "name": "Chaos Dreams (VR context)",
+    "type": "other",
+    "descriptors": ["simulated workspace", "alarm klaxons", "scripted threat vectors"],
+    "in_scene_events": ["Klaxon triggers the Cryodyne attack scenario; Skree prepares to flee."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "li-mei-network",
+    "name": "Li Mei’s network/handlers",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Operational use of Skree under strict compartmentalization and deniability.",
+    "actions_in_scene": ["Audit code via consultants", "Mask handler identities", "Route commands via secure digest to third node"]
+    },
+    {
+    "id": "cryodyne",
+    "name": "Cryodyne",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Fictional/emulative employer front to sustain Skree’s in-sim cover.",
+    "actions_in_scene": ["Serves as target of scripted VR attack"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["control vs. autonomy", "deception as protection", "surveillance and authorship", "compartmentalized power", "the illusion of choice"],
+    "motifs_symbols": ["decoy back doors", "unbreakable leash", "third brain node", "klaxon alarms", "spectral observer"],
+    "moral_questions": ["Is engineered intuition a form of consent or coercion?", "When does protective deception become its own tyranny?", "Who truly owns an asset built from another’s mind and body?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "techno-thriller/clinical",
+    "pacing": "slow-burn with impending trigger",
+    "voice_traits": ["sardonic asides", "systems jargon", "predatory calm"],
+    "sensory_notes": ["VR klaxon blare", "hovering weightlessness", "PID alert cascade"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Fay previously engineered Skree and seeded decoy back doors.",
+    "Li Mei has custody trajectory for Skree including code audits and handler setup."
+    ],
+    "outcomes": [
+    "Control handoff framework clarified (AEGIS + third node + digest).",
+    "Scripted Cryodyne attack begins; Skree likely to flee under leash.",
+    "Fay secures short-term visual intel by piggybacking Skree’s optics."
+    ],
+    "unanswered_questions": [
+    "Who are the anonymous handlers behind Li Mei?",
+    "What non-decoy access, if any, did Fay preserve?",
+    "What is the real objective of the Cryodyne ‘attack’ beyond displacement?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["fay", "li-mei"],
+    "trigger": "Competing control over Skree and her codebase.",
+    "resolution": "Unresolved; Li Mei’s audits succeed against decoys while Fay keeps ‘options’ implied."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["skree", "aegis/third-node leash"],
+    "trigger": "Orders injected as intuitions via secure digest.",
+    "resolution": "Unresolved; leash architecture remains in force."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["mind control/coercion", "surveillance/manipulation"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Fay", "Skree", "Li Mei", "Tahua Outpost", "Chaos Dreams", "AEGIS control matrices", "third node leash", "Cryodyne", "PID", "lingual interface"],
+    "keywords_dense": "Fay, Skree, Li Mei, Tahua Outpost Special Projects Three, Chaos Dreams VR, AEGIS defenses, third brain node, secure digest, decoy back doors, logic bombs, Cryodyne cover, PID alerts, lingual interface, optics piggyback, handlers anonymity",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Fay", "Skree", "Li Mei"],
+    "places": ["Tahua Outpost – Special Projects Three", "Chaos Dreams"],
+    "orgs": ["Cryodyne"],
+    "terms": ["AEGIS", "PID", "lingual interface", "third node", "security digest", "holo"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Why did Fay plant decoy back doors and logic bombs in Skree’s code?", "a": "To give Li Mei’s consultants something obvious to find and remove, reducing suspicion while protecting Fay’s undisclosed options."},
+    {"q": "How will Skree be controlled after the handoff?", "a": "Handlers send instructions through an encrypted digest to an artificial third brain node that converts them into intuitions and neurochemical prompts under AEGIS protection."},
+    {"q": "What immediate event triggers Skree’s movement in this scene?", "a": "A scripted VR attack on the cover employer ‘Cryodyne,’ signaled by a klaxon and PID alerts."},
+    {"q": "How does Fay continue to observe Skree in these final moments?", "a": "She uses her lingual interface to piggyback Skree’s optics and see what Skree sees."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "chaos-dreams-1",
+    "type": "recap",
+    "text": "At Tahua Outpost (Special Projects Three), Fay oversees Skree’s VR session just before Li Mei’s control handoff. Li Mei’s teams remove Fay’s planted decoy back doors, believing the code clean. Control will be enforced via AEGIS and a secure-digest ‘third node’ that turns orders into intuitions. A scripted attack on the cover firm Cryodyne fires to force Skree to flee, initiating the transition. Fay piggybacks Skree’s optics via her lingual interface to capture these last moments of visibility."
+    },
+    {
+    "chunk_id": "chaos-dreams-2",
+    "type": "entities_focus",
+    "text": "Key actors: Fay (creator/overseer), Skree (asset), Li Mei (controller with anonymous handlers). Technologies: AEGIS control matrices; artificial third brain node; secure command digest; PID; lingual interface; VR/holo context. Orgs/Fronts: Cryodyne (simulated employer). Places: Tahua Outpost – Special Projects Three; Chaos Dreams VR. Dynamics: Fay’s covert leverage vs. Li Mei’s compartmentalized leash."
+    },
+    {
+    "chunk_id": "chaos-dreams-3",
+    "type": "style_theme_focus",
+    "text": "Techno-thriller tone in third-person limited around Fay; precise systems jargon and sardonic interior asides. Themes of autonomy vs. engineered control, deception as defense, and surveillance through embedded interfaces. Motifs: decoy back doors, klaxon triggers, ‘unbreakable’ leash, third-node puppetry, spectral observer in VR."
+    }
+    ]
+    }

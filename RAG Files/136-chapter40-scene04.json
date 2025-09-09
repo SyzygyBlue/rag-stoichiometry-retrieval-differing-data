@@ -1,0 +1,317 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Strings of the Puppet Master",
+    "scene_id": "margdelain-mctanner-demmy-bait-plan",
+    "chapter_number": 40,
+    "scene_number": 4,
+    "date_in_universe": "2186-11-28/2186-11-29",
+    "absolute_timeline_notes": "Post-downbelow crackdown; after confirmation Chase is at Calum-Tam; before Metrofederacy admission."
+    },
+    "text_windows": {
+    "full_scene_clean": "Jeb swallowed his whiskey, eyes on the amber liquid. \"Are you certain it's him?\" he asked. Margdelain checked her datapad: \"Seems the 'Son of Fox River' really pissed off Dinh Tam's daughter. She's taking it out of his hide.\" She added that the caravanner girl was with him and dismissed her relevance, baffled at her son's involvement. Jeb sighed: \"I assume we're mounting a rescue? They're slavers—we could roll over them in an afternoon.\" Margdelain shook her head: Calum-Tam is buddying with Ransom Canyon; a strike risks open war. \"Once we're accepted into the Metrofederacy, none of this will matter.\" Jeb asked for the plan. Margdelain asked about Demmy's training. Jeb said he's with special ops, \"wet work\"—and they might be learning as much from him. Margdelain proposed letting Demmy \"overhear\" that Chase and Quincy were captive, betting he'd drop everything to help. Jeb objected; she pressed, \"And if he were captured?\" Jeb, jaw tight, answered that Fox River never gave him orders—he couldn't implicate them. Margdelain concluded: low risk, high reward. \"Start Demmy practicing in a TEG-6 today. Stock it with weapons and medical; include one of Chase's favorite rifles. I'll leak the rumor; it'll spread like wildfire.\" Jeb drained his glass: \"Let's hope this works.\" Margdelain: \"If it works, I'll owe him another medal—and have the armorer get him a new pair of scissors. From me.\" Jeb noted the blacksmith had already crafted Demmy something suited to his talents and others wanted copies. Margdelain insisted he shouldn't represent Fox River with broken scissors. Jeb's eyes narrowed; he thought, cold-hearted, but nodded.",
+    "dense_recap_250w": "In Margdelain’s office, Jeb McTanner confirms reports that Chase—the “Son of Fox River”—is at the Calum-Tam Holdfast and has angered Dinh Tam’s daughter; Quincy, the caravanner girl, is there too. Jeb proposes a direct rescue, calling Calum-Tam slavers and claiming Fox River could crush them quickly. Margdelain vetoes the idea: Calum-Tam is aligned with Ransom Canyon, so any assault risks open war Fox River is not ready to win. Banking on eventual Metrofederacy membership, she looks for a lower-risk option and probes Demmy’s status. Jeb reports Demmy is training with special ops for wet work. Margdelain outlines a deniable intervention: leak a rumor that Chase and Quincy are captive so Demmy “overhears” it and self-deploys. If captured, Demmy cannot implicate Fox River because he was never ordered—maintaining plausible deniability. She instructs Jeb to get Demmy into a TEG-6 immediately, stocked with weapons and medical supplies and one of Chase’s favorite rifles, while she circulates the rumor, expecting Demmy to move by morning. She adds a cosmetic-political note: equip Demmy properly; don’t send him representing Fox River with broken scissors. Jeb notes the blacksmith has already made Demmy a bespoke weapon favored for his work. The scene frames Margdelain’s cold, strategic calculus and Jeb’s reluctant execution of a risky but deniable rescue gambit.",
+    "query_handle": "Margdelain tasks McTanner: leak rumor to spur Demmy’s deniable rescue of Chase & Quincy at Calum-Tam; prep TEG-6 and gear."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Confirmation of Chase’s plight",
+    "what_happens": "Margdelain cites intel that Dinh Tam’s daughter is punishing Chase; Quincy is with him.",
+    "involved_entities": ["margdelain", "jeb-mctanner", "chase", "quincy", "dinh-tams-daughter", "dinh-tam", "calum-tam-holdfast"],
+    "stakes_or_conflict": "Personal stakes for Fox River leadership; hostage-like situation."
+    },
+    {
+    "order": 2,
+    "label": "No direct assault",
+    "what_happens": "Jeb suggests a rescue by force; Margdelain rejects it due to Calum-Tam’s ties to Ransom Canyon and war risk.",
+    "involved_entities": ["margdelain", "jeb-mctanner", "calum-tam-holdfast", "ransom-canyon"],
+    "stakes_or_conflict": "Avoiding open war Fox River might lose."
+    },
+    {
+    "order": 3,
+    "label": "Demmy as deniable instrument",
+    "what_happens": "Margdelain probes Demmy’s readiness and proposes leaking a rumor so he self-deploys.",
+    "involved_entities": ["margdelain", "jeb-mctanner", "demmy"],
+    "stakes_or_conflict": "Using loyalty to motivate action without orders."
+    },
+    {
+    "order": 4,
+    "label": "Plausible deniability calculus",
+    "what_happens": "Jeb concedes capture wouldn’t implicate Fox River since Demmy has no orders.",
+    "involved_entities": ["jeb-mctanner", "margdelain", "demmy"],
+    "stakes_or_conflict": "Ethical risk vs. political safety."
+    },
+    {
+    "order": 5,
+    "label": "Logistics and image",
+    "what_happens": "Margdelain orders TEG-6 prep with gear and Chase’s rifle; insists on proper weaponry over broken scissors.",
+    "involved_entities": ["margdelain", "jeb-mctanner", "teg-6", "rifle-chase-favorite", "custom-blade"],
+    "stakes_or_conflict": "Operational readiness and optics."
+    }
+    ],
+    "characters": [
+    {
+    "id": "jeb-mctanner",
+    "display_name": "Jeb McTanner",
+    "aliases": ["McTanner"],
+    "role_in_scene": "POV",
+    "goals_now": "Protect Fox River interests and, implicitly, Chase; evaluate and execute Margdelain’s plan.",
+    "obstacles": "Risk of war with Ransom-aligned Calum-Tam; moral discomfort with using Demmy.",
+    "tactics": "Direct questioning; pragmatic acceptance; handles logistics for a deniable op.",
+    "relationships": [
+    {"with": "margdelain", "type": "ally", "state": "strained but functional", "evidence": "He reads her as ‘cold-hearted’ yet complies with the plan."},
+    {"with": "chase", "type": "ally/protective", "state": "concerned", "evidence": "Fortifying sip; seeks straightforward rescue."},
+    {"with": "demmy", "type": "mentor/handler", "state": "respectful", "evidence": "Notes Demmy’s wet-work training and capabilities."}
+    ],
+    "emotional_arc": {
+    "start": "wary, hopeful",
+    "turning_points": ["Plan shifts from assault to rumor-driven deniable action", "Accepts plausible deniability argument"],
+    "end": "resigned, operationally focused"
+    },
+    "notable_actions": ["assesses assault option", "acknowledges Demmy’s loyalty", "agrees to prep TEG-6", "confirms bespoke weapon"],
+    "quotable_lines": ["This sounds like the start of a truly awful plan."]
+    },
+    {
+    "id": "margdelain",
+    "display_name": "Chancellor Margdelain",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Recover Chase and Quincy without provoking war; keep Fox River insulated.",
+    "obstacles": "Calum-Tam–Ransom alignment; limited force projection pre-Metrofederacy.",
+    "tactics": "Information leak, deniable proxy (Demmy), logistical prep, optics management.",
+    "relationships": [
+    {"with": "jeb-mctanner", "type": "commander", "state": "directive", "evidence": "Issues step-by-step orders for Demmy and TEG-6."},
+    {"with": "chase", "type": "family/complicated", "state": "dismissive of his companion; protective via indirection", "evidence": "Calls Quincy irrelevant; still seeks to extricate him."},
+    {"with": "demmy", "type": "utilitarian ally", "state": "instrumental", "evidence": "Labels plan low-risk high-reward; offers medal and better gear if successful."}
+    ],
+    "emotional_arc": {
+    "start": "clinical, confident",
+    "turning_points": ["Rejects assault; selects rumor gambit", "Doubles down on deniability and optics"],
+    "end": "cold-strategic, satisfied with plan"
+    },
+    "notable_actions": ["quotes intel on Dinh Tam’s daughter", "rejects direct assault", "orders TEG-6 prep and gear loadout", "commits to leak rumor"],
+    "quotable_lines": ["Low risk, high reward, minimal downside."]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "supporting (offstage)",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "evelyn", "type": "close", "state": "loyal", "evidence": "Jeb: 'He and that Evelyn girl are close.'"},
+    {"with": "chase", "type": "ally", "state": "would aid", "evidence": "Expected to drop everything to help Chase and Quincy."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": ["Son of Fox River"],
+    "role_in_scene": "supporting (offstage)",
+    "goals_now": "",
+    "obstacles": "Held and abused by Dinh Tam’s daughter at Calum-Tam (per intel).",
+    "tactics": "",
+    "relationships": [
+    {"with": "quincy", "type": "ally/companion", "state": "together in captivity", "evidence": "Both reported at Calum-Tam."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": ["caravanner girl"],
+    "role_in_scene": "supporting (offstage)",
+    "goals_now": "",
+    "obstacles": "Mentioned captive with Chase at Calum-Tam.",
+    "tactics": "",
+    "relationships": [
+    {"with": "chase", "type": "ally", "state": "co-located", "evidence": "Reported present with him."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "evelyn",
+    "display_name": "Evelyn",
+    "aliases": [],
+    "role_in_scene": "cameo (mentioned)",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "demmy", "type": "romantic/close", "state": "strong loyalty", "evidence": "Jeb notes their closeness affects Demmy’s choices."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "teg-6",
+    "name": "TEG-6",
+    "category": "vehicle",
+    "capabilities": ["transport insertion/extraction", "cargo for weapons and medical loadout"],
+    "owner_or_users": ["demmy", "jeb-mctanner"],
+    "condition_or_state": "to-be-prepped",
+    "scene_function": "Planned platform for Demmy’s deniable rescue/infiltration."
+    },
+    {
+    "id": "rifle-chase-favorite",
+    "name": "Chase’s favorite rifle",
+    "category": "weapon",
+    "capabilities": ["firearm; combat support"],
+    "owner_or_users": ["chase", "demmy"],
+    "condition_or_state": "to be staged",
+    "scene_function": "Included in TEG-6 in case Chase can fight during extraction."
+    },
+    {
+    "id": "custom-blade",
+    "name": "Demmy’s bespoke blade",
+    "category": "weapon",
+    "capabilities": ["silent killing; close-quarters utility"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "intact",
+    "scene_function": "Preferred over broken scissors; symbolizes professionalization of Demmy’s role."
+    },
+    {
+    "id": "margdelain-datapad",
+    "name": "Margdelain’s datapad",
+    "category": "comms",
+    "capabilities": ["intel display; quote retrieval"],
+    "owner_or_users": ["margdelain"],
+    "condition_or_state": "intact",
+    "scene_function": "Surfaces the intel about Dinh Tam’s daughter and Chase."
+    }
+    ],
+    "locations": [
+    {
+    "id": "chancellors-office",
+    "name": "Chancellor’s Office (Fox River)",
+    "type": "structure",
+    "descriptors": ["private", "political nerve center", "whiskey on desk"],
+    "in_scene_events": ["Plan crafted to use Demmy; logistics assigned to McTanner."]
+    },
+    {
+    "id": "calum-tam-holdfast",
+    "name": "Calum-Tam Holdfast",
+    "type": "holdfast",
+    "descriptors": ["slaver reputation (per Jeb)", "aligned with Ransom Canyon"],
+    "in_scene_events": ["Site of Chase and Quincy’s captivity (as reported)."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "fox-river-council",
+    "name": "Fox River Council",
+    "alignment": "ally",
+    "agents_present": ["margdelain", "jeb-mctanner"],
+    "motives_inferred": "Recover citizens; avoid war; maintain deniability pre-Metrofederacy.",
+    "actions_in_scene": ["Design deniable rescue via rumor and proxy."]
+    },
+    {
+    "id": "calum-tam-holdfast",
+    "name": "Calum-Tam Holdfast",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Allied with Ransom; holds captives for leverage/punishment (as reported).",
+    "actions_in_scene": ["Detains Chase and Quincy (intel)."]
+    },
+    {
+    "id": "ransom-canyon",
+    "name": "Ransom Canyon",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Antagonistic toward Fox River; supports Calum-Tam.",
+    "actions_in_scene": ["Creates deterrent to Fox River assault."]
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Supranational authority; prospective membership offers security leverage.",
+    "actions_in_scene": ["Referenced as future umbrella reducing risk calculus."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["realpolitik vs. morality", "loyalty as leverage", "plausible deniability", "statecraft over heroics"],
+    "motifs_symbols": ["whiskey as strategic tell", "broken scissors vs. bespoke blade (image management)", "rumor as weapon"],
+    "moral_questions": ["Is it ethical to manipulate an ally into a deniable mission?", "When does protecting the state justify risking a loyal operative?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "political/strategic with dark humor",
+    "pacing": "slow-burn planning",
+    "voice_traits": ["wry asides", "cold calculus", "tactical dialogue"],
+    "sensory_notes": ["amber whiskey", "quiet office", "datapad glow"]
+    },
+    "causality": {
+    "prior_dependencies": ["Intel placing Chase and Quincy at Calum-Tam; Calum-Tam’s alignment with Ransom; Demmy’s special-ops training; Fox River’s pending Metrofederacy bid"],
+    "outcomes": ["Decision to leak rumor to trigger Demmy’s rescue attempt", "Order to prep TEG-6 with weapons/medical and Chase’s rifle", "Mandate to equip Demmy with professional gear"],
+    "unanswered_questions": ["Who spreads the rumor and how fast does it reach Demmy?", "Will Demmy succeed or be captured?", "How will Calum-Tam or Ransom respond?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_system",
+    "parties": ["jeb-mctanner", "fox-river-realpolitik"],
+    "trigger": "Margdelain’s deniable-operation plan using Demmy",
+    "resolution": "Jeb complies despite misgivings."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["margdelain", "regional-geopolitics"],
+    "trigger": "Calum-Tam’s alliance with Ransom constrains options",
+    "resolution": "Adopts rumor/proxy strategy; avoids open war."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "mentioned",
+    "sexual_content": "none",
+    "sensitive_topics": ["slavery (referenced)", "torture (referenced)", "political manipulation"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Margdelain plan", "McTanner logistics", "Demmy deniable mission", "Calum-Tam Holdfast", "Ransom Canyon alignment", "TEG-6 loadout", "Chase and Quincy captive"],
+    "keywords_dense": "Margdelain, McTanner, Demmy, Chase, Quincy, Calum-Tam Holdfast, Ransom Canyon, Metrofederacy, TEG-6, rumor operation, plausible deniability, bespoke blade, broken scissors, wet work",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chancellor Margdelain", "Jeb McTanner", "Chase", "Quincy", "Demmy", "Evelyn", "Dinh Tam", "Dinh Tam's daughter"],
+    "places": ["Calum-Tam Holdfast"],
+    "orgs": ["Fox River Council", "Ransom Canyon", "Metrofederacy"],
+    "terms": ["Son of Fox River", "TEG-6", "wet work"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Why does Margdelain reject a direct assault on Calum-Tam?", "a": "Calum-Tam is aligned with Ransom Canyon; an attack risks open war Fox River might lose."},
+    {"q": "What is Margdelain’s plan to help Chase and Quincy without implicating Fox River?", "a": "Leak a rumor so Demmy self-deploys in a TEG-6 with gear and a rifle, maintaining plausible deniability if he’s captured."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "demmy-bait-plan-recap",
+    "type": "recap",
+    "text": "Margdelain confirms intel that Chase has angered Dinh Tam’s daughter at the Calum-Tam Holdfast and that Quincy is with him. Rejecting Jeb McTanner’s idea of a direct rescue—Calum-Tam is aligned with Ransom Canyon—she proposes a deniable operation: leak a rumor so Demmy ‘overhears’ and self-deploys to rescue them. Jeb will prep a TEG-6 with weapons, medical supplies, and one of Chase’s favorite rifles. If Demmy is captured, he can’t implicate Fox River because he received no orders. Margdelain also insists Demmy be properly equipped, not with broken scissors but with a professional blade."
+    },
+    {
+    "chunk_id": "demmy-bait-plan-entities",
+    "type": "entities_focus",
+    "text": "Actors: Chancellor Margdelain (planner), Jeb McTanner (executor), Demmy (intended proxy rescuer, offstage), Chase (target), Quincy (target), Dinh Tam’s daughter (antagonist). Places/Factions: Calum-Tam Holdfast (Ransom-aligned), Ransom Canyon (hostile), Fox River Council (planner), Metrofederacy (future shield). Tech/Objects: TEG-6 vehicle, Chase’s favorite rifle, Demmy’s bespoke blade, Margdelain’s datapad, whiskey tell."
+    },
+    {
+    "chunk_id": "demmy-bait-plan-style-theme",
+    "type": "style_theme_focus",
+    "text": "Strategic, dialogue-driven 3rd-limited past with wry, cold calculus. Themes: realpolitik over heroics, loyalty weaponized, plausible deniability, image management. Motifs: whiskey as a tell; broken scissors vs. bespoke blade; rumor as a covert instrument."
+    }
+    ]
+    }

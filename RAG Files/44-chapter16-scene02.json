@@ -1,0 +1,337 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "2186-10-13_medbus-verification",
+    "chapter_number": 16,
+    "scene_number": 2,
+    "date_in_universe": "2186-10-13",
+    "absolute_timeline_notes": "Same day as prior med-bus recovery; minutes after McTanner and Liebold arrive on-site."
+    },
+    "text_windows": {
+    "full_scene_clean": "Chase wakes to angry shouting in the bullet-scarred med bus. Quincy is tied to a bed, raging at McTanner and insisting the vehicle—named the Dorothea Dix—is her family’s med bus. McTanner stays calm; Quincy accuses him of detaining her to keep her from leaving. Chase, swollen and hurting, intervenes: he reminds them he fought to save Quincy and Demmy and urges cooperation. Investigator Liebold chimes in with a barbed greeting. Chase asks Quincy to provide verifiable proof she belongs. After a tense pause, Quincy directs them to the command truck: slide the driver’s console forward to a hidden latch holding a brass key, a memchip, and a loaded 9mm—orders them to look only. McTanner and Liebold check, return, and unbuckle her restraints. Liebold apologizes for the hold while verification was done. Quincy immediately heads to the back to use a bucket toilet, telling Chase there’s no modesty in caravan life, then returns to the front, gown rustling, and declares she’s ready for questions because she needs to start finding her family now.",
+    "dense_recap_250w": "On the Dorothea Dix med bus, Chase wakes to hear Quincy bound and raging at McTanner. She asserts the bus is her family’s and that Fox River personnel are guests, not owners. McTanner remains calm; Quincy claims they restrained her to keep her from leaving. Seeing the exchange going nowhere, Chase intercedes, citing his role in the firefight and asking Quincy to offer something only she would know so TRG can verify her identity and stop wasting time. Quincy relents, giving precise instructions to a hidden compartment in the caravan’s command truck: slide the driver’s console forward to a latch; inside are a brass key, a memchip, and a loaded 9mm—look but don’t touch. McTanner and Investigator Liebold briefly leave, confirm the cache, and return to release Quincy’s restraints. Liebold offers a curt apology. Quincy, unembarrassed by a lack of privacy, uses the bus’s bucket and tells Chase caravan life has no room for modesty. She then steps forward, voice steady, and invites questions on the condition that the investigation move quickly—she must find her missing people. The scene reframes tensions between authority and survivor, establishes a verification protocol that shifts trust toward Quincy, and sets the search imperative.",
+    "query_handle": "Quincy proves caravan ownership via hidden cache; McTanner/Liebold verify and untie her; Chase mediates; search for missing family pressed."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Waking to a standoff",
+    "what_happens": "Chase wakes in pain to Quincy restrained and shouting at McTanner on the Dorothea Dix.",
+    "involved_entities": ["chase", "quincy", "jeb-mctanner", "dorothea-dix-med-bus"],
+    "stakes_or_conflict": "Distrust and coercion vs. survivor’s agency."
+    },
+    {
+    "order": 2,
+    "label": "Appeal to cooperation",
+    "what_happens": "Chase asserts his good faith and urges Quincy to give verifiable proof.",
+    "involved_entities": ["chase", "quincy", "jeb-mctanner", "investigator-liebold"],
+    "stakes_or_conflict": "Time-sensitive investigation vs. pride and anger."
+    },
+    {
+    "order": 3,
+    "label": "Proof specified",
+    "what_happens": "Quincy details a hidden cache in the command truck: brass key, memchip, loaded 9mm.",
+    "involved_entities": ["quincy", "command-truck", "brass-key", "memchip", "pistol-9mm"],
+    "stakes_or_conflict": "Verification of identity/claim."
+    },
+    {
+    "order": 4,
+    "label": "Verification and release",
+    "what_happens": "McTanner and Liebold confirm the cache and unbuckle Quincy, with a brief apology.",
+    "involved_entities": ["jeb-mctanner", "investigator-liebold", "quincy"],
+    "stakes_or_conflict": "Shift from suspicion to conditional trust."
+    },
+    {
+    "order": 5,
+    "label": "No modesty in caravan life",
+    "what_happens": "Quincy uses the bucket toilet matter-of-factly, then returns ready for questioning.",
+    "involved_entities": ["quincy", "chase", "dorothea-dix-med-bus"],
+    "stakes_or_conflict": "Pragmatism vs. social discomfort; urgency to act."
+    },
+    {
+    "order": 6,
+    "label": "Set the agenda",
+    "what_happens": "Quincy invites questions but insists the focus is finding her missing family.",
+    "involved_entities": ["quincy", "chase", "jeb-mctanner", "investigator-liebold"],
+    "stakes_or_conflict": "Investigation speed vs. protocol."
+    }
+    ],
+    "characters": [
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "De-escalate and help establish trust so the search for the missing can proceed.",
+    "obstacles": "Injury, limited authority, tense dynamics between Quincy and TRG.",
+    "tactics": "Calm persuasion; frames verification as a time-saver; appeals to shared goals.",
+    "relationships": [
+    {"with": "quincy", "type": "ally-in-formation", "state": "cautious rapport", "evidence": "He mediates and she tolerates it: “We’ll see.”"},
+    {"with": "jeb-mctanner", "type": "protégé/mentor", "state": "respectful", "evidence": "Identifies him as Master McTanner and expects his calm approach."},
+    {"with": "investigator-liebold", "type": "subordinate/authority", "state": "wary", "evidence": "Ignores Liebold’s jab: “The prodigal son awakens.”"}
+    ],
+    "emotional_arc": {
+    "start": "dazed, concerned",
+    "turning_points": ["Chooses to intervene", "Sees verification succeed"],
+    "end": "quietly validated, focused on helping"
+    },
+    "notable_actions": ["mediates dispute", "requests specific proof from Quincy", "maintains composure despite injury"],
+    "quotable_lines": ["I risked my life… If I wanted to hurt you, all I had to do was drive away.", "Give them something to build trust… so we can stop wasting valuable time."]
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Be untied, be believed, and urgently start finding her family.",
+    "obstacles": "Restraints; institutional skepticism; anger and stress.",
+    "tactics": "Assert ownership (vehicle naming); provide verifiable cache details; set firm boundaries.",
+    "relationships": [
+    {"with": "chase", "type": "ally-in-formation", "state": "guarded respect", "evidence": "Stops growling; engages and later invites questions."},
+    {"with": "jeb-mctanner", "type": "civilian vs. commander", "state": "hostile→cooling", "evidence": "Untied after proof; still urgent and blunt."},
+    {"with": "investigator-liebold", "type": "subject vs. security", "state": "adversarial→professional", "evidence": "Accepts verification; Liebold apologizes."}
+    ],
+    "emotional_arc": {
+    "start": "furious, restrained",
+    "turning_points": ["Provides proof location", "Released from restraints"],
+    "end": "focused, businesslike, urgent"
+    },
+    "notable_actions": ["names med bus Dorothea Dix", "details hidden latch and contents", "uses bucket openly; returns to lead questioning"],
+    "quotable_lines": ["This is my family’s med bus. We name our vehicles here.", "Go to the command truck… there’s a latch.", "If you’re going to ask me questions, now’s the time."]
+    },
+    {
+    "id": "jeb-mctanner",
+    "display_name": "Jebidiah McTanner",
+    "aliases": ["Master McTanner"],
+    "role_in_scene": "supporting",
+    "goals_now": "Verify claims, maintain control, prevent flight of a key witness.",
+    "obstacles": "High tension with Quincy; limited initial trust.",
+    "tactics": "Calm tone, procedural verification, removal of restraints after proof.",
+    "relationships": [
+    {"with": "quincy", "type": "authority/civilian", "state": "skeptical→acknowledging", "evidence": "Checks cache; unbuckles restraints."},
+    {"with": "chase", "type": "mentor", "state": "steady", "evidence": "Chase relies on his calm presence."}
+    ],
+    "emotional_arc": {
+    "start": "measured",
+    "turning_points": ["Accepts proof", "Orders release"],
+    "end": "professional, focused"
+    },
+    "notable_actions": ["verifies hidden cache", "authorizes untying"],
+    "quotable_lines": ["If you’ll calm down…", "We’ll check it out and be back."]
+    },
+    {
+    "id": "investigator-liebold",
+    "display_name": "Investigator Liebold",
+    "aliases": ["Chief of Fox River security"],
+    "role_in_scene": "supporting",
+    "goals_now": "Confirm identity/ownership; secure scene; proceed with questioning.",
+    "obstacles": "Abrasive reputation impedes rapport.",
+    "tactics": "Needling remark; procedural check; brief apology on release.",
+    "relationships": [
+    {"with": "chase", "type": "authority/subordinate", "state": "dry, barbed", "evidence": "“The prodigal son awakens.”"},
+    {"with": "quincy", "type": "investigator/subject", "state": "skeptical→conceding", "evidence": "Apologizes after confirming proof."}
+    ],
+    "emotional_arc": {
+    "start": "acerbic",
+    "turning_points": ["Verification found", "Apology issued"],
+    "end": "businesslike"
+    },
+    "notable_actions": ["confirms cache with McTanner", "unbuckles restraints", "apologizes for detention"],
+    "quotable_lines": ["The prodigal son awakens.", "Since we’re involved, we had to make sure you were who you said you were."]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "dorothea-dix-med-bus",
+    "name": "Dorothea Dix (med bus)",
+    "category": "medical",
+    "capabilities": ["mobile triage", "beds, IV hooks", "partial ballistic shelter"],
+    "owner_or_users": ["three-shovels-caravan", "quincy", "chase", "trg"],
+    "condition_or_state": "damaged (bullet-scarred) but functional",
+    "scene_function": "Primary setting; locus of restraint and release."
+    },
+    {
+    "id": "medical-restraints",
+    "name": "Medical restraints",
+    "category": "medical",
+    "capabilities": ["immobilize patient/detainee"],
+    "owner_or_users": ["trg"],
+    "condition_or_state": "in use then removed",
+    "scene_function": "Physicalizes conflict over agency and trust."
+    },
+    {
+    "id": "command-truck",
+    "name": "Caravan command truck",
+    "category": "vehicle",
+    "capabilities": ["operations center", "hidden storage under console"],
+    "owner_or_users": ["three-shovels-caravan", "trg"],
+    "condition_or_state": "operational",
+    "scene_function": "Holds hidden cache used to verify Quincy’s claim."
+    },
+    {
+    "id": "hidden-console-cache",
+    "name": "Hidden console latch & compartment",
+    "category": "other",
+    "capabilities": ["concealed storage"],
+    "owner_or_users": ["three-shovels-caravan"],
+    "condition_or_state": "intact",
+    "scene_function": "Proof-of-ownership location Quincy describes."
+    },
+    {
+    "id": "brass-key",
+    "name": "Brass key",
+    "category": "tool",
+    "capabilities": ["mechanical access (implied)"],
+    "owner_or_users": ["three-shovels-caravan"],
+    "condition_or_state": "present (do not touch directive)",
+    "scene_function": "Part of verification cache."
+    },
+    {
+    "id": "memchip",
+    "name": "Memchip",
+    "category": "other",
+    "capabilities": ["data storage"],
+    "owner_or_users": ["three-shovels-caravan"],
+    "condition_or_state": "present (do not touch directive)",
+    "scene_function": "Part of verification cache."
+    },
+    {
+    "id": "pistol-9mm",
+    "name": "Loaded 9mm pistol",
+    "category": "weapon",
+    "capabilities": ["close-quarters defense"],
+    "owner_or_users": ["three-shovels-caravan"],
+    "condition_or_state": "loaded, stored",
+    "scene_function": "Part of verification cache underscoring trust directive."
+    }
+    ],
+    "locations": [
+    {
+    "id": "dorothea-dix-med-bus",
+    "name": "Dorothea Dix med bus interior",
+    "type": "structure",
+    "descriptors": ["bullet-scarred windows", "antiseptic smell", "tight, echoing metal hull"],
+    "in_scene_events": ["Restraint dispute; mediation; Quincy released; questioning set to begin."]
+    },
+    {
+    "id": "command-truck",
+    "name": "Caravan command truck",
+    "type": "vehicle",
+    "descriptors": ["driver console with sliding section", "hidden latch compartment"],
+    "in_scene_events": ["Holds proof cache confirming Quincy’s claim (checked offstage)."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "trg",
+    "name": "Tactical Response Group (TRG)",
+    "alignment": "ally",
+    "agents_present": ["jeb-mctanner"],
+    "motives_inferred": "Secure scene, verify claims, question witnesses.",
+    "actions_in_scene": ["Restrains Quincy", "Verifies cache", "Releases restraints"]
+    },
+    {
+    "id": "fox-river-security",
+    "name": "Fox River Security",
+    "alignment": "ally",
+    "agents_present": ["investigator-liebold"],
+    "motives_inferred": "Identity verification and incident investigation.",
+    "actions_in_scene": ["Participates in verification; apologizes post-release"]
+    },
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": ["quincy"],
+    "motives_inferred": "Recover missing members; reclaim assets.",
+    "actions_in_scene": ["Provides verification artifacts in command truck"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["trust vs suspicion", "agency vs control", "ownership and belonging", "procedural justice vs urgency"],
+    "motifs_symbols": ["named vehicle as identity token", "hidden key/memchip cache", "restraints unbuckled", "bucket toilet pragmatism"],
+    "moral_questions": ["When is restraint justified in an investigation?", "Who bears the burden of proof after trauma?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "brisk",
+    "voice_traits": ["dry understatement", "procedural detail", "sharp, profane dialogue"],
+    "sensory_notes": ["antiseptic sting", "boots creaking on metal", "buckles clicking", "urine hitting plastic in confined space"]
+    },
+    "causality": {
+    "prior_dependencies": ["After TRG rescue and Demmy’s evac; Quincy previously sedated and distrustful; ongoing mystery of vanished caravaners."],
+    "outcomes": ["Quincy’s identity/ownership effectively verified; restraints removed; willingness to answer questions; search urgency reaffirmed."],
+    "unanswered_questions": ["Where are the missing caravan members?", "What data is on the memchip and what does the key open?", "Will TRG fully accept Quincy’s account?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "jeb-mctanner"],
+    "trigger": "Detention/restraints and perceived disrespect of ownership.",
+    "resolution": "Partial: verification leads to release; tension cools."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "investigator-liebold"],
+    "trigger": "Skeptical interrogation tone.",
+    "resolution": "Partial: Liebold apologizes after proof."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy", "fox-river-security/trg-protocol"],
+    "trigger": "Burden to prove identity/ownership to authorities.",
+    "resolution": "Partial relief via cache evidence; search still pending."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["chase"],
+    "trigger": "Pain and fatigue vs need to intervene constructively.",
+    "resolution": "Finds a tactical path (verification) that works."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mild",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["coercive restraint", "verbal abuse/profanity", "privacy/bodily functions"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Dorothea Dix med bus", "Quincy verification cache", "command truck hidden latch", "McTanner releases restraints", "Investigator Liebold apology", "search for missing caravan"],
+    "keywords_dense": "Chase, Quincy, McTanner, Liebold, Dorothea Dix med bus, command truck, hidden latch, brass key, memchip, loaded 9mm, restraints, verification, Fox River Security, TRG",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chase", "Quincy", "Jebidiah McTanner", "Investigator Liebold"],
+    "places": ["Dorothea Dix med bus", "Caravan command truck"],
+    "orgs": ["Tactical Response Group (TRG)", "Fox River Security", "Three Shovels Caravan"],
+    "terms": ["memchip", "hidden latch", "Dorothea Dix"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Why was Quincy restrained on the med bus?", "a": "TRG/authorities feared she might flee before questioning and verification."},
+    {"q": "How did Quincy prove her connection to the caravan?", "a": "She described a hidden console latch in the command truck containing a brass key, a memchip, and a loaded 9mm."},
+    {"q": "What did McTanner and Liebold do after checking the command truck?", "a": "They returned, unbuckled Quincy’s restraints, and Liebold apologized."},
+    {"q": "What is the med bus called and who named it?", "a": "Dorothea Dix; Quincy states caravanners name their vehicles."},
+    {"q": "What is Quincy’s priority after release?", "a": "Answer questions quickly and start finding her missing family."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-10-13-medbus-verification-recap",
+    "type": "recap",
+    "text": "On the Dorothea Dix med bus, Quincy is restrained and furious with McTanner. Chase mediates, asking her for verifiable proof. Quincy directs them to a hidden latch in the command truck containing a brass key, a memchip, and a loaded 9mm. McTanner and Investigator Liebold confirm the cache and release her; Liebold apologizes. Quincy, unembarrassed by caravan pragmatism, returns ready for questioning and insists the search for her missing family begin."
+    },
+    {
+    "chunk_id": "2186-10-13-medbus-verification-entities",
+    "type": "entities_focus",
+    "text": "People: Quincy (caravan member), Chase (injured TRG apprentice), Jebidiah McTanner (TRG leader), Investigator Liebold (Fox River Security). Orgs: TRG; Fox River Security; Three Shovels Caravan. Items/tech: Dorothea Dix med bus; medical restraints; command truck with hidden console latch; brass key; memchip; loaded 9mm. Places: med bus interior; command truck (off-bus). Roles: Quincy asserts ownership/agency; Chase mediates; McTanner/Liebold verify and release."
+    },
+    {
+    "chunk_id": "2186-10-13-medbus-verification-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-limited past from an injured POV; gritty dialogue and procedural detail. Themes: trust vs suspicion, agency vs control, ownership and belonging, urgency to find the missing. Motifs: named bus as identity token, hidden cache as proof, buckles clicking open, practical lack of modesty signaling survival-first culture."
+    }
+    ]
+    }

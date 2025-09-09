@@ -1,0 +1,279 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Strings of the Puppet Master",
+    "scene_id": "margdelain-mctanner-calum-tam-reveal",
+    "chapter_number": 40,
+    "scene_number": 3,
+    "date_in_universe": "2186-11-28/2186-11-29",
+    "absolute_timeline_notes": "After the downbelow crackdown and during rising Fox River–Ransom Canyon tensions."
+    },
+    "text_windows": {
+    "full_scene_clean": "Jeb McTanner waited in Chancellor Margdelain's office while she finished a call, looking unusually pleased. She set out two crystal whiskey glasses and poured her finest bottle—an obvious tell to McTanner that a bad ask was coming. He folded his arms and told her to get on with it. Margdelain admitted she didn’t relish it either, then framed the geopolitical backdrop: Fox River and Ransom Canyon were close to open hostility. She brought up the Calum-Tam Holdfast, a day and a half away by vehicle, noting its friendly ties with Ransom Canyon. Teasing the reveal, she asked Jeb to guess who was there. He first guessed Jessop. Margdelain said Jessop was in Ransom Canyon, likely with Makko and his ravagers. The realization hit Jeb; he asked if it was Chase. Margdelain confirmed. McTanner took a fortifying sip of whiskey.",
+    "dense_recap_250w": "In Margdelain’s office, Jeb McTanner senses trouble when the Chancellor, uncharacteristically warm and celebratory, sets out expensive whiskey before discussing regional tensions. She reviews Fox River’s near-hostility with Ransom Canyon and then pivots to the nearby Calum-Tam Holdfast, which maintains good relations with Ransom. Building to a reveal, Margdelain prompts Jeb to guess who is currently at Calum-Tam. He hazards Jessop, but she corrects him—Jessop is believed to be in Ransom Canyon with Makko’s zealot ravagers. Jeb realizes the implication and names Chase. Margdelain confirms that Chase is at Calum-Tam. The whiskey functions as both social lubricant and signal that she is about to assign Jeb a difficult, distasteful task likely involving a delicate approach to a holdfast friendly with Fox River’s hostile neighbor. The scene closes with Jeb bracing himself, drink in hand, for whatever Margdelain will ask him to do next.",
+    "query_handle": "Margdelain tells McTanner: Chase is at Calum-Tam; Jessop in Ransom Canyon with Makko; tense Fox River–Ransom backdrop."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Tell and toast",
+    "what_happens": "Margdelain pours rare whiskey—her tell that a hard assignment is coming.",
+    "involved_entities": ["margdelain", "jeb-mctanner", "whiskey-decanter-glasses"],
+    "stakes_or_conflict": "Signals a politically risky mission."
+    },
+    {
+    "order": 2,
+    "label": "Hostility frame",
+    "what_happens": "She outlines Fox River’s brink-of-hostility situation with Ransom Canyon.",
+    "involved_entities": ["margdelain", "ransom-canyon"],
+    "stakes_or_conflict": "Any misstep could trigger conflict."
+    },
+    {
+    "order": 3,
+    "label": "Calum-Tam connection",
+    "what_happens": "Margdelain highlights Calum-Tam Holdfast’s friendly ties with Ransom.",
+    "involved_entities": ["margdelain", "calum-tam-holdfast"],
+    "stakes_or_conflict": "Diplomatic sensitivity complicates action."
+    },
+    {
+    "order": 4,
+    "label": "Guessing game",
+    "what_happens": "Jeb guesses Jessop, but Margdelain says Jessop is in Ransom with Makko.",
+    "involved_entities": ["jeb-mctanner", "margdelain", "jessop", "makko", "ransom-canyon"],
+    "stakes_or_conflict": "Enemy leadership is elsewhere."
+    },
+    {
+    "order": 5,
+    "label": "Revelation: Chase",
+    "what_happens": "Jeb realizes it’s Chase at Calum-Tam; Margdelain confirms.",
+    "involved_entities": ["jeb-mctanner", "margdelain", "chase", "calum-tam-holdfast"],
+    "stakes_or_conflict": "Personal loyalties vs. state objectives."
+    }
+    ],
+    "characters": [
+    {
+    "id": "jeb-mctanner",
+    "display_name": "Jeb McTanner",
+    "aliases": ["McTanner"],
+    "role_in_scene": "POV",
+    "goals_now": "Understand Margdelain’s request; prepare for likely mission regarding Chase.",
+    "obstacles": "Ambiguous ask; geopolitical risk; personal ties to Chase’s rescue history.",
+    "tactics": "Reads Margdelain’s tells, keeps arms crossed posture, forces clarity before agreeing.",
+    "relationships": [
+    {"with": "margdelain", "type": "ally", "state": "professional trust with wariness", "evidence": "He’s known her his whole life; recognizes her emotional tells."},
+    {"with": "chase", "type": "ally", "state": "protective/respectful", "evidence": "Fortifying sip when he realizes Chase is involved."}
+    ],
+    "emotional_arc": {
+    "start": "guarded, suspicious",
+    "turning_points": ["Whiskey signal confirms unpleasant ask", "Realizes Chase is at Calum-Tam"],
+    "end": "resolved, bracing"
+    },
+    "notable_actions": ["reads subtext", "guesses Jessop, then Chase", "accepts whiskey sip"],
+    "quotable_lines": ["You're about to ask me to do something I won't want to do."]
+    },
+    {
+    "id": "margdelain",
+    "display_name": "Chancellor Margdelain",
+    "aliases": ["Chancellor"],
+    "role_in_scene": "major",
+    "goals_now": "Task McTanner to address the Chase-at-Calum-Tam situation while managing Ransom tensions.",
+    "obstacles": "Hostile Ransom Canyon; Calum-Tam’s ties to Ransom; optics.",
+    "tactics": "Softens delivery with whiskey; stages reveal; frames geopolitical stakes.",
+    "relationships": [
+    {"with": "jeb-mctanner", "type": "commander", "state": "directive but collegial", "evidence": "Pours whiskey, stages the ask."},
+    {"with": "chase", "type": "family/complicated (inferred from series)", "state": "concerned but pragmatic", "evidence": "Confirms his location and prepares an ask."},
+    {"with": "jessop", "type": "enemy", "state": "pursuit", "evidence": "Notes Jessop is ensconced in Ransom with Makko."}
+    ],
+    "emotional_arc": {
+    "start": "glowing, confident",
+    "turning_points": ["Signals difficult ask with whiskey", "Confirms Chase’s location"],
+    "end": "controlled, strategic"
+    },
+    "notable_actions": ["pours whiskey", "frames tensions", "confirms Chase at Calum-Tam"],
+    "quotable_lines": ["Guess... who's... there?"]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "cameo (offstage)",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "jeb-mctanner", "type": "ally", "state": "indirect concern", "evidence": "Jeb’s dread on realizing Chase is involved."},
+    {"with": "margdelain", "type": "family/strained (series context)", "state": "offstage", "evidence": "Margdelain confirms location and implies action."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "jessop",
+    "display_name": "Brother Jessop",
+    "aliases": [],
+    "role_in_scene": "supporting (offstage)",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "margdelain", "type": "enemy", "state": "at-large", "evidence": "Believed ensconced in Ransom Canyon with Makko."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "makko",
+    "display_name": "Makko",
+    "aliases": [],
+    "role_in_scene": "cameo (mentioned)",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "jessop", "type": "ally", "state": "collaboration (implied)", "evidence": "Margdelain: Jessop with Makko and zealot ravagers."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "whiskey-decanter-glasses",
+    "name": "Crystal whiskey set",
+    "category": "other",
+    "capabilities": ["hospitality", "signal of serious business"],
+    "owner_or_users": ["margdelain", "jeb-mctanner"],
+    "condition_or_state": "intact",
+    "scene_function": "Nonverbal tell that a difficult request is coming; disarms and frames the ask."
+    }
+    ],
+    "locations": [
+    {
+    "id": "chancellors-office",
+    "name": "Chancellor’s Office (Fox River)",
+    "type": "structure",
+    "descriptors": ["formal", "controlled", "private"],
+    "in_scene_events": ["Margdelain briefs McTanner; confirms Chase at Calum-Tam."]
+    },
+    {
+    "id": "calum-tam-holdfast",
+    "name": "Calum-Tam Holdfast",
+    "type": "holdfast",
+    "descriptors": ["day-and-a-half by vehicle", "on good terms with Ransom Canyon"],
+    "in_scene_events": ["Revealed location of Chase (per Margdelain)."]
+    },
+    {
+    "id": "ransom-canyon",
+    "name": "Ransom Canyon",
+    "type": "city",
+    "descriptors": ["ravager-aligned", "hostile to Fox River"],
+    "in_scene_events": ["Believed haven for Jessop alongside Makko."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "fox-river-council",
+    "name": "Fox River Council",
+    "alignment": "ally",
+    "agents_present": ["margdelain", "jeb-mctanner"],
+    "motives_inferred": "Stabilize region; manage threats; handle Chase delicately.",
+    "actions_in_scene": ["Internal briefing; preparation for tasking."]
+    },
+    {
+    "id": "calum-tam-holdfast",
+    "name": "Calum-Tam Holdfast",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Friendly with Ransom; unclear motives toward Fox River.",
+    "actions_in_scene": ["Hosts Chase (as reported)."]
+    },
+    {
+    "id": "ransom-canyon",
+    "name": "Ransom Canyon",
+    "alignment": "hostile",
+    "agents_present": ["jessop", "makko"],
+    "motives_inferred": "Oppose Fox River; harbor zealot ravagers.",
+    "actions_in_scene": ["Shelters Jessop (per report)."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["realpolitik and leverage", "duty vs. personal ties", "signals and subtext in power negotiation"],
+    "motifs_symbols": ["expensive whiskey as a tell", "drawn-out reveal", "borderlands diplomacy"],
+    "moral_questions": ["What duty does leadership owe to individuals entangled in state conflicts?", "When does cordiality mask coercion?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "political/character-driven",
+    "pacing": "slow-burn with a reveal",
+    "voice_traits": ["wry observation", "strategic framing", "understated tension"],
+    "sensory_notes": ["clink of crystal", "whiskey aroma", "office quiet after a call"]
+    },
+    "causality": {
+    "prior_dependencies": ["Existing Fox River–Ransom Canyon hostility", "Ongoing search for Jessop", "Chase’s departure from Fox River sphere (prior scenes)"],
+    "outcomes": ["McTanner informed that Chase is at Calum-Tam", "Implicit upcoming assignment involving Calum-Tam and Ransom ties"],
+    "unanswered_questions": ["What exactly will Margdelain ask McTanner to do?", "Why is Chase at Calum-Tam, and under whose protection?", "How will Ransom Canyon react?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["margdelain", "jeb-mctanner"],
+    "trigger": "Margdelain’s impending ask involving Chase and a sensitive holdfast",
+    "resolution": "Unresolved; briefing concludes with confirmation."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["fox-river", "ransom-canyon"],
+    "trigger": "Escalating hostility and sanctuary for Jessop",
+    "resolution": "Unresolved; diplomatic risk heightened."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["jeb-mctanner"],
+    "trigger": "Duty to Chancellor vs. concern over Chase",
+    "resolution": "He steels himself, preparing to comply."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "mentioned",
+    "sexual_content": "none",
+    "sensitive_topics": ["political tension", "coercive diplomacy"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Jeb McTanner", "Chancellor Margdelain", "Calum-Tam Holdfast", "Ransom Canyon", "Chase location reveal", "Jessop with Makko"],
+    "keywords_dense": "McTanner, Margdelain, Calum-Tam Holdfast, Ransom Canyon, Chase, Jessop, Makko, whiskey tell, diplomatic tension, Fox River briefing",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Jeb McTanner", "Chancellor Margdelain", "Chase", "Brother Jessop", "Makko"],
+    "places": ["Chancellor’s Office (Fox River)", "Calum-Tam Holdfast", "Ransom Canyon"],
+    "orgs": ["Fox River Council"],
+    "terms": []
+    }
+    },
+    "qa_pairs": [
+    {"q": "Who does Margdelain say is at the Calum-Tam Holdfast?", "a": "Chase."},
+    {"q": "Where is Jessop believed to be and with whom?", "a": "In Ransom Canyon with Makko and zealot ravagers."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "calum-tam-reveal-recap",
+    "type": "recap",
+    "text": "In a tense office briefing, Margdelain signals a difficult ask to Jeb McTanner by pouring rare whiskey and framing Fox River’s near-hostility with Ransom Canyon. She notes Calum-Tam Holdfast’s friendly ties with Ransom, then corrects Jeb’s guess that Jessop is there: Jessop is in Ransom with Makko. The reveal lands—Chase is at Calum-Tam—setting up a sensitive mission that pits duty and diplomacy against personal loyalties."
+    },
+    {
+    "chunk_id": "calum-tam-reveal-entities",
+    "type": "entities_focus",
+    "text": "Primary actors: Jeb McTanner (POV), Chancellor Margdelain (briefing lead). Offstage: Chase (at Calum-Tam), Jessop (in Ransom), Makko (Ransom leader). Places: Chancellor’s Office; Calum-Tam Holdfast (Ransom-friendly); Ransom Canyon (hostile). Object: crystal whiskey set (tactical tell). Actions: signal hard ask, outline tensions, confirm Chase’s location."
+    },
+    {
+    "chunk_id": "calum-tam-reveal-style-theme",
+    "type": "style_theme_focus",
+    "text": "Measured, political 3rd-limited past through McTanner’s lens; understated dread beneath cordial ritual. Themes: realpolitik, loyalty vs. statecraft, subtext in leadership signaling. Motifs: expensive whiskey as prelude to a hard order; the guessed name game revealing stakes."
+    }
+    ]
+    }

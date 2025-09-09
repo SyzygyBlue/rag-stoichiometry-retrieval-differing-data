@@ -1,0 +1,166 @@
+{
+    "doc_type": "neon_titan_character_v1",
+    "source": {
+    "dossier_file": "Li Mei_dossier.md",
+    "scene_refs": []
+    },
+    "identity": {
+    "id": "li-mei",
+    "display_name": "Li Mei",
+    "aliases": [],
+    "mbti": "ISTJ",
+    "age_bracket": "70s+",
+    "gender": "female",
+    "origin": "Chinese"
+    },
+    "affiliations": ["balance-party"],
+    "bio": {
+    "one_liner": "Director of Special Projects for the Balance Party: an analog-first spymaster who prizes stability, control, and results over sentiment.",
+    "summary": "Li Mei serves as Director of Special Projects for the Balance Party’s covert operations. The dossier depicts her as pragmatic, calculating, ruthless, and controlling, with legendary distrust of digital systems and a preference for handwritten notes, physical keys, and secure rooms. She is a petite, elderly woman who commands obedience through presence and meticulous contingency planning, favoring analog elegance such as a jade-green qipao and an onyx cane. Her skills center on intelligence gathering, manipulation, and interrogation, run through layers of operational security. Key ties include occasional information exchange with Cervantes Adlawan, a tense supervisory grip over Fay, subordination to Prime Minister Johannes Romeijns whom she subtly manipulates, and oversight of Skree, a prototype hybrid tool she does not fully trust. After Fox River’s destruction, her status is uncertain; the dossier suggests operational losses and a focus on rebuilding networks from a base associated with Tahua Outpost.",
+    "narrative_gravity": 8
+    },
+    "personality": {
+    "traits": ["pragmatic", "calculating", "ruthless", "controlling", "distrustful-of-technology"],
+    "flaws": ["technological-paranoia", "rigidity", "isolation", "lack-of-empathy", "underestimates-passion"],
+    "values": ["stability", "balance-party-influence", "security", "manual-oversight", "truth-as-leverage"],
+    "motivations_primary": ["maintain-political-balance", "preserve-security-and-control"],
+    "motivations_secondary": ["expose-corruption-when-useful", "rebuild-networks-post-fox-river"]
+    },
+    "appearance": {
+    "height_cm": 150,
+    "build": "petite, slight frame",
+    "hair": "silver-white, tight bun",
+    "eyes": "hooded, obsidian/crow-black",
+    "notable_marks": ["razor-straight posture", "silver-tipped onyx cane"],
+    "style": "jade-green qipao; analog elegance; handbag with handwritten notes; bone china teacup as meeting prop"
+    },
+    "skills": {
+    "combat": [],
+    "technical": ["espionage/intelligence-gathering", "interrogation", "information-analysis", "contingency-planning"],
+    "tactics": ["manipulation-and-control", "analog-opsec (notes/keys/secure-rooms)", "multi-layered-risk-evaluation"],
+    "limitations": ["tech-paranoia-causes-friction", "plans-brittle-to-black-swan-events", "isolation-from-detachment"]
+    },
+    "relationships": [
+    {
+    "with": "cervantes-adlawan",
+    "label": "contact",
+    "state": "professional-respect",
+    "notes": "Occasional mutual-benefit exchanges of information; depth of the connection is unclear."
+    },
+    {
+    "with": "fay",
+    "label": "superior-subordinate",
+    "state": "tense-distrustful",
+    "notes": "Recognizes Fay’s rare skills but maintains a tight leash given Fay’s manipulative nature."
+    },
+    {
+    "with": "johannes-romeijns",
+    "label": "boss",
+    "state": "manipulative-deferential",
+    "notes": "Reports to him; views him as naive and tech-dependent, steering him to further her agenda."
+    },
+    {
+    "with": "skree",
+    "label": "overseer/subject",
+    "state": "useful-but-distrusted",
+    "notes": "Prototype hybrid info-gathering/incursion tool; she sees utility but does not fully trust it."
+    }
+    ],
+    "arc": {
+    "status_now": "Uncertain following Fox River’s destruction; operations and networks likely degraded; focus shifts to rebuilding and securing position near Tahua Outpost.",
+    "pre_pivot": "Shadow operator pulling strings to preserve Balance Party stability through covert means and analog control.",
+    "pivot_event": "destruction-of-fox-river",
+    "post_pivot": "Adapts plans, consolidates remaining assets, and prioritizes intelligence recovery under heightened caution.",
+    "future_vector": "Potential action against destabilizing actors; Skree positioned to infiltrate Ransom Canyon if needed."
+    },
+    "items_and_tech": [
+    {
+    "id": "silver-tipped-onyx-cane",
+    "name": "Silver-tipped onyx cane",
+    "category": "other",
+    "capabilities": ["authority-symbol", "control-assertion-gesture"],
+    "condition": "",
+    "notes": "Often tapped or slammed to assert control."
+    },
+    {
+    "id": "handwritten-notes",
+    "name": "Handwritten notes & analog files",
+    "category": "tool",
+    "capabilities": ["secure-offline-communication", "operational-recordkeeping"],
+    "condition": "",
+    "notes": "Preferred over digital systems due to surveillance distrust."
+    },
+    {
+    "id": "physical-keys",
+    "name": "Physical keys",
+    "category": "tool",
+    "capabilities": ["access-control-for-secure-rooms"],
+    "condition": "",
+    "notes": "Used to maintain direct control over facilities and information."
+    },
+    {
+    "id": "bone-china-teacup",
+    "name": "Bone china teacup",
+    "category": "other",
+    "capabilities": ["symbolic-cover-in-meetings"],
+    "condition": "",
+    "notes": "A regular prop signaling old-world refinement."
+    }
+    ],
+    "themes": {
+    "keywords": ["stability", "control", "analog-vs-digital", "ends-justify-means", "human-in-the-loop", "covert-power"],
+    "moral_tensions": ["security-vs-liberty", "means-vs-ends", "trust-in-machines-vs-human-judgment"]
+    },
+    "text_windows": {
+    "bio_200w": "Li Mei is Director of Special Projects for the Balance Party and operates as an analog-first spymaster focused on stability and control. She is pragmatic, calculating, ruthless, and controlling, with a renowned distrust of digital systems in favor of handwritten notes, physical keys, and secure rooms. Her presence is commanding despite small stature, often marked by a jade-green qipao and a silver-tipped onyx cane. Skills include intelligence gathering, manipulation, interrogation, and layered contingency planning. She maintains professional ties to Cervantes Adlawan and supervises Fay while reporting to Johannes Romeijns, whom she maneuvers to advance aligned agendas. She oversees Skree, a prototype hybrid collection/incursion tool she does not fully trust. After the destruction of Fox River, her status is uncertain and her network likely degraded, prompting a focus on rebuilding from a base associated with Tahua Outpost.",
+    "arc_200w": "Li Mei is a shadow strategist whose arc centers on preserving Balance Party equilibrium through covert operations. Before the disruption, she maintains stability by manipulating information flows and actors while rejecting reliance on digital systems. The destruction of Fox River functions as a major setback, undercutting resources and intelligence networks tied to Tahua Outpost. In the aftermath she pivots toward consolidation and recovery, prioritizing intelligence collection, asset security, and procedural control. The dossier notes potential escalation against destabilizing forces and indicates that Skree is staged to infiltrate Ransom Canyon if circumstances require. Her trajectory remains grounded in analog discipline and human oversight while recalibrating to a harsher landscape; transformation is tactical rather than moral, as her methods remain utilitarian and her goals continue to emphasize order over empathy.",
+    "skills_120w": "Li Mei’s core competencies include espionage and intelligence gathering, interrogation, strategic manipulation, information analysis, and contingency planning. She executes analog operational security by relying on handwritten notes, physical keys, secure rooms, and strict communication control. Tactically, she layers plans with redundancies and evaluates risk with near-paranoid precision. Documented limitations include technological paranoia that causes friction, rigidity that fails under black swan events, isolation due to detachment, and a lack of empathy that can alienate allies. She does not rely on personal combat capability; her power stems from networks, tradecraft, and command presence.",
+    "appearance_120w": "Li Mei is approximately 150 cm tall with a petite, slight frame. She has hooded, obsidian eyes, silver-white hair pulled into a neat bun, and weathered but well-maintained skin with gnarled hands. Distinguishing features include razor-straight posture aided by a silver-tipped onyx cane and controlled, dispassionate expressions. She favors a jade-green qipao and analog accessories, often carrying a small handbag of handwritten notes and appearing with a bone china teacup. Her movements are deliberate and economical, projecting authority through precision rather than volume.",
+    "relationships_180w": "Li Mei structures relationships to achieve operational ends. With Cervantes Adlawan, she maintains occasional, transactional contact based on mutual benefit and information exchange. With Fay, she is a wary superior who recognizes exceptional capability but enforces strict control given Fay’s manipulative nature. With Johannes Romeijns, she occupies a subordinate role but subtly steers him, regarding him as naive and overly reliant on technology. With Skree, she is an overseer who leverages a prototype hybrid collection/incursion platform while withholding full trust. These ties reflect a networked approach to power: careful cultivation of assets, tight supervision of volatile talent, and strategic manipulation of leadership to maintain Balance Party stability."
+    },
+    "qa_pairs": [
+    {"q": "What is Li Mei’s role within the Balance Party?", "a": "She is the Director of Special Projects, running covert operations for the party’s senior intelligence echelon."},
+    {"q": "Why does Li Mei prefer analog tools over digital systems?", "a": "She distrusts StellaNet and neurojects, believing analog methods offer superior control and security."},
+    {"q": "Who are Li Mei’s notable connections?", "a": "Cervantes Adlawan (contact), Fay (subordinate under tight control), Johannes Romeijns (her boss), and Skree (oversight of a prototype hybrid tool)."},
+    {"q": "How did Fox River’s destruction affect Li Mei?", "a": "It likely degraded her operations and networks and may have impacted her base at Tahua Outpost, pushing her to rebuild and secure her position."},
+    {"q": "What future action is indicated for Li Mei?", "a": "Skree is positioned to infiltrate Ransom Canyon if she decides action is necessary against destabilizing actors."}
+    ],
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Li Mei", "Balance Party", "Director of Special Projects", "analog operations", "onyx cane", "jade-green qipao", "Skree", "Tahua Outpost", "Fox River"],
+    "keywords_dense": "Li Mei, ISTJ, Balance Party, Director of Special Projects, spymaster, analog operations, handwritten notes, physical keys, interrogation, manipulation, contingency planning, Cervantes Adlawan, Fay, Johannes Romeijns, Skree, Tahua Outpost, Fox River, Ransom Canyon",
+    "spoiler_level": "book1_end",
+    "named_entities": {
+    "people": ["Li Mei", "Cervantes Adlawan", "Fay", "Johannes Romeijns", "Skree"],
+    "places": ["Tahua Outpost", "Fox River", "Ransom Canyon"],
+    "orgs": ["Balance Party"],
+    "terms": ["Article 18", "StellaNet", "analog tools", "qipao", "onyx cane"]
+    }
+    },
+    "embedding_payloads": [
+    {
+    "chunk_id": "li-mei-1",
+    "type": "bio",
+    "text": "Li Mei is Director of Special Projects for the Balance Party and an analog-first spymaster who prioritizes stability, control, and results. She is pragmatic, calculating, and ruthless, favoring handwritten notes, physical keys, and secure rooms over digital systems. Her presence—jade-green qipao and silver-tipped onyx cane—underscores command. Skills include intelligence gathering, manipulation, interrogation, and layered contingency planning. Key ties span Cervantes Adlawan, Fay, and Johannes Romeijns, with oversight of the prototype hybrid tool Skree. Post–Fox River, her status is uncertain and networks likely degraded."
+    },
+    {
+    "chunk_id": "li-mei-2",
+    "type": "arc",
+    "text": "Li Mei is a shadow operator whose pre-pivot mode preserves Balance Party equilibrium through covert influence and analog control. The destruction of Fox River disrupts assets and intelligence pipelines tied to Tahua Outpost, forcing a pivot to consolidation and recovery. Post-pivot, she rebuilds networks, secures remaining assets, and prepares targeted moves while maintaining human-in-the-loop oversight."
+    },
+    {
+    "chunk_id": "li-mei-3",
+    "type": "relationships",
+    "text": "Li Mei manages relationships as instruments of statecraft: transactional contact with Cervantes Adlawan; a tight, distrustful leash on subordinate Fay; deference with manipulation toward her boss Johannes Romeijns; and cautious oversight of Skree, a hybrid collection/incursion platform she does not fully trust. These dynamics sustain Balance Party stability."
+    },
+    {
+    "chunk_id": "li-mei-4",
+    "type": "skills_cybernetics",
+    "text": "Li Mei’s capabilities emphasize espionage, interrogation, manipulation, risk evaluation, and contingency planning. Operationally she enforces analog security with handwritten notes, physical keys, and secure rooms, rejecting StellaNet and neuroject interfaces. Limitations include technological paranoia, brittle plans under black swan events, isolation from detachment, and low empathy. No cybernetics are indicated."
+    },
+    {
+    "chunk_id": "li-mei-5",
+    "type": "appearance",
+    "text": "Li Mei is a petite elderly woman about 150 cm tall with hooded, crow-black eyes and silver-white hair in a neat bun. She maintains razor-straight posture aided by a silver-tipped onyx cane and favors a jade-green qipao. She carries analog accessories, including a handbag with handwritten notes and a bone china teacup, and moves with deliberate, precise economy."
+    }
+    ]
+    }

@@ -1,0 +1,317 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Chapter Two Scene Three",
+    "scene_id": "ch2-s3_end-of-trade-day",
+    "chapter_number": 2,
+    "scene_number": 3,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Same trade day as the OPEN-flag scene; dusk at the Three Shovels vendor line as skerv crowd disperses."
+    },
+    "text_windows": {
+    "full_scene_clean": "As trade day ends, Quincy is drained—not by trinkets and gold teeth, but by refusing desperate skervs who cannot afford water. She mirrors Emory’s hardness yet feels the guilt he seems to lack. A father offers a pendant braided from his daughter’s hair; Stan, pale, refuses as Davian gives a slow shake of his head. The man leaves with his sleeping child. Quincy forces herself to focus on paying customers: water, food, meds, some guns and ammo. She notices a thin teenage boy shimmy from under a Three Shovels truck toward a debris heap to hide until night; she considers calling him out but looks away, silently wishing him luck. Refugees recount fresh ravager attacks on holdfasts—machine guns, explosives, walls torn down with hooks and cables. Of roughly a hundred refugees, only twelve can afford passage with the caravan to Broken Bow; the rest beg or barter in vain. At dusk, the green flag is rolled up and the remaining skervs melt into the dark, leaving Quincy with no relief—only silence.",
+    "dense_recap_250w": "Dusk settles on the Three Shovels’ hilltop market after a grueling day. Quincy reflects on the moral toll of pricing water beyond the reach of most skervs. A father pleads with a hair-braided pendant; Stan refuses under Davian’s policy. Quincy, once angry at Emory’s coldness, now performs the same refusals while feeling their weight. She tallies the pragmatic trades—water, food, meds, even weapons—knowing the caravan’s existence keeps payers alive while the penniless are turned away. Near closing, she spots a gaunt teen slipping from beneath a caravan truck to hide in scrap until nightfall; she debates sounding the alarm but lets him go, a deliberate breach of strictness for a flicker of humanity. Throughout the day, refugees describe coordinated ravager assaults on holdfasts with machine guns, explosives, and cable-hook breaching that topple walls. Out of about a hundred displaced people, only a dozen can purchase caravan passage toward Broken Bow Free City; the rest will wander as skervs. As the big green flag comes down and the line dissolves, Quincy feels no satisfaction—only the quiet ache of complicity and exhaustion.",
+    "query_handle": "Dusk closeout: Quincy refuses the desperate, spares a gaunt teen thief, and hears fresh reports of ravagers toppling holdfasts; 12 buy passage to Broken Bow."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Moral fatigue",
+    "what_happens": "Quincy processes the emotional cost of denying water to the penniless, mirroring Emory’s refusals but not his detachment.",
+    "involved_entities": ["quincy", "emory", "vendor-line"],
+    "stakes_or_conflict": "Conscience vs survival economics."
+    },
+    {
+    "order": 2,
+    "label": "Hair pendant plea",
+    "what_happens": "A father offers a braided-hair pendant for water; Stan refuses under Davian’s policy.",
+    "involved_entities": ["stan", "davian", "father-with-child", "hair-pendant"],
+    "stakes_or_conflict": "Human need vs hard pricing policy."
+    },
+    {
+    "order": 3,
+    "label": "Calculated mercy",
+    "what_happens": "Quincy spots a thin boy hiding to steal after dark; she chooses not to raise the alarm.",
+    "involved_entities": ["quincy", "thin-boy", "three-shovels-truck", "scrap-heap"],
+    "stakes_or_conflict": "Operational discipline vs private compassion."
+    },
+    {
+    "order": 4,
+    "label": "Refugee testimonies",
+    "what_happens": "Multiple skervs recount organized ravager assaults using machine guns, explosives, and hook cables to rip down walls.",
+    "involved_entities": ["refugees", "ravagers", "fallen-holdfasts"],
+    "stakes_or_conflict": "Emergent regional threat vs caravan risk calculus."
+    },
+    {
+    "order": 5,
+    "label": "Gate kept passage",
+    "what_happens": "Only twelve of roughly a hundred refugees can pay for passage to Broken Bow; the rest disperse into dusk.",
+    "involved_entities": ["broken-bow", "refugees", "three-shovels-caravan"],
+    "stakes_or_conflict": "Access to safety priced by holos."
+    },
+    {
+    "order": 6,
+    "label": "Aftermath silence",
+    "what_happens": "The green flag is rolled up; the site empties; Quincy feels no relief.",
+    "involved_entities": ["quincy", "open-flag"],
+    "stakes_or_conflict": "Psychic cost of necessary cruelty."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Close out vendor duties without incident while preserving a shred of humanity.",
+    "obstacles": "Rigid pricing policy, desperate crowd, internal guilt and exhaustion.",
+    "tactics": "Emotional compartmentalization; selective leniency (chooses silence about the boy).",
+    "relationships": [
+    {"with": "stan", "type": "coworker", "state": "empathetic", "evidence": "Sees him pale while refusing the father’s plea."},
+    {"with": "davian", "type": "leader-subordinate", "state": "constrained", "evidence": "Reads his slow headshake as policy guidance."},
+    {"with": "emory", "type": "coworker", "state": "philosophical-distance", "evidence": "Acts like him at the table but dislikes it."}
+    ],
+    "emotional_arc": {
+    "start": "drained, conflicted",
+    "turning_points": ["Witnesses the pendant refusal", "Chooses mercy by looking away from the boy"],
+    "end": "numb, sorrowful"
+    },
+    "notable_actions": ["denies-nonpaying-petitioners", "chooses-not-to-report-thin-boy", "processes-refugee-accounts"],
+    "quotable_lines": [
+    "She turned them away the same way he did, except she felt bad about it.",
+    "Clearly, he'd gotten away with something… She just turned away."
+    ]
+    },
+    {
+    "id": "stan",
+    "display_name": "Stan",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Follow trade policy while minimizing harm where possible.",
+    "obstacles": "Inadequate collateral; leadership guidance.",
+    "tactics": "Quiet refusal; deference to Davian’s cue.",
+    "relationships": [
+    {"with": "davian", "type": "reports-to", "state": "compliant", "evidence": "Refuses after Davian’s slow headshake."}
+    ],
+    "emotional_arc": {"start": "steady", "turning_points": ["Shaken by father’s plea"], "end": "somber"},
+    "notable_actions": ["refuses-hair-pendant-trade"],
+    "quotable_lines": ["I'm sorry. It's not enough."]
+    },
+    {
+    "id": "davian",
+    "display_name": "Davian",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Maintain policy discipline at close of day.",
+    "obstacles": "Emotional appeals that undercut rules.",
+    "tactics": "Nonverbal guidance; adherence to pricing.",
+    "relationships": [],
+    "emotional_arc": {"start": "controlled", "turning_points": [], "end": "controlled"},
+    "notable_actions": ["signals-refusal-with-headshake"],
+    "quotable_lines": []
+    },
+    {
+    "id": "thin-boy",
+    "display_name": "Thin teenage boy",
+    "aliases": ["gaunt-teen"],
+    "role_in_scene": "supporting",
+    "goals_now": "Survive by evasion and theft under cover of night.",
+    "obstacles": "Perimeter vigilance; exposure; hunger.",
+    "tactics": "Stealth; patience; using debris as concealment.",
+    "relationships": [],
+    "emotional_arc": {"start": "unyielding, flat affect", "turning_points": [], "end": "determined"},
+    "notable_actions": ["shimmies-under-truck", "hides-in-scrap-heap"],
+    "quotable_lines": []
+    },
+    {
+    "id": "father-with-child",
+    "display_name": "Father carrying sleeping girl",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Obtain water for his daughter.",
+    "obstacles": "No holos; sentimental pendant as only collateral.",
+    "tactics": "Quiet plea; dignified withdrawal.",
+    "relationships": [
+    {"with": "sleeping-girl", "type": "parent-child", "state": "protective", "evidence": "Carries her while pleading."}
+    ],
+    "emotional_arc": {"start": "pleading", "turning_points": ["Refusal"], "end": "resigned"},
+    "notable_actions": ["offers-braided-hair-pendant", "walks-away-silently"],
+    "quotable_lines": ["Her mother didn't make it. Please. We just need water."]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "hair-pendant",
+    "name": "Braided-hair pendant",
+    "category": "other",
+    "capabilities": ["sentimental token; barter attempt"],
+    "owner_or_users": ["father-with-child"],
+    "condition_or_state": "intact",
+    "scene_function": "Embodies the price of mercy vs policy; refused as insufficient value."
+    },
+    {
+    "id": "vendor-line",
+    "name": "Armored vendor table line",
+    "category": "other",
+    "capabilities": ["protect clerks; controlled exchange via sliding door"],
+    "owner_or_users": ["three-shovels-caravan"],
+    "condition_or_state": "worn, functional",
+    "scene_function": "Interface where accept/refuse decisions occur."
+    },
+    {
+    "id": "weapons-for-sale",
+    "name": "Guns and ammunition stock",
+    "category": "weapon",
+    "capabilities": ["defense; deterrence"],
+    "owner_or_users": ["three-shovels-caravan"],
+    "condition_or_state": "sellable inventory",
+    "scene_function": "Illustrates grim economy: some can buy protection while others cannot buy water."
+    },
+    {
+    "id": "scrap-heap",
+    "name": "Heap of shredded plastic and rust-bitten scrap",
+    "category": "other",
+    "capabilities": ["concealment"],
+    "owner_or_users": [],
+    "condition_or_state": "debris",
+    "scene_function": "Hiding place for the thin boy until nightfall."
+    },
+    {
+    "id": "rolled-green-flag",
+    "name": "Rolled green OPEN flag",
+    "category": "other",
+    "capabilities": ["signal open/closed state"],
+    "owner_or_users": ["three-shovels-caravan"],
+    "condition_or_state": "stowed at day’s end",
+    "scene_function": "Marks closure and dispersal."
+    },
+    {
+    "id": "canvas-painting",
+    "name": "Cracked, flaking canvas painting",
+    "category": "other",
+    "capabilities": ["barter item"],
+    "owner_or_users": ["unnamed-refugee"],
+    "condition_or_state": "aged/damaged",
+    "scene_function": "Signals recent fall of a holdfast and loss of culture/assets."
+    }
+    ],
+    "locations": [
+    {
+    "id": "hilltop-vendor-perimeter-dusk",
+    "name": "Hilltop vendor perimeter at dusk",
+    "type": "wilderness",
+    "descriptors": ["cooling air", "diminishing crowd", "long shadows", "silence after chaos"],
+    "in_scene_events": ["Final trades and refusals; crowd disperses; flag rolled up."]
+    },
+    {
+    "id": "debris-hiding-spot",
+    "name": "Shredded-plastic and rust scrap heap",
+    "type": "structure",
+    "descriptors": ["gnarled brush", "rust-bite", "concealing voids"],
+    "in_scene_events": ["Thin boy hides to await night."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": ["quincy", "stan", "davian", "emory"],
+    "motives_inferred": "Sustain operations through strict trade policies; sell passage when paid.",
+    "actions_in_scene": ["Refuse inadequate barters", "Sell essentials and arms", "Close the market"]
+    },
+    {
+    "id": "ravagers",
+    "name": "Ravagers",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Overrun and loot holdfasts via organized assaults.",
+    "actions_in_scene": ["Referenced in multiple testimonies; offstage aggressor"]
+    },
+    {
+    "id": "broken-bow",
+    "name": "Broken Bow Free City",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Admit paying entrants; traders; residency via holos.",
+    "actions_in_scene": ["Destination for twelve paying refugees (arranged passage)"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["The price of survival", "Compassion vs policy", "Complicity under scarcity", "Predation on the weak", "Witnessing collapse"],
+    "motifs_symbols": ["Braided hair pendant (love vs value)", "Rolled green flag (closure/abandonment)", "Scrap heap concealment (invisible desperation)"],
+    "moral_questions": ["When is looking away mercy—and when is it betrayal of duty?", "What does a fair price mean when life is at stake?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty-cinematic with ethical introspection",
+    "pacing": "measured come-down after tense day",
+    "voice_traits": ["unsentimental detail", "quiet moral reckoning", "survival pragmatism"],
+    "sensory_notes": ["dusk silence after bustle", "empty-stomach nausea", "rust and plastic tang", "weight of refused pleas"]
+    },
+    "causality": {
+    "prior_dependencies": ["Trade-day setup with OPEN flag and skerv influx", "Regional reports of ravagers toppling holdfasts", "Broken Bow as pay-to-enter refuge"],
+    "outcomes": ["Quincy privately violates strictness by not reporting the boy", "Evidence mounts of organized ravager tactics", "Twelve refugees purchase passage; majority remain vulnerable"],
+    "unanswered_questions": ["Will the thin boy succeed or be caught later?", "How soon will ravagers threaten the caravan directly?", "What happens to those turned away tonight?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy", "her-conscience"],
+    "trigger": "Enforcing refusals and seeing the father’s plea; later deciding not to report the boy.",
+    "resolution": "Chooses selective mercy; emotional burden persists."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["refugees", "caravan-pricing-and-passage-rules"],
+    "trigger": "Inability to pay for water or passage.",
+    "resolution": "Rules hold; only twelve buy passage; others disperse."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["ravagers", "holdfasts"],
+    "trigger": "Organized assaults with machine guns, explosives, hook-and-cable breaches (reported).",
+    "resolution": "Ongoing external threat; offstage."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mentioned",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["child endangerment by deprivation", "famine/privation", "community displacement", "war-raid aftermath"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy dusk close", "hair pendant plea", "thin boy hides", "ravager assault reports", "twelve buy passage", "Broken Bow passage"],
+    "keywords_dense": "Quincy, Stan, Davian, Emory, skervs, vendor line, braided hair pendant, refusal, thin boy, scrap heap, ravagers, machine guns, explosives, hook cables, fallen holdfasts, Broken Bow, passage, green flag rolled",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Stan", "Davian"],
+    "places": ["Broken Bow Free City", "Hilltop vendor perimeter"],
+    "orgs": ["Three Shovels Caravan", "Ravagers"],
+    "terms": ["skervs", "holos", "OPEN flag"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "How many refugees could afford passage with the caravan to Broken Bow?", "a": "Twelve."},
+    {"q": "What choice does Quincy make when she spots the thin boy hiding to steal after dark?", "a": "She chooses not to call him out and silently wishes him luck."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "ch2-s3_end-of-trade-day-1",
+    "type": "recap",
+    "text": "At dusk after a grueling market day, Quincy refuses desperate skervs for lack of holos, including a father offering a hair-braided pendant. She sees a thin boy hiding to steal after dark and decides not to report him. Refugees describe organized ravager assaults using machine guns, explosives, and hook cables to tear down walls. Only twelve of about a hundred can buy passage to Broken Bow; the rest disperse into the night as the green OPEN flag is rolled up, leaving Quincy hollow."
+    },
+    {
+    "chunk_id": "ch2-s3_end-of-trade-day-2",
+    "type": "entities_focus",
+    "text": "People: Quincy (POV), Stan (vendor partner), Davian (policy enforcer), Emory (hardline vendor), father with sleeping child, thin teenage boy, various refugees. Items/Tech: braided-hair pendant (barter), armored vendor tables, weapons stock, rolled green OPEN flag, cracked canvas painting. Places: hilltop vendor perimeter at dusk; debris scrap heap. Groups: Three Shovels Caravan; Ravagers (offstage aggressors); Broken Bow Free City (paid destination)."
+    },
+    {
+    "chunk_id": "ch2-s3_end-of-trade-day-3",
+    "type": "style_theme_focus",
+    "text": "Muted, gritty third-limited past focused on ethical strain and scarcity economics. Themes: price of survival; compassion versus policy; complicity; external predation. Motifs: hair pendant as love without market value; rolled flag as closure; scrap heap concealment as invisible desperation. Central tension: when mercy conflicts with rules that keep the caravan alive."
+    }
+    ]
+    }

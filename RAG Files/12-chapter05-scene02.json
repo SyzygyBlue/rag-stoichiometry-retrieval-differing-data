@@ -1,0 +1,336 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "chapter05_jackals-teeth_aftermath-salvage_2186-10-10_to_2186-10-11",
+    "chapter_number": 5,
+    "scene_number": 2,
+    "date_in_universe": "2186-10-10/2186-10-11",
+    "absolute_timeline_notes": "Immediate aftermath of the night raid; Quincy and Demmy assess corpses, debate the ‘jackal’, and plan salvage/repairs."
+    },
+    "text_windows": {
+    "full_scene_clean": "Two ravagers lay dead near a small camp—one from a festering wound, the other with a skull caved in and the stink of puro heavy in the air. An old skerv had sorted their meager kit: batteries, shotgun shells, cloudy binoculars, a crusty revolver, and a battered alcohol fuel cell half-full of puro. Quincy looked on the skerv’s body with regret. Demmy called him a ‘jackal’—a night predator who murders the weak—then produced a pouch of trophies: bent glasses, a cheap watch, gold teeth, and a wooden cross, proof (to Demmy) of violent theft. He explained jackal methods and the hard calculus of skerv survival; Quincy admitted caravanners might be naïve or willfully blind. Demmy told a fragment of his past—selling his mother’s bible and cross for water—and warned that in the wildlands you make bargains, not choices. Work resumed: Quincy inspected the ravager two-seater and judged a motor transplant impossible in the field (different mounts; axial vs under-mount). The steering was wrecked—twisted tie rods of tempered steel. She formed a plan to stare-and-compare parts between vehicles and asked Demmy to fetch their buggy. Before he left with the shotgun, Quincy kicked dirt over the fire to kill the light and began sorting the ravager’s broken tools, determined to build one working machine.",
+    "dense_recap_250w": "Quincy and Demmy survey a grim scene: two dead ravagers and the old skerv Quincy shot earlier. The air reeks of puro and blood. Among scavenged items the skerv had piled—batteries, shotgun shells, worn binoculars, a corroded revolver, and a battered alcohol fuel cell—Demmy finds a pouch holding bent glasses, a cheap watch, gold teeth, and a wooden cross. He argues these tokens identify the skerv as a ‘jackal’: a night-stalking murderer who kills sleepers with rocks and strips victims, sometimes pulling teeth from the living. Quincy struggles with guilt and with the broader complicity of caravan trade, admitting caravanners can be naïve or choose not to ask questions. Demmy counters that morality is a luxury skervs can’t afford and recounts selling his dead mother’s bible and cross for water. Refocusing on survival, Quincy evaluates the disabled ravager two-seater: a field motor swap won’t work due to incompatible mounts (axial face vs under-mount), and the steering is ruined with twisted, tempered tie rods. She proposes cannibalizing parts between the ravager buggy and their own to assemble one functional machine. Demmy goes to retrieve their hidden buggy and advises extinguishing the campfire to avoid drawing more predators. Quincy kicks dirt over the embers and starts laying out tools, pushing aside junk and planning the mix-and-match repair.",
+    "query_handle": "After the kill: Demmy labels the attacker a ‘jackal’; grim trophies found; Quincy plans parts swap to rebuild a working buggy."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Inventory the dead",
+    "what_happens": "They find two dead ravagers and the skerv’s sorted loot, including an alcohol fuel cell and scattered gear.",
+    "involved_entities": ["quincy", "demmy", "ravager-two-seater", "alcohol-fuel-cell", "batteries-pack", "binoculars-worn", "revolver-rusty"],
+    "stakes_or_conflict": "Scavenge value while staying unseen."
+    },
+    {
+    "order": 2,
+    "label": "Jackal diagnosis",
+    "what_happens": "Demmy reveals a pouch of trophies—gold teeth, watch, glasses, cross—and declares the skerv a ‘jackal’.",
+    "involved_entities": ["demmy", "quincy", "jackal-trophy-pouch"],
+    "stakes_or_conflict": "Moral shock vs survival logic; judging the dead."
+    },
+    {
+    "order": 3,
+    "label": "Ethics under scarcity",
+    "what_happens": "They debate caravan naivety and skerv bargains; Demmy shares a hard memory of selling his mother’s bible and cross.",
+    "involved_entities": ["quincy", "demmy"],
+    "stakes_or_conflict": "Person vs system; the cost of mercy and ignorance."
+    },
+    {
+    "order": 4,
+    "label": "Field assessment",
+    "what_happens": "Quincy inspects the ravager buggy and rules out a motor swap; steering hardware is ruined.",
+    "involved_entities": ["quincy", "ravager-two-seater", "tie-rods-twisted"],
+    "stakes_or_conflict": "Technical constraints threaten catching the caravan."
+    },
+    {
+    "order": 5,
+    "label": "Plan and precautions",
+    "what_happens": "She plans a parts mix-and-match; Demmy fetches their buggy; Quincy douses the fire and starts prep.",
+    "involved_entities": ["quincy", "demmy", "two-seater-buggy", "night-fire-embers"],
+    "stakes_or_conflict": "Avoid detection while beginning repair strategy."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Recover useful parts and build a drivable buggy to catch Three Shovels.",
+    "obstacles": "Incompatible motor mounts; destroyed steering; risk of discovery; moral distress.",
+    "tactics": "Technical triage; stare-and-compare components; extinguish signatures (fire); direct Demmy to retrieve their cart.",
+    "relationships": [
+    {"with": "demmy", "type": "ally", "state": "pragmatic trust", "evidence": "Delegates retrieval; accepts his hard truths while focusing on repair plan."}
+    ],
+    "emotional_arc": {
+    "start": "regretful, shaken",
+    "turning_points": ["Demmy’s ‘jackal’ evidence reframes the kill", "Hands-on work re-centers focus"],
+    "end": "resolute, task-focused"
+    },
+    "notable_actions": ["inspects-ravager-buggy", "rules-out-motor-swap", "designs-parts-cannibalization", "kills-campfire", "sorts-tools"],
+    "quotable_lines": [
+    "I don’t know whether we caravanners are naïve—or if we just don’t want to know."
+    ]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Keep them alive; enable repair by fetching their buggy.",
+    "obstacles": "Hostile terrain at night; emotional friction with Quincy; ever-present threat of discovery.",
+    "tactics": "Forensic read of trophies; blunt instruction about wildland survival; operational security (extinguish fire).",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "mentor-candor", "evidence": "Explains jackal signs; offers harsh scenario test; supports her plan."}
+    ],
+    "emotional_arc": {
+    "start": "hard-edged, certain",
+    "turning_points": ["Reveals past poverty and selling his mother’s cross"],
+    "end": "guarded neutrality, mission-focused"
+    },
+    "notable_actions": ["produces-trophy-pouch", "classifies-attacker-as-jackal", "advises-putting-out-fire", "goes-to-fetch-buggy"],
+    "quotable_lines": [
+    "Naivety is expensive out here.",
+    "Survive long enough… everyone becomes a monster."
+    ]
+    },
+    {
+    "id": "older-skerv-attacker",
+    "display_name": "Unidentified older skerv (jackal)",
+    "aliases": ["jackal"],
+    "role_in_scene": "supporting",
+    "goals_now": "None (dead); past goal inferred as predation and looting.",
+    "obstacles": "Killed in prior struggle; evidence exposes methods.",
+    "tactics": "Inferred: stealth murders at night; trophy and loot collection.",
+    "relationships": [],
+    "emotional_arc": {
+    "start": "n/a",
+    "turning_points": [],
+    "end": "dead"
+    },
+    "notable_actions": ["left-trophies-and-loot"],
+    "quotable_lines": []
+    },
+    {
+    "id": "ravagers-dead-pair",
+    "display_name": "Two dead ravagers",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [],
+    "emotional_arc": {
+    "start": "",
+    "turning_points": [],
+    "end": ""
+    },
+    "notable_actions": ["one-died-to-festering-wound", "one-skull-caved"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "ravager-two-seater",
+    "name": "Ravager two-seater (target buggy)",
+    "category": "vehicle",
+    "capabilities": ["donor components"],
+    "owner_or_users": [],
+    "condition_or_state": "disabled; steering destroyed; incompatible motor mounts (axial face)",
+    "scene_function": "Candidate for parts to speed pursuit; unfit for field motor swap."
+    },
+    {
+    "id": "two-seater-buggy",
+    "name": "Their two-seater buggy",
+    "category": "vehicle",
+    "capabilities": ["electric drive; solar charging"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "operational but range/phase issues from prior damage",
+    "scene_function": "Platform to receive salvaged steering components; Demmy goes to retrieve it."
+    },
+    {
+    "id": "alcohol-fuel-cell",
+    "name": "Battered alcohol fuel cell (with puro)",
+    "category": "other",
+    "capabilities": ["alcohol-powered generator potential"],
+    "owner_or_users": [],
+    "condition_or_state": "battered; half-liter of puro in tank",
+    "scene_function": "Potential auxiliary power/charging resource."
+    },
+    {
+    "id": "batteries-pack",
+    "name": "Loose batteries",
+    "category": "other",
+    "capabilities": ["energy storage"],
+    "owner_or_users": [],
+    "condition_or_state": "assorted; usable unknown",
+    "scene_function": "Scavenged consumables for vehicle/electronics."
+    },
+    {
+    "id": "binoculars-worn",
+    "name": "Dirty binoculars",
+    "category": "tool",
+    "capabilities": ["optics for scouting"],
+    "owner_or_users": [],
+    "condition_or_state": "needs cleaning",
+    "scene_function": "Scavenged vision aid."
+    },
+    {
+    "id": "revolver-rusty",
+    "name": "Crusty revolver",
+    "category": "weapon",
+    "capabilities": ["handgun (degraded)"],
+    "owner_or_users": [],
+    "condition_or_state": "poor; unknown operability",
+    "scene_function": "Scavenged firearm; low reliability."
+    },
+    {
+    "id": "shotgun",
+    "name": "Pump shotgun",
+    "category": "weapon",
+    "capabilities": ["close-range lethality"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "functional (implied)",
+    "scene_function": "Carried as they split duties; central to earlier struggle."
+    },
+    {
+    "id": "jackal-trophy-pouch",
+    "name": "Pouch of trophies",
+    "category": "other",
+    "capabilities": ["none; evidentiary"],
+    "owner_or_users": [],
+    "condition_or_state": "intact",
+    "scene_function": "Gold teeth, watch, glasses, wooden cross—evidence confirming ‘jackal’ predation."
+    },
+    {
+    "id": "tie-rods-twisted",
+    "name": "Twisted tie rods & steering bits",
+    "category": "tool",
+    "capabilities": ["steering linkage components"],
+    "owner_or_users": [],
+    "condition_or_state": "tempered steel; deformed; not reshaped in field",
+    "scene_function": "Forces the parts-cannibalization plan."
+    },
+    {
+    "id": "toolbox-ravager",
+    "name": "Ravager’s broken tools",
+    "category": "tool",
+    "capabilities": ["basic hand tools (compromised)"],
+    "owner_or_users": [],
+    "condition_or_state": "bent, rusty, unreliable",
+    "scene_function": "Illustrates ravagers’ poor maintenance; little direct use."
+    }
+    ],
+    "locations": [
+    {
+    "id": "woodline-camp-wreck",
+    "name": "Woodline wreck-camp",
+    "type": "wilderness",
+    "descriptors": ["damp ground", "puro stink", "coppery blood", "scattered junk", "dying embers"],
+    "in_scene_events": ["Bodies found; loot sorted; fire extinguished; repair planning."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "ravagers",
+    "name": "Ravagers",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Prior ambushers; their gear now salvage.",
+    "actions_in_scene": ["Represented by corpses and equipment; no active agents."]
+    },
+    {
+    "id": "skervs",
+    "name": "Skervs (wildland survivors)",
+    "alignment": "unknown",
+    "agents_present": ["older-skerv-attacker"],
+    "motives_inferred": "Survival through predation (as ‘jackal’) vs typical skerv avoidance.",
+    "actions_in_scene": ["Evidence of trophy-taking; earlier attack led to death."]
+    },
+    {
+    "id": "three-shovels",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Trade and survival logistics; destination Quincy aims to rejoin.",
+    "actions_in_scene": ["Offstage reference guiding repair urgency."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Survival vs morality", "Predation under scarcity", "Naivety vs willful ignorance", "Identity shaped by violence", "Engineering as order in chaos"],
+    "motifs_symbols": ["gold teeth pouch", "wooden cross in dirt", "puro stink", "dead fire/covered embers", "twisted tie rods"],
+    "moral_questions": ["How do you tell a desperate survivor from a predator before it’s too late?", "What does trade enable when you refuse to look too closely?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/psychological/technical",
+    "pacing": "measured reflection to brisk problem-solving",
+    "voice_traits": ["blunt dialogue", "forensic detail", "mechanical specificity", "somber introspection"],
+    "sensory_notes": ["puro’s acrid reek", "copper tang of blood", "damp leaves underhand", "cool wind at the neck", "embers snuffed to darkness"]
+    },
+    "causality": {
+    "prior_dependencies": ["Quincy’s earlier shooting of the skerv attacker; decision to hunt a ravager buggy for parts; damaged performance of their own buggy."],
+    "outcomes": ["Skerv identified as ‘jackal’ via trophies; additional salvage acquired (fuel cell, batteries, ammo, optics); motor swap ruled out; plan to cannibalize steering/components; fire extinguished to reduce detection risk."],
+    "unanswered_questions": ["Will the combined parts yield a reliable vehicle?", "Does carrying ‘jackal’ trophies alter how others view them if found?", "Are more ravagers nearby?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Guilt and uncertainty over killing a man who might have been more victim than threat.",
+    "resolution": "Partially reframed by evidence and Demmy’s logic; redirected into repair focus."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy", "caravan-trade-ethos"],
+    "trigger": "Recognition that trade may launder predation’s spoils.",
+    "resolution": "Unresolved; acknowledged tension."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy", "demmy", "night wilderness"],
+    "trigger": "Need to salvage and repair under threat of discovery with poor tools.",
+    "resolution": "Mitigation by dousing fire and splitting tasks."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "present",
+    "sexual_content": "none",
+    "sensitive_topics": ["murder/predation", "starvation", "desecration (teeth removal)"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Demmy", "jackal", "gold teeth pouch", "wooden cross", "puro alcohol fuel cell", "ravager two-seater", "tie rods twisted", "motor mount incompatibility", "extinguish fire"],
+    "keywords_dense": "Quincy, Demmy, jackal, skerv predator, gold teeth, wooden cross, puro, alcohol fuel cell, ravager buggy, motor mount axial vs under-mount, twisted tie rods, salvage, caravan ethics",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Demmy"],
+    "places": ["Woodline wreck-camp"],
+    "orgs": ["Three Shovels Caravan", "Ravagers", "Skervs"],
+    "terms": ["jackal", "puro", "tie rods"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What evidence convinces Demmy the attacker was a ‘jackal’?", "a": "A pouch of trophies—bent glasses, cheap watch, gold teeth, and a wooden cross—implying predatory kills."},
+    {"q": "Why can’t Quincy transplant the ravager motor into their buggy in the field?", "a": "Incompatible mounts (axial face vs under-mount) and lack of tools like a drill press/welder."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "jackals-teeth-aftermath-1",
+    "type": "recap",
+    "text": "At the woodline camp, two ravagers are dead and the skerv Quincy shot lies nearby. Among the sorted loot, Demmy finds a pouch of trophies—gold teeth, a cross, a watch, glasses—and declares the skerv a ‘jackal’, a night murderer who preys on the weak. Quincy wrestles with guilt and caravan complicity while Demmy argues survival leaves only bargains. Refocusing, Quincy inspects the ravager two-seater and rules out a field motor swap due to incompatible mounts and ruined steering. She plans to mix and match components with their own buggy. Demmy goes to retrieve it, and Quincy douses the fire and begins prep."
+    },
+    {
+    "chunk_id": "jackals-teeth-aftermath-2",
+    "type": "entities_focus",
+    "text": "Actors: Quincy (mechanic/POV), Demmy (skerv survivor/mentor), Unidentified older skerv ‘jackal’ (dead), two dead ravagers. Objects: ravager two-seater (disabled), their two-seater buggy, alcohol fuel cell with puro, batteries, shotgun shells, worn binoculars, crusty revolver, pouch of trophies (gold teeth, watch, glasses, wooden cross), twisted tie rods, broken tools. Place: woodline wreck-camp with dying embers. Roles: Quincy leads technical triage; Demmy performs field forensics and sets security posture."
+    },
+    {
+    "chunk_id": "jackals-teeth-aftermath-3",
+    "type": "style_theme_focus",
+    "text": "Gritty, sensory third-limited: acrid puro, blood’s copper, damp leaves, cold wind. Themes interrogate survival vs morality, predation in scarcity, caravan naivety vs willful blindness, and engineering as a refuge of rules. Motifs include the gold-teeth pouch, a wooden cross dropped in dirt, extinguished embers, and twisted tie rods symbolizing bent systems that resist straightening."
+    }
+    ]
+    }

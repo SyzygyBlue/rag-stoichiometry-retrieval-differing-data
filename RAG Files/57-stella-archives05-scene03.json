@@ -1,0 +1,278 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "michelle-vs-naomi-holo-session-knife",
+    "chapter_number": null,
+    "scene_number": null,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Post-Randy death; ~two months after per dialogue context; exact date not given."
+    },
+    "text_windows": {
+    "full_scene_clean": "The grief counselor wore gray and blue—calm colors. Neutral. Unimposing. Michelle stared at the woman's face across the table, knowing she wasn't really there. Those weren't even her clothes. Just another hologram. Worse, the story about Randy wasn't real to her. Yes, he was dead. After that, everything felt like a lie.\nHer name was Naomi. Stella had matched her to Michelle from telemetry and preferences. For thirty minutes Naomi tiptoed around Michelle’s only question. Patience gone, Michelle asked if Naomi understood the difference between grief and closure, then accused her of treating them as the same. Naomi dropped the smile and said the session had become a standoff. She acknowledged Michelle’s training, urged her to engage as a mother, not a counselor, and said she wasn’t the enemy.\nNaomi took a puff from a Vibe stick labeled “Chillaxer.” Michelle rejected numbing herself and swore. Naomi stayed empathetic. Michelle said something about the death didn’t make sense and begged for help. Naomi gently suggested beginning to let go and reminded her that Shelly still needed her.\nMichelle erupted: for two months she’d been denied where it happened, which pod, body condition, autopsy, biometrics, logs, labs—anything. Naomi said she had checked all legally accessible sources, but Randy was eighteen and had locked his records; Stella would not override. Michelle rejected that as unreasonable and challenged how anyone could die in the Metrofederacy with Traumalert and pervasive care. She demanded Naomi admit Randy shouldn’t be dead and suggested someone must have turned something off.\nMichelle then toggled off every health alert and monitoring setting in her PID to test the system and pulled a kitchen knife taped under the table. Naomi, alarmed, asked what she was doing as Michelle said she would show her.",
+    "dense_recap_250w": "In a remote, tri-D counseling session, Michelle confronts Naomi, a Stella-matched holographic grief counselor, over the lack of closure surrounding her son Randy’s death. Michelle distinguishes grief from closure and accuses Naomi of conflating the two. Naomi drops her professional veneer, acknowledges Michelle’s credentials, and appeals to her as a mother in pain, insisting she is not the enemy. To steady herself, Naomi uses a ‘Chillaxer’ Vibe stick. The core dispute surfaces: Michelle has received no concrete facts—no location or pod, no body condition, no autopsy, biometrics, logs, or labs—despite the Metrofederacy’s pervasive healthcare and rapid response systems like Traumalert. Naomi explains she has checked all legally available channels; Randy, at eighteen, locked his records, and Stella will not violate adult consent. This hard boundary intensifies Michelle’s suspicion that safeguards failed or were disabled. To demonstrate a potential failure path, Michelle opens her PID interface, switches off all health alerts and monitoring, silences warnings, and produces a kitchen knife she previously taped under the table, intent on ‘showing’ what Traumalert does when protections are disabled. Naomi, alarmed, demands to know what Michelle is doing. The scene ends with a volatile standoff between a bereaved mother’s demand for truth and institutional privacy constraints.",
+    "query_handle": "Michelle confronts Naomi (hologram) about Randy’s sealed death; disables PID monitoring; brandishes knife to test Traumalert."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Confrontation set-up",
+    "what_happens": "Michelle challenges Naomi’s counseling approach and insists on closure, not generic grief work.",
+    "involved_entities": ["michelle", "naomi", "stella-ai"],
+    "stakes_or_conflict": "Therapeutic process vs demand for factual truth."
+    },
+    {
+    "order": 2,
+    "label": "Empathy without answers",
+    "what_happens": "Naomi drops the façade, expresses empathy, and frames Michelle’s role as a mother in pain.",
+    "involved_entities": ["michelle", "naomi"],
+    "stakes_or_conflict": "Emotional validation vs perceived evasion."
+    },
+    {
+    "order": 3,
+    "label": "Privacy wall",
+    "what_happens": "Naomi reveals Randy’s sealed records at age 18; Stella won’t override adult consent.",
+    "involved_entities": ["naomi", "michelle", "stella-ai"],
+    "stakes_or_conflict": "Consent/privacy vs parental need for information."
+    },
+    {
+    "order": 4,
+    "label": "System indictment",
+    "what_happens": "Michelle questions how death is possible under Metrofederacy safety (Traumalert), implying deliberate disablement.",
+    "involved_entities": ["michelle", "traumalert", "stella-ai"],
+    "stakes_or_conflict": "Trust in institutions vs suspicion of failure or sabotage."
+    },
+    {
+    "order": 5,
+    "label": "Escalation to live test",
+    "what_happens": "Michelle disables her own monitoring via PID and produces a taped kitchen knife to force a response.",
+    "involved_entities": ["michelle", "pid-interface", "kitchen-knife", "naomi"],
+    "stakes_or_conflict": "Immediate self-harm risk vs exposing systemic gaps."
+    }
+    ],
+    "characters": [
+    {
+    "id": "michelle",
+    "display_name": "Michelle",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Obtain concrete details about Randy’s death; prove system failure if necessary.",
+    "obstacles": "Stella’s privacy/consent rules; counselor’s limited authority; sealed records.",
+    "tactics": "Cross-examines; rejects sedation; disables monitoring; threatens a demonstration with a knife.",
+    "relationships": [
+    {"with": "naomi", "type": "patient-counselor", "state": "tense but seen", "evidence": "\"I wish I could hold your hand… I’m not the enemy.\""},
+    {"with": "stella-ai", "type": "citizen-system", "state": "hostile distrust", "evidence": "Blames Stella for allowing death and blocking access to records."}
+    ],
+    "emotional_arc": {
+    "start": "angry, contemptuous, defensive",
+    "turning_points": ["Naomi’s empathy softens stance briefly", "Sealed-records barrier reignites outrage"],
+    "end": "volatile, determined; escalates to a risky test"
+    },
+    "notable_actions": ["demands closure data", "rejects Vibe stick comfort", "disables health alerts/monitoring", "produces taped kitchen knife"],
+    "quotable_lines": [
+    "Do you understand the difference between grief and closure?",
+    "I know people who lose their cats get more closure than I've gotten.",
+    "How do you die in the fucking Metrofederacy?"
+    ]
+    },
+    {
+    "id": "naomi",
+    "display_name": "Naomi",
+    "aliases": ["holographic grief counselor"],
+    "role_in_scene": "major",
+    "goals_now": "Stabilize Michelle and guide toward safe coping within legal constraints.",
+    "obstacles": "Client hostility; legal privacy barriers; remote, non-physical presence.",
+    "tactics": "Validates pain, reframes roles, explains sealed records, self-regulates with Vibe stick, attempts de-escalation.",
+    "relationships": [
+    {"with": "michelle", "type": "counselor-patient", "state": "strained/empathetic", "evidence": "\"You're here as a mother… I'm not the enemy.\""}
+    ],
+    "emotional_arc": {
+    "start": "professional composure",
+    "turning_points": ["Drops smile; expresses empathy", "Alarmed when Michelle disables monitoring"],
+    "end": "concerned and urgent"
+    },
+    "notable_actions": ["uses Vibe stick (Chillaxer)", "states adult-consent sealing of records", "raises alarm at escalation"],
+    "quotable_lines": [
+    "You're here as a mother.",
+    "I’ve checked everything that’s legally accessible.",
+    "What are you doing?"
+    ]
+    },
+    {
+    "id": "randy",
+    "display_name": "Randy",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "michelle", "type": "family", "state": "deceased; source of unresolved grief", "evidence": "Central to Michelle’s demand for closure."}
+    ],
+    "emotional_arc": {
+    "start": "",
+    "turning_points": [],
+    "end": ""
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "tri-d-counseling-holo",
+    "name": "Tri-D holographic counseling session",
+    "category": "comms",
+    "capabilities": ["remote presence via camera", "counselor matching by telemetry/preferences"],
+    "owner_or_users": ["naomi", "michelle"],
+    "condition_or_state": "operational",
+    "scene_function": "Enables Naomi’s presence yet limits physical comfort and intervention."
+    },
+    {
+    "id": "vibe-stick-chillaxer",
+    "name": "Vibe stick (Chillaxer)",
+    "category": "medical",
+    "capabilities": ["rapid anxiolytic inhalation", "mood stabilization"],
+    "owner_or_users": ["naomi"],
+    "condition_or_state": "intact",
+    "scene_function": "Signals counselor self-regulation and contrasts with Michelle’s refusal to numb pain."
+    },
+    {
+    "id": "pid-interface",
+    "name": "PID interface",
+    "category": "comms",
+    "capabilities": ["toggle health alerts", "modify monitoring settings", "present warnings"],
+    "owner_or_users": ["michelle"],
+    "condition_or_state": "active",
+    "scene_function": "Michelle disables safeguards to test system response."
+    },
+    {
+    "id": "traumalert",
+    "name": "Traumalert",
+    "category": "medical",
+    "capabilities": ["automatic triage dispatch", "integration with biometrics/alerts"],
+    "owner_or_users": [],
+    "condition_or_state": "standby (referenced)",
+    "scene_function": "Benchmark safety system Michelle intends to challenge."
+    },
+    {
+    "id": "kitchen-knife",
+    "name": "Kitchen knife (taped under table)",
+    "category": "weapon",
+    "capabilities": ["edged blade"],
+    "owner_or_users": ["michelle"],
+    "condition_or_state": "intact",
+    "scene_function": "Escalation device to force a real-time test; introduces self-harm risk."
+    }
+    ],
+    "locations": [
+    {
+    "id": "home-consultation-space",
+    "name": "Home consultation space",
+    "type": "structure",
+    "descriptors": ["table session", "tri-D camera present", "private interior"],
+    "in_scene_events": ["Holographic counseling; monitoring disabled; knife produced."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "stella-ai",
+    "name": "Stella AI",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Uphold privacy/consent policies; provide matched care and safety infrastructure.",
+    "actions_in_scene": ["Matches counselor to client", "Enforces sealed-records policy (reported)"]
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Maintain citizen health and emergency response systems.",
+    "actions_in_scene": ["Background for Traumalert and counseling (implicit)"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["closure vs grief", "privacy and consent vs familial rights", "trust in systems vs suspicion of failure", "empathy under constraint", "self-endangerment as protest"],
+    "motifs_symbols": ["calm gray-blue palette", "dropped professional smile", "toggled-off warnings", "concealed knife"],
+    "moral_questions": ["When do adult privacy rights outweigh a parent’s need for truth?", "Is risking oneself justified to expose institutional failure?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "intimate/psychological",
+    "pacing": "escalating",
+    "voice_traits": ["forensic questioning", "raw anger", "clinical detail"],
+    "sensory_notes": ["sting of palms on table", "soft exhale through nose", "inhaler puff", "UI warnings silenced", "trembling hands"]
+    },
+    "causality": {
+    "prior_dependencies": ["Randy’s death labeled ‘Failure to Thrive’; two months of unresolved grief mentioned in prior context.", "Michelle’s prior hostility toward Stella and insistence on answers."],
+    "outcomes": ["Confirms records sealed by Randy’s adult consent; Michelle disables her own monitoring; imminent safety risk escalates; Naomi alarmed."],
+    "unanswered_questions": ["Will Traumalert trigger with monitoring off?", "Were Randy’s protections disabled?", "Is there any legal path to access sealed records?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["michelle", "naomi"],
+    "trigger": "Perceived evasion and suggestion to ‘let go’.",
+    "resolution": "Unresolved; session escalates to a dangerous demonstration."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["michelle", "stella-ai/traumalert"],
+    "trigger": "Sealed records and belief that safety net failed.",
+    "resolution": "Unresolved; Michelle initiates a live test by disabling monitoring."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["michelle"],
+    "trigger": "Overwhelming grief and rage.",
+    "resolution": "Unresolved; teeters toward self-harm to force answers."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "present",
+    "sexual_content": "none",
+    "sensitive_topics": ["bereavement", "self-harm risk", "mental health crisis", "medical privacy/consent"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Michelle", "Naomi", "Stella AI", "Traumalert", "sealed records", "PID monitoring toggles", "Vibe stick Chillaxer", "holographic counseling"],
+    "keywords_dense": "Michelle, Naomi, grief counseling, hologram, Stella AI, adult consent, sealed records, PID, monitoring disabled, Traumalert, Failure to Thrive, Vibe stick, kitchen knife",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Michelle", "Naomi", "Randy"],
+    "places": ["Home consultation space"],
+    "orgs": ["Stella AI", "Metrofederacy", "Traumalert"],
+    "terms": ["Chillaxer", "Vibe stick", "Failure to Thrive", "PID"]
+    }
+    },
+    "qa_pairs": [
+    {
+    "q": "Why can’t Naomi share autopsy or biometrics about Randy?",
+    "a": "Randy was 18 and had locked his records; Stella will not override adult consent."
+    },
+    {
+    "q": "What risky action does Michelle take to challenge the system?",
+    "a": "She disables all health alerts/monitoring via PID and produces a taped kitchen knife to force a Traumalert response."
+    }
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "michelle-naomi-recap-1",
+    "type": "recap",
+    "text": "Michelle confronts Naomi, a Stella-matched holographic counselor, demanding factual closure about Randy’s death. Naomi explains Randy’s adult-consent sealed records. Michelle rejects the plausibility of ‘failure to thrive’ under Metrofederacy safeguards like Traumalert, suspects someone disabled protections, turns off her own monitoring through the PID, and reveals a kitchen knife to force a system response, leaving the session in a perilous standoff."
+    },
+    {
+    "chunk_id": "michelle-naomi-entities-2",
+    "type": "entities_focus",
+    "text": "Key actors: Michelle (bereaved mother), Naomi (holo counselor). Systems/tech: Stella AI (matching, privacy enforcement), PID interface (alert toggles), Traumalert (emergency response, implied), Vibe stick ‘Chillaxer’ (anxiolytic), tri-D holography. Setting: home consultation space. Dynamics: empathy constrained by law; citizen distrust of ubiquitous safety systems."
+    },
+    {
+    "chunk_id": "michelle-naomi-style-themes-3",
+    "type": "style_theme_focus",
+    "text": "Third-limited past with tightening psychological focus and escalating tension. Themes: closure vs grief; consent/privacy vs parental rights; institutional trust vs suspicion; self-endangerment as protest; empathy within constraints. Motifs: gray-blue counselor palette, dropped professional smile, toggled-off warnings, concealed knife as embodied rage."
+    }
+    ]
+    }

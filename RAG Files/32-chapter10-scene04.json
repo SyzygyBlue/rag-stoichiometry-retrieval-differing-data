@@ -1,0 +1,326 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Dust, Deception, and the Silent Valley",
+    "scene_id": "pursuit-fourseater-engagement-silent-valley",
+    "chapter_number": null,
+    "scene_number": null,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Pre-dawn through late day during Quincy/Demmy southbound pursuit; immediately precedes entering a valley of silent vehicles."
+    },
+    "text_windows": {
+    "full_scene_clean": "Despite several crushing bumps, Quincy pushed the two-seater onward; reaching the caravan was crucial. They woke before dawn and rolled at first light. The fuel cell drained most of the remaining puro overnight but added a few percent charge. To avoid hidden obstacles, Quincy aimed for shorter grass, but tall grass and airborne debris still pelted them. Demmy spotted a dust cloud: a vehicle headed their way. He warned against slowing or steering away. Quincy scowled, kept speed, and played along as if they were fellow ravagers. Demmy readied the shotgun; Quincy wished for a rifle. They decided to close and, at the first hostile tell, blast the windscreen.\nThey smeared soot from the shotgun barrel under their eyes to look more ravager. The approaching four-seater was a wobbling wreck, blaring speed metal, its occupants head-banging. At arm’s length, Demmy fired—click. He racked another shell as both ravagers scrambled for guns. His second shot erased the passenger’s face. Quincy’s .45 automag dropped the driver as a round from the ravagers dented the tube frame above her head, fragmenting and cutting her cheek.\nDemmy applied water, gauze, and dermabond tape from her medkit; the wound sealed. He scavenged a hand radio; Quincy tuned Three Shovels’ channel but got only static. They harvested three batteries, wiring pigtails, a flask of puro for the fuel cell, and a serviceable knife; ill-fitting bloody boots were discarded. Back underway, Quincy wrestled terrain and her unease at feeling a thrill after killing.\nAs power waned, they crested a hill and froze: grass ahead was flattened uniformly, and beyond lay a graveyard of intact-looking ravager vehicles—silent, unmanned. On the far side stood the Three Shovels Caravan in formation, equally silent, about three hundred meters away. Repeated radio calls met only static. Despite Demmy’s warning, Quincy insisted they go take a look and crept the two-seater down into the valley’s ominous quiet.",
+    "dense_recap_250w": "Quincy and Demmy sprint south at dawn in their battered two-seater, the fuel cell having trickle-charged overnight. When a dust plume reveals a ravager four-seater intercepting them, they maintain speed to avoid suspicion, hide the shotgun, and smear soot as rough camouflage. At near point-blank range the ambushers’ oblivious head-banging ends: Demmy’s first shotgun shell misfires, he cycles another and destroys the passenger’s face as Quincy’s .45 drops the driver; a ravager round ricochets into their tube frame, nicking Quincy’s cheek. Demmy cleans and closes the wound with dermabond from the medkit. They salvage a handheld radio (tuned to the Three Shovels channel but only static), three batteries and wiring pigtails, a flask of puro for the fuel cell, and a straight-bar-guard knife; bloody boots don’t fit. Demmy notes killing for gear isn’t sustainable—ravagers on Sykotiq are faster—and Quincy acknowledges the risk while feeling a disquieting rush at decisive violence. Hours later, low on power, they crest a rise and encounter a disturbing anomaly: swathes of grass pressed flat in one direction, and in the valley a field of apparently operational ravager vehicles sitting motionless and empty. Beyond them, the Three Shovels Caravan stands silent in formation, roughly 300 meters past the ravagers. Multiple radio calls get only static. Despite Demmy’s caution, Quincy insists they approach to see if the caravan needs help, easing the two-seater into the unnaturally quiet basin.",
+    "query_handle": "Quincy & Demmy pose as ravagers, win close firefight, salvage radio/batteries, then find a silent valley of vehicles and the mute Three Shovels."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Dawn push",
+    "what_happens": "They roll at first light; overnight fuel cell trickle-charges while consuming remaining puro.",
+    "involved_entities": ["quincy", "demmy", "two-seater-rig", "ethanol-fuel-cell"],
+    "stakes_or_conflict": "Time vs. energy scarcity."
+    },
+    {
+    "order": 2,
+    "label": "Intercept approaching",
+    "what_happens": "A ravager four-seater heads toward them; they hold speed and posture as friendlies.",
+    "involved_entities": ["quincy", "demmy", "ravager-four-seater", "shotgun-demmy"],
+    "stakes_or_conflict": "Whether to bluff or fight."
+    },
+    {
+    "order": 3,
+    "label": "Camouflage and plan",
+    "what_happens": "Demmy smears soot as faux war paint; plan to shoot through windscreen at the first hostile move.",
+    "involved_entities": ["quincy", "demmy", "shotgun-demmy"],
+    "stakes_or_conflict": "Deception to gain proximity."
+    },
+    {
+    "order": 4,
+    "label": "Point-blank firefight",
+    "what_happens": "Shotgun misfires; Demmy cycles and kills passenger; Quincy kills driver; a ricochet cuts her cheek.",
+    "involved_entities": ["quincy", "demmy", "ravager-pair", "automag-45", "shotgun-demmy"],
+    "stakes_or_conflict": "Life-or-death seconds; minor injury."
+    },
+    {
+    "order": 5,
+    "label": "Field care and salvage",
+    "what_happens": "Demmy seals Quincy’s wound with dermabond; they salvage radio, batteries, wiring, puro, and a knife.",
+    "involved_entities": ["quincy", "demmy", "handheld-radio", "battery-packs", "puro-flask", "straight-guard-knife", "medkit", "dermabond-tape"],
+    "stakes_or_conflict": "Sustain mobility and comms."
+    },
+    {
+    "order": 6,
+    "label": "Power fades; dread rises",
+    "what_happens": "With charge dropping, they see grass flattened uniformly and a motionless field of intact ravager vehicles.",
+    "involved_entities": ["quincy", "demmy", "two-seater-rig"],
+    "stakes_or_conflict": "Unknown phenomenon; risk assessment."
+    },
+    {
+    "order": 7,
+    "label": "Silent caravan",
+    "what_happens": "Three Shovels appears beyond the ravagers, in formation but unresponsive on radio.",
+    "involved_entities": ["quincy", "demmy", "three-shovels-caravan", "handheld-radio"],
+    "stakes_or_conflict": "Decide whether to investigate despite danger."
+    },
+    {
+    "order": 8,
+    "label": "Descent into the valley",
+    "what_happens": "They creep the two-seater into the silent basin to check on the caravan.",
+    "involved_entities": ["quincy", "demmy", "two-seater-rig"],
+    "stakes_or_conflict": "Potential trap vs. obligation to help."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Catch Three Shovels; keep Demmy and the rig alive; assess the silent caravan.",
+    "obstacles": "Low power, hostile intercept, injury, unknown valley phenomenon, radio silence.",
+    "tactics": "Maintain speed and heading to pass as ravagers; initiate preemptive close-range attack; field-first-aid; salvage power and comms; cautious approach.",
+    "relationships": [
+    {"with": "demmy", "type": "ally/friend", "state": "strengthening", "evidence": "Shares plan, accepts camo, receives care; trusts his cautions but chooses to investigate."},
+    {"with": "three-shovels-caravan", "type": "home/community", "state": "endangered/unresponsive", "evidence": "Repeated calls on caravan channel; insists on checking them."},
+    {"with": "robyn", "type": "lover", "state": "motivating, offstage", "evidence": "Memory of her touch pushes Quincy forward."}
+    ],
+    "emotional_arc": {
+    "start": "focused urgency",
+    "turning_points": ["Adopts aggressive, no-hesitation stance in intercept", "Feels unsettling thrill after killing", "Overwhelmed by dread at silent valley"],
+    "end": "resolute yet anxious, choosing to investigate"
+    },
+    "notable_actions": ["drives at speed through rough grass", "coordinates faux-ravager approach", "fires .45 automag, kills driver", "radio calls to Three Shovels", "decides to descend into valley"],
+    "quotable_lines": [
+    "Maintain speed, steer straight ahead… we’re one big, happy, ravager shit-tornado of a family.",
+    "I’m never going to hesitate again. I meant it."
+    ]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Survive intercept; keep rig powered; reach safety with the caravan.",
+    "obstacles": "Shotgun misfire; scarce gear (no boots); fear of unknown valley.",
+    "tactics": "Hold speed, hide weapon, soot camo, close-quarters shotgun; provide first aid; salvage radio, batteries, puro; pragmatic risk counsel.",
+    "relationships": [
+    {"with": "quincy", "type": "ally/friend", "state": "loyal but wary of risks", "evidence": "Laughs at her embrace of aggression; treats wound; warns against reckless looting strategy."}
+    ],
+    "emotional_arc": {
+    "start": "alert and tactical",
+    "turning_points": ["Misfire then lethal follow-up", "Matter-of-fact medical help and salvage", "Apprehension at flattened grass and silence"],
+    "end": "uneasy but compliant, entering the valley"
+    },
+    "notable_actions": ["loads shotgun; first shell misfires then kills passenger", "applies dermabond", "finds and hands Quincy the radio", "salvages batteries and knife", "shuts off blaring music"],
+    "quotable_lines": [
+    "Big happy families don’t stare at each other through binoculars.",
+    "Killing ravagers for their stuff isn’t a good long-term strategy."
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "two-seater-rig",
+    "name": "Two-seater ravager rig",
+    "category": "vehicle",
+    "capabilities": ["electric drive", "battery swap"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "operational but underpowered",
+    "scene_function": "Transport; platform for combat and approach to the valley."
+    },
+    {
+    "id": "ethanol-fuel-cell",
+    "name": "Ethanol fuel cell",
+    "category": "other",
+    "capabilities": ["auxiliary charging while parked"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "partially refilled with scavenged puro",
+    "scene_function": "Extends range; buys hours of movement."
+    },
+    {
+    "id": "shotgun-demmy",
+    "name": "Pump-action shotgun",
+    "category": "weapon",
+    "capabilities": ["close-quarters stopping power"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "functional but unreliable primers",
+    "scene_function": "Primary offensive weapon in the intercept."
+    },
+    {
+    "id": "automag-45",
+    "name": ".45 automag pistol",
+    "category": "weapon",
+    "capabilities": ["sidearm defense"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "functional",
+    "scene_function": "Finishes the driver in the firefight."
+    },
+    {
+    "id": "handheld-radio",
+    "name": "Handheld communicator",
+    "category": "comms",
+    "capabilities": ["short-range voice comms"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "unknown; tuned but only static",
+    "scene_function": "Attempt to reach Three Shovels; fails or out of range."
+    },
+    {
+    "id": "battery-packs",
+    "name": "Scavenged battery modules",
+    "category": "other",
+    "capabilities": ["energy storage"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "≈60% on donor; added to stash",
+    "scene_function": "Extends immediate operational range."
+    },
+    {
+    "id": "straight-guard-knife",
+    "name": "Double-edged knife with straight bar guard",
+    "category": "weapon",
+    "capabilities": ["melee/utility"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "serviceable",
+    "scene_function": "Useful tool and defense post-encounter."
+    },
+    {
+    "id": "medkit",
+    "name": "First aid kit with dermabond",
+    "category": "medical",
+    "capabilities": ["wound cleaning and closure"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "intact; supplies consumed minimally",
+    "scene_function": "Treats Quincy’s cheek laceration."
+    },
+    {
+    "id": "ravager-four-seater",
+    "name": "Ravager four-seater car",
+    "category": "vehicle",
+    "capabilities": ["fast, jury-rigged transport"],
+    "owner_or_users": [],
+    "condition_or_state": "captured then abandoned; heavily damaged",
+    "scene_function": "Source of loot (batteries, radio, puro); scene of firefight."
+    }
+    ],
+    "locations": [
+    {
+    "id": "rolling-grasslands-route",
+    "name": "Rolling grasslands route",
+    "type": "wilderness",
+    "descriptors": ["short and tall grass mix", "dust, pollen", "rough bumps"],
+    "in_scene_events": ["Dawn sprint; ravager intercept and firefight; salvage and departure."]
+    },
+    {
+    "id": "silent-valley-of-vehicles",
+    "name": "Silent valley of vehicles",
+    "type": "wilderness",
+    "descriptors": ["uniformly flattened grass", "eerie stillness", "intact motionless machines"],
+    "in_scene_events": ["Discovery of frozen ravager field; sighting of silent Three Shovels in formation; failed radio calls; descent to investigate."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "ravagers",
+    "name": "Ravagers",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Predation; pursuit (implied from battlefield detritus).",
+    "actions_in_scene": ["Two engage Quincy/Demmy and are killed; many others’ vehicles lie silent, unmanned."]
+    },
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Transit/survival; currently inexplicably silent.",
+    "actions_in_scene": ["Appears in formation beyond ravagers; does not answer radio."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Survival through pragmatism", "Deception as tactic", "Moral cost of violence", "Scarcity and salvage", "Fear of the unknown"],
+    "motifs_symbols": ["soot camo", "blaring speed metal then silence", "flattened grass", "static on the radio", "blood-soaked gear"],
+    "moral_questions": ["Does survival demand becoming comfortable with killing?", "What unseen power can halt armies and why?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/technical with visceral beats",
+    "pacing": "brisk with suspenseful deceleration",
+    "voice_traits": ["dark humor", "mechanical specificity", "sensory immediacy"],
+    "sensory_notes": ["grit between teeth", "screeching speed metal then hiss of static", "smell of blood and ethanol", "whine of electric motor", "dead stillness of flattened grass"]
+    },
+    "causality": {
+    "prior_dependencies": ["Ongoing pursuit after prior skirmishes; need to signal Three Shovels; earlier promise to help Demmy join; scarcity of fuel and batteries."],
+    "outcomes": ["Ravager pair neutralized; Quincy slightly wounded and treated; acquisition of radio, batteries, knife, and puro; confirmation of caravan’s position; identification of unexplained silence and flattened-grass phenomenon; choice to investigate."],
+    "unanswered_questions": ["Why are the ravager vehicles and the caravan motionless?", "What flattened the grass so uniformly?", "Is the radio range limited or is jamming involved?", "Is the valley a trap or aftermath of a non-kinetic event?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy+demmy", "ravager-pair"],
+    "trigger": "Approaching four-seater turns toward them.",
+    "resolution": "Close-quarters gunfight; both ravagers killed; Quincy grazed by fragment."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy+demmy", "terrain and energy scarcity"],
+    "trigger": "Rough grasslands and dwindling battery.",
+    "resolution": "Salvage additional packs and puro; continue until new hazard appears."
+    },
+    {
+    "type": "person_vs_unknown",
+    "parties": ["quincy+demmy", "silent-valley-phenomenon"],
+    "trigger": "Uniformly flattened grass and frozen vehicles.",
+    "resolution": "Unresolved; they descend to investigate."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Thrill at decisive killing versus moral unease.",
+    "resolution": "Unresolved; continues forward to help the caravan."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "present",
+    "sexual_content": "none",
+    "sensitive_topics": ["gore (facial destruction)", "drug use mention (Sykotiq)"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Demmy", "ravager firefight", "shotgun misfire", "dermabond first aid", "battery salvage", "handheld radio static", "flattened grass anomaly", "silent Three Shovels caravan"],
+    "keywords_dense": "Quincy, Demmy, two-seater rig, ravager four-seater, shotgun misfire, .45 automag, soot camouflage, first aid dermabond, salvage batteries, handheld radio static, puro fuel cell, Sykotiq, flattened grass, silent valley, Three Shovels Caravan unresponsive",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Demmy", "Robyn"],
+    "places": ["Silent valley of vehicles", "Rolling grasslands route"],
+    "orgs": ["Three Shovels Caravan", "Ravagers"],
+    "terms": ["Sykotiq", "dermabond", "automag", "puro"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "How do Quincy and Demmy avoid arousing suspicion before the fight?", "a": "They maintain speed and heading, hide the gun, and smear soot as rough ravager-style camo."},
+    {"q": "What injures Quincy during the firefight?", "a": "A bullet fragment from a ricochet off the tube frame cuts her cheek."},
+    {"q": "What useful items are salvaged from the ravager car?", "a": "A handheld radio, three battery packs with charge, wiring pigtails, a flask of puro, and a double-edged knife."},
+    {"q": "Do they make contact with Three Shovels over radio?", "a": "No—repeated calls return only static."},
+    {"q": "What anomaly do they encounter after power dips?", "a": "Large areas of uniformly flattened grass and a silent field of intact ravager vehicles, with the caravan motionless beyond them."},
+    {"q": "Why proceed into the valley despite danger?", "a": "Quincy insists they can’t leave the caravan; they may need help."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "silent-valley-recap-1",
+    "type": "recap",
+    "text": "At dawn, Quincy and Demmy push their two-seater south, then bluff an oncoming ravager four-seater by holding speed and using soot camo. At arm’s length a misfire is followed by Demmy’s killing shot and Quincy’s .45 dropping the driver; a ricochet slices Quincy’s cheek, which Demmy seals with dermabond. They salvage a radio, three charged batteries, wiring, tubo puro, and a knife, and discard ill-fitting boots. Hours later, as power wanes, they find swathes of grass pressed flat and a valley strewn with intact, silent ravager vehicles; beyond sits the Three Shovels Caravan in formation, unresponsive to radio. Despite fear, they descend to investigate."
+    },
+    {
+    "chunk_id": "silent-valley-entities-2",
+    "type": "entities_focus",
+    "text": "Primary actors: Quincy (driver, shooter) and Demmy (shotgunner, medic, scavenger). Antagonists: two ravagers (killed). Orgs: Three Shovels Caravan (ally, silent), Ravagers (hostile). Tech: two-seater rig, ethanol fuel cell, pump shotgun, .45 automag, handheld radio (static), dermabond medkit, battery packs, knife. Locales: rolling grasslands route; silent valley with uniformly flattened grass. Key outcomes: wound treated; loot acquired; caravan sighted but mute; approach initiated."
+    },
+    {
+    "chunk_id": "silent-valley-style-themes-3",
+    "type": "style_theme_focus",
+    "text": "Third-person limited, past tense; gritty mechanical detail with visceral action. Themes: survival pragmatism, deception as tactic, moral cost of killing, scarcity and salvage, dread of an unknown force. Motifs: soot war-paint, misfire click vs thunderous shots, speed-metal cut to radio static, blood-soaked gear, flattened grass and absolute silence."
+    }
+    ]
+    }

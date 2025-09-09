@@ -1,0 +1,141 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Swimming Lessons",
+    "scene_id": "li-mei-lab-tri-d-observation-moments-later",
+    "chapter_number": "Tahua Outpost Special Projects One",
+    "scene_number": 2,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "POV: Fay. Moments after initiating a tri-D session, Fay and Jejune enter an observation-only view of Skree’s full-immersion simulation; Fay stalls while malware finishes deploying (implied)."
+    },
+    "text_windows": {
+    "full_scene_clean": "Fay and Jejune appeared beside one another inside the full-immersion simulation, their bodies ghostly. Jejune flipped her hands, staring through them. Fay pointed toward a dark-haired woman on a sofa. “That’s her… and no, she can neither see nor hear us. We cannot interact with the world in any way. We can only observe.” Jejune stared at Skree. “She’s so… real.” Fay: “What did you expect?” Jejune stepped closer; Skree remained engrossed in unseen work. “You can approach her,” Fay said, passing her splayed fingers through Skree’s head. Jejune squatted to study Skree’s face. “Is this what she’s going to look like?” “Pretty much exactly,” Fay said. “This simulation is the most accurate I have ever constructed, all the way down to pimples, hangnails, and split lips from rough sex.” Skree sipped from a cup, grimacing. A plump, dark-haired woman entered, sighed, and sat elsewhere. “Who’s that?” “Nobody, pure simulation.” Jejune hesitated. “Can… Skree have sex?” Fay: “All she wants, but she’s infertile. We removed her uterus, fallopian tubes, and ovaries. That is where we installed the computer core—about the size of two thumbs—plus solid-state polymer batteries, power couplers, insulation, and cooling. Ten to the 12th calculations per second at idle. If she tackles a hard cryptographic problem she can jump to ten to the 21st in extreme mode, but then she must use external power and external cooling.” Jejune: “How can she access it?” Fay grinned: “She doesn’t, not directly… answers will start appearing in her head, like a gut feeling.” “So she’s going to seem incredibly intelligent?” “Not just seem. She’ll be the most intelligent human ever—by every measure.” “Isn’t Li Mei afraid she’ll take over the world?” Fay: “She would, if we hadn’t crippled her with severe social anxiety and executive dysfunction outside of her scope. Li Mei insisted; outside her focus she loses interest.” Jejune: “That seems sad.” Fay: “It makes sense if you don’t want to watch the world burn.” She noted seconds ticking until scripts finished deploying and added, “Wanna see through Skree’s eyes?” Jejune nodded enthusiastically.",
+    "dense_recap_250w": "Inside a full-immersion tri-D, Fay and Jejune appear as ghostly observers in Skree’s simulated workroom. Fay demonstrates that their session is observation-only and invites Jejune to approach Skree, whose appearance matches her eventual real-world body. A background NPC is dismissed as “pure simulation.” Jejune asks about sexuality; Fay explains Skree is infertile because her reproductive organs were surgically replaced with a compact high-performance compute core and its integrated batteries, couplers, insulation, and cooling. The core performs ~10^12 calculations per second at idle and can reach ~10^21 in an extreme mode that requires external power and external cooling to avoid internal overheating. Skree will not consciously “use” the core; instead, solutions surface as intuitive “gut feelings.” Fay asserts Skree will be the most intelligent human ever on every measurable scale. To prevent runaway power, Li Mei required performance-limiting blocks, imposing severe social anxiety and executive dysfunction for anything outside Skree’s narrow scope; thus she focuses on codebreaking and hacking while quickly losing interest elsewhere. As Fay quietly watches time for her malware deployment tick down, she offers Jejune a deeper perspective: to ride “passenger” and see through Skree’s eyes. Jejune, captivated, agrees—positioning herself for further compromise while the simulation continues to mirror Skree’s lived-in reality.",
+    "query_handle": "Fay tours Jejune through Skree’s sim: unveils compute-core implant, limits, and invites a ‘passenger’ view while malware completes."
+    },
+    "narrative_beats": [
+    { "order": 1, "label": "Ghost entry", "what_happens": "Fay and Jejune enter Skree’s tri-D as intangible observers; Fay sets rules of non-interaction.", "involved_entities": ["fay", "jejune", "tri-d-simulation", "skree"], "stakes_or_conflict": "Maintain cover while stalling for malware deployment." },
+    { "order": 2, "label": "Physical verisimilitude", "what_happens": "Jejune inspects Skree’s face; Fay asserts the sim mirrors her real-world body.", "involved_entities": ["fay", "jejune", "skree"], "stakes_or_conflict": "Trust in the sim’s accuracy." },
+    { "order": 3, "label": "Architecture reveal", "what_happens": "Fay details Skree’s sterilization and internal compute core with power/cooling systems and performance tiers.", "involved_entities": ["fay", "jejune", "crypto-core-implant"], "stakes_or_conflict": "Ethical cost vs engineered capability." },
+    { "order": 4, "label": "Intuition interface", "what_happens": "Fay explains that solutions surface as gut feelings rather than direct control.", "involved_entities": ["fay", "jejune", "crypto-core-implant"], "stakes_or_conflict": "Opacity of control vs effectiveness." },
+    { "order": 5, "label": "Safeguards and limits", "what_happens": "To prevent domination, Li Mei imposed social anxiety and executive dysfunction outside Skree’s scope.", "involved_entities": ["fay", "li-mei", "skree"], "stakes_or_conflict": "Containment vs autonomy." },
+    { "order": 6, "label": "Deeper hook", "what_happens": "Fay invites Jejune to see through Skree’s eyes while counting down malware deployment.", "involved_entities": ["fay", "jejune", "tri-d-simulation"], "stakes_or_conflict": "Jejune’s curiosity vs covert compromise." }
+    ],
+    "characters": [
+    {
+    "id": "fay",
+    "display_name": "Fay",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Keep Jejune engaged until malware fully deploys; showcase control over Skree’s design.",
+    "obstacles": "Observation-only session; need to stall; Jejune’s limited understanding.",
+    "tactics": "Demonstrates sim fidelity; reveals technical details; offers enticing ‘passenger’ perspective.",
+    "relationships": [
+    {"with": "jejune", "type": "adversaries", "state": "predatory manipulation", "evidence": "“Wanna see through Skree’s eyes?” asked while scripts finish deploying."},
+    {"with": "li-mei", "type": "captor", "state": "resentful", "evidence": "Admits Li Mei mandated limiting blocks."},
+    {"with": "skree", "type": "creator-creation", "state": "proprietary pride", "evidence": "“Most accurate… all the way down to pimples…”"}
+    ],
+    "emotional_arc": { "start": "superior, sardonic", "turning_points": ["lays out core specs and limits", "secures Jejune’s consent to ‘passenger’ view"], "end": "controlled, anticipatory" },
+    "notable_actions": ["sets observation rules", "passes hand through Skree’s head", "explains compute core and safeguards", "invites passenger-view"],
+    "quotable_lines": [
+    "“We can only observe.”",
+    "“Ten to the 12th at idle… up to ten to the 21st in extreme calculation mode.”",
+    "“She’ll be the most intelligent human being ever.”"
+    ]
+    },
+    {
+    "id": "jejune",
+    "display_name": "Jejune",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Understand Skree; follow Fay’s lead; satisfy curiosity.",
+    "obstacles": "Technical complexity; unaware of Fay’s ulterior motive.",
+    "tactics": "Close inspection; Q&A; agrees to deeper immersion (‘passenger’).",
+    "relationships": [
+    {"with": "fay", "type": "handler/subject", "state": "credulous, intrigued", "evidence": "Nods enthusiastically to see through Skree’s eyes."},
+    {"with": "li-mei", "type": "subordinate", "state": "dutiful", "evidence": "Acts as Li Mei’s rotating spy (implied)."},
+    {"with": "skree", "type": "observer", "state": "awed", "evidence": "“She’s so… real.”"}
+    ],
+    "emotional_arc": { "start": "amazed, tentative", "turning_points": ["learns of core and fertility removal", "accepts passenger-view"], "end": "captivated, compliant" },
+    "notable_actions": ["examines Skree’s face", "asks about sex and compute access", "agrees to passenger perspective"],
+    "quotable_lines": [
+    "“She’s so… real.”",
+    "“How can she access it?”"
+    ]
+    },
+    {
+    "id": "skree",
+    "display_name": "Skree",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": null,
+    "obstacles": null,
+    "tactics": null,
+    "relationships": [
+    {"with": "fay", "type": "creation", "state": "engineered and limited", "evidence": "Blocks: social anxiety and executive dysfunction outside scope."}
+    ],
+    "emotional_arc": { "start": null, "turning_points": [], "end": null },
+    "notable_actions": ["sips caf; continues unseen work in sim"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    { "id": "tri-d-simulation", "name": "Full-immersion tri-D simulation", "category": "other", "capabilities": ["observation-only mode", "first-person ‘passenger’ perspective"], "owner_or_users": ["fay", "jejune", "skree"], "condition_or_state": "active", "scene_function": "Setting for observing Skree and baiting Jejune deeper." },
+    { "id": "crypto-core-implant", "name": "Internal compute core (reproductive-organ replacement)", "category": "cybernetics", "capabilities": ["~10^12 cps idle", "~10^21 cps extreme with external power/cooling"], "owner_or_users": ["skree"], "condition_or_state": "intact", "scene_function": "Source of Skree’s superintelligence; necessitates infertility and internal systems." },
+    { "id": "neuroject", "name": "Neuroject implant", "category": "cybernetics", "capabilities": ["deliver cues and suggestions"], "owner_or_users": ["skree"], "condition_or_state": "intact", "scene_function": "Pathway for intuitive ‘gut feeling’ outputs (indirect access)." },
+    { "id": "external-cooling-power-dock", "name": "External cooling and power hook-up", "category": "tool", "capabilities": ["dissipate heat in extreme mode", "supply power"], "owner_or_users": ["skree"], "condition_or_state": "required for extreme mode", "scene_function": "Prevents internal overheating during peak computation." }
+    ],
+    "locations": [
+    { "id": "skree-sim-workroom", "name": "Skree’s simulated technical workroom", "type": "room", "descriptors": ["sofas", "hallway access", "casual workspace"], "in_scene_events": ["Observation of Skree; NPC enters and idles; technical exposition of implants and limits."] }
+    ],
+    "factions_orgs": [],
+    "themes_and_motifs": {
+    "themes": ["engineered intelligence vs autonomy", "control through design constraints", "voyeurism and consent", "means–ends ethics in bio-cybernetics"],
+    "motifs_symbols": ["ghost observers", "mirror-ready fidelity", "gut-feel insights", "idle vs extreme modes"],
+    "moral_questions": ["Is disabling autonomy ethical to prevent potential harm?", "Do observation-only spaces absolve manipulation?", "What is the cost of trading fertility for computation?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "lyrical-technical",
+    "pacing": "measured with underlying tension",
+    "voice_traits": ["clinical exposition", "sardonic asides", "predatory patience"],
+    "sensory_notes": ["ghostly visuals", "sip-and-grimace at caf", "sofa textures seen, not felt"]
+    },
+    "causality": {
+    "prior_dependencies": ["Fay has initiated a tri-D session with Jejune; malware deployment is underway (implied).", "Skree is a clone engineered with an internal compute core and behavioral limits."],
+    "outcomes": ["Jejune agrees to first-person ‘passenger’ perspective, deepening exposure.", "Skree’s hardware specs and safety limits are established in-world."],
+    "unanswered_questions": ["Will the passenger view facilitate the malware’s final stages?", "How will Skree’s limits hold outside the sim?", "Will Jejune or Li Mei detect Fay’s manipulation?"]
+    },
+    "conflicts": [
+    { "type": "person_vs_person", "parties": ["fay", "jejune"], "trigger": "Fay lures Jejune deeper into the sim under the guise of instruction.", "resolution": "Unresolved; Jejune consents to passenger view." },
+    { "type": "person_vs_system", "parties": ["fay", "design-safeguards-imposed-by-li-mei"], "trigger": "Li Mei’s mandated blocks constrain Skree’s autonomy.", "resolution": "Ongoing; Fay accepts but disapproves." }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "implied",
+    "sensitive_topics": ["sterilization/body modification", "mind manipulation", "surreptitious malware deployment"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["fay", "jejune", "skree", "tri-d observation", "compute core implant", "neuroject", "external cooling requirement", "social-anxiety limiter", "executive dysfunction block"],
+    "keywords_dense": "Fay, Jejune, Skree, tri-D simulation, observation-only, passenger view, compute core implant, infertility, 10^12 cps, 10^21 cps, external cooling, neuroject, design limits, Li Mei",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Fay", "Jejune", "Skree", "Li Mei"],
+    "places": ["Skree’s simulated technical workroom"],
+    "orgs": [],
+    "terms": ["tri-D simulation", "neuroject", "compute core", "external cooling", "social anxiety block", "executive dysfunction"]
+    }
+    },
+    "qa_pairs": [
+    { "q": "Why is Skree infertile?", "a": "Her reproductive organs were replaced with a compute core and supporting power/cooling systems." },
+    { "q": "How does Skree ‘use’ her compute core?", "a": "She doesn’t consciously; solutions surface as intuitive ‘gut feelings’ rather than direct access." }
+    ],
+    "embedding_payloads": [
+    { "chunk_id": "li-mei-lab-tri-d-observation-moments-later-1", "type": "recap", "text": "In a ghost-mode tri-D, Fay guides Jejune through Skree’s simulated workroom, proving they can only observe. Fay unveils Skree’s engineered body—reproductive organs replaced by a high-performance compute core with idle and extreme modes requiring external power/cooling—and explains that outputs manifest as ‘gut feelings.’ To prevent unchecked dominance, Li Mei mandated blocks causing social anxiety and executive dysfunction outside Skree’s scope. While watching the clock on her scripts, Fay invites Jejune to ride ‘passenger’ and see through Skree’s eyes; Jejune eagerly agrees." },
+    { "chunk_id": "li-mei-lab-tri-d-observation-moments-later-2", "type": "entities_focus", "text": "Actors: Fay (architect/manipulator, POV), Jejune (curious handler, target), Skree (engineered prodigy in sim), Li Mei (absent, imposes limits). Tech: full-immersion tri-D (observation + passenger), internal compute core (~10^12 idle, ~10^21 extreme), external cooling/power, neuroject pathway for intuitive outputs. Place: Skree’s simulated technical workroom. Actions: inspection, technical briefing, consent to deeper immersion." },
+    { "chunk_id": "li-mei-lab-tri-d-observation-moments-later-3", "type": "style_theme_focus", "text": "Third-limited, lyrical-technical prose balances clinical detail with predatory poise. Themes: engineered intelligence versus autonomy, control via design, and ethical tradeoffs of body modification. Motifs include ghost observers, mirror-fidelity bodies, intuition-as-interface, and idle vs extreme compute modes. Tension hums beneath the tutorial as Fay stalls for offscreen script deployment." }
+    ]
+    }

@@ -1,0 +1,250 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Routine",
+    "scene_id": "2186-03-28-the-routine",
+    "chapter_number": "Stella Archives 09",
+    "scene_number": 1,
+    "date_in_universe": "2186-03-28",
+    "absolute_timeline_notes": "Metrofederacy city café; morning case review by Shelly (Forensic Investigator III)."
+    },
+    "text_windows": {
+    "full_scene_clean": "Shelly sits alone in a sleek Metrofederacy café, nursing a cold espresso while reviewing appeal Case 722301-B on her PID: an in-transit death after stimulant use; she recommends no reversal of the SAIR penalty. She tongue-taps to mark it ready for submission. She reflects on months of burnout, twenty-seven city hops, and a run of routine investigations whose outcomes reduce to checked boxes. The Forensic Investigator IV certification and MD are within reach—two exams remain—but she has not scheduled them. She scans another file as the café hums around her, thinking of an unsolved pattern: thirty-one men, including Randy, all coded as Failure to Thrive with matching logs. The work is still precise and thorough, but joyless. She wonders if she herself has begun to disappear, even as she keeps doing the job.",
+    "dense_recap_250w": "On March 28, 2186, Shelly—Forensic Investigator III in the Metrofederacy—reviews an appeal case in a minimalist café. Case 722301-B challenges a cause-of-death ruling tied to stimulant use during transit; after interviews and log pulls, she concludes the outcome is proper and marks the appeal for submission, citing no grounds to overturn the SAIR penalty. Despite competence and diligence, she feels numb. Over six months she has made twenty-seven city hops handling incidents from warehouse fires to electrosurge blowouts, each ending with a signature and little meaning. She could advance to Forensic Investigator IV and receive an MD after two exams, but hasn’t scheduled them. The screen’s tint adapts to her retinal fatigue while she keeps working, haunted by an unresolved cluster: thirty-one male deaths, logs matching a prior subject named Randy, all summarized as Failure to Thrive. She realizes she’s going through motions—work, sleep, travel, repeat—drinking a cold espresso like it matters while questioning whether she still does. The scene captures her internal conflict between professional mastery and personal disengagement, and flags the ongoing Failure to Thrive pattern as a dormant investigation thread.",
+    "query_handle": "Shelly reviews appeal case in Metrofederacy café; submits no-reversal; reflects on burnout and unsolved ‘Failure to Thrive’ cluster."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Case review and submission",
+    "what_happens": "Shelly finalizes appeal Case 722301-B regarding a stimulant-related transit death and marks it ready to submit with no reversal.",
+    "involved_entities": ["shelly", "pid-shelly", "case-722301-b", "sair-program"],
+    "stakes_or_conflict": "Administrative justice vs. limited evidence; risk of rubber-stamping."
+    },
+    {
+    "order": 2,
+    "label": "Professional stagnation",
+    "what_happens": "She reflects on months of emotionally flat casework across many cities and her failure to schedule IV certification exams.",
+    "involved_entities": ["shelly", "forensic-investigator-program", "stella-ai"],
+    "stakes_or_conflict": "Career ceiling vs. burnout and apathy."
+    },
+    {
+    "order": 3,
+    "label": "Cold trail",
+    "what_happens": "She reconsiders an unsolved pattern of thirty-one male fatalities—including Randy—tagged as Failure to Thrive.",
+    "involved_entities": ["shelly", "randy", "failure-to-thrive-cluster"],
+    "stakes_or_conflict": "Potential systemic issue vs. lack of leads and emotional exhaustion."
+    }
+    ],
+    "characters": [
+    {
+    "id": "shelly",
+    "display_name": "Shelly",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Process the current appeal correctly; fight numbness; keep the ‘Failure to Thrive’ cluster in view.",
+    "obstacles": "Burnout, apathy, algorithmic expectations (Stella), no fresh leads.",
+    "tactics": "Thorough log reviews, interviews, careful evidence standards; defers major career step.",
+    "relationships": [
+    {"with": "stella-ai", "type": "tool/system", "state": "reliant yet skeptical", "evidence": "“dug deeper than Stella probably would have on its own.”"},
+    {"with": "forensic-investigator-program", "type": "institution", "state": "stalled advancement", "evidence": "Two exams left; hasn’t scheduled."},
+    {"with": "randy", "type": "victim-focus", "state": "unresolved case memory", "evidence": "“Not just Randy. All thirty-one of them.”"}
+    ],
+    "emotional_arc": {
+    "start": "numb, fatigued, disengaged",
+    "turning_points": ["submits an empty-feeling case", "recalls the unresolved ‘Failure to Thrive’ pattern"],
+    "end": "quietly hollow yet still attentive to anomalies"
+    },
+    "notable_actions": ["marks appeal ready for submission", "reviews logs and interviews", "does not schedule IV exams", "drinks cold espresso", "reopens mental thread on the cluster"],
+    "quotable_lines": [
+    "Work. Sleep. Wake. Review. Eat. Travel. Repeat.",
+    "She hadn’t realized she was capable of quitting until she started doing it one day at a time.",
+    "The trail had gone cold."
+    ]
+    },
+    {
+    "id": "randy",
+    "display_name": "Randy",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "pid-shelly",
+    "name": "Personal Interface Device (PID)",
+    "category": "comms",
+    "capabilities": ["case docket access", "submission workflow", "screen tint adapts to retinal fatigue"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "intact",
+    "scene_function": "Vehicle for reviewing and submitting Case 722301-B and other files."
+    },
+    {
+    "id": "tongue-tap-interface",
+    "name": "Tongue-tap input",
+    "category": "cybernetics",
+    "capabilities": ["hands-free confirm/mark actions"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "active",
+    "scene_function": "Marks the appeal ready for submission."
+    },
+    {
+    "id": "transit-capsule",
+    "name": "Transit capsule",
+    "category": "vehicle",
+    "capabilities": ["high-speed intra-city/inter-city travel"],
+    "owner_or_users": [],
+    "condition_or_state": "referenced",
+    "scene_function": "Location of the stimulant-related death at issue in the appeal."
+    },
+    {
+    "id": "espresso-cup",
+    "name": "Cold espresso",
+    "category": "other",
+    "capabilities": ["caffeine; symbolic of burnout"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "cold; nearly finished",
+    "scene_function": "Motif underscoring emotional detachment and routine."
+    },
+    {
+    "id": "case-722301-b",
+    "name": "Appeal Case 722301-B",
+    "category": "other",
+    "capabilities": ["contains logs, interviews, outcome recommendation"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "ready for submission",
+    "scene_function": "Concrete task anchoring the scene’s procedural thread."
+    }
+    ],
+    "locations": [
+    {
+    "id": "metrofed-cafe-generic",
+    "name": "Metrofederacy café (generic chain)",
+    "type": "structure",
+    "descriptors": ["brushed chrome", "polymer curves", "ambient lighting", "recycled-plastic booth", "blocky table"],
+    "in_scene_events": ["Shelly reviews and submits an appeal case; reflects on burnout and an unsolved cluster."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "stella-ai",
+    "name": "Stella (automated governance/forensic system)",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Efficient, standardized adjudication and evidence processing.",
+    "actions_in_scene": ["Referenced benchmark for due diligence and clearances."]
+    },
+    {
+    "id": "forensic-investigator-program",
+    "name": "Forensic Investigator Certification Program",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Credentialing civilian forensic agents; tiered access culminating in IV+MD.",
+    "actions_in_scene": ["Provides Shelly’s career path and pending exams."]
+    },
+    {
+    "id": "sair-program",
+    "name": "SAIR penalty regime",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Imposes penalties tied to cause-of-death rulings (details unspecified).",
+    "actions_in_scene": ["Subject of appeal Case 722301-B; no reversal recommended."]
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Technocratic civic order; ubiquitous chains and travel infrastructure.",
+    "actions_in_scene": ["Context for Shelly’s travel and workplace setting."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["burnout and alienation", "human judgment vs. algorithmic systems", "competence without purpose", "grief that calcifies into routine"],
+    "motifs_symbols": ["cold espresso", "ambient corporate lighting", "endless docket screens", "jelly treat stuck to the floor"],
+    "moral_questions": ["What is justice when adjudication becomes routine?", "What happens to investigators who cannot feel but must still decide?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "clinical/introspective",
+    "pacing": "slow-burn",
+    "voice_traits": ["procedural detail", "dry cynicism", "quiet melancholy"],
+    "sensory_notes": ["bitter cold espresso", "soft screen tinting to eye strain", "café laughter and a jelly treat thud"]
+    },
+    "causality": {
+    "prior_dependencies": ["Shelly’s prior cases and travel; established use of Stella; earlier investigation into Randy’s case."],
+    "outcomes": ["Appeal 722301-B marked for submission without reversal.", "Failure to Thrive cluster reaffirmed as an unresolved thread.", "Shelly delays scheduling IV exams despite eligibility."],
+    "unanswered_questions": ["What links the thirty-one Failure to Thrive deaths?", "Will Shelly re-engage and pursue the pattern?", "What is the precise nature and scope of SAIR penalties?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["shelly"],
+    "trigger": "Persistent burnout and apathy despite professional success.",
+    "resolution": "Unresolved; she continues performing but feels absent."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["shelly", "stella-ai/sair-program"],
+    "trigger": "Pressure to align with automated determinations and procedural throughput.",
+    "resolution": "Procedural compliance this case; larger tension persists."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "mentioned",
+    "sexual_content": "none",
+    "sensitive_topics": ["death investigation", "depression/burnout", "possible systemic neglect"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": [
+    "Shelly",
+    "Stella",
+    "Failure to Thrive",
+    "Forensic Investigator IV",
+    "Case 722301-B",
+    "SAIR penalty",
+    "Metrofederacy café",
+    "transit capsule stimulant death",
+    "Randy"
+    ],
+    "keywords_dense": "Shelly, Forensic Investigator III, Stella, Metrofederacy, SAIR, appeal case 722301-B, stimulant overdose, transit capsule, burnout, Failure to Thrive, Randy, certification exams, PID, tongue-tap interface, city hops, cold espresso",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Shelly", "Randy"],
+    "places": ["Metrofederacy café"],
+    "orgs": ["Stella", "Forensic Investigator Certification Program", "SAIR"],
+    "terms": ["Failure to Thrive", "Forensic Investigator IV", "PID", "tongue-tap"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What decision does Shelly make about Case 722301-B?", "a": "She marks it ready for submission with no grounds to overturn the SAIR penalty."},
+    {"q": "Why is Shelly dissatisfied with her work?", "a": "Her cases feel routine and joyless, and an unresolved ‘Failure to Thrive’ cluster persists despite her diligence."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-03-28-TR-1",
+    "type": "recap",
+    "text": "In a Metrofederacy café, Forensic Investigator III Shelly reviews appeal Case 722301-B—a stimulant-related transit death—and marks no reversal of the SAIR penalty. Though thorough and aligned with Stella’s standards, she feels numb. She could advance to Forensic Investigator IV with two exams but hasn’t scheduled them. She keeps thinking about thirty-one male deaths, including Randy, all labeled Failure to Thrive. The scene frames her procedural competence against deepening burnout."
+    },
+    {
+    "chunk_id": "2186-03-28-TR-2",
+    "type": "entities_focus",
+    "text": "Shelly (POV investigator); objects/tech: PID, tongue-tap input, adaptive screen tint; cases: Appeal 722301-B; programs/orgs: Stella (automated forensic/governance), SAIR penalty regime, Forensic Investigator Certification Program; places: Metrofederacy café; threads: Failure to Thrive cluster (31 men incl. Randy), career advancement to FI IV + MD (unscheduled)."
+    },
+    {
+    "chunk_id": "2186-03-28-TR-3",
+    "type": "style_theme_focus",
+    "text": "Third-limited, clinical yet melancholic tone; slow-burn pacing; motifs of cold espresso and corporate ambiance. Themes: burnout, human judgment within algorithmic systems, competence without purpose, vanishing empathy. Moral tension: when due process becomes routine, does justice diminish?"
+    }
+    ]
+    }

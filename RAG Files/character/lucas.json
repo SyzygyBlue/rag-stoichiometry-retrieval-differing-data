@@ -1,0 +1,81 @@
+{
+    "doc_type": "neon_titan_character_v1",
+    "source": {"dossier_file": "lucas_dossier.md", "scene_refs": []},
+    "identity": {
+        "id": "lucas",
+        "display_name": "Lucas",
+        "aliases": [],
+        "mbti": "INTJ",
+        "age_bracket": "late-50s",
+        "gender": "male",
+        "origin": "Immigrant to the Metrofederacy (from a free city)"
+    },
+    "affiliations": ["metrofederacy", "family-unit"],
+    "bio": {
+        "one_liner": "Immigrant engineer and systems modeler; husband, father, and strategist balancing grief with puzzle-like problem-solving.",
+        "summary": "Lucas is an immigrant engineer and early Stella adopter who structures life as solvable puzzles. He values discipline, SAIR-driven paths, and family growth. After Randy’s death, he channels grief into protecting Shelly and partnering with her in forensic investigation. Reserved but devoted, Lucas powers the family’s pursuit of truth through strategy, metadata analysis, and careful planning.",
+        "narrative_gravity": 7
+    },
+    "personality": {
+        "traits": ["analytical", "systems-oriented", "reserved", "future-focused", "pragmatic", "introspective"],
+        "flaws": ["grief-avoidance", "emotional-distance", "over-index-on-optimization"],
+        "values": ["family-safety", "progress", "truth-seeking"],
+        "motivations_primary": ["protect-shelly", "solve-puzzles", "stability"],
+        "motivations_secondary": ["mastery", "measured-growth"]
+    },
+    "appearance": {
+        "height_cm": 178,
+        "build": "worn/thin at times",
+        "hair": "brown",
+        "eyes": "brown",
+        "notable_marks": ["paint-stained-fingers"],
+        "style": "casual, work-focused, sometimes marked by projects"
+    },
+    "skills": {
+        "combat": [],
+        "technical": ["engineering", "systems-modeling", "SAIR-planning", "packet-analysis", "metadata-forensics"],
+        "tactics": ["pattern-recognition", "strategic-caution"],
+        "limitations": ["non-combatant", "withdrawal-when-grieving"]
+    },
+    "relationships": [
+        {"with": "michelle", "label": "spouse", "state": "value-clash", "notes": "Loves her but tensions over Stella’s sterility vs efficiency."},
+        {"with": "shelly", "label": "daughter", "state": "mentor-investigator", "notes": "Supports her certifications, partners in analysis."},
+        {"with": "randy", "label": "son-deceased", "state": "pride-and-loss", "notes": "Randy’s death reframes Lucas’s life priorities."}
+    ],
+    "arc": {
+        "status_now": "Alive; co-investigating with Shelly while estranged but caring toward Michelle.",
+        "pre_pivot": "Optimizing family life via Stella integration and SAIR plans.",
+        "pivot_event": "randy-death",
+        "post_pivot": "Protective strategist, truth-seeker alongside Shelly.",
+        "future_vector": "Continue puzzle-solving approach while guarding family from further loss."
+    },
+    "items_and_tech": [],
+    "themes": {
+        "keywords": ["systems", "family", "puzzles", "truth", "loss"],
+        "moral_tensions": ["optimization-vs-emotion", "efficiency-vs-human-connection"]
+    },
+    "text_windows": {
+        "bio_200w": "Lucas is an INTJ engineer and immigrant to the Metrofederacy who thrives on systems, puzzles, and SAIR optimization. He structures family life around planned certifications and routines, encouraging growth and mastery. His grief over his son Randy’s death propels him into forensic work with his daughter Shelly, analyzing encrypted data and recognizing theatrical misdirections. Lucas balances quiet devotion with reserved pragmatism, expressing care through strategy and problem-solving.",
+        "arc_200w": "Lucas begins as an engineer using Stella to optimize family safety and advancement. He is steady, pragmatic, and structured, framing life as puzzles to be solved. After Randy’s death, he pivots to protecting Shelly, mentoring her, and pursuing forensic analysis of dangerous data trails. His role shifts from builder of systems to paternal strategist confronting manipulative foes like Fay. Lucas continues as a quiet but essential force in the family’s arc: neither public-facing nor emotional, but strategic and protective.",
+        "skills_120w": "Lucas is technically skilled in engineering, systems modeling, SAIR planning, encryption awareness, and forensic metadata analysis. He excels at recognizing patterns from sparse signals and reframing them into solvable puzzles. He is non-combatant but tactically cautious, avoiding rash moves and focusing on protective strategy. His limitations stem from grief avoidance and emotional distance, which can read as withdrawal.",
+        "appearance_120w": "Lucas is described as worn or thin during periods of stress, sometimes with paint-stained fingers from hobby projects. His appearance is otherwise not detailed, but he projects a quiet, work-focused presence.",
+        "relationships_180w": "Lucas’s relationships are defined by care expressed through strategy. With Michelle, he experiences tension over Stella’s efficiency versus tangible living, yet he remains loyal. With Shelly, he acts as mentor and partner, encouraging her certifications and analyses while warning her of predatory dynamics. Randy’s death is both his pride and heartbreak, reshaping his motivations toward protection and truth. Together, these ties chart Lucas’s role as steady strategist within the family’s struggle."
+    },
+    "qa_pairs": [
+        {"q": "What is Lucas’s profession?", "a": "He is an engineer and systems modeler who uses Stella integration and SAIR planning."},
+        {"q": "How does Lucas cope with grief?", "a": "He channels grief into puzzles, projects, and mentoring Shelly, sometimes withdrawing emotionally."},
+        {"q": "What is his role in the investigation?", "a": "He partners with Shelly in analyzing data, spotting theatrical manipulations, and framing steps forward."}
+    ],
+    "metadata_for_indexing": {
+        "retrieval_keys": ["Lucas", "engineer", "Metrofederacy immigrant", "Randy", "Shelly", "Michelle"],
+        "keywords_dense": "Lucas, INTJ, Metrofederacy, immigrant, engineer, puzzles, SAIR, Randy, Shelly, Michelle, grief, truth-seeker",
+        "spoiler_level": "book1_end",
+        "named_entities": {
+            "people": ["Lucas", "Michelle", "Shelly", "Randy"],
+            "places": ["Metrofederacy"],
+            "orgs": ["Stella"],
+            "terms": ["SAIR", "CF-67 encryption"]
+        }
+    },
+    "embedding_payloads": []
+}

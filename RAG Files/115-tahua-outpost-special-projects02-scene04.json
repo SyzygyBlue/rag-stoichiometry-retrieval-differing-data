@@ -1,0 +1,131 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Swimming Lessons",
+    "scene_id": "li-mei-lab-tri-d-post-decrypt-debrief",
+    "chapter_number": "Tahua Outpost Special Projects Two",
+    "scene_number": "Scene 4",
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Immediately after riding inside Skree’s POV, Fay debriefs Jejune; Skree has just cracked a multidimensional, holographic encryption in 36 seconds; Fay’s malware is fully deployed."
+    },
+    "text_windows": {
+    "full_scene_clean": "Fay watched Jejune’s face as they exited Skree’s stream. Jejune stayed quiet, then blinked and looked at Fay. “What was that?”\n“Multidimensional, holographic encryption,” Fay said. “Similar to the holographic non-linear array algorithm that secures the holocred network. We watched Skree crack it.”\n“I was swimming in a sea of data,” Jejune said, running her fingers through her hair. “I don’t know how anyone could make sense of that, but it was incredible.”\n“And it only took her thirty-six seconds,” Fay said.\n“It was beautiful,” Jejune said. “I could watch that forever.”\nFay smiled. The malware scripts had finished deploying long ago. “I’m pretty sure you’re right.”\nTick-tock, little fish.",
+    "dense_recap_250w": "After leaving Skree’s inner stream, Fay observes Jejune’s stunned reaction. When Jejune asks what she just experienced, Fay identifies it as a multidimensional, holographic encryption, akin to the holographic non-linear array used to secure the holocred network. The two had just witnessed Skree decrypt it from within her perspective. Jejune describes the experience as immersion in a vast sea of data and admits she could not make sense of it, though she found it thrilling. Fay quantifies Skree’s feat: thirty-six seconds from start to finish. Jejune calls it beautiful and says she could watch it for the rest of her life, signaling how captivating Skree’s cognitive performance is to an outside observer. Internally, Fay confirms to herself that her malware packages—previously delivered during the tri-D session—have fully deployed. With the technical demonstration complete and Jejune entranced by what she saw, Fay’s predatory confidence surfaces again in a silent refrain: “Tick-tock, little fish.” The scene cements two facts for retrieval: the nature of the encryption class Skree can break and the precise speed of her decryption, alongside the status of Fay’s covert compromise of Jejune.",
+    "query_handle": "Fay debriefs Jejune after Skree’s POV: explains holographic encryption; notes 36-second decrypt; malware on Jejune is fully deployed."
+    },
+    "narrative_beats": [
+    { "order": 1, "label": "Exit POV stream", "what_happens": "Fay and Jejune withdraw from Skree’s consciousness; Jejune is speechless.", "involved_entities": ["fay", "jejune", "tri-d-simulation"], "stakes_or_conflict": "Jejune’s interpretation vs Fay’s control." },
+    { "order": 2, "label": "Encryption revealed", "what_happens": "Fay names the class of encryption and links it to holocred security tech.", "involved_entities": ["fay", "jejune", "multidimensional-holographic-encryption", "holographic-non-linear-array", "holocred-network"], "stakes_or_conflict": "Technical awe vs understanding." },
+    { "order": 3, "label": "Performance metric", "what_happens": "Fay states Skree decrypted it in thirty-six seconds.", "involved_entities": ["fay", "jejune", "skree"], "stakes_or_conflict": "Establishing capability benchmark." },
+    { "order": 4, "label": "Hook set", "what_happens": "Jejune admits she could watch it forever; Fay notes her malware is fully deployed.", "involved_entities": ["fay", "jejune", "malware-scripts"], "stakes_or_conflict": "Jejune’s enthrallment vs Fay’s manipulation." }
+    ],
+    "characters": [
+    {
+    "id": "fay",
+    "display_name": "Fay",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Confirm Jejune’s fascination and the completion of malware deployment.",
+    "obstacles": "Maintaining a calm, instructive facade while concealing manipulation.",
+    "tactics": "Provides crisp technical framing; reveals speed metric; internal predatory aside.",
+    "relationships": [
+    {"with": "jejune", "type": "manipulator/mark", "state": "controlled, predatory", "evidence": "“Tick-tock, little fish.”"},
+    {"with": "skree", "type": "creator-analyst", "state": "proud, instrumental", "evidence": "Highlights 36-second decrypt as proof of design."}
+    ],
+    "emotional_arc": { "start": "watchful, calculating", "turning_points": ["names encryption class", "confirms 36s metric"], "end": "satisfied, predatory calm" },
+    "notable_actions": ["explains encryption family", "states 36-second decrypt", "confirms malware completion"],
+    "quotable_lines": ["“Multidimensional, holographic encryption.”", "“It only took her thirty-six seconds.”", "“Tick-tock, little fish.”"]
+    },
+    {
+    "id": "jejune",
+    "display_name": "Jejune",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Understand what she witnessed inside Skree’s mind.",
+    "obstacles": "Overwhelmed by data immersion; limited technical comprehension at that depth.",
+    "tactics": "Asks direct questions; describes subjective experience.",
+    "relationships": [
+    {"with": "fay", "type": "subordinate/learner", "state": "entranced, trusting", "evidence": "“I could live the rest of my life and never get tired of seeing that.”"},
+    {"with": "skree", "type": "observer", "state": "awed", "evidence": "“I was swimming in a sea of data.”"}
+    ],
+    "emotional_arc": { "start": "stunned, curious", "turning_points": ["hears encryption explanation", "learns 36-second speed"], "end": "enchanted, credulous" },
+    "notable_actions": ["questions Fay", "articulates data-sea sensation"],
+    "quotable_lines": ["“What was that?”", "“I was swimming in a sea of data.”", "“It was beautiful.”"]
+    },
+    {
+    "id": "skree",
+    "display_name": "Skree",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": null,
+    "obstacles": null,
+    "tactics": null,
+    "relationships": [
+    {"with": "fay", "type": "creation", "state": "showcased capability", "evidence": "Her 36-second decrypt is presented by Fay."}
+    ],
+    "emotional_arc": { "start": null, "turning_points": [], "end": null },
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    { "id": "tri-d-simulation", "name": "Full-immersion tri-D (passenger view)", "category": "other", "capabilities": ["share POV stream", "observation-mode"], "owner_or_users": ["fay", "jejune"], "condition_or_state": "active", "scene_function": "Medium through which Jejune observed Skree’s decrypt process." },
+    { "id": "multidimensional-holographic-encryption", "name": "Multidimensional, holographic encryption", "category": "other", "capabilities": ["high-entropy, spatially encoded cryptography"], "owner_or_users": [], "condition_or_state": "targeted", "scene_function": "Cipher class Skree decrypted in 36 seconds." },
+    { "id": "holographic-non-linear-array", "name": "Holographic non-linear array algorithm", "category": "other", "capabilities": ["holocred network security basis"], "owner_or_users": [], "condition_or_state": "referenced", "scene_function": "Comparison point for the cracked cipher." },
+    { "id": "holocred-network", "name": "Holocred network", "category": "other", "capabilities": ["value/credit security"], "owner_or_users": [], "condition_or_state": "referenced", "scene_function": "Used as an analogy to frame the encryption family." },
+    { "id": "malware-scripts", "name": "Behavioral malware scripts", "category": "tool", "capabilities": ["covert deployment", "post-observation influence"], "owner_or_users": ["fay"], "condition_or_state": "deployed", "scene_function": "Quietly finish installing on/around Jejune during/after the session." }
+    ],
+    "locations": [
+    { "id": "tri-d-observation-space", "name": "Tri-D observation space (virtual)", "type": "other", "descriptors": ["post-session lull", "clinical debrief vibe"], "in_scene_events": ["Fay explains encryption; Jejune reacts; malware status confirmed."] }
+    ],
+    "factions_orgs": [],
+    "themes_and_motifs": {
+    "themes": ["seduction via awe", "power through knowledge asymmetry", "surveillance and manipulation", "human limits vs engineered cognition"],
+    "motifs_symbols": ["sea of data", "viper-and-mouse smile", "ticking clock refrain"],
+    "moral_questions": ["Is it ethical to enthrall someone with engineered displays to manipulate them?", "Do ends justify covert malware against a watchdog?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "technical-cinematic",
+    "pacing": "brisk",
+    "voice_traits": ["precise metrics", "predatory undertone", "clean exposition"],
+    "sensory_notes": ["visual afterglow of data immersion", "quiet room tension"]
+    },
+    "causality": {
+    "prior_dependencies": ["Fay and Jejune previously observed Skree’s POV; behavioral malware was being deployed.", "Skree possesses extreme decryption capability."],
+    "outcomes": ["Jejune becomes enamored with Skree’s decrypt; Fay’s malware is confirmed fully deployed.", "A performance benchmark (36 seconds) is established for retrieval."],
+    "unanswered_questions": ["What was the decrypted content?", "How and when will the malware influence Jejune?", "Will Jejune’s awe override her caution long-term?"]
+    },
+    "conflicts": [
+    { "type": "person_vs_person", "parties": ["fay", "jejune"], "trigger": "Fay exploits Jejune’s awe to secure influence.", "resolution": "Unresolved; Jejune remains fascinated while malware is active." },
+    { "type": "person_vs_system", "parties": ["skree", "multidimensional-holographic-encryption"], "trigger": "Encountering a holocred-adjacent cipher class.", "resolution": "Resolved offscreen; cracked in 36 seconds." }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["covert surveillance", "non-consensual manipulation (malware)"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["fay", "jejune", "skree", "multidimensional holographic encryption", "holographic non-linear array", "holocred network", "36-second decrypt", "tri-D passenger view", "malware fully deployed"],
+    "keywords_dense": "Fay, Jejune, Skree, tri-D observation, multidimensional holographic encryption, holographic non-linear array, holocred network, 36 seconds, malware deployment, sea of data",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Fay", "Jejune", "Skree"],
+    "places": [],
+    "orgs": [],
+    "terms": ["multidimensional holographic encryption", "holographic non-linear array", "holocreds", "tri-D", "malware scripts"]
+    }
+    },
+    "qa_pairs": [
+    { "q": "How long did Skree take to decrypt the holographic encryption?", "a": "Thirty-six seconds." },
+    { "q": "What encryption family does Fay compare it to?", "a": "The holographic non-linear array used to secure the holocred network." }
+    ],
+    "embedding_payloads": [
+    { "chunk_id": "li-mei-lab-tri-d-post-decrypt-debrief-1", "type": "recap", "text": "Fay and Jejune exit Skree’s mind. When Jejune asks what she witnessed, Fay explains it was a multidimensional, holographic encryption, akin to the holocred network’s holographic non-linear array, and that Skree cracked it in 36 seconds. Jejune is entranced, calling the experience beautiful. Internally, Fay notes her malware packages finished deploying, confirming Jejune is now fully compromised while her awe remains high." },
+    { "chunk_id": "li-mei-lab-tri-d-post-decrypt-debrief-2", "type": "entities_focus", "text": "Actors: Fay (predatory architect), Jejune (entranced observer/mark), Skree (offstage performer). Tech: tri-D passenger view, multidimensional holographic encryption, holographic non-linear array, holocred network, behavioral malware scripts. Key datapoint: 36-second decrypt. Setting: virtual debrief zone post-POV session." },
+    { "chunk_id": "li-mei-lab-tri-d-post-decrypt-debrief-3", "type": "style_theme_focus", "text": "Brisk, technical-cinematic dialogue framed by predatory subtext. Themes of power via knowledge asymmetry and manipulation through awe; motifs include the ‘sea of data,’ viper-smile predator, and ticking-clock refrain. The scene crystallizes Skree’s staggering capability and the quiet completion of Fay’s covert control." }
+    ]
+    }

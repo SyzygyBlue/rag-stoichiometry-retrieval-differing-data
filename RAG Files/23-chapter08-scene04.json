@@ -1,0 +1,259 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "sale-day-measurements-missing-tools-alarm",
+    "chapter_number": 8,
+    "scene_number": 4,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Morning of a sale day just before the caravan’s southeast run; camp busy when horn alarm sounds."
+    },
+    "text_windows": {
+    "full_scene_clean": "Quincy woke alone, surprisingly rested. After a quick breakfast, she headed to the tool truck. Margarite intercepted her with a cloth tape, saying Mama Valorie had sent her to take measurements. Quincy raised her arms while Margarite measured shoulders, waist, hips, and chest, jotting numbers on a slate. Margarite suggested darts to show off Quincy's figure; Quincy agreed only if it improved comfort, not attention. Margarite confided some women were proud of Quincy and promised the best-looking coveralls; Quincy asked for something standard. After Margarite left, Quincy processed the offer with skepticism. At the tool truck, she climbed the ramp, opened her wall cabinet—and found it empty. Her toolbox was gone. As she turned to leave, a horn blared. A shriek cut through camp. The caravan froze. Quincy’s blood went cold as she feared an attack with her tools missing.",
+    "dense_recap_250w": "Quincy starts a sale-day morning rested and ready to work, only to be stopped by Margarite, a camp seamstress sent by Mama Valorie to take measurements for new coveralls. The exchange blends encouragement and image politics: Margarite proposes darts to flatter Quincy's physique and admits that some women are proud of Quincy for doing a man’s job, while Quincy prefers not to stand out beyond practical comfort. The gesture feels generous, but Quincy internally flags it as precarious—easy to give, easy to take away. She then proceeds to the tool truck to retrieve her gear; the wall cabinet where she stores her equipment is empty. Her toolbox has been moved or stolen, triggering alarm and confusion. Before she can act, the camp horn blasts and a scream follows, freezing the caravan. The scene ends on a cliff: Quincy, suddenly without tools, confronts the possibility of an imminent attack, amplifying her vulnerability and distrust just as leadership appears to extend a symbolic olive branch via new coveralls.",
+    "query_handle": "Margarite measures Quincy for new coveralls; Quincy’s toolbox is missing; camp horn and scream signal a potential attack."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Morning setup",
+    "what_happens": "Quincy wakes, eats, and heads toward the tool truck to start work.",
+    "involved_entities": ["quincy", "tool-truck"],
+    "stakes_or_conflict": "Routine returning after turmoil; readiness to work."
+    },
+    {
+    "order": 2,
+    "label": "Measurements for coveralls",
+    "what_happens": "Margarite, sent by Mama Valorie, measures Quincy and proposes darts; offers solidarity and pride.",
+    "involved_entities": ["quincy", "margarite", "mama-valorie"],
+    "stakes_or_conflict": "Gender expectations vs practicality; trust in leadership’s motives."
+    },
+    {
+    "order": 3,
+    "label": "Skeptical acceptance",
+    "what_happens": "Quincy agrees to darts for comfort but asks not to stand out, inwardly wary of favors.",
+    "involved_entities": ["quincy"],
+    "stakes_or_conflict": "Visibility vs safety; tokenization risk."
+    },
+    {
+    "order": 4,
+    "label": "Toolbox missing",
+    "what_happens": "At the tool truck cabinet, Quincy finds her gear gone.",
+    "involved_entities": ["quincy", "toolbox", "tool-truck"],
+    "stakes_or_conflict": "Loss of tools jeopardizes her role and safety."
+    },
+    {
+    "order": 5,
+    "label": "Alarm and freeze",
+    "what_happens": "Horn blares and a scream halts the caravan; Quincy fears an attack.",
+    "involved_entities": ["quincy", "camp-horn", "three-shovels-caravan"],
+    "stakes_or_conflict": "Imminent external threat compounded by missing tools."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Retrieve tools and start mechanical work; keep a low profile.",
+    "obstacles": "Leadership optics around gender roles; toolbox disappearance; potential attack.",
+    "tactics": "Polite compliance with measurements; insistence on practicality; immediate audit of gear.",
+    "relationships": [
+    {"with": "margarite", "type": "ally", "state": "warm-supportive", "evidence": "Margarite: “some of us are really proud of you.”"},
+    {"with": "mama-valorie", "type": "authority-figure", "state": "uneasy-detente", "evidence": "Coveralls order feels generous but precarious to Quincy."}
+    ],
+    "emotional_arc": {
+    "start": "rested, cautiously optimistic",
+    "turning_points": ["Public praise and darts suggestion raise visibility concerns", "Discovery of missing toolbox", "Horn and scream trigger threat response"],
+    "end": "alarmed, distrust rekindled"
+    },
+    "notable_actions": ["submits to measurements", "requests low-visibility design", "opens cabinet and discovers missing toolbox", "assesses horn as potential attack"],
+    "quotable_lines": [
+    "If it's easy to give, it's easy to take away.",
+    "Fuck, who moved my toolbox?"
+    ]
+    },
+    {
+    "id": "margarite",
+    "display_name": "Margarite",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Measure Quincy for coveralls per Mama Valorie’s request.",
+    "obstacles": "Balancing practicality with her desire to showcase Quincy.",
+    "tactics": "Cheerful encouragement, proposes darts, signals quiet solidarity.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "supportive", "evidence": "“It’s kinda inspiring… I’m going to make you the best-looking pair of coveralls.”"},
+    {"with": "mama-valorie", "type": "subordinate", "state": "tasked", "evidence": "“Mama Valorie sent me to get your measurements.”"}
+    ],
+    "emotional_arc": {
+    "start": "bright, encouraging",
+    "turning_points": ["Confides pride among women"],
+    "end": "satisfied; task complete"
+    },
+    "notable_actions": ["takes measurements", "suggests darts", "notes women’s pride"],
+    "quotable_lines": [
+    "Darts it is!",
+    "Some of us are really proud of you."
+    ]
+    },
+    {
+    "id": "mama-valorie",
+    "display_name": "Mama Valorie",
+    "aliases": ["Valorie"],
+    "role_in_scene": "cameo",
+    "goals_now": "Provide Quincy with new coveralls (stated via proxy).",
+    "obstacles": "",
+    "tactics": "Indirect signaling through Margarite.",
+    "relationships": [
+    {"with": "quincy", "type": "authority-figure", "state": "strategic-detente", "evidence": "Initiates coveralls via assistant rather than confronting directly."}
+    ],
+    "emotional_arc": {"start": "opaque", "turning_points": [], "end": "opaque"},
+    "notable_actions": ["orders measurements for coveralls"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "tool-truck",
+    "name": "Tool truck semi trailer",
+    "category": "vehicle",
+    "capabilities": ["mobile tool storage", "work access via ramp"],
+    "owner_or_users": ["quincy", "three-shovels-caravan"],
+    "condition_or_state": "intact",
+    "scene_function": "Setting for discovery that Quincy’s cabinet is empty."
+    },
+    {
+    "id": "quincy-toolbox",
+    "name": "Quincy’s toolbox",
+    "category": "tool",
+    "capabilities": ["stores mechanical tools and parts"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "missing",
+    "scene_function": "Its disappearance spikes stakes just before the alarm."
+    },
+    {
+    "id": "camp-horn",
+    "name": "Caravan horn alarm",
+    "category": "comms",
+    "capabilities": ["audible alert for emergencies/attacks"],
+    "owner_or_users": ["three-shovels-caravan"],
+    "condition_or_state": "active",
+    "scene_function": "Signals a sudden threat; freezes the camp."
+    },
+    {
+    "id": "coveralls-custom",
+    "name": "Custom mechanic coveralls (planned)",
+    "category": "other",
+    "capabilities": ["protective clothing", "with darts for fit (proposed)"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "commissioned",
+    "scene_function": "Symbol of recognition and potential control over Quincy’s image."
+    }
+    ],
+    "locations": [
+    {
+    "id": "three-shovels-encampment",
+    "name": "Three Shovels Caravan encampment",
+    "type": "caravan",
+    "descriptors": ["bustling sale day", "tense", "crowded"],
+    "in_scene_events": ["Horn alarm blares; caravan freezes."]
+    },
+    {
+    "id": "tool-truck-interior",
+    "name": "Tool truck interior",
+    "type": "structure",
+    "descriptors": ["semi trailer", "ramp access", "wall cabinets"],
+    "in_scene_events": ["Quincy opens her cabinet and finds it empty."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": ["mama-valorie", "margarite", "quincy"],
+    "motives_inferred": "Maintain operations, image, and safety during sale day and impending travel.",
+    "actions_in_scene": ["Orders new coveralls for Quincy", "Sounds horn alarm in response to a threat/scream"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Gender roles vs competence", "Recognition vs control", "Trust and vulnerability", "Preparedness under threat"],
+    "motifs_symbols": ["measuring tape and darts", "empty cabinet", "blaring horn"],
+    "moral_questions": ["Is public recognition a gift or a leash?", "What protects a worker’s agency when power shifts abruptly?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/technical with intimate interiority",
+    "pacing": "from measured to sudden-jolt",
+    "voice_traits": ["dry pragmatism", "mechanical detail", "suspicion undercutting relief"],
+    "sensory_notes": ["cloth tape against skin", "hollow cabinet latch", "camp horn blare", "collective gasp/scream"]
+    },
+    "causality": {
+    "prior_dependencies": ["Ongoing tension and recent detente with Mama Valorie", "Sale day preparations; Quincy’s reliance on her toolbox"],
+    "outcomes": ["Coveralls are commissioned, signaling shifting optics around Quincy", "Quincy is temporarily disarmed without her tools", "Alarm sets immediate external stakes"],
+    "unanswered_questions": ["Who moved or stole the toolbox, and why?", "Is the horn signaling an actual attack?", "Are the coveralls a sincere gift or political leverage?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy", "caravan leadership norms"],
+    "trigger": "Public tailoring choices and image expectations for a woman mechanic",
+    "resolution": "Unresolved; Quincy requests minimal visibility."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "unknown actor who moved/stole tools"],
+    "trigger": "Empty cabinet discovery",
+    "resolution": "Unresolved; thief/culprit unknown."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["caravan community"],
+    "trigger": "Horn alarm and scream",
+    "resolution": "Unresolved; threat not yet identified."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["theft/sabotage", "gendered expectations", "sudden emergency alarm"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Margarite", "coveralls measurements", "missing toolbox", "camp horn alarm", "tool truck", "sale day"],
+    "keywords_dense": "Quincy, Margarite, Mama Valorie, coveralls, darts, measurements, tool truck, toolbox missing, sale day, horn alarm, caravan freeze, Three Shovels",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Margarite", "Mama Valorie"],
+    "places": [],
+    "orgs": ["Three Shovels Caravan"],
+    "terms": ["tool truck", "coveralls", "darts", "sale day", "horn alarm"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Who measures Quincy and why?", "a": "Margarite measures her because Mama Valorie sent her to size Quincy for new coveralls."},
+    {"q": "What does Quincy find when she opens her cabinet in the tool truck?", "a": "Her cabinet is empty; her toolbox is missing."},
+    {"q": "What happens immediately after Quincy discovers her tools are gone?", "a": "The camp horn blares and a scream ripples through the caravan, freezing everyone."},
+    {"q": "How does Quincy feel about receiving tailored coveralls with darts?", "a": "She agrees for comfort but is wary of standing out and distrusts easy favors."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "sale-day-measurements-1-recap",
+    "type": "recap",
+    "text": "On a busy sale-day morning, Margarite—on Mama Valorie’s orders—measures Quincy for new coveralls, proposing darts to fit her physique and voicing quiet pride from some women. Quincy accepts only for comfort, wary of visibility and control. At the tool truck, she discovers her cabinet empty and her toolbox missing. A horn then blares and a scream cracks the camp; the caravan freezes as Quincy, suddenly without tools, braces for a possible attack."
+    },
+    {
+    "chunk_id": "sale-day-measurements-2-entities",
+    "type": "entities_focus",
+    "text": "Key entities: Quincy (mechanic; cautious, practical), Margarite (seamstress; supportive, emissary of Mama Valorie), Mama Valorie (authority; indirect gesture). Objects/tech: tool truck (mobile storage), Quincy’s toolbox (missing), planned custom coveralls with darts, camp horn alarm. Places: Three Shovels encampment, tool truck interior. Dynamics: recognition vs control; theft/sabotage risk; imminent external threat."
+    },
+    {
+    "chunk_id": "sale-day-measurements-3-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-person limited past with gritty, technical, and intimate interiority. Themes of gender roles versus competence, recognition as potential leverage, trust under scarcity, and preparedness under sudden threat. Motifs include the measuring tape and darts (visibility), the empty cabinet (vulnerability), and the horn (communal alarm). Pacing shifts from measured morning routine to abrupt crisis."
+    }
+    ]
+    }

@@ -1,0 +1,307 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Retrospectives",
+    "scene_id": "retrospectives-2186-12-04-quincy-triage-stop",
+    "chapter_number": 46,
+    "scene_number": 4,
+    "date_in_universe": "2186-12-04",
+    "absolute_timeline_notes": "In-transit after the Calum-Tam escape and Fox River’s destruction; roadside stop to treat Chase; date inferred from adjacent scenes."
+    },
+    "text_windows": {
+    "full_scene_clean": "Quincy\nThey had been driving for an hour without seeing a soul. They had agreed to stop, to see to Chase's wounds. Lesha had sworn she was no medic, but in the end, she had more experience than anyone else. And so now Quincy was leaning against the TEG-6, watching Lesha wrap a bandage around Chase's straightened arm. At least it didn't have a bone sticking out.\nFox River hadn't messed around when they loaded this vehicle. Med supplies, arms, ammunition, combat engineering (Quincy just called it shit that blew up), even one of his favorite rifles. They had stuffed everything in the back. Lesha injected Chase with antibiotics and painkillers before straightening the bone. Might as well have left the painkillers out. Chase just screamed until he passed out.\nWhen Lesha finished her treatment, Quincy asked for the meds. Lesha pulled the painkiller from her pocket. Quincy smiled politely as she put the vials back in the medkit. She didn't miss how Lesha watched her. Please don't be a problem. You're amazing, Lesha. Let's get you to Broken Bow and find you some help. But what treatment was there for Sykotiq addiction? Tie a motherfucker to a tree?\nQuincy did not see anybody tying Lesha to a tree. She had walked into 9mm SMG fire and snatched the gun out of Gavin's hand like she was taking a bag of sweets from a child.\nShe was worried about Demmy. He hadn't said a word. She needed to talk to him, but what to say? Poor guy had finally found a home. He wore that pendant, so she suspected religion. And she thought he'd found a girl. Now, nothing... again. She wasn't a source of comfort. Lesha? Even worse. Chase would be best, but he was in no shape to help anyone. She wanted him to know it would be alright. But would anything really be alright? And who was The Blacklight Syndicate Gavin and Lesha mentioned? She needed to get ahead of that and find out what they were all about before they were being bit in the ass again.\nThen Quincy sighed and thought about Chase. Her opinion of him had almost done a 180 since their abduction. And while it was shitty to admit, now that his mom was dead, she might start trusting him a little more. It surprised her when she thought of him as a friend back when she was knocking a hole in the cell wall, but she realized it was true. She just hoped he could get past all this tragedy. She already knew she planned to stick with him... help him through it. That was the way caravanners worked. She smiled when she realized that that was exactly what he had been doing for her this whole time. We'll get you through this, Sparkles. Then, we're going to find the sons of bitches that took our families from us.\nA chill went up Quincy's back, and she realized she had just made another promise, probably just as unwise as the one she had made Demmy. She realized that had only been a few weeks ago. But she meant this one just like she meant Demmy's. It did not matter that she had not said it out loud. It mattered to her.\nLesha was waving her over to the cot where Chase lay in the sun. His chest rose and fell steadily. Lesha was wrapping tape around his arm. \"Let's get him in the backseat,\" Lesha said as she tore the tape off and tossed the remainder of the roll in the medkit. Quincy nodded and they carried him and placed him as carefully as they could. They placed him in the vehicle. His forearm was still wobbly at the break, but at least it wasn't bent at odd angles or oozing blood.\n\"How is he?\" Quincy asked.\n\"He won't die... for now\" Lesha said, \"But there's still dirt and debris inside his arm, and antibiotics can only do so much. By the time we get there, he may need a cybermancer more than a doctor.\"\n\"Nothing we can do about it right now. We need to be rolling,\" she said and climbed into the driver's seat. When everyone was in, the TEG-6 accelerated, making its way to Broken Bow Free City.",
+    "dense_recap_250w": "After an hour’s drive without encountering anyone, Quincy calls a roadside stop so Lesha can perform field triage on the gravely injured Chase. Using the well-stocked TEG-6 medkit, Lesha injects antibiotics and painkillers, straightens Chase’s fractured forearm, and bandages and tapes it; he screams through the reduction and then passes out. Concerned about Lesha’s Sykotiq addiction and recent behavior, Quincy politely but firmly takes possession of the remaining painkiller vials and returns them to the medkit. While watching over the procedure, Quincy reflects on Demmy’s stunned silence after Fox River’s destruction, suspects his faith and a lost relationship are involved, and worries about the ominous Blacklight Syndicate mentioned earlier. Her view of Chase has shifted since their abduction—she now regards him as a friend and quietly vows to help him heal and pursue those responsible for their families’ deaths. Lesha warns that dirt and debris remain in the wound and that Chase may ultimately need a cybermancer. Quincy and Lesha load Chase into the back seat, and Quincy gets them moving again in the TEG-6 toward Broken Bow Free City for medical help.",
+    "query_handle": "Roadside triage: Lesha sets Chase’s arm; Quincy secures meds, vows to help; head to Broken Bow in TEG-6."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Roadside stop for triage",
+    "what_happens": "After an hour’s drive, they halt so Lesha can treat Chase using the TEG-6 medkit.",
+    "involved_entities": ["quincy", "lesha", "chase", "teg-6", "medkit"],
+    "stakes_or_conflict": "Stabilize Chase now or risk worsening infection and shock."
+    },
+    {
+    "order": 2,
+    "label": "Fracture reduction",
+    "what_happens": "Lesha injects antibiotics and painkillers, straightens Chase’s arm, then tapes and bands it.",
+    "involved_entities": ["lesha", "chase", "antibiotics-vials", "painkiller-vials", "medkit"],
+    "stakes_or_conflict": "Severe pain and contamination vs. necessary care."
+    },
+    {
+    "order": 3,
+    "label": "Medication control",
+    "what_happens": "Quincy takes custody of the painkiller vials, mindful of Lesha’s Sykotiq dependency.",
+    "involved_entities": ["quincy", "lesha", "painkiller-vials", "medkit"],
+    "stakes_or_conflict": "Trust and safety vs. risk of relapse/misuse."
+    },
+    {
+    "order": 4,
+    "label": "Vows and worries",
+    "what_happens": "Quincy reassesses Chase as a friend, worries about Demmy, and resolves to seek justice; Blacklight Syndicate lingers as a threat.",
+    "involved_entities": ["quincy", "chase", "demmy", "blacklight-syndicate"],
+    "stakes_or_conflict": "Grief and uncertainty vs. emerging purpose."
+    },
+    {
+    "order": 5,
+    "label": "Roll for Broken Bow",
+    "what_happens": "They load Chase into the TEG-6; Lesha warns he may need a cybermancer; they depart toward Broken Bow Free City.",
+    "involved_entities": ["quincy", "lesha", "chase", "teg-6", "broken-bow-free-city"],
+    "stakes_or_conflict": "Time-critical medical care vs. distance and unknown threats."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Stabilize Chase and reach Broken Bow while managing group risks (Lesha’s addiction, Demmy’s shock).",
+    "obstacles": "Limited medical capacity in the field; potential drug misuse; looming external threats; emotional fatigue.",
+    "tactics": "Delegates triage to Lesha; secures medications; plans route; forms internal vows of support and revenge.",
+    "relationships": [
+    {"with": "chase", "type": "ally/friend", "state": "warming/committed", "evidence": "“We’ll get you through this, Sparkles… going to find the sons of bitches…”"},
+    {"with": "lesha", "type": "ally (fraught)", "state": "cautious trust", "evidence": "Quincy reclaims painkiller vials; worries about Sykotiq addiction."},
+    {"with": "demmy", "type": "ally", "state": "concerned", "evidence": "Notes his silence and presumed grief/faith crisis."}
+    ],
+    "emotional_arc": {
+    "start": "tense, pragmatic, protective",
+    "turning_points": ["Takes control of meds despite awkwardness", "Privately vows to help Chase and pursue justice"],
+    "end": "focused resolve, guarded hope"
+    },
+    "notable_actions": ["orders stop for triage", "takes custody of painkiller vials", "loads Chase into vehicle", "drives toward Broken Bow"],
+    "quotable_lines": [
+    "We’ll get you through this, Sparkles.",
+    "Then, we’re going to find the sons of bitches that took our families from us."
+    ]
+    },
+    {
+    "id": "lesha",
+    "display_name": "Lesha",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Provide immediate care to keep Chase alive; manage her own withdrawal.",
+    "obstacles": "Sykotiq addiction; limited sterile environment; time pressure.",
+    "tactics": "Administers antibiotics and painkillers; performs reduction; tapes and bandages; transparent prognosis.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "professional but wary", "evidence": "Lesha hands over painkiller; Quincy returns vials to medkit."},
+    {"with": "chase", "type": "protector/medic", "state": "concerned", "evidence": "Warns he may need a cybermancer."}
+    ],
+    "emotional_arc": {
+    "start": "controlled, task-focused",
+    "turning_points": ["Cedes meds to Quincy"],
+    "end": "pragmatic resolve"
+    },
+    "notable_actions": ["injects antibiotics and painkillers", "reduces fracture", "bandages and tapes arm", "advises on cybermancer need"],
+    "quotable_lines": [
+    "He won’t die… for now.",
+    "By the time we get there, he may need a cybermancer more than a doctor."
+    ]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": ["Sparkles"],
+    "role_in_scene": "supporting",
+    "goals_now": "Survive transport; endure treatment.",
+    "obstacles": "Severe pain, contamination in wound, possible infection.",
+    "tactics": "Endures reduction; rests after passing out.",
+    "relationships": [
+    {"with": "quincy", "type": "ally/friend", "state": "strengthening", "evidence": "Quincy’s internal commitment to help him heal."}
+    ],
+    "emotional_arc": {
+    "start": "semi-conscious, suffering",
+    "turning_points": ["Arm reduced and stabilized"],
+    "end": "stabilized but fragile"
+    },
+    "notable_actions": ["endures fracture reduction", "is reloaded into TEG-6"]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Process loss; support team silently.",
+    "obstacles": "Grief over Fox River and implied personal losses.",
+    "tactics": "Withdrawn silence; rides along.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "mutual concern", "evidence": "Quincy worries about his silence and faith."}
+    ],
+    "emotional_arc": {
+    "start": "mute grief",
+    "turning_points": [],
+    "end": "unresolved sorrow"
+    },
+    "notable_actions": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "teg-6",
+    "name": "TEG-6 six-seater",
+    "category": "vehicle",
+    "capabilities": ["off-road transport", "cargo capacity", "nav computer"],
+    "owner_or_users": ["quincy", "demmy", "lesha", "chase"],
+    "condition_or_state": "intact",
+    "scene_function": "Mobile clinic and escape vehicle; transports group toward Broken Bow."
+    },
+    {
+    "id": "medkit",
+    "name": "Field medical kit",
+    "category": "medical",
+    "capabilities": ["antibiotics and analgesics storage", "bandages and tape", "basic trauma care"],
+    "owner_or_users": ["lesha", "quincy"],
+    "condition_or_state": "intact",
+    "scene_function": "Enables fracture reduction and infection mitigation."
+    },
+    {
+    "id": "antibiotics-vials",
+    "name": "Antibiotic vials",
+    "category": "medical",
+    "capabilities": ["combat infection prophylaxis"],
+    "owner_or_users": ["lesha", "chase"],
+    "condition_or_state": "intact",
+    "scene_function": "Administered before reduction to reduce infection risk."
+    },
+    {
+    "id": "painkiller-vials",
+    "name": "Painkiller vials",
+    "category": "medical",
+    "capabilities": ["analgesia for traumatic procedures"],
+    "owner_or_users": ["lesha", "quincy", "chase"],
+    "condition_or_state": "intact",
+    "scene_function": "Used for reduction; later secured by Quincy due to addiction concerns."
+    },
+    {
+    "id": "chase-favorite-rifle",
+    "name": "Chase’s favorite rifle (in loadout)",
+    "category": "weapon",
+    "capabilities": ["mid-range engagement"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "intact",
+    "scene_function": "Mentioned among Fox River-provided gear, signaling preparedness."
+    }
+    ],
+    "locations": [
+    {
+    "id": "wildlands-roadside-stop",
+    "name": "Roadside stop in the wildlands",
+    "type": "wilderness",
+    "descriptors": ["isolated", "sunlit", "dusty"],
+    "in_scene_events": ["Chase’s arm is reduced and bandaged; group reloads and departs."]
+    },
+    {
+    "id": "broken-bow-free-city",
+    "name": "Broken Bow Free City",
+    "type": "city",
+    "descriptors": ["destination", "presumed medical services"],
+    "in_scene_events": ["Set as navigation target for urgent care (off-screen)."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "blacklight-syndicate",
+    "name": "Blacklight Syndicate",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "High-end mercenary/contract outfit implicated earlier; perceived looming threat.",
+    "actions_in_scene": ["Mentioned by Quincy as a priority to research."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["survival and triage", "trust and accountability", "addiction management", "found family loyalty", "vengeance vs justice"],
+    "motifs_symbols": ["medkit as lifeline", "secured vials as boundary-setting", "road-as-journey to refuge"],
+    "moral_questions": ["How do you safeguard a group when a rescuer is also an addict?", "When does vengeance become duty after communal loss?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/pragmatic",
+    "pacing": "measured respite",
+    "voice_traits": ["sardonic asides", "logistical detail", "quiet vows"],
+    "sensory_notes": ["screamed until he passed out", "sun on a makeshift cot", "feel of bandage tape", "vehicle acceleration"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Escape from Calum-Tam; Lesha previously obtained vials; Fox River destroyed; group traveling in TEG-6 toward Broken Bow."
+    ],
+    "outcomes": [
+    "Chase stabilized short-term but flagged for cybermancer-level care.",
+    "Quincy assumes control of controlled substances due to Lesha’s addiction.",
+    "Quincy commits to supporting Chase and seeking those responsible.",
+    "Course set to Broken Bow Free City."
+    ],
+    "unanswered_questions": [
+    "Will Lesha relapse or accept help at Broken Bow?",
+    "Can Chase avoid infection without immediate surgical care?",
+    "What is the true nature and reach of the Blacklight Syndicate?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_body",
+    "parties": ["chase"],
+    "trigger": "Fracture reduction and contaminated wound.",
+    "resolution": "Temporarily stabilized; risk remains."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "lesha"],
+    "trigger": "Control of painkiller vials amid Sykotiq addiction.",
+    "resolution": "Quincy secures meds; tension unresolved."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["group", "looming external threats (Blacklight/aftermath)"],
+    "trigger": "Need for safe haven and advanced care.",
+    "resolution": "Head toward Broken Bow; uncertainty persists."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Making new promises and leading under strain.",
+    "resolution": "Chooses commitment and forward motion."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mild",
+    "addiction_or_substances": "present",
+    "sexual_content": "none",
+    "sensitive_topics": ["addiction/withdrawal", "post-disaster trauma", "painful medical procedure"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy roadside triage", "Lesha addiction Sykotiq", "Chase fracture reduction", "TEG-6 loadout", "Broken Bow destination", "Blacklight Syndicate mention"],
+    "keywords_dense": "Quincy, Lesha, Chase, Demmy, TEG-6, medkit, antibiotics, painkillers, fracture reduction, bandage, cybermancer, Sykotiq addiction, Broken Bow Free City, Blacklight Syndicate, vow for justice",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Lesha", "Chase", "Demmy"],
+    "places": ["Broken Bow Free City"],
+    "orgs": ["Blacklight Syndicate"],
+    "terms": ["TEG-6", "Sykotiq", "cybermancer"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What medical steps does Lesha perform on Chase at the roadside stop?", "a": "She injects antibiotics and painkillers, straightens (reduces) his fractured forearm, then bandages and tapes it."},
+    {"q": "Why does Quincy take possession of the painkiller vials?", "a": "To manage risk due to Lesha’s Sykotiq addiction and ensure medication control."},
+    {"q": "Where are they heading for further treatment?", "a": "Broken Bow Free City."},
+    {"q": "Why might Chase need a cybermancer instead of a standard doctor?", "a": "His wound still contains dirt and debris; advanced augmentation or specialized care may be required."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "retrospectives-quincy-triage-1",
+    "type": "recap",
+    "text": "Quincy orders a roadside stop after an hour of driving so Lesha can treat Chase’s shattered forearm using the TEG-6’s medkit. Lesha administers antibiotics and painkillers, performs a painful reduction, and tapes the arm; Chase passes out. Concerned about Lesha’s Sykotiq addiction, Quincy reclaims the remaining painkiller vials. While watching, Quincy reflects on Demmy’s silence, her shifting trust in Chase, and the looming threat of the Blacklight Syndicate. Lesha warns that contamination remains and a cybermancer may be needed. They load Chase into the back seat and resume toward Broken Bow Free City."
+    },
+    {
+    "chunk_id": "retrospectives-quincy-triage-2",
+    "type": "entities_focus",
+    "text": "Entities: Quincy (POV leader managing meds and route), Lesha (field medic, addict managing withdrawal), Chase (injured, stabilized), Demmy (silent grief). Items/Tech: TEG-6 six-seater, field medkit, antibiotic and painkiller vials, bandages/tape, Chase’s favored rifle among supplies. Locations: Roadside wildlands stop; destination set to Broken Bow Free City. Orgs: Blacklight Syndicate mentioned as an emerging threat."
+    },
+    {
+    "chunk_id": "retrospectives-quincy-triage-3",
+    "type": "style_theme_focus",
+    "text": "Third-person limited on Quincy with gritty, pragmatic register and a measured respite pace. Themes include survival triage, boundaries and trust under addiction risk, found-family loyalty, and resolve for justice. Motifs: medkit as lifeline, controlled vials as trust boundary, the road as a path to refuge."
+    }
+    ]
+    }

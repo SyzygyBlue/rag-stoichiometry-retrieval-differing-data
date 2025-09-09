@@ -1,0 +1,301 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "12-10-2186_chase-sniper-support-at-three-shovels",
+    "chapter_number": 12,
+    "scene_number": 3,
+    "date_in_universe": "2186-10-12",
+    "absolute_timeline_notes": "Eight months after Chase defies Chancellor Margdelain; day of Quincy’s distress call and Fox River response."
+    },
+    "text_windows": {
+    "full_scene_clean": "Chase drives the Fox River TEG-2 toward Quincy's coordinates, reflecting on eight months under a provisional TRG apprenticeship imposed by his mother, Chancellor Margdelain. He recalls grueling training, her refusal to acknowledge him at pinning, and his resolve to prove himself. Approaching three smoke plumes and rolling hills, he assembles a .50 caliber sniper rifle, aware the terrain could negate his range and the TEG-2’s speed. Hearing distant machine-gun fire, he parks short of a crest, crawls forward, and sights into a valley where a dark-haired woman and an emaciated young man—manning truck-mounted gun nests—fight a swarm of roughly twenty ravager vehicles circling the Three Shovels caravan. From ~500 meters, he begins eliminating drivers and climbers, working through magazine after magazine as his barrel overheats. The defenders’ belts run low; the woman fights a jam while the young man alternates between shotgun and feed. Ravagers finally spot Chase; rounds stitch the grass around him. He keeps prioritizing threats on the trucks, then turns his rifle on a squad charging his hill, cutting them down as they weave closer. The defenders’ fire sputters; bodies pile beneath the platforms. With his eighth magazine nearly empty and five hundred meters still on target, he notes only one round left, spends it to drop a climber at the woman’s nest, and ducks to reload under incoming fire, muttering for McTanner to arrive while committing to stay until the caravan is safe or his ammo is gone.",
+    "dense_recap_250w": "Racing a TEG-2 toward Quincy's coordinates, Chase frames the fight as a test of the autonomy he seized eight months after rejecting Chancellor Margdelain’s diplomatic track. Near three smoke plumes and rolling hills, he assembles a .50 caliber sniper rifle, weighing risks: hills could erase his range advantage and expose him to a mid-range swarm. He halts short of a crest, crawls to a concealed depression, and sees a ravager wolf-pack of ~20 vehicles circling the Three Shovels caravan. Two defenders—a dark-haired woman and an emaciated young man—operate truck-mounted gun nests, trading fire at close range. From ~500 m Chase begins methodically shooting drivers and attackers, burning through magazines as the rifle and ambient air heat up. The defenders’ belts dwindle; the woman fights a feed jam while the young man alternates shotgun and belt handling. A subset of ravagers peels off to flank his hill; once they spot him, rounds cut the grass around his position. Chase keeps prioritizing climbers threatening the platforms, then turns his rifle on the charging squad, dropping most as they weave closer. With his eighth magazine nearly done and the defenders near empty, he spends his last visible round to stop a climber cresting the woman’s nest and ducks to reload, pinned and calling McTanner on the wind, resolved to hold until relief arrives or he runs dry.",
+    "query_handle": "Chase provides .50-cal sniper overwatch for Quincy and Demmy against ~20 ravager vehicles; burns mags, gets spotted, and reloads under fire."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Resolve and approach",
+    "what_happens": "Chase speeds the TEG-2 toward Quincy's call, framing the fight as proof of his autonomy after months of TRG trials.",
+    "involved_entities": ["chase", "teg-2", "trg", "chancellor-margdelain"],
+    "stakes_or_conflict": "Identity and competence vs his mother’s expectations."
+    },
+    {
+    "order": 2,
+    "label": "Terrain assessment",
+    "what_happens": "Rolling hills threaten to nullify rifle range and TEG-2 speed; Chase prepares for worst-case.",
+    "involved_entities": ["chase", "teg-2", "sniper-50cal"],
+    "stakes_or_conflict": "Tactical disadvantage if ambushed at mid-range."
+    },
+    {
+    "order": 3,
+    "label": "Contact",
+    "what_happens": "Machine-gun fire ahead; Chase crawls to a crest and observes the battle: Two gun nests vs ~20 ravager vehicles.",
+    "involved_entities": ["chase", "quincy", "demmy", "ravagers", "three-shovels-caravan"],
+    "stakes_or_conflict": "Caravan at risk of being overrun."
+    },
+    {
+    "order": 4,
+    "label": "Overwatch fire",
+    "what_happens": "Chase snipes drivers and climbers, working through multiple magazines as barrel heat rises.",
+    "involved_entities": ["chase", "sniper-50cal", "ravagers"],
+    "stakes_or_conflict": "Ammo and heat vs large enemy numbers."
+    },
+    {
+    "order": 5,
+    "label": "Counter-detection",
+    "what_happens": "Ravagers finally spot and engage Chase; a squad charges his position.",
+    "involved_entities": ["chase", "ravagers"],
+    "stakes_or_conflict": "Pinned and exposed; risk of being overrun."
+    },
+    {
+    "order": 6,
+    "label": "Ammo crisis",
+    "what_happens": "Gun nest belts run low, one jams; Chase splits fire between climbers and the charging squad.",
+    "involved_entities": ["chase", "quincy", "demmy", "sniper-50cal"],
+    "stakes_or_conflict": "Defenders near empty; Chase nearing last rounds."
+    },
+    {
+    "order": 7,
+    "label": "One round left",
+    "what_happens": "He drops a climber at the woman’s nest with his final chambered round, then ducks to reload under incoming fire.",
+    "involved_entities": ["chase", "quincy", "demmy"],
+    "stakes_or_conflict": "Immediate survival hinges on reload and hoped-for reinforcements."
+    }
+    ],
+    "characters": [
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Provide sniper overwatch to keep the caravan’s gunners alive until help arrives.",
+    "obstacles": "Hilly terrain, overwhelming enemy numbers, overheating barrel, limited magazines, exposure once detected.",
+    "tactics": "Hull-down concealment near a crest; target drivers and climbers first; manage barrel heat and reload cadence; defer radioing to avoid retreat order.",
+    "relationships": [
+    { "with": "quincy", "type": "potential ally", "state": "unknown-to-her, protective", "evidence": "Drops climbers threatening her nest; 'I’m over here… but you can’t see me.'" },
+    { "with": "demmy", "type": "ally-of-necessity", "state": "supportive-at-range", "evidence": "Compliments his covering fire; coordinates implicitly by target selection." },
+    { "with": "master-mctanner", "type": "mentor/commander", "state": "distant, expected reinforcement", "evidence": "“Where the hell are you, McTanner?”" },
+    { "with": "chancellor-margdelain", "type": "adoptive mother", "state": "defiant", "evidence": "Fight framed as proof after months of provisional apprenticeship." }
+    ],
+    "emotional_arc": {
+    "start": "resolute, exhilarated",
+    "turning_points": ["Hears MG fire and commits", "Gets detected and pinned", "Faces last-round crisis"],
+    "end": "determined under fire, reloading"
+    },
+    "notable_actions": [
+    "assembles .50 cal rifle",
+    "establishes concealed firing lane",
+    "snipes multiple drivers and climbers",
+    "draws enemy squad off main assault",
+    "protects gun nests while nearly expending ammo"
+    ],
+    "quotable_lines": [
+    "This is a little bit stupid… but where’s the fun in playing it safe?",
+    "Hi, mom, your son is home.",
+    "One round left."
+    ]
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Keep her gun running and hold the platform against ravagers.",
+    "obstacles": "Ammo depletion, feed jam, swarming attackers.",
+    "tactics": "Truck-mounted MG defense; switch to sidearm when belt runs dry.",
+    "relationships": [
+    { "with": "demmy", "type": "ally", "state": "co-defenders", "evidence": "Both man separate nests supporting the caravan." },
+    { "with": "chase", "type": "unknown ally", "state": "cautious recognition", "evidence": "Glances toward his unseen position after his support fire." }
+    ],
+    "emotional_arc": {
+    "start": "focused, ferocious",
+    "turning_points": ["Jam and ammo crisis", "Notices unseen ally’s effect"],
+    "end": "desperate, still fighting"
+    },
+    "notable_actions": ["rakes vehicles with MG fire", "attempts to clear jam and reload", "uses pistol on cresting attacker"],
+    "quotable_lines": []
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Sustain suppressive fire and prevent boarding.",
+    "obstacles": "Exhaustion, ammo scarcity, massed attackers.",
+    "tactics": "Machine-gun bursts; shotgun at close quarters; knife defense when overrun risk rises.",
+    "relationships": [
+    { "with": "quincy", "type": "ally", "state": "synchronized defense", "evidence": "Parallel gun nests shielding the caravan." },
+    { "with": "chase", "type": "unknown ally", "state": "mutual cover", "evidence": "His covering fire drops three of the eight charging Chase." }
+    ],
+    "emotional_arc": {
+    "start": "tense, committed",
+    "turning_points": ["Close-quarters kills at the nest", "Ammo dwindles"],
+    "end": "strained but active"
+    },
+    "notable_actions": ["covers Chase with shotgun bursts", "stabs a climber at the platform", "manages belts and scavenges ammo"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "teg-2",
+    "name": "TEG-2 two-seater",
+    "category": "vehicle",
+    "capabilities": ["high-torque electric drive", "fat pliable tires", "long-throw suspension", "active vibration cancelation", "fast cross-country"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "intact",
+    "scene_function": "Rapid approach and potential exfil platform; parked hull-down before the crest."
+    },
+    {
+    "id": "sniper-50cal",
+    "name": ".50 caliber sniper rifle",
+    "category": "weapon",
+    "capabilities": ["2 km effective shots", "driver neutralization", "high penetration", "mag-fed"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "overheating barrel; in heavy use",
+    "scene_function": "Primary overwatch tool enabling long-range disruption of the ravager assault."
+    },
+    {
+    "id": "handgun-10mm",
+    "name": "10mm sidearm",
+    "category": "weapon",
+    "capabilities": ["close-quarters defense (~15 m)"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "holstered; unused",
+    "scene_function": "Backup if overrun (risk noted by Chase)."
+    },
+    {
+    "id": "truck-mg-nests",
+    "name": "Truck-mounted machine gun nests",
+    "category": "weapon",
+    "capabilities": ["sustained fire", "area suppression"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "overheated; one jammed; belts low",
+    "scene_function": "Caravan’s main defensive firepower and focus of Chase’s support."
+    }
+    ],
+    "locations": [
+    {
+    "id": "rolling-grassland-valley",
+    "name": "Rolling grassland valley battle site",
+    "type": "wilderness",
+    "descriptors": ["rolling hills", "flattened grass in the bowl", "smoke plumes", "acrid gunpowder"],
+    "in_scene_events": ["Ravager encirclement of Three Shovels; Chase’s hilltop overwatch; defenders’ ammo crisis."]
+    },
+    {
+    "id": "hilltop-firing-crest",
+    "name": "Hilltop firing crest",
+    "type": "wilderness",
+    "descriptors": ["concealed depression", "standing grass at crest", "good lane of fire"],
+    "in_scene_events": ["Chase stages, engages, gets detected, and reloads under fire."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": ["quincy", "demmy"],
+    "motives_inferred": "Survive and protect caravan assets and people.",
+    "actions_in_scene": ["Operates gun nests; holds defensive platforms under heavy assault."]
+    },
+    {
+    "id": "ravagers",
+    "name": "Ravagers (wolfpack unit inferred)",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Overrun and loot the caravan; kill defenders.",
+    "actions_in_scene": ["Circle-firing with ~20 vehicles; dismount assault; counter-detect and flank Chase."]
+    },
+    {
+    "id": "trg",
+    "name": "Tactical Response Group (Fox River)",
+    "alignment": "ally",
+    "agents_present": ["chase"],
+    "motives_inferred": "Scout and support civilians; await main force arrival.",
+    "actions_in_scene": ["Single-agent overwatch pending reinforcement."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Self-determination under fire", "Courage vs prudence", "Individual skill vs overwhelming force", "Cost of survival"],
+    "motifs_symbols": ["crosshairs narrowing the world", "smoke plumes as beacons", "flattened grass bowl", "overheating barrel"],
+    "moral_questions": ["When is reckless heroism justified?", "What debts do trained soldiers owe to endangered civilians?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "technical-cinematic",
+    "pacing": "high-intensity",
+    "voice_traits": ["wry self-talk", "tactical detail", "measured bravado"],
+    "sensory_notes": ["acrid tang of gunpowder", "rifle recoil thud", "whine of bullets", "radiating barrel heat", "engine/terrain vibration damped in cab"]
+    },
+    "causality": {
+    "prior_dependencies": ["Quincy’s radio call to Fox River; Chase’s months of TRG training; Margdelain’s provisional terms; caravan–ravager conflict already in progress; odd flattened-grass phenomenon from prior approach."],
+    "outcomes": ["Ravager assault disrupted by long-range kills; defenders remain barely holding; Chase detected and under fire while reloading; reinforcement still pending."],
+    "unanswered_questions": ["Will McTanner and Fox River arrive in time?", "Can the defenders and Chase survive the reload window?", "What caused the widespread flattened grass?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["chase", "ravagers"],
+    "trigger": "Chase engages ravager drivers and climbers from concealment.",
+    "resolution": "Unresolved; assault continues as he reloads under fire."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["chase", "rolling-grassland-valley"],
+    "trigger": "Hills reduce sightlines and risk mid-range ambush.",
+    "resolution": "Partially mitigated by crest concealment; later compromised when detected."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["chase"],
+    "trigger": "Choosing to stay and fight despite orders to avoid risk.",
+    "resolution": "He commits to hold until empty; tension persists."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "graphic",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["battlefield deaths", "graphic gun violence"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Chase", "Quincy", "Demmy", "TEG-2", ".50 cal sniper support", "Three Shovels defense", "ravager swarm", "hilltop overwatch", "machine gun nests"],
+    "keywords_dense": "Chase, Quincy, Demmy, Three Shovels Caravan, Fox River, TRG, TEG-2, sniper rifle .50 caliber, machine gun nests, ravagers, overwatch, rolling hills, flattened grass, ammunition jam, barrel overheating",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chase", "Quincy", "Demmy", "Chancellor Margdelain", "Master McTanner"],
+    "places": ["Rolling grassland valley"],
+    "orgs": ["Three Shovels Caravan", "Ravagers", "Tactical Response Group (TRG)"],
+    "terms": ["TEG-2", "overwatch", "magazine", "crest", "crosshairs"]
+    }
+    },
+    "qa_pairs": [
+    { "q": "What weapon does Chase use to support the caravan?", "a": "A .50 caliber sniper rifle with magazine feed and ~2 km reach." },
+    { "q": "Roughly how many ravager vehicles attack the caravan?", "a": "About twenty vehicles circling the trucks." },
+    { "q": "Why does Chase avoid cresting the hill in the TEG-2?", "a": "Hills could nullify his range and leave him exposed to mid-range swarms." },
+    { "q": "What immediate problem do the defenders face besides enemy numbers?", "a": "Ammo depletion and a jam/overheating on one machine gun." },
+    { "q": "What state is Chase in at the end of the scene?", "a": "Detected and pinned, with one round just spent and reloading under fire." }
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "12-10-2186-battle-recap",
+    "type": "recap",
+    "text": "Chase races a TEG-2 to Quincy's coordinates and takes a concealed hilltop position with a .50 cal sniper rifle. In a valley below, Quincy and Demmy defend the Three Shovels caravan from roughly twenty ravager vehicles using truck-mounted machine guns. Chase methodically shoots drivers and climbers, burning through magazines as his barrel overheats. Once ravagers spot him, a squad charges his crest and rounds cut the grass around him; he keeps prioritizing climbers threatening the nests before turning fire on the chargers. With defenders nearly out of ammo and one gun jammed, Chase spends his last visible round to stop a climber at the woman’s nest and ducks to reload under incoming fire, calling for McTanner in frustration."
+    },
+    {
+    "chunk_id": "12-10-2186-entities-focus",
+    "type": "entities_focus",
+    "text": "Entities: Chase (TRG apprentice sniper), Quincy (caravan gunner), Demmy (caravan gunner), Ravagers (hostile swarm), McTanner (mentor/commander offstage). Tech: TEG-2 all-terrain EV; .50 cal sniper rifle; 10mm sidearm; truck-mounted MG nests; ammo belts and magazines. Locations: rolling grassland hills; valley with flattened grass; hilltop firing crest. Factions: Three Shovels Caravan (defenders), TRG/Fox River (ally), Ravagers (hostile)."
+    },
+    {
+    "chunk_id": "12-10-2186-style-themes",
+    "type": "style_theme_focus",
+    "text": "Third-person limited on Chase with technical-cinematic detail and high-intensity pacing. Sensory focus on gunpowder, recoil, bullet whine, barrel heat, and smoke plumes. Themes: self-determination under fire; courage vs prudence; individual skill against massed threat; the cost of survival. Motifs include narrowing crosshairs, smoke pillars, jammed belts, and the eerie flattened grass in the valley."
+    }
+    ]
+    }

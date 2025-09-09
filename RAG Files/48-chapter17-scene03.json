@@ -1,0 +1,341 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "2186-10-13_council-applause-adjournment",
+    "chapter_number": 17,
+    "scene_number": 3,
+    "date_in_universe": "2186-10-13",
+    "absolute_timeline_notes": "Afternoon council session in Fox River. Immediately after Margdelain decided to post the Metrofederacy inquiry vote; before any new vote occurs."
+    },
+    "text_windows": {
+    "full_scene_clean": "A cacophony of applause erupted as Margdelain entered the council chambers, the sound reverberating through the hall. Caught off guard, she hissed into her sublingual mic for answers. Master Scrivener Francis replied through her aural implant: the ovation was for her son, Chase, now being hailed as a hero. She forced a composed smile and moved down the aisle, greeting well-wishers while suspecting Brother Jessop had engineered the moment. Jessop applauded with cool eyes. Councilman Swift praised her wounded hero son; Bivualier looked uneasy. Reaching the Chancellor’s bench beneath the Fox River chimera seal, she brought the council to order with the gavel. Sergeant-at-Arms Billings confirmed quorum. Jessop immediately raised a Point of Privilege and moved to adjourn to honor the wounded hero. The motion was seconded and passed. Margdelain masked her defeat, kept smiling, and quietly ordered Francis to tell McTanner that Chase must remain in the TRG and that no one should know termination was ever considered. She planned to reassess overnight and force another vote when numbers allowed, even as doubt tightened in her stomach.",
+    "dense_recap_250w": "Chancellor Margdelain enters the Fox River council chambers to an unexpected standing ovation, quickly learning via sublingual/aural comms with Master Scrivener Francis that the applause is for her son, Chase, who is being celebrated as a wounded hero. Reading the room, she suspects Brother Jessop set the stage to derail her planned vote to open an inquiry into joining the Metrofederacy. While she performs the role of concerned mother and accepts congratulations (notably from Councilman Swift), she notes Councilman Bivualier’s discomfort and pushes to begin proceedings. After Sergeant-at-Arms Billings confirms quorum, Jessop invokes a Point of Privilege and moves to adjourn in order to properly honor the returning hero. The motion is quickly seconded and passes, effectively blocking Margdelain’s vote for the day. Maintaining a public smile, Margdelain sublingually instructs Francis to contact McTanner: under no circumstances may Chase leave the TRG, and no one can learn that removal was considered. She concludes Jessop and conservatives will use the hero narrative to unwind hard-won support (including whatever leverage she had over Bivualier), and she orders her team to reassess and be ready to revote as soon as the numbers can be reassembled. The scene ends with Margdelain outwardly composed but privately furious at being outmaneuvered.",
+    "query_handle": "Council ovation for Chase lets Jessop adjourn session; Margdelain masks defeat, orders keep-Chase-in-TRG, plans new vote."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Ambush ovation",
+    "what_happens": "Margdelain enters to a surprise standing ovation for her son’s heroics and scrambles for intel via implants.",
+    "involved_entities": ["margdelain", "master-scrivener-francis", "chase", "brother-jessop"],
+    "stakes_or_conflict": "Public perception threatens scheduled vote."
+    },
+    {
+    "order": 2,
+    "label": "Reading the room",
+    "what_happens": "She performs the role of grateful mother, noting Swift’s praise and Bivualier’s discomfort while suspecting Jessop’s orchestration.",
+    "involved_entities": ["margdelain", "councilman-swift", "councilman-bivualier", "brother-jessop"],
+    "stakes_or_conflict": "Narrative control vs. political trap."
+    },
+    {
+    "order": 3,
+    "label": "Procedural strike",
+    "what_happens": "After quorum, Jessop claims Point of Privilege and moves to adjourn to honor the hero; motion passes.",
+    "involved_entities": ["brother-jessop", "margdelain", "officer-billings", "fox-river-council"],
+    "stakes_or_conflict": "Vote delayed; momentum lost."
+    },
+    {
+    "order": 4,
+    "label": "Damage control",
+    "what_happens": "Margdelain orders Francis to lock in Chase’s TRG status and bury any hint of prior termination plans.",
+    "involved_entities": ["margdelain", "master-scrivener-francis", "jeb-mctanner", "chase"],
+    "stakes_or_conflict": "Contain fallout to preserve political options."
+    },
+    {
+    "order": 5,
+    "label": "Regrouping",
+    "what_happens": "She plans to re-run the vote once numbers can be recovered despite growing doubt.",
+    "involved_entities": ["margdelain", "master-scrivener-francis", "fox-river-council"],
+    "stakes_or_conflict": "Time pressure vs. shifting alliances."
+    }
+    ],
+    "characters": [
+    {
+    "id": "margdelain",
+    "display_name": "Chancellor Margdelain",
+    "aliases": ["Chancellor"],
+    "role_in_scene": "POV",
+    "goals_now": "Push Metrofederacy inquiry vote; prevent applause narrative from derailing agenda.",
+    "obstacles": "Jessop’s procedural ambush; public adulation for Chase; fragile majority.",
+    "tactics": "Public composure, behind-the-scenes orders, control of messaging, rapid parliamentary action (attempted).",
+    "relationships": [
+    {"with": "chase", "type": "mother/son", "state": "strained yet politically instrumental", "evidence": "Uses hero narrative constraints to order TRG retention."},
+    {"with": "brother-jessop", "type": "political-opponents", "state": "adversarial chess match", "evidence": "Jessop’s adjournment trap snaps shut."},
+    {"with": "master-scrivener-francis", "type": "boss/subordinate", "state": "trusted coordination", "evidence": "Directs him to contact McTanner and manage optics."},
+    {"with": "jeb-mctanner", "type": "executive/commander", "state": "tense reliance", "evidence": "Orders relayed: keep Chase in TRG."},
+    {"with": "councilman-bivualier", "type": "political-transactional", "state": "uneasy leverage at risk", "evidence": "Notes his discomfort under new narrative."}
+    ],
+    "emotional_arc": {
+    "start": "surprised, irritated",
+    "turning_points": ["Recognizes Jessop’s setup", "Adjournment passes; pivots to damage control"],
+    "end": "composed in public, furious and doubtful in private"
+    },
+    "notable_actions": ["calls council to order", "orders to retain Chase in TRG", "plans rapid revote strategy"],
+    "quotable_lines": ["Please be seated. Let us bring the council to order.", "Tell him nobody in the whole fucking world can know we were ever considering otherwise."]
+    },
+    {
+    "id": "brother-jessop",
+    "display_name": "Brother Jessop",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Delay/derail Metrofederacy inquiry vote; frame narrative around hero son.",
+    "obstacles": "Chancellor’s control of agenda; need for plausible pretext.",
+    "tactics": "Procedural maneuver (Point of Privilege), public magnanimity masking strategy.",
+    "relationships": [
+    {"with": "margdelain", "type": "political-opponents", "state": "open rivalry", "evidence": "Their eye contact as trap closes; motion to adjourn succeeds."}
+    ],
+    "emotional_arc": {"start": "cool, calculating", "turning_points": ["Secures adjournment"], "end": "satisfied mask"},
+    "notable_actions": ["moves to adjourn to honor wounded hero"],
+    "quotable_lines": ["I move we adjourn. Fox River has a wounded hero returning home, and it would be indecent not to honor him properly."]
+    },
+    {
+    "id": "master-scrivener-francis",
+    "display_name": "Master Scrivener Francis",
+    "aliases": ["Master Francis"],
+    "role_in_scene": "supporting",
+    "goals_now": "Feed intel to Margdelain; execute comms to McTanner.",
+    "obstacles": "Limited time; moving targets; uncertain intel sources.",
+    "tactics": "Live intel relay via aural link; immediate tasking.",
+    "relationships": [
+    {"with": "margdelain", "type": "advisor/administrator", "state": "loyal, pragmatic", "evidence": "Checking… It’s for… Chase, your son."}
+    ],
+    "emotional_arc": {"start": "uncertain", "turning_points": ["Confirms applause cause", "Acknowledges setback"], "end": "dutiful"},
+    "notable_actions": ["confirms ovation context", "contacts McTanner per order"],
+    "quotable_lines": ["With all due respect, Chancellor, no one else’s parent is the Chancellor of Fox River."]
+    },
+    {
+    "id": "councilman-swift",
+    "display_name": "Councilman Swift",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Publicly praise the Chancellor’s son; align with apparent sentiment.",
+    "obstacles": "None notable.",
+    "tactics": "Flattering remarks.",
+    "relationships": [
+    {"with": "margdelain", "type": "colleagues", "state": "sycophantic tone", "evidence": "It must be terrible… You must be quite proud."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": ["offers praise at the aisle"],
+    "quotable_lines": ["Your son is a hero, Madam Chancellor."]
+    },
+    {
+    "id": "councilman-bivualier",
+    "display_name": "Councilman Bivualier",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Maintain cover amid shifting optics.",
+    "obstacles": "Exposure risk; Jessop’s maneuvering.",
+    "tactics": "Feign enthusiasm; discreet acknowledgment.",
+    "relationships": [
+    {"with": "margdelain", "type": "political-transactional", "state": "uneasy", "evidence": "Applauding with feigned enthusiasm; discreet nod."}
+    ],
+    "emotional_arc": {"start": "uneasy", "turning_points": [], "end": "uneasy"},
+    "notable_actions": ["offers a discreet nod"],
+    "quotable_lines": []
+    },
+    {
+    "id": "officer-billings",
+    "display_name": "Sergeant-at-Arms Billings",
+    "aliases": ["Officer Billings"],
+    "role_in_scene": "cameo",
+    "goals_now": "Report quorum status.",
+    "obstacles": [],
+    "tactics": "Formal procedure.",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": ["confirms quorum"],
+    "quotable_lines": ["We do, Madam Chancellor."]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "offstage",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "margdelain", "type": "son", "state": "instrumentalized by politics", "evidence": "Hero narrative forces TRG retention order."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "jeb-mctanner",
+    "display_name": "Jebidiah McTanner",
+    "aliases": ["Master McTanner"],
+    "role_in_scene": "offstage",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "margdelain", "type": "subordinate commander", "state": "receives urgent directive", "evidence": "Get McTanner… under absolutely no circumstances is Chase to leave the TRG."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "sublingual-mic",
+    "name": "Sublingual microphone",
+    "category": "comms",
+    "capabilities": ["silent speech capture for covert comms"],
+    "owner_or_users": ["margdelain"],
+    "condition_or_state": "intact",
+    "scene_function": "Enables Margdelain to coordinate with Francis while performing publicly."
+    },
+    {
+    "id": "aural-implant",
+    "name": "Aural implant",
+    "category": "cybernetics",
+    "capabilities": ["discreet audio reception"],
+    "owner_or_users": ["margdelain", "master-scrivener-francis"],
+    "condition_or_state": "intact",
+    "scene_function": "Delivers live intel to Margdelain during the session."
+    },
+    {
+    "id": "council-gavel",
+    "name": "Council gavel",
+    "category": "other",
+    "capabilities": ["calls chamber to order"],
+    "owner_or_users": ["margdelain"],
+    "condition_or_state": "intact",
+    "scene_function": "Symbol of procedural authority used before adjournment motion."
+    },
+    {
+    "id": "chimera-ring",
+    "name": "Chancellor’s chimera ring",
+    "category": "other",
+    "capabilities": ["symbolic authority"],
+    "owner_or_users": ["margdelain"],
+    "condition_or_state": "intact",
+    "scene_function": "Motif reinforcing power struggle imagery."
+    }
+    ],
+    "locations": [
+    {
+    "id": "fox-river-council-chamber",
+    "name": "Fox River Council chamber",
+    "type": "structure",
+    "descriptors": ["clamshell-shaped room", "carved Chancellor’s bench", "chimera seal on wall", "concentric seating"],
+    "in_scene_events": ["Applause ambush; quorum confirmed; Point of Privilege; adjournment passed."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "fox-river-council",
+    "name": "Fox River Council",
+    "alignment": "neutral",
+    "agents_present": ["margdelain", "brother-jessop", "councilman-swift", "councilman-bivualier", "officer-billings"],
+    "motives_inferred": "Split over Metrofederacy inquiry; susceptible to narrative shocks.",
+    "actions_in_scene": ["Convenes; applauds; passes adjournment motion."]
+    },
+    {
+    "id": "trg",
+    "name": "Tactical Response Group (TRG)",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Operational readiness; politically sensitive due to Chase.",
+    "actions_in_scene": ["Referenced via order to retain Chase."]
+    },
+    {
+    "id": "jessop-bloc",
+    "name": "Brother Jessop’s conservative bloc",
+    "alignment": "hostile",
+    "agents_present": ["brother-jessop"],
+    "motives_inferred": "Delay/defeat Metrofederacy inquiry using hero narrative.",
+    "actions_in_scene": ["Orchestrates adjournment pretext."]
+    },
+    {
+    "id": "metrofederacy",
+    "name": "Stella Metrofederacy",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Prospective alignment partner; focal point of political struggle.",
+    "actions_in_scene": ["Referenced implicitly in the derailed vote."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["narrative control vs. parliamentary power", "politics over family", "information asymmetry and leaks", "public theater vs. private strategy"],
+    "motifs_symbols": ["tidal-wave applause", "chimera seal and ring", "gavel cracks", "smiles that don’t reach eyes"],
+    "moral_questions": ["Is it ethical to manipulate a family crisis to win or block policy?", "When does procedural fairness become weaponized theater?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "political/cinematic",
+    "pacing": "brisk",
+    "voice_traits": ["internal strategy monologue", "dry asides via comms", "procedural detail"],
+    "sensory_notes": ["reverberating applause", "weight of the gavel", "visual of chimera seal", "whispered comms in ear"]
+    },
+    "causality": {
+    "prior_dependencies": ["Chase’s battlefield actions and injury became public; Margdelain’s earlier push to post the vote; Bivualier’s precarious alignment."],
+    "outcomes": ["Vote delayed via adjournment; Margdelain orders to keep Chase in TRG and bury termination consideration; plan to reconvene when numbers allow."],
+    "unanswered_questions": ["Who leaked to Jessop? Can Margdelain recover her majority before narratives harden? Will Bivualier remain flipped?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["margdelain", "brother-jessop"],
+    "trigger": "Jessop exploits hero narrative to adjourn session.",
+    "resolution": "Unresolved; Jessop wins the day’s maneuver."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["margdelain", "council procedure"],
+    "trigger": "Point of Privilege and motion to adjourn override agenda.",
+    "resolution": "Adjournment passes; vote postponed."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["margdelain"],
+    "trigger": "Balancing public maternal role with political strategy.",
+    "resolution": "Masks emotion; pivots to damage control."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["political manipulation", "exploitation of personal injury for optics"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Council adjournment", "Margdelain vs Jessop", "Chase hailed as hero", "Metrofederacy inquiry vote delayed", "Point of Privilege"],
+    "keywords_dense": "Chancellor Margdelain, Brother Jessop, Master Scrivener Francis, Councilman Swift, Councilman Bivualier, Sergeant-at-Arms Billings, Fox River Council, adjournment, Point of Privilege, hero narrative, Tactical Response Group, Metrofederacy inquiry, political theater, gavel, chimera seal",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chancellor Margdelain", "Brother Jessop", "Master Scrivener Francis", "Councilman Swift", "Councilman Bivualier", "Sergeant-at-Arms Billings", "Chase", "Jebidiah McTanner"],
+    "places": ["Fox River Council chamber"],
+    "orgs": ["Fox River Council", "Tactical Response Group (TRG)", "Stella Metrofederacy"],
+    "terms": ["Point of Privilege", "quorum"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Why does the council applaud Margdelain on entry?", "a": "News spread that her son, Chase, was a wounded hero, and members offered public congratulations."},
+    {"q": "What procedural move does Brother Jessop use to derail the vote?", "a": "He raises a Point of Privilege and moves to adjourn to honor the hero; the motion passes."},
+    {"q": "What immediate order does Margdelain give after adjournment?", "a": "She instructs Francis to tell McTanner that Chase must remain in the TRG and to conceal any prior plan to remove him."},
+    {"q": "How does Margdelain plan to proceed after being outmaneuvered?", "a": "Reassess overnight and hold the vote again once she has the numbers."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-10-13-council-adjournment_recap",
+    "type": "recap",
+    "text": "In the Fox River council chamber, a surprise ovation for Chancellor Margdelain’s son, Chase, gives Brother Jessop the cover to invoke a Point of Privilege and adjourn the session, postponing Margdelain’s planned Metrofederacy inquiry vote. Maintaining poise, she orders Master Scrivener Francis to direct McTanner to keep Chase in the TRG and hide any prior termination plan, then resolves to rebuild her margin and reschedule the vote."
+    },
+    {
+    "chunk_id": "2186-10-13-council-adjournment_entities",
+    "type": "entities_focus",
+    "text": "Key actors: Margdelain (Chancellor, POV strategist); Brother Jessop (conservative leader deploying procedure); Master Scrivener Francis (intel/comms); Councilman Swift (public praise); Councilman Bivualier (uneasy target of prior leverage); Sergeant-at-Arms Billings (quorum). Orgs/places: Fox River Council chamber, TRG, Stella Metrofederacy. Objects/tech: sublingual mic, aural implant, gavel, chimera ring/seal. Event: adjournment motion passes."
+    },
+    {
+    "chunk_id": "2186-10-13-council-adjournment_style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-limited political interiority with brisk pacing and procedural detail. Themes: narrative control vs parliamentary tactics; politics over family; information leaks shaping power. Motifs: tidal applause, chimera insignia, gavel cracks, smiles that mask rivalry."
+    }
+    ]
+    }

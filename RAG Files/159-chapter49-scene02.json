@@ -1,0 +1,346 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Forty-Nine Wildflowers",
+    "scene_id": "49-wildflowers-survivor-rescue",
+    "chapter_number": 49,
+    "scene_number": 2,
+    "date_in_universe": "2186-12-06",
+    "absolute_timeline_notes": "Minutes after Shelly tasks Werner with an IR perimeter scan at Fox River."
+    },
+    "text_windows": {
+    "full_scene_clean": "Inside the quadrafan, Werner goes fully linked—motionless but streaming structured telemetry to Shelly’s PID. After long quiet, a faint, warm signature appears 700 meters northwest of the blast epicenter under tin-roofed barn debris. Shelly isolates it: viable survivor. Alejandro hovers the quadrafan and remote-hoists wall sections with a rope; Werner ties secure knots and helps clear wreckage. Shelly hears a faint plea for help. Working through beams and twisted tin, they expose a young woman—Evelyn—alive, thirsty, shaken. Shelly asserts doctor authority, performs a brief physical assessment, controls fluids, and keeps the patient still. Evelyn explains she’d gone out during a comms blackout to message Demmy, hid in the barn when rain started, then everything exploded. On Shelly’s PID, Alejandro flags that Demmy, Quincy, and Chase are on a circulated bounty. Shelly asks if Evelyn knows them; she confirms and references Calum-Tam Holdfast captivity. To prevent panic, Shelly withholds the truth about Fox River’s condition, administers a mild sedative and analgesic, promises to inform Demmy, and supervises a stretcher load into the quadrafan. They lift off, Evelyn sleeping, a tiny embroidered yellow dandelion rising and falling on her chest.",
+    "dense_recap_250w": "Werner conducts an immersive IR sweep while linked through his ocular processors, silently feeding Shelly tagged telemetry. A faint heat source appears beneath collapsed barn debris roughly 700 meters northwest of the Fox River blast epicenter. Shelly classifies it as a viable survivor. Alejandro uses the quadrafan as a hoist, Werner secures rope and assists, and Shelly directs a careful extraction. Beneath layered beams and tin they uncover Evelyn—conscious, dehydrated, bruised but neurologically intact. Shelly asserts clinical control, limiting water intake, assessing motor/sensation, and preparing transport. Evelyn reports a comms blackout; she had gone out to message a boy named Demmy, took shelter in a barn when rain started, and the explosion followed. A message to Shelly from Alejandro notes a bounty naming Demmy, Quincy, and Chase. When asked, Evelyn confirms she knows them and states Quincy and Chase were held at Calum-Tam Holdfast and that Demmy left to help. To avoid panic, Shelly avoids describing Fox River’s ruin, sedates Evelyn lightly, and arranges evacuation by quadrafan using a stretcher and med kit. As they ascend, Shelly watches Evelyn’s breathing and notices an embroidered yellow dandelion on her shirt—an image of fragile life amid devastation.",
+    "query_handle": "Shelly, Alejandro, and Werner locate and extract Evelyn from Fox River ruins via IR scan; Evelyn mentions Demmy/Quincy/Chase bounty; Shelly sedates and evacuates her."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Silent scan",
+    "what_happens": "Werner links in and runs a low-altitude thermal sweep, streaming clean telemetry.",
+    "involved_entities": ["werner", "shelly", "thermal-drone", "pid"],
+    "stakes_or_conflict": "Time and accuracy against a hostile environment."
+    },
+    {
+    "order": 2,
+    "label": "IR hit",
+    "what_happens": "Shelly isolates a faint heat signature under barn debris ~700m NW of epicenter.",
+    "involved_entities": ["shelly", "werner", "fox-river-ruins"],
+    "stakes_or_conflict": "Potential survivor vs. false positive."
+    },
+    {
+    "order": 3,
+    "label": "Mechanical lift",
+    "what_happens": "Alejandro uses the quadrafan and rope to hoist wall sections; Werner knots and guides.",
+    "involved_entities": ["alejandro", "werner", "quadrafan", "rope-hoist"],
+    "stakes_or_conflict": "Avoiding secondary collapse that could kill the survivor."
+    },
+    {
+    "order": 4,
+    "label": "Extraction",
+    "what_happens": "Shelly and Werner hand-clear beams and tin, revealing Evelyn alive.",
+    "involved_entities": ["shelly", "werner", "evelyn"],
+    "stakes_or_conflict": "Trauma care under debris; do-no-harm urgency."
+    },
+    {
+    "order": 5,
+    "label": "Bounty connection",
+    "what_happens": "Evelyn mentions Demmy; Shelly receives a note that Demmy, Quincy, Chase are on a bounty.",
+    "involved_entities": ["evelyn", "shelly", "alejandro", "demmy", "quincy", "chase"],
+    "stakes_or_conflict": "Rescued witness ties to hunted targets; raises operational risk."
+    },
+    {
+    "order": 6,
+    "label": "Sedation and evac",
+    "what_happens": "Shelly sedates Evelyn to prevent panic and evacuates by quadrafan.",
+    "involved_entities": ["shelly", "evelyn", "quadrafan", "stretcher", "medkit", "sedative-dose"],
+    "stakes_or_conflict": "Ethical triage vs. informed consent in a disaster zone."
+    }
+    ],
+    "characters": [
+    {
+    "id": "shelly",
+    "display_name": "Shelly",
+    "aliases": ["Shel"],
+    "role_in_scene": "POV",
+    "goals_now": "Verify IR hit, safely extract and stabilize survivor, move to secure medical evaluation.",
+    "obstacles": "Debris instability, limited equipment, need to avoid panicking the patient, looming bounties.",
+    "tactics": "Directs hoist operations, performs rapid neuro/musculoskeletal checks, controls fluids, administers mild sedative, coordinates air evac.",
+    "relationships": [
+    {"with": "werner", "type": "ally", "state": "high-trust technical coordination", "evidence": "Requests and receives continuous telemetry; co-clears debris."},
+    {"with": "alejandro", "type": "ally", "state": "operational", "evidence": "Uses his quadrafan hoist; receives bounty intel ping."},
+    {"with": "evelyn", "type": "rescuer-patient", "state": "protective, calming", "evidence": "“Everything is okay. You are safe with us.”"}
+    ],
+    "emotional_arc": {
+    "start": "focused, clinical under tension",
+    "turning_points": ["Confirms viable survivor", "Learns bounty ties to rescuee’s contacts"],
+    "end": "somber resolve, protective"
+    },
+    "notable_actions": ["isolates thermal signature", "directs debris removal", "performs assessment", "administers sedative", "supervises stretcher load"],
+    "quotable_lines": [
+    "Hold.",
+    "Someone’s down there.",
+    "I’m a doctor… I’m going to give you something so we can move you safely."
+    ]
+    },
+    {
+    "id": "werner",
+    "display_name": "Werner",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Execute precise IR sweep, support extraction safely.",
+    "obstacles": "Maintaining link focus, knot security, debris hazards.",
+    "tactics": "Full-immersion drone control, clean telemetry tagging, rope work, hands-on clearing.",
+    "relationships": [
+    {"with": "alejandro", "type": "work-partners", "state": "practiced", "evidence": "Coordinates hoist with quadrafan."},
+    {"with": "shelly", "type": "ally", "state": "responsive", "evidence": "Launches fly-eyes; assists under direction."}
+    ],
+    "emotional_arc": {"start": "eerie stillness in link", "turning_points": ["IR hit confirmed; shifts to manual support"], "end": "quiet competence"},
+    "notable_actions": ["streams telemetry", "ties and releases hoist ropes", "clears debris", "hands water/rations"],
+    "quotable_lines": []
+    },
+    {
+    "id": "alejandro",
+    "display_name": "Alejandro",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Pilot, hoist debris safely, provide supplies, share intel.",
+    "obstacles": "Rotor wash risks, precise placement, urgency.",
+    "tactics": "Remote-lift with quadrafan, relocates aircraft to reduce hazard, delivers water/med kit, messages bounty intel.",
+    "relationships": [
+    {"with": "shelly", "type": "ally", "state": "supportive", "evidence": "Provides aircraft hoist and intel ping."},
+    {"with": "werner", "type": "work-partners", "state": "synchronized", "evidence": "Hoist operations with Werner’s knots."}
+    ],
+    "emotional_arc": {"start": "contained urgency", "turning_points": ["Survivor’s voice heard"], "end": "methodical pilot focus"},
+    "notable_actions": ["hoists wall sections", "lands and brings water", "preps preflight and evac"],
+    "quotable_lines": []
+    },
+    {
+    "id": "evelyn",
+    "display_name": "Evelyn",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Survive, contact Demmy, understand situation.",
+    "obstacles": "Dehydration, entrapment, shock; unaware of Fox River’s fate.",
+    "tactics": "Communicates needs, provides witness info, complies with care.",
+    "relationships": [
+    {"with": "demmy", "type": "romantic-interest", "state": "hopeful", "evidence": "“I was trying to message a guy named Demmy… I like him.”"},
+    {"with": "shelly", "type": "patient-clinician", "state": "trusting", "evidence": "Accepts injection and evacuation guidance."},
+    {"with": "quincy", "type": "ally-by-association", "state": "concerned", "evidence": "Knows Quincy was captive at Calum-Tam Holdfast."},
+    {"with": "chase", "type": "ally-by-association", "state": "concerned", "evidence": "Knows Chase was captive at Calum-Tam Holdfast."}
+    ],
+    "emotional_arc": {"start": "fearful, weak", "turning_points": ["Rescuers’ arrival", "Sedation"], "end": "asleep, stabilized"},
+    "notable_actions": ["explains comms blackout and barn shelter", "names Demmy/Quincy/Chase", "accepts water and sedation"],
+    "quotable_lines": [
+    "Help… please… is someone there?",
+    "I need to send a message to Demmy."
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "quadrafan",
+    "name": "Quadrafan flier",
+    "category": "vehicle",
+    "capabilities": ["VTOL hover/precision lift", "short-field landing"],
+    "owner_or_users": ["alejandro", "werner", "shelly"],
+    "condition_or_state": "operational",
+    "scene_function": "Provides hoist for debris removal and evacuation transport."
+    },
+    {
+    "id": "thermal-drone",
+    "name": "Thermal reconnaissance drone",
+    "category": "tool",
+    "capabilities": ["low-altitude IR sweep", "range-to-heat overlays", "timestamped telemetry"],
+    "owner_or_users": ["werner", "shelly"],
+    "condition_or_state": "deployed",
+    "scene_function": "Detects faint survivor signature beneath debris."
+    },
+    {
+    "id": "fly-eyes",
+    "name": "Fly-eye microdrones",
+    "category": "comms",
+    "capabilities": ["close-up capture", "operator guidance"],
+    "owner_or_users": ["werner"],
+    "condition_or_state": "launched/stowed",
+    "scene_function": "Augment situational awareness and documentation."
+    },
+    {
+    "id": "pid",
+    "name": "PID (personal interface display)",
+    "category": "comms",
+    "capabilities": ["telemetry ingest", "profiling software", "secure messaging"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "active",
+    "scene_function": "Isolates IR hit; receives bounty alert; tracks vitals/tasks."
+    },
+    {
+    "id": "rope-hoist",
+    "name": "Rope and knots (improvised hoist)",
+    "category": "tool",
+    "capabilities": ["anchor and lift debris via quadrafan"],
+    "owner_or_users": ["werner", "alejandro"],
+    "condition_or_state": "in use",
+    "scene_function": "Safely removes wall sections without crushing survivor."
+    },
+    {
+    "id": "stretcher",
+    "name": "Field stretcher",
+    "category": "medical",
+    "capabilities": ["immobilized transport", "restraint straps"],
+    "owner_or_users": ["shelly", "alejandro", "werner"],
+    "condition_or_state": "ready",
+    "scene_function": "Evacuates Evelyn securely."
+    },
+    {
+    "id": "medkit",
+    "name": "Med kit",
+    "category": "medical",
+    "capabilities": ["analgesics", "sedatives", "dressings", "fluids"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "stocked",
+    "scene_function": "Enables triage, sedation, and stabilization."
+    },
+    {
+    "id": "sedative-dose",
+    "name": "Mild sedative + analgesic",
+    "category": "medical",
+    "capabilities": ["reduce panic", "pain control"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "administered",
+    "scene_function": "Prevents distress and facilitates safe transport."
+    }
+    ],
+    "locations": [
+    {
+    "id": "quadrafan-cabin",
+    "name": "Quadrafan interior",
+    "type": "structure",
+    "descriptors": ["clinical quiet", "rhythmic engine whine"],
+    "in_scene_events": ["Werner links in; telemetry flows; IR hit isolated."]
+    },
+    {
+    "id": "fox-river-ruins",
+    "name": "Fox River blast zone",
+    "type": "city",
+    "descriptors": ["angled wreckage", "tin and beams", "ash and dust"],
+    "in_scene_events": ["Debris hoisted; Evelyn extracted; med evac initiated."]
+    },
+    {
+    "id": "barn-site-nw",
+    "name": "Collapsed tin-roof barn site (NW perimeter)",
+    "type": "structure",
+    "descriptors": ["700m NW of epicenter", "lattice of broken beams", "tangled tin"],
+    "in_scene_events": ["Survivor found alive under debris."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "stellanet-org",
+    "name": "Stella/StellaNet",
+    "alignment": "neutral",
+    "agents_present": ["alejandro", "werner"],
+    "motives_inferred": "Document and investigate the mass-casualty event.",
+    "actions_in_scene": ["Provides aircraft, drones, logistics, and intel messaging."]
+    },
+    {
+    "id": "unknown-bounty-circulator",
+    "name": "Unknown bounty issuer",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Targets Demmy, Quincy, and Chase for undisclosed reasons.",
+    "actions_in_scene": ["Bounty notice surfaced via message to Shelly from Alejandro."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["rescue and triage amid catastrophe", "truth vs. protection (withholding to prevent harm)", "interconnection of victims and hunted targets", "competence under pressure"],
+    "motifs_symbols": ["engine lullaby over hellscape", "tiny embroidered dandelion (fragile life)", "clean telemetry vs. chaos", "tin and beams as entrapment"],
+    "moral_questions": ["Is it ethical to withhold devastating truth from a patient to ensure immediate safety?", "Who profits from bounties in the wake of atrocity?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "forensic/clinical with humane undertone",
+    "pacing": "brisk with surgical pauses",
+    "voice_traits": ["technical precision", "somber restraint", "quiet urgency"],
+    "sensory_notes": ["soft engine whine", "ash and dust in rotor wash", "grime on skin", "paper-thin voice under debris"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Fox River’s destruction and earlier forensic inference of a buried blast.",
+    "Shelly’s directive to run IR sweeps around the perimeter.",
+    "Existing bounty on Demmy, Quincy, Chase."
+    ],
+    "outcomes": [
+    "Evelyn confirmed alive and evacuated.",
+    "Witness link established to Demmy/Quincy/Chase and Calum-Tam Holdfast.",
+    "Operational secrecy choice: Shelly withholds Fox River’s fate to prevent panic."
+    ],
+    "unanswered_questions": [
+    "Where will they take Evelyn and how will she react to news of Fox River?",
+    "Who posted the bounty and why target these three?",
+    "Can Evelyn provide actionable details about pre-blast conditions or actors?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_environment",
+    "parties": ["rescuers", "unstable debris/ruins"],
+    "trigger": "Survivor trapped under heavy wall and beams.",
+    "resolution": "Quadrafan hoist and hand-clearing enable safe extraction."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["shelly"],
+    "trigger": "Duty to inform vs. risk of inducing panic.",
+    "resolution": "Administers mild sedative and withholds details; plans safe transport."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["team", "unknown bounty apparatus"],
+    "trigger": "Bounty targets overlap with rescued witness’s circle.",
+    "resolution": "Unresolved; heightens investigative and security stakes."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["mass casualty aftermath", "medical sedation", "disaster triage"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Shelly", "Werner", "Alejandro", "Evelyn", "Fox River survivor rescue", "IR thermal scan", "quadrafan hoist", "bounty on Demmy Quincy Chase", "Calum-Tam Holdfast"],
+    "keywords_dense": "Shelly, Werner, Alejandro, Evelyn, Fox River, survivor, IR scan, thermal drone, quadrafan, rope hoist, stretcher, med kit, sedation, bounty, Demmy, Quincy, Chase, Calum-Tam Holdfast, PID telemetry",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Shelly", "Werner", "Alejandro", "Evelyn", "Demmy", "Quincy", "Chase"],
+    "places": ["Fox River", "Collapsed barn (NW perimeter)"],
+    "orgs": ["Stella/StellaNet", "Calum-Tam Holdfast"],
+    "terms": ["PID", "IR scan", "fly-eyes", "quadrafan", "telemetry", "sedative"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "How do Shelly and team locate the survivor?", "a": "Via Werner’s low-altitude IR sweep, which flags a faint heat signature under barn debris."},
+    {"q": "Who is the survivor and what does she report?", "a": "Evelyn; she was sending messages during a comms blackout, hid in a barn, and the explosion hit."},
+    {"q": "Which names on a circulated bounty are mentioned?", "a": "Demmy, Quincy, and Chase."},
+    {"q": "Why does Shelly sedate Evelyn before transport?", "a": "To prevent panic and allow safe movement to medical care amid disaster conditions."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "49-wildflowers-survivor-rescue-1",
+    "type": "recap",
+    "text": "Werner’s IR sweep spots a faint heat source under collapsed barn debris near Fox River’s blast zone. Shelly, Alejandro, and Werner hoist and clear wreckage, extracting Evelyn alive. She says a comms blackout drove her outside to message Demmy when the explosion hit. Alejandro pings that Demmy, Quincy, and Chase are on a bounty; Evelyn confirms she knows them and mentions Calum-Tam Holdfast. Shelly conducts a quick assessment, sedates Evelyn to prevent panic, and evacuates by quadrafan."
+    },
+    {
+    "chunk_id": "49-wildflowers-survivor-rescue-2",
+    "type": "entities_focus",
+    "text": "Shelly (doctor/forensic lead), Werner (linked cameraman/drone operator), Alejandro (pilot/reporter), Evelyn (survivor/witness). Tech: quadrafan, thermal drone with IR overlays, fly-eye microdrones, PID telemetry, rope hoist, stretcher, med kit, sedatives. Locations: quadrafan cabin; Fox River ruins; NW barn site ~700m from epicenter. Orgs: Stella/StellaNet; Calum-Tam Holdfast (referenced)."
+    },
+    {
+    "chunk_id": "49-wildflowers-survivor-rescue-3",
+    "type": "style_theme_focus",
+    "text": "Clinical, third-limited narration blends technical rescue details with quiet compassion. Themes: triage ethics, fragile hope amid ruin, the hunted intertwined with the harmed. Motifs: engine lullaby over devastation, telemetry purity vs. chaos, the embroidered yellow dandelion rising with breath. Moral tension: protect a patient with partial truth or risk destabilizing her in transit."
+    }
+    ]
+    }

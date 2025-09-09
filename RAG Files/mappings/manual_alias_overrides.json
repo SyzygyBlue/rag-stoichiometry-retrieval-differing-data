@@ -1,0 +1,6 @@
+{
+  "overrides": {
+  },
+  "_schema": "scene_id -> [entity_id, ...]",
+  "_notes": "Populate with scene IDs mapping to canonical entity IDs to force-include entities for that scene during indexing."
+}

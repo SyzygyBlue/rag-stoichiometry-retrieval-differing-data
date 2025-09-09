@@ -1,0 +1,262 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "attack-sale-day-evac-wildebeest-gooch",
+    "chapter_number": 8,
+    "scene_number": 5,
+    "date_in_inUniverse": null,
+    "absolute_timeline_notes": "Immediate continuation of sale-day horn alarm: lookout spots a large ravager force; evacuation and rolling defense begin."
+    },
+    "text_windows": {
+    "full_scene_clean": "“Ravagers!” The lookout’s cry cracked the air. Panic surged as tents collapsed, ropes were yanked, and fires were snuffed. Caravanners executed a rapid, practiced breakdown; outside sale tables were folded and stowed. Refugees—over forty—were crammed into the Wildebeest livestock trailer. A scarecrow-thin kid clung to a truck’s back and no one stopped him. The .50-cal machine gun roared, its flashes punching through dust. Return fire from a swarm of oncoming vehicles sparked ricochets. A woman screamed. Quincy helped hoist the hissing camp stove into a truck bed and pin it down. A geyser of oily smoke rose in the distance—at least one ravager vehicle burned. Davian barked, “Gunners, positions!” Belts clinked, chocks yanked, electric motors whined. Riflemen strapped in. Quincy climbed atop the Gooch, a rifle slung over her back, forcing herself to ignore her missing toolbox. The enemy force was the largest she had seen. The Three Shovels trucks and trailers uncoiled into a single file, pulling out like a metal serpent. Quincy tucked her pack, jacked a round into the chamber, sighted into the dust, and waited for a target to come into range.",
+    "dense_recap_250w": "A lookout’s warning of a massive ravager force triggers a rapid, disciplined evacuation of the Three Shovels encampment on sale day. Caravanners dirty-stow tents and gear within moments, load more than forty refugees into the Wildebeest livestock trailer, and mount defensive positions. The camp stove is slammed into a truck bed and secured while heavy weapons spin up. A .50-cal machine gun thunders, and return fire crackles from the oncoming swarm; a plume of oily black smoke marks at least one enemy vehicle knocked out. Davian coordinates the defense with crisp orders—“Gunners, positions!”—as belts clink, chocks are yanked, and motors whine. Quincy, still missing her toolbox, prioritizes survival: she assists with stowage, scrambles onto the truck called the Gooch, chambers a round in her rifle, and sights into the roiling dust cloud. The caravan snakes out in single file, transforming from a market into a moving fortress. The scene ends with Quincy braced on overwatch, waiting for anything to emerge within range, the moral weight of leaving behind bystanders mingling with the urgency of flight under fire.",
+    "query_handle": "Ravager assault; Three Shovels executes break-camp and rolling defense—Quincy mounts rifle on Gooch as convoy pulls out."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Alarm and scramble",
+    "what_happens": "Lookout calls ravagers; caravanners collapse camp and dirty-stow gear at speed.",
+    "involved_entities": ["three-shovels-caravan", "lookout-unnamed", "quincy"],
+    "stakes_or_conflict": "Immediate survival under imminent attack."
+    },
+    {
+    "order": 2,
+    "label": "Refugees packed",
+    "what_happens": "Over forty newcomers are crammed into the Wildebeest; bystanders scatter.",
+    "involved_entities": ["wildebeest-trailer", "refugees-group", "three-shovels-caravan"],
+    "stakes_or_conflict": "Triage: protect those with passage while others are left behind."
+    },
+    {
+    "order": 3,
+    "label": "Guns up",
+    "what_happens": "The .50-cal opens fire; return fire cracks; one ravager vehicle goes up in oily smoke.",
+    "involved_entities": ["fifty-cal-heavy-mg", "ravagers-faction", "gunners-crew"],
+    "stakes_or_conflict": "Superior firepower vs swarm numbers."
+    },
+    {
+    "order": 4,
+    "label": "Quincy deploys",
+    "what_happens": "Quincy helps mount the camp stove, climbs the Gooch, chambers her rifle, and scans the dust.",
+    "involved_entities": ["quincy", "camp-stove", "gooch-truck", "quincy-rifle"],
+    "stakes_or_conflict": "She sets aside the missing toolbox to fight."
+    },
+    {
+    "order": 5,
+    "label": "Convoy rolls",
+    "what_happens": "Davian commands; trucks pull out single file like a metal serpent.",
+    "involved_entities": ["davian", "three-shovels-caravan"],
+    "stakes_or_conflict": "Escape under contact; maintain formation and fire discipline."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Help the caravan break camp and provide armed overwatch during the withdrawal.",
+    "obstacles": "Missing toolbox; heavy enemy numbers; limited visibility in dust and chaos.",
+    "tactics": "Rapid stowage; climb high vantage (Gooch roof); chamber rifle; wait for target within range.",
+    "relationships": [
+    {"with": "davian", "type": "ally", "state": "operational-trust", "evidence": "Acts on his commands during evacuation."}
+    ],
+    "emotional_arc": {
+    "start": "shock, urgency",
+    "turning_points": ["Acknowledges toolbox loss but suppresses it", "Chambers rifle and commits to defense"],
+    "end": "focused, battle-ready"
+    },
+    "notable_actions": ["lifts and pins camp stove", "climbs onto Gooch", "chambers rifle", "sights into dust for targets"],
+    "quotable_lines": ["One down, way too many left to go."]
+    },
+    {
+    "id": "davian",
+    "display_name": "Davian",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Organize defense and movement; get convoy rolling intact.",
+    "obstacles": "Large attacking force; protecting refugees; coordinating multiple guns and vehicles.",
+    "tactics": "Direct orders; position gunners; synchronize pull-out.",
+    "relationships": [
+    {"with": "three-shovels-caravan", "type": "leader", "state": "command-active", "evidence": "“Gunners, positions!”"}
+    ],
+    "emotional_arc": {"start": "authoritative", "turning_points": [], "end": "command-focused"},
+    "notable_actions": ["issues commands to gunners and convoy"]
+    },
+    {
+    "id": "lookout-unnamed",
+    "display_name": "Lookout (unnamed)",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Warn camp of incoming ravagers.",
+    "obstacles": "Time pressure; chaos",
+    "tactics": "Shouts alarm",
+    "relationships": [],
+    "emotional_arc": {"start": "alarmed", "turning_points": [], "end": "n/a"},
+    "notable_actions": ["shouts 'Ravagers!'"],
+    "quotable_lines": ["Ravagers!"]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "fifty-cal-heavy-mg",
+    "name": ".50-cal heavy machine gun",
+    "category": "weapon",
+    "capabilities": ["sustained heavy fire", "vehicle/anti-materiel suppression"],
+    "owner_or_users": ["three-shovels-caravan", "gunners-crew"],
+    "condition_or_state": "active-firing",
+    "scene_function": "Provides covering fire; knocks out at least one ravager vehicle."
+    },
+    {
+    "id": "quincy-rifle",
+    "name": "Quincy’s rifle",
+    "category": "weapon",
+    "capabilities": ["mid-range kinetic fire"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "ready; round chambered",
+    "scene_function": "Personal defense/overwatch from Gooch."
+    },
+    {
+    "id": "camp-stove",
+    "name": "Community camp stove/boiler",
+    "category": "other",
+    "capabilities": ["heating/boiling water for camp"],
+    "owner_or_users": ["three-shovels-caravan"],
+    "condition_or_state": "hot; hastily secured",
+    "scene_function": "Critical equipment secured during scramble."
+    },
+    {
+    "id": "wildebeest-trailer",
+    "name": "Wildebeest livestock trailer",
+    "category": "vehicle",
+    "capabilities": ["mass passenger transport (refugees)"],
+    "owner_or_users": ["three-shovels-caravan"],
+    "condition_or_state": "packed with >40 refugees",
+    "scene_function": "Holds newcomers as convoy departs under fire."
+    },
+    {
+    "id": "gooch-truck",
+    "name": "Gooch (truck)",
+    "category": "vehicle",
+    "capabilities": ["platform for overwatch", "convoy haulage"],
+    "owner_or_users": ["three-shovels-caravan", "quincy"],
+    "condition_or_state": "operational",
+    "scene_function": "Quincy’s firing perch during withdrawal."
+    }
+    ],
+    "locations": [
+    {
+    "id": "three-shovels-encampment-sale-day",
+    "name": "Three Shovels encampment (sale day)",
+    "type": "caravan",
+    "descriptors": ["crowded", "dusty", "organized chaos"],
+    "in_scene_events": ["Rapid breakdown, refugee loading, heavy weapons engage, convoy rolls out."]
+    },
+    {
+    "id": "dust-cloud-approach",
+    "name": "Dust-cloud approach zone",
+    "type": "wilderness",
+    "descriptors": ["swirling dust", "oily smoke plume", "limited visibility"],
+    "in_scene_events": ["Ravager vehicles swarm; one burns."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": ["davian", "quincy", "gunners-crew", "refugees-group"],
+    "motives_inferred": "Protect convoy and refugees; break contact and withdraw.",
+    "actions_in_scene": ["Executes emergency stow", "Loads refugees", "Engages with .50-cal", "Departs in single-file convoy"]
+    },
+    {
+    "id": "ravagers-faction",
+    "name": "Ravagers",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Attack and plunder caravan (inferred from assault).",
+    "actions_in_scene": ["Advance in numbers", "Return fire on convoy", "Lose at least one vehicle to defensive fire"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Survival under fire", "Duty vs compassion", "Preparedness and discipline", "Individual vs collective needs"],
+    "motifs_symbols": ["dust and smoke veils", "metal serpent convoy", "blaring heavy gun"],
+    "moral_questions": ["What is owed to those left outside the walls when survival is at stake?", "How much risk should a caravan take to protect outsiders?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic/technical",
+    "pacing": "high-intensity",
+    "voice_traits": ["operational detail", "compressed commands", "combat immediacy"],
+    "sensory_notes": [".50-cal thunder", "steam hiss", "belts clinking", "oily smoke smell", "grit of dust cloud"]
+    },
+    "causality": {
+    "prior_dependencies": ["Horn alarm and scream preceding the attack; Quincy’s missing toolbox heightening vulnerability"],
+    "outcomes": ["Convoy departs under contact", "At least one ravager vehicle destroyed", "Quincy positioned as rifle overwatch on Gooch"],
+    "unanswered_questions": ["Will the convoy outrun or defeat the swarm?", "Who was the woman who screamed?", "Where is Quincy’s toolbox?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["three-shovels-caravan", "ravagers-faction"],
+    "trigger": "Ravager assault on sale day camp",
+    "resolution": "Ongoing; convoy withdraws while engaging."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy", "dust/smoke/chaos of battle"],
+    "trigger": "Limited visibility and moving fire fight",
+    "resolution": "Quincy takes elevated position, waits for clear target."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["caravan policy", "left-behind outsiders"],
+    "trigger": "Evacuation leaves non-paying bystanders behind",
+    "resolution": "Unresolved ethical tension."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["civilian endangerment", "combat/attack", "refugee vulnerability"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Davian", "Wildebeest", "Gooch", "ravager attack", ".50-cal", "sale day evacuation", "refugees loaded"],
+    "keywords_dense": "ravagers attack, Three Shovels, sale day, evacuation, Wildebeest trailer, Gooch truck, .50-cal machine gun, oily smoke, dust cloud, Davian orders, refugees",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Davian"],
+    "places": [],
+    "orgs": ["Three Shovels Caravan", "Ravagers"],
+    "terms": ["Wildebeest", "Gooch", ".50-cal", "dirty-stow"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What triggers the caravan’s evacuation?", "a": "A lookout shouts that ravagers are approaching in large numbers."},
+    {"q": "Where are the refugees during the attack?", "a": "Packed into the Wildebeest livestock trailer."},
+    {"q": "What heavy weapon do the caravanners employ?", "a": "A .50-cal heavy machine gun."},
+    {"q": "What role does Quincy take as the convoy moves?", "a": "She climbs onto the Gooch, chambers her rifle, and provides overwatch."},
+    {"q": "Does Quincy recover her missing toolbox in this scene?", "a": "No; she forces herself to ignore its absence during the fight."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "attack-sale-day-evac-1-recap",
+    "type": "recap",
+    "text": "On sale day, a lookout’s cry of ‘Ravagers!’ triggers a rapid breakdown of the Three Shovels camp. Refugees are crammed into the Wildebeest trailer as tents and gear are dirty-stowed. A .50-cal machine gun hammers the oncoming swarm; at least one enemy vehicle burns, sending oily smoke skyward. Davian orders gunners to positions as the convoy uncoils into a single-file withdrawal. Quincy helps secure the camp stove, climbs onto the Gooch, chambers her rifle, and sights into the dust, setting aside the problem of her missing toolbox to focus on survival."
+    },
+    {
+    "chunk_id": "attack-sale-day-evac-2-entities",
+    "type": "entities_focus",
+    "text": "Entities: Quincy (mechanic turned rifle overwatch), Davian (field commander), Lookout (alarm), refugees-group (>40). Factions: Three Shovels Caravan (defenders), Ravagers (attackers). Tech/gear: .50-cal heavy MG, Quincy’s rifle, Gooch truck, Wildebeest trailer, camp stove, chocks, ammo belts. Locations: sale-day encampment, dust-cloud approach zone. Dynamics: disciplined evacuation, rolling defense, ethical tension over those left outside."
+    },
+    {
+    "chunk_id": "attack-sale-day-evac-3-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-person limited past with gritty, operational detail and cinematic immediacy. Themes of survival, duty vs compassion, and collective discipline under fire. Motifs: dust and oily smoke obscuring intent, the convoy as a ‘metal serpent,’ the thunder of a .50-cal. Moral tension arises from saving those with passage while abandoning others as the battle closes in."
+    }
+    ]
+    }

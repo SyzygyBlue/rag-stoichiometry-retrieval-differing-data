@@ -1,0 +1,152 @@
+{
+    "doc_type": "neon_titan_character_v1",
+    "source": {
+    "dossier_file": "Lesha_dossier.md",
+    "scene_refs": []
+    },
+    "identity": {
+    "id": "lesha",
+    "display_name": "Lesha",
+    "aliases": [],
+    "mbti": "ISTJ",
+    "age_bracket": "70s",
+    "gender": "female",
+    "origin": "Metrofederacy (private mercenary)"
+    },
+    "affiliations": ["calum-tam-holdfast"],
+    "bio": {
+    "one_liner": "Former mercenary turned autopacker maintainer at Calum-Tam slaver holdfast; cynical, capable, and cybernetically armored but hampered by Sykotiq addiction.",
+    "summary": "Lesha is a seventy-year-old former mercenary who maintains the autopacker at the Calum-Tam slaver holdfast. She presents as pragmatic, resourceful, and gruffly kind beneath a jaded exterior, using dry humor as a coping mechanism. Her body carries intact but aging Dermoweave—bio-reactive armor fused to synthetic skin—along with deactivated cybernetic ports. At about 190 cm with a lean, wiry build, she appears closer to forty due to the Dermoweave. The dossier emphasizes technical skill with AR systems and hacking tools, a history implying combat experience, and a major vulnerability: addiction to the drug Sykotiq, which drives decisions and exposes her to manipulation. After Fox River’s destruction she enters withdrawal and displacement, yet chooses to travel with Quincy, Chase, and Demmy toward Broken Bow. Her present stance is reluctant solidarity, with survival instincts gradually expanding to include mentorship and loyalty, especially toward Quincy.",
+    "narrative_gravity": 6
+    },
+    "personality": {
+    "traits": ["cynical", "pragmatic", "resourceful", "dry-witted", "gruff-but-kind"],
+    "flaws": ["sykotiq-addiction", "resignation/cynicism", "manipulable-due-to-dependence", "internal-conflict"],
+    "values": ["self-preservation", "personal-freedom", "latent-connection/mentorship"],
+    "motivations_primary": ["obtain-sykotiq/manage-withdrawal", "survive"],
+    "motivations_secondary": ["help-quincy-escape/succeed", "seek-stability-after-captivity"]
+    },
+    "appearance": {
+    "height_cm": 190,
+    "build": "thick and sturdy with long muscular limbs",
+    "hair": "tight, asymmetrical dreadlocks; one side shaved; black with dark copper hints",
+    "eyes": "very dark brown, nearly black; scanning",
+    "notable_marks": ["honeycomb dermoweave mesh over face/neck/arms/body", "silvery embedded cybernetic ports (mostly deactivated)", "synthetic skin with no scars"],
+    "style": "practical, weathered gear: sleeveless black tank tops, armored utility shorts/pants, reinforced boots, fingerless gloves, combat rucksack"
+    },
+    "skills": {
+    "combat": ["former-mercenary-experience (extent-unclear)"],
+    "technical": ["AR-systems", "hacking-tools", "autopacker-maintenance"],
+    "tactics": ["pragmatic-survival", "covert-escape-assistance", "transactional-bargaining"],
+    "limitations": ["sykotiq-addiction/withdrawal", "dermoweave-inert-and-brittle", "cybernetic-ports-deactivated", "cynicism-limiting-risk-taking"]
+    },
+    "relationships": [
+    {
+    "with": "quincy",
+    "label": "mentor/ally",
+    "state": "warm-growing",
+    "notes": "Developing mentorship and fondness; helps Quincy escape and provides technical guidance."
+    },
+    {
+    "with": "chase",
+    "label": "ally (wary)",
+    "state": "cautious",
+    "notes": "Interacts mainly via Quincy; expresses concern but prioritizes survival."
+    },
+    {
+    "with": "lenya",
+    "label": "captor/antagonist",
+    "state": "resentful-fearful",
+    "notes": "Resents Lenya’s control at the holdfast but complies due to addiction."
+    }
+    ],
+    "arc": {
+    "status_now": "Alive, in Sykotiq withdrawal, traveling with Quincy, Chase, and Demmy after Fox River’s destruction; assisting with technical skills despite deactivated systems.",
+    "pre_pivot": "Chemically dependent indentured worker at Calum-Tam, maintaining the autopacker under slaver control.",
+    "pivot_event": "destruction-of-fox-river",
+    "post_pivot": "Forced liberation leads to withdrawal and displacement; chooses reluctant solidarity with the group and renewed mentorship toward Quincy.",
+    "future_vector": "Journey toward Broken Bow with the group."
+    },
+    "items_and_tech": [
+    {
+    "id": "dermoweave",
+    "name": "Dermoweave bio-reactive armor",
+    "category": "cybernetics",
+    "capabilities": ["synthetic-skin-armor", "age-masking/younger-appearance"],
+    "condition": "intact but aging; inert/brittle from lack of maintenance",
+    "notes": "Hexagonal mesh fused to skin across face, neck, arms, and body."
+    },
+    {
+    "id": "cybernetic-ports",
+    "name": "Embedded cybernetic ports",
+    "category": "cybernetics",
+    "capabilities": ["interface-potential (currently inactive)"],
+    "condition": "deactivated",
+    "notes": "Silvery seams visible on synthetic skin."
+    },
+    {
+    "id": "sykotiq",
+    "name": "Sykotiq",
+    "category": "medical",
+    "capabilities": ["stimulant/dependency"],
+    "condition": "addiction; withdrawal ongoing",
+    "notes": "Primary weakness driving choices and manipulation."
+    }
+    ],
+    "themes": {
+    "keywords": ["addiction", "survival", "captivity-to-freedom", "mentorship", "cybernetics-failing", "reluctant-solidarity"],
+    "moral_tensions": ["self-preservation-vs-connection", "dependence-vs-autonomy", "pragmatism-vs-conscience"]
+    },
+    "text_windows": {
+    "bio_200w": "Lesha is a former mercenary and the maintainer of the autopacker at the Calum-Tam slaver holdfast. She is seventy yet appears younger due to intact but aging Dermoweave fused to synthetic skin, with deactivated cybernetic ports. Cynical, pragmatic, and resourceful, she masks guarded warmth and dry humor, showing particular fondness for Quincy. Her technical strengths include AR systems and hacking tools, and her history implies combat experience, though the dossier does not detail its extent. A major vulnerability is addiction to Sykotiq, which drives decisions and exposes her to manipulation. After Fox River’s destruction she is thrust into withdrawal and displacement, yet remains sharp-witted and capable. She chooses to travel with Quincy, Chase, and Demmy toward Broken Bow, shifting from isolation to reluctant solidarity while continuing to help the group with technical know-how and practical survival skills.",
+    "arc_200w": "Lesha is an indentured technician whose arc moves from chemically controlled captivity to uneasy freedom with a small group. Before the pivot she is trapped at the Calum-Tam holdfast, maintaining the autopacker and prioritizing Sykotiq access over resistance. The destruction of Fox River acts as the turning point that disrupts local power, forcing withdrawal and dislocation. Post-pivot she decides to stay with Quincy, Chase, and Demmy as they move toward Broken Bow, choosing connection over isolation even as her systems remain deactivated and her Dermoweave is brittle from neglect. The dossier frames her trajectory as a slow reawakening of loyalty and protectiveness centered on Quincy, with survival instincts broadening into shared purpose. The future remains uncertain and conditioned on whether she can manage addiction without supply while functioning as the group’s technically adept, battle-worn anchor.",
+    "skills_120w": "Lesha’s competencies center on technology and practical survival. She is skilled with AR systems and hacking tools and maintains industrial equipment such as the autopacker. Her background implies combat experience from a former mercenary life, though specifics are not detailed. Tactically she favors pragmatic problem solving, covert assistance with escapes, and transactional bargaining. Limitations are substantial: dependency on Sykotiq with active withdrawal, Dermoweave that is inert and brittle from lack of maintenance, deactivated cybernetic ports, and a resigned cynicism that can suppress initiative.",
+    "appearance_120w": "Lesha stands about 190 cm with a lean, wiry build. Dermoweave forms a honeycomb mesh over synthetic skin across her face, neck, arms, and body, with silvery seams from embedded but deactivated ports; the armor makes her appear younger than seventy. Her eyes are very dark brown and constantly scanning. Hair is tight, asymmetrical dreadlocks—one side shaved, locks black with dark copper hints. She dresses in practical, weathered gear: sleeveless black tanks, armored utility pants cut off at the knees, reinforced boots, fingerless gloves, and a slung combat rucksack.",
+    "relationships_180w": "Lesha’s closest tie is with Quincy. Their relationship begins transactionally but develops into mentorship and real fondness; she helps Quincy escape and offers technical guidance. With Chase, interaction is wary and filtered through Quincy—she shows situational concern while prioritizing survival. With Lenya, she is an exploited captive who complies under addiction, resenting the control while fearing reprisal. After Fox River’s destruction, Lesha travels with Quincy, Chase, and Demmy, signaling reluctant solidarity and the possibility of broader loyalty. These relationships reflect a shift from isolation to guarded connection, with Quincy as the catalyst for reawakening empathy and purpose."
+    },
+    "qa_pairs": [
+    {"q": "What is Lesha’s role at the Calum-Tam holdfast?", "a": "She maintains the autopacker for the slavers at the Calum-Tam holdfast."},
+    {"q": "How tall is Lesha, and does the dossier mention cybernetics?", "a": "She is about 190 cm (6'3\") and has Dermoweave synthetic skin with deactivated cybernetic ports."},
+    {"q": "What addiction shapes Lesha’s decisions?", "a": "She is dependent on Sykotiq and is in withdrawal after the fall of prior structures."},
+    {"q": "Who does Lesha mentor and help escape?", "a": "She mentors Quincy, helping her escape and offering technical guidance."},
+    {"q": "Where is Lesha headed after Fox River’s destruction?", "a": "She travels with Quincy, Chase, and Demmy toward Broken Bow."}
+    ],
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Lesha", "Calum-Tam Holdfast", "autopacker maintainer", "Dermoweave", "cybernetic ports", "Sykotiq addiction", "former mercenary", "AR systems", "hacking tools", "Broken Bow"],
+    "keywords_dense": "Lesha, ISTJ, Calum-Tam Holdfast, autopacker, former mercenary, Dermoweave, synthetic skin, cybernetic ports, Sykotiq addiction, AR systems, hacking tools, Fox River destruction, Quincy, Chase, Demmy, Broken Bow",
+    "spoiler_level": "book1_end",
+    "named_entities": {
+    "people": ["Lesha", "Quincy", "Chase", "Demmy", "Lenya"],
+    "places": ["Calum-Tam Holdfast", "Fox River", "Broken Bow"],
+    "orgs": [],
+    "terms": ["Dermoweave", "cybernetic ports", "Sykotiq", "autopacker", "AR systems"]
+    }
+    },
+    "embedding_payloads": [
+    {
+    "chunk_id": "lesha-1",
+    "type": "bio",
+    "text": "Lesha is a former mercenary and autopacker maintainer at the Calum-Tam slaver holdfast who is pragmatic, resourceful, and gruffly kind beneath cynicism. She carries intact but aging Dermoweave fused to synthetic skin with deactivated ports and stands about 190 cm. Technical strengths span AR systems and hacking tools, while Sykotiq addiction is a primary weakness. After Fox River’s destruction she enters withdrawal but chooses to travel with Quincy, Chase, and Demmy toward Broken Bow."
+    },
+    {
+    "chunk_id": "lesha-2",
+    "type": "arc",
+    "text": "Lesha is a captive technician whose turning point follows the destruction of Fox River. Pre-pivot she remains at the Calum-Tam holdfast, prioritizing access to Sykotiq and survival. Post-pivot she confronts withdrawal and displacement, yet elects reluctant solidarity with Quincy, Chase, and Demmy en route to Broken Bow, gradually widening her focus from self-preservation to mentorship and loyalty."
+    },
+    {
+    "chunk_id": "lesha-3",
+    "type": "relationships",
+    "text": "Lesha is most closely connected to Quincy in a growing mentor-ally bond that began transactionally. She treats Chase as a wary ally and regards Lenya as a feared captor whose control exploited her addiction. After Fox River’s destruction she travels with Quincy, Chase, and Demmy, indicating guarded expansion of trust."
+    },
+    {
+    "chunk_id": "lesha-4",
+    "type": "skills_cybernetics",
+    "text": "Lesha is proficient with AR systems, hacking tools, and industrial maintenance of the autopacker; her background implies combat experience. Cybernetically, she has Dermoweave synthetic skin and embedded ports that are currently deactivated. Limitations include Sykotiq addiction with active withdrawal, inert/brittle Dermoweave, and resignation that can dampen initiative."
+    },
+    {
+    "chunk_id": "lesha-5",
+    "type": "appearance",
+    "text": "Lesha is approximately 190 cm with a lean, wiry build, very dark brown eyes, and tight asymmetrical dreadlocks. Honeycomb Dermoweave covers face, neck, arms, and body over synthetic skin with silvery seams of deactivated ports. She wears practical, weathered gear with reinforced boots, fingerless gloves, and a combat rucksack."
+    }
+    ]
+    }

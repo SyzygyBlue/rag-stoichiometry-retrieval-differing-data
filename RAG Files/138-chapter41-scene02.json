@@ -1,0 +1,264 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Space Between Us",
+    "scene_id": "demmy-evelyn-boundaries-teg6-2186-12-01",
+    "chapter_number": 41,
+    "scene_number": 2,
+    "date_in_universe": "2186-12-01",
+    "absolute_timeline_notes": "Same day as Evelyn’s recovery reunion; rumors precede Demmy’s visit; ends with Demmy heading toward the Fox River motor pool."
+    },
+    "text_windows": {
+    "full_scene_clean": "Rumors that Quincy and Chase were captured at the Calum-Tam Holdfast reach Demmy before he visits Evelyn. He considers going but decides Evelyn needs him more. As she sleeps on his arms, he reflects that making her feel safe is the best compliment. She wakes; quiet intimacy builds, but Evelyn stops and asks what is happening between them. She admits strong feelings, fear, and a need to slow down—no bed, not yet, suggesting lunch, a walk, or exploring corridors instead. Demmy feels confused and rejected but agrees to leave for a bit. At the door, he silently hopes she will ask him to stay; she doesn’t. He exits, planning to be back in a couple of days and thinking about borrowing a TEG-6, recalling he still has the activation chip. He heads toward the motor pool.",
+    "dense_recap_250w": "Demmy learns that Quincy and Chase may be captive at the Calum-Tam Holdfast but prioritizes visiting Evelyn, deciding she needs him more. While holding her as she sleeps, tenderness edges toward deeper intimacy. Evelyn pulls back, acknowledging that her emotions are volatile after recent trauma and asking Demmy to slow down: no being in bed together yet, but yes to time together like lunch, a walk, or exploring corridors. Demmy, inexperienced with relationships, misreads the pause as rejection and struggles to regulate his own feelings. He chooses to honor her boundary by giving space, promising to return in a couple of days. As he leaves, he hopes she will ask him to stay but she cannot find the words. Seeking distraction and a way to help others he owes, Demmy turns his thoughts to action: he considers borrowing a TEG-6 vehicle, noting he still has its activation chip, and heads for the motor pool. The scene clarifies consent and pacing in Demmy and Evelyn’s relationship, balances care with duty, and sets up Demmy’s next move toward a possible rescue attempt.",
+    "query_handle": "Evelyn sets boundaries; Demmy agrees to slow down, then heads to borrow a TEG-6 after hearing Calum-Tam capture rumors."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Duty vs. care",
+    "what_happens": "Demmy weighs rescuing Quincy/Chase against staying with traumatized Evelyn and chooses her.",
+    "involved_entities": ["demmy", "evelyn", "quincy", "chase", "calum-tam-holdfast"],
+    "stakes_or_conflict": "Allegiance and timeliness vs. immediate emotional care."
+    },
+    {
+    "order": 2,
+    "label": "Rising intimacy",
+    "what_happens": "Quiet closeness on the bed; Evelyn’s touch and gaze escalate fragile intimacy.",
+    "involved_entities": ["demmy", "evelyn", "evelyn-dorm-room"],
+    "stakes_or_conflict": "Comfort vs. crossing boundaries too soon."
+    },
+    {
+    "order": 3,
+    "label": "Boundary articulated",
+    "what_happens": "Evelyn asks to slow down; suggests non-bed time together; frames consent and readiness.",
+    "involved_entities": ["evelyn", "demmy"],
+    "stakes_or_conflict": "Emotional safety and control vs. desire and momentum."
+    },
+    {
+    "order": 4,
+    "label": "Hurt and restraint",
+    "what_happens": "Demmy feels rejection, struggles, then agrees to leave for a short time; hopes she asks him to stay.",
+    "involved_entities": ["demmy", "evelyn"],
+    "stakes_or_conflict": "Self-control vs. emotional overwhelm."
+    },
+    {
+    "order": 5,
+    "label": "Action pivot",
+    "what_happens": "Demmy heads to the motor pool, considering borrowing a TEG-6 using his activation chip.",
+    "involved_entities": ["demmy", "teg-6", "fox-river-motor-pool", "master-mctanner"],
+    "stakes_or_conflict": "Personal space granted vs. urgent external mission forming."
+    }
+    ],
+    "characters": [
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Support Evelyn; respect consent; find purposeful action (consider TEG-6 and possible rescue).",
+    "obstacles": "Inexperience with relationships; conflicting duties to friends; emotional overwhelm.",
+    "tactics": "Stays physically present; listens; then gives space; redirects to mission planning.",
+    "relationships": [
+    {"with": "evelyn", "type": "romantic/ally", "state": "tender but strained by pacing", "evidence": "Agrees to slow down; leaves to honor her boundary."},
+    {"with": "quincy", "type": "ally/debt", "state": "owes her help", "evidence": "“It was Quincy, after all; he owed her.”"},
+    {"with": "chase", "type": "ally-by-association", "state": "concerned", "evidence": "Considers rescue after rumors at Calum-Tam."},
+    {"with": "master-mctanner", "type": "mentor/commander", "state": "resource for gear", "evidence": "Thinks of borrowing TEG-6; has activation chip."}
+    ],
+    "emotional_arc": {
+    "start": "resolved to prioritize Evelyn; quietly content",
+    "turning_points": ["Evelyn asks to slow down", "Demmy chooses to leave, redirecting energy to action"],
+    "end": "hurt but composed; mission-focused"
+    },
+    "notable_actions": ["comforts Evelyn", "accepts slowdown", "leaves room", "heads to motor pool", "plans to use TEG-6 with activation chip"],
+    "quotable_lines": ["I'd do it again and again.", "I'll be back in a couple of days."]
+    },
+    {
+    "id": "evelyn",
+    "display_name": "Evelyn",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Maintain control of pacing; seek safe companionship without rushing intimacy.",
+    "obstacles": "Fresh trauma; strong emotions; fear of moving too fast.",
+    "tactics": "Names her needs; proposes alternatives (lunch, walk, corridors).",
+    "relationships": [
+    {"with": "demmy", "type": "romantic/ally", "state": "caring with firm boundaries", "evidence": "“Let’s slow down… I don’t want to be in bed with you… not until it’s for the right reasons.”"}
+    ],
+    "emotional_arc": {
+    "start": "comforted, drawn close",
+    "turning_points": ["States boundary to slow down"],
+    "end": "sad but resolute; asks him not to stay away long"
+    },
+    "notable_actions": ["halts escalation", "sets consent boundary", "suggests slower activities"],
+    "quotable_lines": ["Just slow down with me, okay?", "Please don't stay away too long."]
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "demmy", "type": "ally", "state": "owed favor", "evidence": "Demmy feels indebted to Quincy."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "demmy", "type": "tenuous/ally", "state": "concern via rumor", "evidence": "Capture rumor factors into Demmy’s planning."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "teg-6",
+    "name": "TEG-6",
+    "category": "vehicle",
+    "capabilities": ["rapid overland transport", "spec-ops outfitting (implied)"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "intact",
+    "scene_function": "Represents Demmy’s pivot to action; planned transport for potential rescue."
+    },
+    {
+    "id": "teg-6-activation-chip",
+    "name": "TEG-6 activation chip",
+    "category": "other",
+    "capabilities": ["enables vehicle access/ignition"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "intact",
+    "scene_function": "Key that makes his immediate departure feasible."
+    }
+    ],
+    "locations": [
+    {
+    "id": "evelyn-dorm-room",
+    "name": "Evelyn’s dormitory room",
+    "type": "room",
+    "descriptors": ["intimate", "quiet", "bed as seating"],
+    "in_scene_events": ["Boundary conversation; Demmy’s departure decision."]
+    },
+    {
+    "id": "fox-river-motor-pool",
+    "name": "Fox River motor pool",
+    "type": "structure",
+    "descriptors": ["vehicle storage", "operational hub"],
+    "in_scene_events": ["Demmy heads there intending to borrow a TEG-6."]
+    },
+    {
+    "id": "calum-tam-holdfast",
+    "name": "Calum-Tam Holdfast",
+    "type": "holdfast",
+    "descriptors": ["rumored captors", "hostile-aligned (inferred)"],
+    "in_scene_events": ["Referenced as site of Quincy/Chase captivity by rumor."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "trg",
+    "name": "TRG (spec-ops unit)",
+    "alignment": "ally",
+    "agents_present": ["demmy"],
+    "motives_inferred": "Equip/enable rapid response missions.",
+    "actions_in_scene": ["Indirectly provides access to gear/platforms (TEG-6 context)."]
+    },
+    {
+    "id": "calum-tam",
+    "name": "Calum-Tam Holdfast",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Detain outsiders; aligned against Fox River interests (inferred via rumor).",
+    "actions_in_scene": ["Rumored to be holding Quincy and Chase."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["consent and pacing", "duty vs. love", "healing after trauma", "identity under pressure"],
+    "motifs_symbols": ["doorway as choice point", "bed as boundary line", "vehicle key as agency"],
+    "moral_questions": ["How do you honor consent while danger looms elsewhere?", "When does duty to friends outweigh personal caregiving?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "intimate/cinematic",
+    "pacing": "slow-burn",
+    "voice_traits": ["interior monologue flashes", "plainspoken dialogue", "emotional restraint"],
+    "sensory_notes": ["warmth of touch under shirt hem", "door handle grip tightening", "quiet room vs. imagined urgency"]
+    },
+    "causality": {
+    "prior_dependencies": ["Earlier rescue of Evelyn and their growing bond", "Rumors of Quincy/Chase capture", "Demmy’s access to a TEG-6 activation chip"],
+    "outcomes": ["Relationship boundary is explicit: slow down", "Demmy creates space and pivots to possible rescue action", "Immediate plan: go to motor pool and leverage TEG-6"],
+    "unanswered_questions": ["Will Demmy attempt a solo infiltration/rescue?", "How will pacing affect the Demmy–Evelyn relationship?", "Are the rumors accurate about Calum-Tam?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["demmy"],
+    "trigger": "Evelyn’s request to slow down conflicts with his desire to protect and be close.",
+    "resolution": "He chooses restraint and leaves to give space."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["evelyn", "demmy"],
+    "trigger": "Escalating intimacy on the bed.",
+    "resolution": "Evelyn sets a clear boundary; both agree to slow down, with lingering hurt."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["demmy", "hostile world (Calum-Tam rumor)"],
+    "trigger": "Friends in danger while he’s needed as caregiver.",
+    "resolution": "Unresolved; Demmy shifts toward action via TEG-6 plan."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "implied",
+    "sensitive_topics": ["consent and boundaries", "post-trauma emotional regulation"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Demmy & Evelyn boundaries", "Calum-Tam capture rumor", "TEG-6 vehicle plan", "activation chip", "Fox River motor pool"],
+    "keywords_dense": "Demmy, Evelyn, consent, boundaries, intimacy, Calum-Tam Holdfast, Quincy, Chase, TEG-6, activation chip, motor pool, Fox River, relationship pacing, rescue plan",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Demmy", "Evelyn", "Quincy", "Chase", "Master McTanner"],
+    "places": ["Evelyn’s dormitory room", "Fox River motor pool", "Calum-Tam Holdfast"],
+    "orgs": ["TRG"],
+    "terms": ["TEG-6", "activation chip"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What does Evelyn ask for regarding their relationship?", "a": "To slow down—no being in bed together yet; instead spend time like lunch, a walk, or exploring corridors."},
+    {"q": "Where does Demmy go at the end of the scene and why?", "a": "Toward the Fox River motor pool, considering borrowing a TEG-6 using his activation chip for a potential rescue."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "demmy-evelyn-boundaries-recap",
+    "type": "recap",
+    "text": "After hearing rumors that Quincy and Chase are captive at the Calum-Tam Holdfast, Demmy visits Evelyn and chooses care over immediate action. Intimacy rises but Evelyn, still fragile, asks to slow down—no bed yet, suggesting gentler time together. Demmy feels hurt yet respects her boundary and decides to give space for a couple of days. Seeking purpose, he turns to logistics, heading for the Fox River motor pool and thinking to borrow a TEG-6 with his activation chip, hinting at a possible rescue attempt."
+    },
+    {
+    "chunk_id": "demmy-evelyn-boundaries-entities",
+    "type": "entities_focus",
+    "text": "Demmy (POV; caregiver torn between love and duty), Evelyn (survivor asserting consent), Quincy and Chase (allies in rumored captivity), Master McTanner (gear gatekeeper), TRG (spec-ops context). Tech/Items: TEG-6 vehicle, TEG-6 activation chip. Places: Evelyn’s dorm room, Fox River motor pool, Calum-Tam Holdfast."
+    },
+    {
+    "chunk_id": "demmy-evelyn-boundaries-style-theme",
+    "type": "style_theme_focus",
+    "text": "Intimate third-limited past with restrained, sincere dialogue. Themes: consent and pacing, duty vs. affection, healing after trauma, action as coping. Motifs: door as choice, bed as boundary, vehicle key as agency. Tone is gentle yet aching, pivoting from tenderness to mission-focused resolve."
+    }
+    ]
+    }

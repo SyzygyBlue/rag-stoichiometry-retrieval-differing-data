@@ -1,0 +1,134 @@
+{
+    "doc_type": "neon_titan_character_v1",
+    "source": {
+      "dossier_file": null,
+      "scene_refs": ["calum-tam-holdfast-scenes"]
+    },
+    "identity": {
+      "id": "carl",
+      "display_name": "Carl",
+      "aliases": ["Overseer Carl"],
+      "mbti": "ESTP",
+      "age_bracket": "adult",
+      "gender": "male",
+      "origin": "Calum-Tam Holdfast"
+    },
+    "affiliations": ["calum-tam-holdfast", "lenya-tam-guards"],
+    "bio": {
+      "one_liner": "Sadistic overseer of Calum-Tam Holdfast, known for violence, intimidation, and brutality toward prisoners.",
+      "summary": "Carl is Lenya Tam’s heavy-handed overseer, feared within Calum-Tam Holdfast for his violent temper and willingness to inflict pain. He relishes intimidation, using his fists and club to maintain dominance, and is known to beat prisoners nearly to death. Despite his cruelty, he is careful not to openly cross Lenya, whose authority he recognizes. His sadism makes him a constant threat to Chase and Quincy while they are imprisoned. During the chaos of the ravager attack on the holdfast, Carl attempts to kill Chase with a club, but is intercepted and slain by Demmy and Lesha, ending his reign of violence.",
+      "narrative_gravity": 7
+    },
+    "personality": {
+      "traits": ["sadistic", "intimidating", "violent", "opportunistic", "cowardly-before-superiors"],
+      "flaws": ["cruelty", "rage", "lack-of-restraint", "short-tempered"],
+      "values": ["domination", "fear", "authority"],
+      "motivations_primary": ["assert-control", "indulge-violence"],
+      "motivations_secondary": ["avoid-crossing-lenya", "maintain-status-as-overseer"]
+    },
+    "appearance": {
+      "height_cm": null,
+      "build": "large and heavyset",
+      "hair": null,
+      "eyes": null,
+      "notable_marks": [],
+      "style": "rough overseer; often carrying a heavy club or keys"
+    },
+    "skills": {
+      "combat": ["brutal-hand-to-hand", "club-use"],
+      "technical": [],
+      "tactics": ["fear-intimidation"],
+      "limitations": ["reckless", "overconfident", "outmatched-by-skilled-combatants"]
+    },
+    "relationships": [
+      {
+        "with": "lenya-tam",
+        "label": "commander",
+        "state": "subordinate",
+        "notes": "Carries out her orders, though she often reins him in with authority."
+      },
+      {
+        "with": "chase",
+        "label": "prisoner-target",
+        "state": "violent",
+        "notes": "Beats him savagely, breaking his arm, nearly killing him."
+      },
+      {
+        "with": "quincy",
+        "label": "prisoner",
+        "state": "hostile",
+        "notes": "Represents a threat to her safety, but focuses violence on Chase."
+      },
+      {
+        "with": "demmy",
+        "label": "enemy",
+        "state": "deadly",
+        "notes": "Demmy delivers the killing blow with a stiletto during the final fight."
+      },
+      {
+        "with": "lesha",
+        "label": "enemy",
+        "state": "deadly",
+        "notes": "Intercepts Carl in combat, tackling him to enable his death."
+      }
+    ],
+    "arc": {
+      "status_now": "Deceased; killed by Lesha and Demmy during holdfast’s fall.",
+      "pre_pivot": "Overseer feared by prisoners, enforcing discipline through intimidation and violence.",
+      "pivot_event": "Savage beating of Chase and subsequent confrontation during Lenya’s downfall.",
+      "post_pivot": "Attempts to kill Chase during the holdfast’s collapse but is killed by Demmy and Lesha.",
+      "future_vector": "None; death closes his arc."
+    },
+    "items_and_tech": [
+      {
+        "id": "overseer-club",
+        "name": "Heavy Club",
+        "category": "weapon",
+        "capabilities": ["bludgeoning"],
+        "condition": "functional",
+        "notes": "Wielded against prisoners and in his final charge at Chase."
+      },
+      {
+        "id": "prison-keys",
+        "name": "Keyring",
+        "category": "tool",
+        "capabilities": ["cell-access"],
+        "condition": "functional",
+        "notes": "Used to unlock and enter cells at will."
+      }
+    ],
+    "themes": {
+      "keywords": ["violence", "sadism", "fear", "overseer", "prison", "authority"],
+      "moral_tensions": ["authority-vs-humanity", "fear-vs-resistance"]
+    },
+    "text_windows": {
+      "bio_200w": "Carl is the feared overseer of Calum-Tam Holdfast, tasked with keeping prisoners compliant through intimidation and cruelty. He enjoys inflicting pain, breaking bones and spirits alike, with a penchant for fists and a heavy club. Chase becomes his primary target, enduring a savage beating that nearly kills him. Despite his brutality, Carl is careful not to openly challenge Lenya Tam, acknowledging her as the absolute authority. This creates a paradox: to prisoners he is a monster, to Lenya he is a blunt tool to enforce fear. His arc culminates during the ravager attack on the holdfast, when Carl, consumed by rage, charges to finish Chase once and for all. Instead, he is intercepted by Lesha and Demmy, who kill him with coordinated precision, ending his reign of violence. Carl embodies the abuse of unchecked authority—terrifying in the short term, but ultimately destroyed by his own overconfidence and reliance on brutality.",
+      "arc_200w": "Carl begins as an enforcer, embodying the cruelty of Calum-Tam Holdfast. His role escalates through repeated confrontations with Chase, culminating in a near-fatal beating that defines his sadism. As the holdfast falls into chaos under a ravager attack, Carl seeks to reassert dominance and exact final vengeance on Chase. However, his reliance on raw force proves his undoing. Lesha and Demmy, fighting in coordination, neutralize him—Lesha tackling him low while Demmy drives a blade into his throat. Carl’s death symbolizes both the fragility of terror-based authority and the collapse of Lenya Tam’s order. He remains a vivid reminder of the violence prisoners endured, his legacy tied to the trauma he inflicted rather than any real leadership.",
+      "skills_120w": "Carl’s strengths lie in intimidation and brute force. He wields fists and a heavy club with savage efficiency, inflicting fear and physical harm. He can control groups through sheer menace and shouting, backed by the willingness to escalate violence without hesitation. His weaknesses are his overconfidence, lack of tactical thinking, and inability to adapt against skilled opponents. His authority crumbles when confronted by courage, coordination, and superior combat skill, leaving him exposed as little more than a bully with a weapon.",
+      "appearance_120w": "Carl is portrayed through presence and menace rather than detailed description. He is large, heavyset, and loud, with a voice that fills cells and courtyards. His face flushes with rage during confrontations, and his clenched fists and blood-covered knuckles reflect a man who thrives on violence. He is more an embodiment of brutality than a carefully described figure.",
+      "relationships_180w": "Carl’s relationships define his function in the holdfast. With Lenya Tam, he is subordinate—obedient when threatened, yet eager to demonstrate violence on her behalf. With Chase, he is the tormentor, delivering a savage beating and attempting murder. With Quincy, he remains a looming threat, though his violence focuses primarily on Chase. Demmy and Lesha become his final adversaries, killing him during the holdfast’s collapse. These ties underscore Carl as a blunt weapon in Lenya’s arsenal, feared by prisoners and tolerated by guards, but never trusted as a strategist. His story ends not with triumph but with a brutal, bloody downfall."
+    },
+    "qa_pairs": [
+      {"q": "What is Carl’s role in Calum-Tam Holdfast?", "a": "He is Lenya Tam’s overseer, feared for his brutality and violence toward prisoners."},
+      {"q": "How does Carl treat Chase?", "a": "He beats him savagely, breaking his arm and nearly killing him, later attempting to finish him off with a club."},
+      {"q": "How does Carl die?", "a": "During the fall of the holdfast, he charges Chase but is intercepted and killed by Lesha and Demmy."}
+    ],
+    "metadata_for_indexing": {
+      "retrieval_keys": ["Carl", "Overseer", "Calum-Tam Holdfast", "Lenya Tam", "Chase", "Quincy"],
+      "keywords_dense": "Carl, Overseer, Calum-Tam Holdfast, Lenya Tam, Chase, Quincy, Demmy, Lesha, violence, brutality, sadism, prison, guard",
+      "spoiler_level": "book1_end",
+      "named_entities": {
+        "people": ["Carl", "Lenya Tam", "Chase", "Quincy", "Demmy", "Lesha"],
+        "places": ["Calum-Tam Holdfast"],
+        "orgs": [],
+        "terms": ["overseer", "club", "prison-keys"]
+      }
+    },
+    "embedding_payloads": [
+      {"chunk_id": "carl-1", "type": "bio", "text": "Overseer of Calum-Tam Holdfast, violent and sadistic, feared by prisoners."},
+      {"chunk_id": "carl-2", "type": "arc", "text": "From feared enforcer to brutal downfall; dies at the hands of Demmy and Lesha."},
+      {"chunk_id": "carl-3", "type": "relationships", "text": "Subordinate to Lenya; tormentor of Chase; adversary of Demmy and Lesha."},
+      {"chunk_id": "carl-4", "type": "skills", "text": "Brute force with fists and club; intimidation; reckless and overconfident."},
+      {"chunk_id": "carl-5", "type": "appearance", "text": "Large and heavyset; voice gruff and menacing; face flushed with rage."}
+    ]
+  }

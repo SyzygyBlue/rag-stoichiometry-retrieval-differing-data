@@ -1,0 +1,400 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "chase-confronts-margdelain-trap-and-exile-2186-10-28",
+    "chapter_number": 32,
+    "scene_number": 2,
+    "date_in_universe": "2186-10-28",
+    "absolute_timeline_notes": "Immediately follows Margdelain’s office setup in 'All That Sparkles' (same day)."
+    },
+    "text_windows": {
+    "full_scene_clean": "Chase enters Chancellor Margdelain’s office, fury contained behind a stone mask. He refuses small talk and asks directly why she planted false evidence on the Three Shovels caravan. Margdelain momentarily freezes—Chase realizes she didn’t know. He recounts: Quincy caught a man snooping at the trucks, broke his nose; the intruder escaped in a TRG buggy. Later, Chase and Quincy found a staged, partially damaged note implying ravagers took the caravan to Ransom Canyon’s slave markets. Margdelain reveals Quincy has been put in the stockade after a bar fight with a TRG man likely baiting her—the photos show preexisting facial injuries. They deduce someone set a trap to frame Margdelain: the planted note would be tied to her for political damage. Calmly, Margdelain decides to remove pieces from the board: she loads 100,000 holocreds onto an implantable chip as overpayment for the trucks, orders Chase to take a fully provisioned cart and his preferred rifle, extract Quincy, and head to Broken Bow. Master Scrivener Francis reports two clergy are demanding to see her; she asserts control and delays them ten minutes. Margdelain instructs Chase to leave soon and stay out of Fox River until she resolves the plot. Chase departs, stops by the medical ward, and leaves Demmy a note hidden under a beat-up datapad and a cracked camera before setting his own plan in motion.",
+    "dense_recap_250w": "In Margdelain’s office, Chase confronts his mother about a planted note found under a Three Shovels truck that blames ravagers and points to Ransom Canyon. Margdelain’s brief tell convinces him she wasn’t behind it. He explains Quincy fought a flashlight-wielding intruder the prior night and the man fled in a TRG buggy. Margdelain shows a report: Quincy later brawled with a TRG man at a bar and was jailed for 24 hours; his facial injuries predate the fight, suggesting intentional bait to get her detained. Together they infer a political trap aimed at Margdelain—plant evidence others can discover and tie to her. Declaring they must get vulnerable “pieces off the board,” Margdelain loads 100,000 holocreds onto an implantable chip as payment for the trucks and orders Chase to take a fully provisioned cart—stocked by Master McTanner/Jeb with Chase’s favored rifle—extract Quincy, and go to Broken Bow, keeping away from Fox River while she manages the crisis and likely loses an imminent council vote. Master Scrivener Francis warns two clergy are pressing to see her; Margdelain imposes protocol and delays them. Chase leaves, intends to help Quincy, and stops at the medical ward to leave Demmy a hidden note beneath a worn datapad and a cracked camera, hoping to enlist the recovering “skerv” kid for a low-odds plan.",
+    "query_handle": "Chase confronts Margdelain about planted evidence; they infer a trap; Margdelain funds/exiles Quincy and sends Chase to extract her for Broken Bow."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Confrontation",
+    "what_happens": "Chase challenges Margdelain about planting evidence against the caravan; her reaction shows ignorance.",
+    "involved_entities": ["chase", "chancellor-margdelain"],
+    "stakes_or_conflict": "Trust and political culpability at risk."
+    },
+    {
+    "order": 2,
+    "label": "Chain of events revealed",
+    "what_happens": "Chase recounts Quincy’s fight with a snooper and discovery of a staged ravager note; intruder fled in a TRG buggy.",
+    "involved_entities": ["chase", "quincy", "trg"],
+    "stakes_or_conflict": "Evidence manipulation suggests an organized setup."
+    },
+    {
+    "order": 3,
+    "label": "Bait and detention",
+    "what_happens": "Margdelain shows Quincy’s stockade report; TRG man’s prior injuries hint at deliberate provocation.",
+    "involved_entities": ["chancellor-margdelain", "quincy", "trg"],
+    "stakes_or_conflict": "Quincy’s liberty curtailed to control the narrative."
+    },
+    {
+    "order": 4,
+    "label": "Remove pieces from the board",
+    "what_happens": "Margdelain loads 100k holocreds, orders Chase to equip a cart and extract Quincy to Broken Bow.",
+    "involved_entities": ["chancellor-margdelain", "chase", "quincy", "jeb-mctanner"],
+    "stakes_or_conflict": "Protection vs. exile; rapid covert logistics."
+    },
+    {
+    "order": 5,
+    "label": "Pressure from clergy",
+    "what_happens": "Master Scrivener alerts that two clergy demand audience; Margdelain delays them with firm protocol.",
+    "involved_entities": ["master-scrivener-francis", "chancellor-margdelain", "fox-river-clergy"],
+    "stakes_or_conflict": "Religious-political pressure escalates."
+    },
+    {
+    "order": 6,
+    "label": "Chase’s side move",
+    "what_happens": "Chase departs and leaves Demmy a hidden note, hoping to activate him later.",
+    "involved_entities": ["chase", "demmy"],
+    "stakes_or_conflict": "Initiates parallel, risky plan."
+    }
+    ],
+    "characters": [
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Confirm who planted the note; protect Quincy; assist her escape to Broken Bow as ordered.",
+    "obstacles": "Mother’s political minefield, TRG involvement, clergy pressure, Quincy’s likely refusal to accept help.",
+    "tactics": "Direct confrontation; deduction; accept covert mission; plant a contingency via Demmy.",
+    "relationships": [
+    {"with": "chancellor-margdelain", "type": "family", "state": "strained-trusting", "evidence": "Fury restrained; accepts her plan after mutual deduction."},
+    {"with": "quincy", "type": "ally (complicated)", "state": "tense", "evidence": "Intends to extract her despite prior rejection."},
+    {"with": "demmy", "type": "ally", "state": "protective", "evidence": "Leaves a hidden note to recruit him."}
+    ],
+    "emotional_arc": {
+    "start": "furious, controlled",
+    "turning_points": ["Margdelain didn’t plant the note", "Given mission to extract Quincy"],
+    "end": "determined, uneasy"
+    },
+    "notable_actions": ["confronts Margdelain", "analyzes staged evidence", "accepts holocred chip", "prepares to leave Fox River", "leaves note for Demmy"],
+    "quotable_lines": [
+    "Why did you plant false evidence on the caravan?",
+    "Mom, they’re gunning for you."
+    ]
+    },
+    {
+    "id": "chancellor-margdelain",
+    "display_name": "Chancellor Margdelain",
+    "aliases": ["Margdelain"],
+    "role_in_scene": "major",
+    "goals_now": "Defuse a political trap; safeguard assets (Quincy, Chase); maintain control amid clergy pressure.",
+    "obstacles": "Unknown adversaries, council vote she may lose, TRG entanglement, public optics.",
+    "tactics": "Calm reframing; remove pieces from the board; overpay to expedite; assert protocol against clergy.",
+    "relationships": [
+    {"with": "chase", "type": "family", "state": "icy but cooperative", "evidence": "Arms him with resources; sends him away to keep him safe."},
+    {"with": "quincy", "type": "protector-of-convenience", "state": "pragmatic", "evidence": "Funds and exiles her to avoid being used against Margdelain."},
+    {"with": "fox-river-clergy", "type": "political rivals", "state": "hostile", "evidence": "Threatens stockade if they cause a disturbance."}
+    ],
+    "emotional_arc": {
+    "start": "controlled irritation",
+    "turning_points": ["Recognizes trap risk", "Chooses exile-and-fund plan"],
+    "end": "composed, resolute"
+    },
+    "notable_actions": ["reviews TRG fight report", "loads 100,000 holocreds", "orders provisioned cart and rifle", "delays clergy meeting"],
+    "quotable_lines": [
+    "A trap almost snapped shut on us.",
+    "I’m exiling Quincy.",
+    "Unacceptable behavior, Master Scrivener… I will not be disturbed."
+    ]
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Off-screen: survive stockade hold; find her caravan and answers.",
+    "obstacles": "24-hour detention; political manipulation.",
+    "tactics": "N/A in-scene",
+    "relationships": [
+    {"with": "chase", "type": "ally (reluctant)", "state": "tense", "evidence": "Chase plans to extract her despite earlier rejection."},
+    {"with": "trg", "type": "adversarial", "state": "hot", "evidence": "Brawled with a TRG man; likely bait."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": []
+    },
+    {
+    "id": "master-scrivener-francis",
+    "display_name": "Master Scrivener Francis",
+    "aliases": ["Francis"],
+    "role_in_scene": "supporting",
+    "goals_now": "Manage access; warn about clergy.",
+    "obstacles": "Aggressive visitors; tense political climate.",
+    "tactics": "Formal protocol; deference.",
+    "relationships": [
+    {"with": "chancellor-margdelain", "type": "staff", "state": "loyal", "evidence": "Relays clergy presence; takes orders."}
+    ],
+    "emotional_arc": {"start": "concerned", "turning_points": [], "end": "composed"},
+    "notable_actions": ["alerts Margdelain about clergy visitors"]
+    },
+    {
+    "id": "jeb-mctanner",
+    "display_name": "Jeb McTanner",
+    "aliases": ["Master McTanner", "McTanner"],
+    "role_in_scene": "cameo",
+    "goals_now": "Provision a cart discreetly with rifle for an unnamed recipient.",
+    "obstacles": "Operational secrecy.",
+    "tactics": "Comply quietly.",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": ["tasked to set up a fully provisioned cart with Chase’s preferred rifle"]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Unconscious patient; potential future helper.",
+    "obstacles": "Medical condition; unconscious.",
+    "tactics": "N/A",
+    "relationships": [
+    {"with": "chase", "type": "ally (potential)", "state": "latent", "evidence": "Chase leaves him a note to recruit him later."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "whiskey-set",
+    "name": "Whiskey bottle and tumblers",
+    "category": "other",
+    "capabilities": ["hospitality ritual", "pressure valve"],
+    "owner_or_users": ["chancellor-margdelain", "chase"],
+    "condition_or_state": "in use",
+    "scene_function": "Signals power dynamic; frames the conversation."
+    },
+    {
+    "id": "staged-ravager-note",
+    "name": "Staged ravager/Ransom Canyon note",
+    "category": "other",
+    "capabilities": ["misdirection", "plausible deniability via damage"],
+    "owner_or_users": ["unknown"],
+    "condition_or_state": "planted; partially damaged",
+    "scene_function": "Catalyzes confrontation; suggests a trap to frame Margdelain."
+    },
+    {
+    "id": "holocred-chip-injector",
+    "name": "Implantable holocred chip + injector",
+    "category": "tool",
+    "capabilities": ["load and inject credit chip"],
+    "owner_or_users": ["chancellor-margdelain", "chase"],
+    "condition_or_state": "loaded: 100,000 holocreds",
+    "scene_function": "Payment to Quincy for trucks; enables immediate exile/logistics."
+    },
+    {
+    "id": "trg-buggy",
+    "name": "TRG two-seater buggy",
+    "category": "vehicle",
+    "capabilities": ["fast egress", "silent electric"],
+    "owner_or_users": ["trg", "unknown intruder"],
+    "condition_or_state": "operational",
+    "scene_function": "Intruder’s escape vehicle, implicates TRG access."
+    },
+    {
+    "id": "provisioned-cart",
+    "name": "Fully provisioned cart (to be checked out)",
+    "category": "vehicle",
+    "capabilities": ["transport", "arms carriage", "field supply"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "to be prepared by McTanner",
+    "scene_function": "Extraction platform for Quincy; departure from Fox River."
+    },
+    {
+    "id": "chase-preferred-rifle",
+    "name": "Chase’s preferred rifle",
+    "category": "weapon",
+    "capabilities": ["long-range precision"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "to be issued",
+    "scene_function": "Ensures capability during extraction/journey."
+    },
+    {
+    "id": "demmy-bedside-items",
+    "name": "Demmy’s cracked camera & beat-up datapad",
+    "category": "other",
+    "capabilities": ["recording", "basic compute"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "worn; functional",
+    "scene_function": "Hiding spot for Chase’s recruitment note."
+    }
+    ],
+    "locations": [
+    {
+    "id": "fox-river-chancellor-office",
+    "name": "Chancellor’s Office (Fox River)",
+    "type": "room",
+    "descriptors": ["formal, controlled", "whiskey in drawer", "protocol-heavy antechamber"],
+    "in_scene_events": ["Chase confronts Margdelain; plan formed; clergy delayed."]
+    },
+    {
+    "id": "fox-river-outer-office",
+    "name": "Outer office / antechamber",
+    "type": "structure",
+    "descriptors": ["Master Scrivener’s station", "threshold of access"],
+    "in_scene_events": ["Clergy attempt to push in; rebuffed by protocol."]
+    },
+    {
+    "id": "fox-river-medical-ward",
+    "name": "Medical Ward, Fox River",
+    "type": "structure",
+    "descriptors": ["quiet, clinical"],
+    "in_scene_events": ["Chase leaves Demmy a hidden note under datapad and cracked camera."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "fox-river",
+    "name": "Fox River",
+    "alignment": "unknown",
+    "agents_present": ["chancellor-margdelain", "master-scrivener-francis", "trg"],
+    "motives_inferred": "Preserve authority; avoid political framing; move liabilities out of reach.",
+    "actions_in_scene": ["Detains Quincy; equips Chase; enforces protocol on clergy."]
+    },
+    {
+    "id": "trg",
+    "name": "TRG",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Security operations; possibly infiltrated or misused credentials.",
+    "actions_in_scene": ["Member brawls with Quincy; buggy used by intruder (access)."]
+    },
+    {
+    "id": "fox-river-clergy",
+    "name": "Fox River clergy (Jessop’s camp)",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Exert pressure; accelerate council optics unfavorable to Margdelain.",
+    "actions_in_scene": ["Attempt to force audience; are delayed by Margdelain."]
+    },
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": ["quincy"],
+    "motives_inferred": "Recover missing people; protect assets.",
+    "actions_in_scene": ["Target of planted evidence and snooping (off-screen)."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["power vs. truth", "protection through exile", "political traps and narrative control", "family loyalty amid statecraft"],
+    "motifs_symbols": ["whiskey diplomacy", "chess/board pieces", "knocking at the door", "credit chip as leverage"],
+    "moral_questions": ["Is it ethical to exile a victim to protect them from being weaponized politically?", "How do you fight a trap without validating it?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "political/intrigue with familial tension",
+    "pacing": "brisk, dialogue-driven",
+    "voice_traits": ["dry irony", "strategic calculus", "controlled heat"],
+    "sensory_notes": ["clink of glass", "quiet office, tense knocks", "cool clinical ward"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Quincy’s nighttime truck incident and staged note discovery.",
+    "Quincy’s bar fight and stockade hold.",
+    "Ongoing church vs. chancellor political struggle; council vote looming."
+    ],
+    "outcomes": [
+    "Margdelain funds and orders Quincy’s immediate exile to Broken Bow.",
+    "Chase tasked to extract Quincy with a provisioned cart and rifle.",
+    "100,000 holocreds allocated as truck payment.",
+    "Clergy pressure acknowledged and temporized.",
+    "Chase seeds Demmy with a hidden-note plan."
+    ],
+    "unanswered_questions": [
+    "Who planted the staged note and orchestrated the bait?",
+    "Is TRG compromised or being impersonated?",
+    "Will Quincy accept extraction and payment?",
+    "What will Demmy do with Chase’s note?",
+    "Will Margdelain intentionally lose the vote and why?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["chase", "chancellor-margdelain"],
+    "trigger": "Chase accuses Margdelain of planting evidence.",
+    "resolution": "De-escalation; shared deduction and coordinated plan."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["margdelain", "political machinery/clergy"],
+    "trigger": "Clergy push to force an audience and council vote optics.",
+    "resolution": "Margdelain delays and enforces protocol (temporary)."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy", "detention/security apparatus"],
+    "trigger": "Baited into a fight; jailed 24 hours.",
+    "resolution": "Pending; planned extraction."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["unknown conspirators", "margdelain & allies"],
+    "trigger": "Planted note and TRG-linked intruder.",
+    "resolution": "Unresolved; counter-moves initiated."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mentioned",
+    "addiction_or_substances": "present",
+    "sexual_content": "none",
+    "sensitive_topics": ["detention/incarceration", "slavery (markets referenced)", "political manipulation/exile"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": [
+    "Chase confronts Margdelain",
+    "Planted ravager note",
+    "Ransom Canyon slave markets reference",
+    "Quincy stockade 24h",
+    "TRG buggy intruder",
+    "100k holocreds payment",
+    "Exile to Broken Bow",
+    "Clergy pressure on Chancellor",
+    "Demmy hidden note"
+    ],
+    "keywords_dense": "Chase, Chancellor Margdelain, Quincy, Demmy, TRG buggy, planted evidence, ravagers, Ransom Canyon, holocred chip injector, 100000 holocreds, Broken Bow, clergy, Master Scrivener Francis, Jeb McTanner, council vote, Fox River politics",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chase", "Chancellor Margdelain", "Quincy", "Demmy", "Master Scrivener Francis", "Jeb McTanner"],
+    "places": ["Chancellor’s Office (Fox River)", "Medical Ward (Fox River)", "Broken Bow", "Ransom Canyon"],
+    "orgs": ["Fox River", "TRG", "Fox River clergy"],
+    "terms": ["holocred chip", "provisioned cart", "slave markets", "ravagers"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "How much money does Margdelain load onto the holocred chip?", "a": "100,000 holocreds."},
+    {"q": "Why does Margdelain want Quincy exiled immediately?", "a": "To remove her from a political trap and keep her safe while Margdelain resolves the crisis."},
+    {"q": "Who interrupts the meeting with Margdelain?", "a": "Two men from the clergy, announced by Master Scrivener Francis."},
+    {"q": "Where does Margdelain order Chase to take Quincy?", "a": "To the free city of Broken Bow."},
+    {"q": "What does Chase leave for Demmy before departing?", "a": "A hidden note placed in the top drawer under a beat-up datapad and cracked camera."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "scene-recap-chase-margdelain-exile",
+    "type": "recap",
+    "text": "Chase confronts Chancellor Margdelain about a planted note blaming ravagers and Ransom Canyon for the caravan’s disappearance. Her reaction shows she wasn’t behind it. They connect Quincy’s baited bar fight and stockade detention to a broader trap likely aimed at Margdelain. Acting swiftly, Margdelain loads 100,000 holocreds onto an implantable chip as payment for the trucks and orders Chase to equip a cart and take Quincy to Broken Bow, keeping both out of Fox River while she faces clergy pressure and a likely lost vote. Chase departs and leaves Demmy a hidden note, initiating a side plan."
+    },
+    {
+    "chunk_id": "scene-entities-chase-margdelain",
+    "type": "entities_focus",
+    "text": "Key actors: Chase (furious but strategic), Chancellor Margdelain (calculating protector), Quincy (detained target), Master Scrivener Francis (gatekeeper), Jeb McTanner (logistics/armorer), Demmy (unconscious ally). Orgs: Fox River, TRG, Fox River clergy. Tech/Items: staged ravager note, TRG buggy, holocred chip injector (100k), provisioned cart with Chase’s preferred rifle, Demmy’s cracked camera and beat-up datapad. Places: Chancellor’s office/outer office; medical ward; destination Broken Bow."
+    },
+    {
+    "chunk_id": "scene-style-themes-chess-and-trap",
+    "type": "style_theme_focus",
+    "text": "Third-person limited (Chase), past tense; brisk, dialogue-driven political thriller energy. Themes: narrative control and framing, protection via exile, family loyalty amid statecraft, unseen conspirators. Motifs: whiskey ritual, firm knocks and protocol, chess/board language, credit as leverage. Moral tension: protecting people by moving them off the board vs. abandoning due process; resisting a trap without validating it."
+    }
+    ]
+    }

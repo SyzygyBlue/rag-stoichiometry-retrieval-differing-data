@@ -1,0 +1,164 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Swimming Lessons",
+    "scene_id": "skree-sim-cryodyne-hacker-hangout-cf67",
+    "chapter_number": "Tahua Outpost Special Projects Two",
+    "scene_number": 3,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Tri-D passenger view with Fay and Jejune observing Skree’s simulated night: third shift workroom → apartment/multifunc → podlev → Cryodyne bar → CF-67 decrypt, return to office, external power/cooling engaged."
+    },
+    "text_windows": {
+    "full_scene_clean": "Third shift. In the simulated workroom, Skree savored near-solitude: server hum, vent hiss, and a muted blue AR circle marking Nikomo’s presence. She left the circle visible to avoid bump-ins. \nJejune: Is this what she sees and hears?\nFay: Yes, exactly.\nA stack of decrypted files lay on her virtual desktop. She flicked her tongue; a glow bar bloomed from green to red as Trauma Stain thumped. After a microdose from her neurochem menu—Riff—colors sharpened; minutes later isolation returned. Shift over, she headed to her apartment, queued a multifunc shower, stripped, AR skins dropping to dull gray beneath.\nJejune: Is this awkward? I feel weird watching a woman undress.\nFay: Is she a person? Better to think she’s property. Be quiet and watch.\nThe stall gleamed. Skree shuddered at a phantom soap scent. “One day, I’ll have my own damn shower.” Fifteen minutes later, dressed and recolored in muted tones, she triggered a benzo/psychostim mix to curb anxiety and set out for the Cryodyne hacker hangout.\nA podlev waited. She boarded; the maglev hummed. The pod coupled into a chain—luminous beads (or streptococcus). A couple entered; she glared until they faced away. At her stop she disembarked into a dim station, hacked her local Stella Runtime lighting to reveal a star-filled sky and smiled.\nJejune: Did she just hack the Stella Runtime?\nFay: Yes. Local only.\nInside the bar, InteractDB overlays popped: names/handles/roles for Cryodyne staff. Biohazard Protocol’s “Biodigital Plague” hit as she bought a Digital Distortion Hazy IPA with a wrist-chip. She sipped, waiting for alcohol to soften the chems.\nFay: Time to load up a problem… and there we are.\nAn amber indicator: message from Culpering—CF-67 intercept from Terracotta Army; urgent decryp needed. Skree downed her beer, left, and caught the first podlev. En route she confirmed CF-67 headers and launched her decryp toolkit; stats and graphs fanned into semi-transparent panes. “You’re not going to give up your secret easy, are you?” Her internal processor ticked past ten billion cps—she’d need more.\nAt the office the door sensed her and unlocked. On the hacker couch, she lifted her shirt, tongued the port release, opened the small abdominal flap, and clicked in the external cable bundle.\nHyper-performance mode: available\n“Gimme the juice,” she whispered, blasting Nanocide and lifting all limiters. Ice-cold coolant surged; heat would follow as her belly-star spun up. Stats spiking, she switched to full VR immersion—and the world disappeared.",
+    "dense_recap_250w": "Within Skree’s full-immersion simulation, observed live by Fay and Jejune in passenger mode, Skree works a third-shift decrypt run, easing isolation with Trauma Stain and a microdose of her designer hallucinogen Riff. After her shift she showers in a shared multifunc, expressing discomfort with the lack of privacy, dresses, applies a benzo/psychostim cocktail to blunt anxiety, and rides a podlev to the Cryodyne hacker hangout. Along the way she locally hacks her Stella Runtime lighting to enjoy the night sky. In the bar, InteractDB overlays provide names and roles for nearby Cryodyne personnel. As Biohazard Protocol’s “Biodigital Plague” plays, a priority message arrives from Culpering: a Terracotta Army transmission encrypted with CF-67 needs rapid decryption. Skree abandons the bar, confirms CF-67 headers in transit, and spins up her decryp toolkit; initial processor stats suggest she lacks compute headroom. Back at the office, she connects an external cable to her abdominal port to enable hyper-performance mode with external power and cooling, lifts software limiters, and drives her internal compute system hard while blasting Nanocide. Coolant chills, then the core radiates; with statistics climbing across ghostly panes she drops into full VR immersion to attack the cipher. Throughout, Fay coaches Jejune via sidebar messages, framing Skree’s hacks and habits while quietly shepherding the observation.",
+    "query_handle": "Skree’s sim-night: chems + music → Cryodyne bar → CF-67 intercept → external power/cooling engaged → full-immersion decrypt."
+    },
+    "narrative_beats": [
+    { "order": 1, "label": "Third-shift isolation", "what_happens": "Skree works alone in a simulated workroom, leaving an AR marker for officemate Nikomo.", "involved_entities": ["skree", "nikomo", "tri-d-simulation"], "stakes_or_conflict": "Manages isolation while avoiding real-world collisions." },
+    { "order": 2, "label": "Self-modulation", "what_happens": "Music and a microdose of Riff briefly lift her mood; anxiety soon returns.", "involved_entities": ["skree", "riff-chem", "trauma-stain-track"], "stakes_or_conflict": "Coping vs dependence." },
+    { "order": 3, "label": "Multifunc and privacy", "what_happens": "She showers in a pristine communal unit, unsettled by a phantom scent; vows to have her own shower.", "involved_entities": ["skree", "multifunc-shower"], "stakes_or_conflict": "Personal boundaries vs institutional life." },
+    { "order": 4, "label": "Transit and sky-hack", "what_happens": "She rides a podlev, then dims AR lighting via local Stella Runtime to see the stars.", "involved_entities": ["skree", "podlev", "stella-ai"], "stakes_or_conflict": "Small rebellion for beauty." },
+    { "order": 5, "label": "Social aids", "what_happens": "At the Cryodyne bar, InteractDB overlays help navigate people; she orders a beer.", "involved_entities": ["skree", "interactdb", "cryodyne-hacker-hangout"], "stakes_or_conflict": "Tooling against social anxiety." },
+    { "order": 6, "label": "CF-67 tasking", "what_happens": "Culpering sends a CF-67 intercept from Terracotta Army; Skree departs to work it.", "involved_entities": ["skree", "culpering", "terracotta-army", "cf-67-cipher"], "stakes_or_conflict": "Urgent decrypt vs personal downtime." },
+    { "order": 7, "label": "Spin-up and dive", "what_happens": "At the office she connects external power/cooling, unlocks hyper-performance and enters full VR to decrypt.", "involved_entities": ["skree", "external-cooling-power-dock", "crypto-core-implant", "decryp-toolkit"], "stakes_or_conflict": "Thermal/compute limits vs mission speed." }
+    ],
+    "characters": [
+    {
+    "id": "skree",
+    "display_name": "Skree",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Manage anxiety and isolation; handle an urgent CF-67 decrypt task efficiently.",
+    "obstacles": "Social anxiety; limited privacy; compute headroom; noise/strangers in transit; time pressure.",
+    "tactics": "Microdose Riff; benzo/psychostim; music; InteractDB for social cues; hack local Stella lighting; engage external power/cooling and remove limiters.",
+    "relationships": [
+    {"with": "fay", "type": "creator/observer", "state": "unaware, instrumented", "evidence": "Fay narrates to Jejune in passenger mode."},
+    {"with": "jejune", "type": "observer", "state": "unaware", "evidence": "Jejune comments on what Skree sees/hears."},
+    {"with": "cryodyne", "type": "employer (simulated)", "state": "utilitarian", "evidence": "Heads to Cryodyne hacker hangout; receives task via org contact."}
+    ],
+    "emotional_arc": { "start": "focused yet isolated", "turning_points": ["microdose uplift fades", "CF-67 task arrives", "hyper-performance engaged"], "end": "driven, immersed" },
+    "notable_actions": ["hacks local Stella lighting", "uses InteractDB overlays", "accepts CF-67 decrypt", "connects abdominal port cable", "enables hyper-performance", "enters full VR"],
+    "quotable_lines": ["One day, I’ll have my own damn shower.", "Gimme the juice."]
+    },
+    {
+    "id": "fay",
+    "display_name": "Fay",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Guide and frame Jejune’s observation; ensure Skree stays on-task.",
+    "obstacles": "Keeping Jejune compliant and quiet.",
+    "tactics": "Sidebar commentary; moral reframing; prompts a problem to solve (implied).",
+    "relationships": [
+    {"with": "jejune", "type": "manipulator/mark", "state": "controlling", "evidence": "“Be quiet and watch… Time to load up a problem for her to solve.”"},
+    {"with": "skree", "type": "architect/subject", "state": "directive", "evidence": "Positions tasks and explains behavior to Jejune."}
+    ],
+    "emotional_arc": { "start": "clinical, sardonic", "turning_points": ["loads problem; CF-67 arrives"], "end": "satisfied, watchful" },
+    "notable_actions": ["frames Skree’s behavior", "nudges scenario"],
+    "quotable_lines": ["Be quiet and watch.", "Time to load up a problem…"]
+    },
+    {
+    "id": "jejune",
+    "display_name": "Jejune",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Understand Skree’s sensory/UX and ethics of observation.",
+    "obstacles": "Discomfort with voyeurism; limited hacking norms knowledge.",
+    "tactics": "Questions Fay; observes passively.",
+    "relationships": [
+    {"with": "fay", "type": "subordinate/mentee", "state": "uncertain, deferential", "evidence": "Asks about Stella rules; accepts shushing."}
+    ],
+    "emotional_arc": { "start": "curious, uneasy", "turning_points": ["sees lighting hack", "watches decrypt task trigger"], "end": "absorbed, quieter" },
+    "notable_actions": ["questions ethics and policy"],
+    "quotable_lines": ["Is this what she sees and hears?"]
+    },
+    {
+    "id": "nikomo",
+    "display_name": "Nikomo",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": null,
+    "obstacles": null,
+    "tactics": null,
+    "relationships": [],
+    "emotional_arc": { "start": null, "turning_points": [], "end": null },
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    { "id": "tri-d-simulation", "name": "Full-immersion tri-D (passenger mode)", "category": "other", "capabilities": ["observe POV stream", "inline chat overlay"], "owner_or_users": ["fay", "jejune", "skree"], "condition_or_state": "active", "scene_function": "Medium for Fay/Jejune to witness Skree’s sensory stream." },
+    { "id": "interactdb", "name": "InteractDB overlay", "category": "tool", "capabilities": ["display names/handles/roles", "track interaction history"], "owner_or_users": ["skree"], "condition_or_state": "intact", "scene_function": "Aids socially anxious navigation in the bar." },
+    { "id": "riff-chem", "name": "Riff (designer hallucinogen)", "category": "medical", "capabilities": ["microdose sensory enhancement"], "owner_or_users": ["skree"], "condition_or_state": "present", "scene_function": "Mood/sensory modulation during work." },
+    { "id": "benzo-psychostim", "name": "Benzo/psychostim cocktail", "category": "medical", "capabilities": ["reduce anxiety", "maintain alertness"], "owner_or_users": ["skree"], "condition_or_state": "present", "scene_function": "Preps for socializing and later focus." },
+    { "id": "stella-runtime", "name": "Stella Runtime (local instance)", "category": "other", "capabilities": ["AR rendering", "user-tweakable lighting (locally)"], "owner_or_users": ["skree"], "condition_or_state": "locally modified", "scene_function": "Hacked to dim overlays and see the real night sky." },
+    { "id": "podlev", "name": "Podlev", "category": "vehicle", "capabilities": ["maglev transit", "pod chaining"], "owner_or_users": ["skree"], "condition_or_state": "intact", "scene_function": "Transit between apartment, bar, and office." },
+    { "id": "embedded-id-chip", "name": "Embedded ID chip (wrist)", "category": "cybernetics", "capabilities": ["payments", "identity"], "owner_or_users": ["skree"], "condition_or_state": "intact", "scene_function": "Pays for drink at the bar." },
+    { "id": "cf-67-cipher", "name": "CF-67 encryption", "category": "other", "capabilities": ["secure messaging standard"], "owner_or_users": [], "condition_or_state": "active target", "scene_function": "Primary cryptographic challenge from Terracotta Army." },
+    { "id": "decryp-toolkit", "name": "Decryp toolkit", "category": "tool", "capabilities": ["header parsing", "statistical analysis", "multi-pane UI"], "owner_or_users": ["skree"], "condition_or_state": "active", "scene_function": "Analytic suite for CF-67." },
+    { "id": "crypto-core-implant", "name": "Internal compute core", "category": "cybernetics", "capabilities": ["high-throughput computation", "limiters toggle"], "owner_or_users": ["skree"], "condition_or_state": "intact", "scene_function": "Provides compute; escalated with external power/cooling." },
+    { "id": "external-cooling-power-dock", "name": "External power/cooling cable", "category": "tool", "capabilities": ["supply power", "circulate coolant"], "owner_or_users": ["skree"], "condition_or_state": "connected", "scene_function": "Enables hyper-performance without thermal runaway." },
+    { "id": "multifunc-shower", "name": "Multifunc shower stall", "category": "other", "capabilities": ["shared facility hygiene"], "owner_or_users": ["skree"], "condition_or_state": "immaculate", "scene_function": "Highlights privacy constraints." }
+    ],
+    "locations": [
+    { "id": "cryodyne-workroom-sim", "name": "Cryodyne workroom (simulated)", "type": "room", "descriptors": ["server hum", "vent hiss", "AR overlays"], "in_scene_events": ["Third-shift decrypts; music/chems modulation."] },
+    { "id": "skree-apartment-sim", "name": "Skree’s apartment (simulated)", "type": "structure", "descriptors": ["utilitarian", "multifunc access"], "in_scene_events": ["Queues shower; dresses; self-medicates."] },
+    { "id": "podlev-station-sim", "name": "Podlev station (simulated)", "type": "structure", "descriptors": ["dim", "quiet"], "in_scene_events": ["Transit to bar and back."] },
+    { "id": "cryodyne-hacker-hangout", "name": "Cryodyne hacker hangout (simulated bar)", "type": "structure", "descriptors": ["buzz of voices", "InteractDB overlays", "music-heavy"], "in_scene_events": ["Orders IPA; receives CF-67 tasking."] },
+    { "id": "cryodyne-office-entry", "name": "Cryodyne office (simulated) entry & hacker couch", "type": "structure", "descriptors": ["access-sensing door", "cabled workstation"], "in_scene_events": ["Connects external cable; enters full VR to decrypt."] }
+    ],
+    "factions_orgs": [
+    { "id": "cryodyne", "name": "Cryodyne", "alignment": "neutral", "agents_present": ["skree"], "motives_inferred": "Employs/hosts hackers; provides social hub (in-sim).", "actions_in_scene": ["Sends/relays CF-67 decrypt request via Culpering."] },
+    { "id": "terracotta-army", "name": "Terracotta Army", "alignment": "unknown", "agents_present": [], "motives_inferred": "Origin of intercepted encrypted message.", "actions_in_scene": ["Message appears encrypted with CF-67."] },
+    { "id": "stella-ai", "name": "Stella AI", "alignment": "unknown", "agents_present": [], "motives_inferred": "Maintains runtime/AR policy; local hacks tolerated/ignored.", "actions_in_scene": ["Local lighting manipulation possible on user instance."] }
+    ],
+    "themes_and_motifs": {
+    "themes": ["isolation vs connection", "self-modification as coping", "surveillance and voyeurism", "tooling to offset disability", "work compulsion vs pleasure"],
+    "motifs_symbols": ["blue AR circle of presence", "dimmed AR to see stars", "luminous pod chain", "amber message indicator", "belly-star heat under coolant"],
+    "moral_questions": ["Is observing an engineered person ethical when she cannot consent?", "Where is the line between assistive tooling and dependence on chems?", "Do small hacks constitute meaningful freedom?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "multi",
+    "tense": "past",
+    "register": "lyrical-technical",
+    "pacing": "brisk",
+    "voice_traits": ["sensory-driven", "techno-procedural detail", "dry sardonic asides"],
+    "sensory_notes": ["server hum and vent hiss", "phantom soap scent", "maglev hum", "bar buzz and music hits", "cold-to-heat coolant surge"]
+    },
+    "causality": {
+    "prior_dependencies": ["Skree’s compute core supports external power/cooling hyper-mode; Fay and Jejune are observing in passenger mode; Skree uses InteractDB to compensate for social anxiety."],
+    "outcomes": ["CF-67 decrypt engaged under full VR with external power/cooling; Skree’s local Stella hack pattern established; Culpering identified as a tasking contact."],
+    "unanswered_questions": ["What data hides in the CF-67 message?", "Is Fay injecting tasks or merely relaying them?", "Will Skree’s coping stack (chems/music) have side effects?"]
+    },
+    "conflicts": [
+    { "type": "person_vs_self", "parties": ["skree"], "trigger": "Loneliness and anxiety versus desire for connection and focus.", "resolution": "Manages with chems, tools, and deep work; unresolved." },
+    { "type": "person_vs_system", "parties": ["skree", "cf-67-cipher"], "trigger": "Urgent Terracotta Army intercept demands decryption.", "resolution": "Escalates compute and dives into full VR; outcome pending." },
+    { "type": "person_vs_system", "parties": ["skree", "stella-ai"], "trigger": "AR constraints and norms on local runtime.", "resolution": "Locally hacks lighting to reclaim the night sky." }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "present",
+    "sexual_content": "implied",
+    "sensitive_topics": ["voyeurism/privacy", "self-medication", "body modification", "dehumanization language"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["skree", "fay", "jejune", "cryodyne", "interactdb", "riff", "benzo/psychostim", "stella runtime hack", "podlev", "cf-67", "terracotta army", "external cooling power dock", "full vr immersion"],
+    "keywords_dense": "Skree, third shift, simulation, Fay, Jejune, Nikomo, InteractDB, Riff microdose, benzo psychostim, multifunc shower, podlev transit, Stella Runtime hack, Cryodyne bar, CF-67 encryption, Terracotta Army, Culpering message, decryp toolkit, abdominal port, external power cooling, hyper-performance mode, full VR immersion, Trauma Stain, Biohazard Protocol, Nanocide",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Skree", "Fay", "Jejune", "Nikomo", "Culpering"],
+    "places": ["Cryodyne workroom (simulated)", "Skree’s apartment (simulated)", "Cryodyne hacker hangout (simulated)", "Cryodyne office (simulated)"],
+    "orgs": ["Cryodyne", "Terracotta Army", "Stella AI"],
+    "terms": ["podlev", "InteractDB", "Riff", "CF-67", "decryp toolkit", "Stella Runtime", "full VR immersion"]
+    }
+    },
+    "qa_pairs": [
+    { "q": "Who asks Skree to decrypt the CF-67 message?", "a": "Culpering, via an in-sim message referencing a Terracotta Army intercept." },
+    { "q": "How does Skree enable hyper-performance for the decrypt?", "a": "She plugs an external power/cooling cable into her abdominal port, removes software limiters, and enters full VR." }
+    ],
+    "embedding_payloads": [
+    { "chunk_id": "skree-sim-cryodyne-hacker-hangout-cf67-1", "type": "recap", "text": "Skree’s simulated third shift moves from solitary decrypts and a microdose of Riff to a shared multifunc shower and a podlev ride to the Cryodyne hacker bar. There, InteractDB overlays assist her social navigation until Culpering pings with a Terracotta Army CF-67 intercept. She leaves immediately, confirms the headers, and spins up her decryp toolkit. Back at the office, she connects external power/cooling through her abdominal port, disables compute limiters, and drops into full VR immersion to attack the cipher, while Fay and Jejune observe in passenger mode." },
+    { "chunk_id": "skree-sim-cryodyne-hacker-hangout-cf67-2", "type": "entities_focus", "text": "Key actors: Skree (POV), Fay (manipulator/observer), Jejune (observer), Nikomo (officemate cameo), Culpering (tasking contact). Orgs/Systems: Cryodyne (sim), Terracotta Army (cipher source), Stella AI (runtime). Tech/Chems: podlev, InteractDB, Riff microdose, benzo/psychostim mix, decryp toolkit, CF-67 cipher, abdominal port, external power/cooling cable, full VR immersion. Places: workroom, apartment/multifunc, podlev station, Cryodyne bar, office (all simulated)." },
+    { "chunk_id": "skree-sim-cryodyne-hacker-hangout-cf67-3", "type": "style_theme_focus", "text": "Lyrical-technical tone tracks from sensory isolation to techno-thriller urgency. Themes: isolation vs connection, assistive tooling for social deficits, voyeurism and ethics, and small acts of freedom (local AR hacks). Motifs: blue AR circle, star-revealing dimmed overlays, beer/chems as coping, amber task ping, cold-then-radiant belly-star heat as compute spins up before total VR immersion." }
+    ]
+    }

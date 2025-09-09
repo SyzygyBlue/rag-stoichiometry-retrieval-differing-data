@@ -1,0 +1,267 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "trg-staging-reversal-call-13oct2186",
+    "chapter_number": 18,
+    "scene_number": 4,
+    "date_in_universe": "2186-10-13",
+    "absolute_timeline_notes": "Morning-to-midday at the Three Shovels site as TRG prepares to depart; call from Master Scrivener Francis reverses Chase’s dismissal."
+    },
+    "text_windows": {
+    "full_scene_clean": "The caravan was nearly ready. Jeb McTanner watched TRG crews secure cargo while mechanics made last-minute adjustments, electric motors whining. He was about to give the order to move when Master Scrivener Francis called. Francis relayed that the chancellor had changed her mind: Chase was to remain in Tactical Response. Jeb, stunned and angry, said he had just torn the boy down at her demand and worried Chase would see through being used. Francis was breezy—“everyone is being used”—and cut the line. Jeb slammed his fist into a truck’s grill, muttered that the boy deserved better, and headed back to the med bus to face him.",
+    "dense_recap_250w": "At the Three Shovels site, TRG teams finalize preparations to convoy out with salvaged assets. As Jeb McTanner is about to roll, his com stud pings: Master Scrivener Francis, speaking for Chancellor Margdelain, orders a reversal—Chase must stay in the Tactical Response Group. Jeb reels; hours earlier he carried out Margdelain’s directive to terminate the young man’s apprenticeship and delivered a hard reprimand. He protests that Chase is fragile and will recognize the political manipulation. Francis dismisses the concern, saying Chase is a hero now and that everyone is being used, then ends the call. Frustrated and conflicted, Jeb vents on a truck grill, then heads back to the med bus (the Dorothea Dix) to speak to Chase. The scene spotlights institutional expedience overruling field leadership, and sets up an emotionally volatile conversation where Jeb must undo his own words for reasons he does not respect.",
+    "query_handle": "McTanner gets Francis’s call reversing Chase’s dismissal; fumes at political manipulation; returns to med bus to tell him."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Staging to depart",
+    "what_happens": "TRG crews finish buttoning up the caravan; Jeb is about to roll out.",
+    "involved_entities": ["mctanner", "trg"],
+    "stakes_or_conflict": "Timing and leadership momentum before convoy departure."
+    },
+    {
+    "order": 2,
+    "label": "Reversal call",
+    "what_happens": "Master Scrivener Francis orders that Chase remain in TRG per the chancellor’s new decision.",
+    "involved_entities": ["mctanner", "master-scrivener-francis", "margdelain", "chase"],
+    "stakes_or_conflict": "Chain-of-command change contradicts Jeb’s prior discipline."
+    },
+    {
+    "order": 3,
+    "label": "Jeb’s objection",
+    "what_happens": "Jeb argues Chase will see through the use; Francis dismisses him and ends the call.",
+    "involved_entities": ["mctanner", "master-scrivener-francis"],
+    "stakes_or_conflict": "Care for a subordinate vs. political expedience."
+    },
+    {
+    "order": 4,
+    "label": "Resolve to face Chase",
+    "what_happens": "Jeb vents his frustration and goes to the med bus to break the news.",
+    "involved_entities": ["mctanner", "chase", "dorothea-dix-medbus"],
+    "stakes_or_conflict": "Maintaining trust with Chase after a whiplash decision."
+    }
+    ],
+    "characters": [
+    {
+    "id": "mctanner",
+    "display_name": "Jeb McTanner",
+    "aliases": ["Master McTanner", "Jeb"],
+    "role_in_scene": "POV",
+    "goals_now": "Protect Chase’s well-being and keep unit cohesion while complying with the reversal.",
+    "obstacles": "Political override from Margdelain via Francis; recent harsh reprimand of Chase.",
+    "tactics": "Push back verbally, vent frustration, then personally deliver the news.",
+    "relationships": [
+    {"with": "chase", "type": "mentor/protégé", "state": "protective but strained", "evidence": "“The boy deserves better… She doesn’t see what this does to him.”"},
+    {"with": "margdelain", "type": "superior/subordinate", "state": "tense", "evidence": "Forced to first dismiss and then reinstate Chase at her direction."},
+    {"with": "master-scrivener-francis", "type": "institutional peer", "state": "contentious", "evidence": "Francis’s breezy ‘everyone is being used’ sets Jeb off."}
+    ],
+    "emotional_arc": {
+    "start": "focused, operational",
+    "turning_points": ["Reversal order triggers anger and moral concern.", "Chooses to face Chase despite disagreement."],
+    "end": "resigned, protective"
+    },
+    "notable_actions": ["surveys convoy staging", "argues with Francis", "strikes truck grill", "returns to med bus to talk to Chase"],
+    "quotable_lines": [
+    "Does anyone care about Chase? He’ll know he’s being used.",
+    "The boy deserves better."
+    ]
+    },
+    {
+    "id": "master-scrivener-francis",
+    "display_name": "Master Scrivener Francis",
+    "aliases": ["Francis"],
+    "role_in_scene": "supporting",
+    "goals_now": "Transmit the chancellor’s directive and keep Chase in TRG for optics/politics.",
+    "obstacles": "Jeb’s moral and leadership concerns.",
+    "tactics": "Minimize objections, assert inevitability, terminate call.",
+    "relationships": [
+    {"with": "margdelain", "type": "ally/aide", "state": "aligned", "evidence": "Calls on her behalf to reverse the dismissal."},
+    {"with": "mctanner", "type": "contentious peers", "state": "dismissive", "evidence": "‘Everyone is being used… Francis out.’"}
+    ],
+    "emotional_arc": {"start": "cheery/clinical", "turning_points": [], "end": "impatient"},
+    "notable_actions": ["orders reversal", "ends call abruptly"],
+    "quotable_lines": ["Everyone is being used, Master McTanner."]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "offstage",
+    "goals_now": "Unstated; recovering; about to be told he remains in TRG.",
+    "obstacles": "Whiplash from dismissal to reinstatement; perceived manipulation.",
+    "tactics": "",
+    "relationships": [
+    {"with": "mctanner", "type": "mentor/protégé", "state": "fragile trust", "evidence": "Jeb worries about his self-worth."},
+    {"with": "margdelain", "type": "family", "state": "instrumentalized (inferred)", "evidence": "Reversal driven for political reasons."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "margdelain",
+    "display_name": "Chancellor Margdelain",
+    "aliases": [],
+    "role_in_scene": "offstage",
+    "goals_now": "Maintain optics and momentum; keep Chase positioned as a hero within TRG.",
+    "obstacles": "Backlash from leadership whiplash (inferred).",
+    "tactics": "Issue reversal through Francis.",
+    "relationships": [
+    {"with": "chase", "type": "family", "state": "politicized", "evidence": "Reinstates him for strategic reasons (implied by Francis)."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "com-stud-implant",
+    "name": "Com stud",
+    "category": "comms",
+    "capabilities": ["hands-free voice comms", "secure directive relay"],
+    "owner_or_users": ["mctanner", "master-scrivener-francis"],
+    "condition_or_state": "operational",
+    "scene_function": "Carries the reversal order that flips Chase’s status."
+    },
+    {
+    "id": "trg-electric-trucks",
+    "name": "TRG convoy vehicles",
+    "category": "vehicle",
+    "capabilities": ["cargo transport", "electric drive"],
+    "owner_or_users": ["trg"],
+    "condition_or_state": "operational (pre-departure checks)",
+    "scene_function": "Backdrop indicating imminent move-out and Jeb’s disrupted timing."
+    },
+    {
+    "id": "dorothea-dix-medbus",
+    "name": "Med bus \"Dorothea Dix\"",
+    "category": "medical",
+    "capabilities": ["patient care", "field triage"],
+    "owner_or_users": ["trg", "quincy"],
+    "condition_or_state": "in service",
+    "scene_function": "Destination where Jeb will inform Chase of the reversal."
+    }
+    ],
+    "locations": [
+    {
+    "id": "caravan-staging-valley",
+    "name": "Caravan staging area",
+    "type": "wilderness",
+    "descriptors": ["organized chaos", "electric motors whining", "mechanics adjusting cargo", "TRG security teams"],
+    "in_scene_events": ["Reversal call received; convoy departure paused."]
+    },
+    {
+    "id": "dorothea-dix-medbus-interior",
+    "name": "Med bus interior",
+    "type": "structure",
+    "descriptors": ["double doors", "clinical space", "recovery beds"],
+    "in_scene_events": ["Jeb heads in to speak with Chase."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "trg",
+    "name": "Tactical Response Group (TRG)",
+    "alignment": "ally",
+    "agents_present": ["mctanner", "chase"],
+    "motives_inferred": "Secure site, evacuate assets and casualties.",
+    "actions_in_scene": ["Stage convoy", "receive leadership directive", "hold departure pending command changes"]
+    },
+    {
+    "id": "fox-river-chancellory",
+    "name": "Fox River Chancellory",
+    "alignment": "neutral",
+    "agents_present": ["margdelain", "master-scrivener-francis"],
+    "motives_inferred": "Manage optics/politics around Chase and the caravan incident.",
+    "actions_in_scene": ["Issue reversal to keep Chase in TRG"]
+    },
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Trade Caravan",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Survival; recovery of people/assets (context from site).",
+    "actions_in_scene": ["Referenced as the group Chase ‘saved’; their site is being secured"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["individual vs. institution", "narrative manipulation", "leadership responsibility vs. political expedience", "trust and mentorship"],
+    "motifs_symbols": ["whiplash orders", "fist on truck grill", "busy convoy engines as ticking clock"],
+    "moral_questions": ["Is it ethical to use a fragile subordinate as a political symbol?", "How should a leader balance orders with care for their people?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "brisk",
+    "voice_traits": ["plainspoken military cadence", "political edge"],
+    "sensory_notes": ["whine of electric motors", "metallic thunk on grill", "murmur of crews at work"]
+    },
+    "causality": {
+    "prior_dependencies": ["Earlier dismissal of Chase by Jeb at Margdelain’s order; council optics around Chase’s ‘heroism’."],
+    "outcomes": ["Chase’s apprenticeship is reinstated; Jeb must repair trust and deliver a contradictory message; convoy timing is affected."],
+    "unanswered_questions": ["How will Chase respond to the reversal?", "Will Jeb frame it as his choice or the chancellor’s?", "What impact will this have on unit cohesion?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["mctanner", "master-scrivener-francis"],
+    "trigger": "Francis dismisses Jeb’s concern and orders reversal.",
+    "resolution": "Unresolved; call terminated."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["mctanner", "fox-river-chancellory"],
+    "trigger": "Political decision overrides field judgment.",
+    "resolution": "Unresolved; Jeb complies but resents impact on Chase."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["mctanner"],
+    "trigger": "Must undo his own discipline and protect Chase’s morale.",
+    "resolution": "Chooses to face Chase and deliver the news."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["political manipulation", "emotional distress"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Jeb McTanner", "Master Scrivener Francis", "Chancellor Margdelain", "Chase reinstatement", "TRG convoy staging", "med bus Dorothea Dix"],
+    "keywords_dense": "Jeb McTanner, Master Scrivener Francis, Chancellor Margdelain, Tactical Response Group, reversal order, Chase reinstated, convoy staging, com stud, Three Shovels site, med bus Dorothea Dix, political optics",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Jeb McTanner", "Master Scrivener Francis", "Chancellor Margdelain", "Chase"],
+    "places": ["Fox River", "Three Shovels site (staging area)"],
+    "orgs": ["Tactical Response Group", "Fox River Chancellory", "Three Shovels Trade Caravan"],
+    "terms": ["com stud", "apprenticeship reversal"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What change does Master Scrivener Francis communicate to Jeb?", "a": "Chancellor Margdelain wants Chase to remain in the Tactical Response Group."},
+    {"q": "Why is Jeb upset by the reversal?", "a": "He had just carried out a harsh dismissal at her order and fears Chase will feel used and further damaged."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "trg-reversal-13oct2186-recap",
+    "type": "recap",
+    "text": "As TRG readies the convoy at the Three Shovels site, Jeb McTanner receives a com call from Master Scrivener Francis: the chancellor reverses course—Chase must stay in TRG. Jeb, who had just terminated the boy at her prior direction, fumes that Chase will see he’s being used. Francis brushes him off, saying everyone is used, and ends the call. Jeb vents on a truck grill and heads to the med bus to tell Chase."
+    },
+    {
+    "chunk_id": "trg-reversal-13oct2186-entities",
+    "type": "entities_focus",
+    "text": "Actors: Jeb McTanner (POV), Master Scrivener Francis (chancellor’s envoy), Chase (offstage), Chancellor Margdelain (offstage decision-maker). Orgs: TRG, Fox River Chancellory, Three Shovels Caravan. Items/tech: com stud implant, TRG electric trucks, med bus ‘Dorothea Dix’. Setting: caravan staging area with crews and mechanics."
+    },
+    {
+    "chunk_id": "trg-reversal-13oct2186-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-person limited, brisk, with gritty operational texture (whining motors, metal impact). Themes: individual vs. institution, narrative manipulation, mentorship and duty, leadership whiplash. Motifs: sudden orders, fist on steel, doorway to the med bus as threshold to a hard conversation."
+    }
+    ]
+    }

@@ -1,0 +1,240 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "one-mans-trash-shelly-2173",
+    "chapter_number": "Stella Archives 06",
+    "scene_number": 1,
+    "date_in_universe": "2173-09-09",
+    "absolute_timeline_notes": "Shelly (Citizen ID 291874231) in a Metrofederacy study pod; she has carried a note for three years, likely written circa 2170."
+    },
+    "text_windows": {
+    "full_scene_clean": "Shelly pushes away from the wall of her study pod, joints aching and legs numb after sitting too long. Crumbs from compressed nutrition bars scatter across her standard-issue gray top and shorts with orientation dots; she hasn’t bothered with a skin. Needing the bathroom, she pads to the pod’s multifunctional corner and calls the hygienics menu. A soft click: TOILET — EN ROUTE. Arrival: 00:06. She fishes in her pocket and finds the item she has carried for three years: a precisely folded, worn scrap of paper. As the countdown hits zero and the indicator turns green, she steps in, shuts the door, sits, and unfolds the note. It’s soft, grease- and soy-sauce-stained, originally a Chinese takeout bag. The handwriting is unmistakably her mother’s—sharp loops, cramped spacing, a smudge from a prized ink pen. Paper and pen are unnecessary in the Metrofederacy; the irony is deliberate. The bag had been on the kitchen table among trash, placed where it might be overlooked and recycled. At the top: If you found this, it means fate gave us one last shot at honesty. Shelly swallows and begins to read.",
+    "dense_recap_250w": "In a sterile, compact study pod, Shelly forces herself upright after hours of study, body aching and legs numb. She orders the pod’s hygienics unit—its toilet arrives on a short countdown—then retrieves from her pocket a tiny artifact that breaks the Metrofederacy’s paperless norm: a folded scrap she has carried for three years. Inside the multifunction stall, seated on the cool, sanitized seat, she unfolds it. The note is written in her mother Michelle’s distinctive hand on a Chinese takeout bag stained with grease and soy sauce, an analog message crafted with deliberate irony in a world that no longer needs paper or pens. Shelly recalls the dinner and the emotional fallout that followed: the taste of food gone flat under family strain. The placement of the bag among kitchen trash signaled its clandestine intent—something that could have been missed or recycled—underscored by the opening line, “If you found this, it means fate gave us one last shot at honesty.” The scene closes with Shelly beginning to read, framing a private confrontation with family truth set against a society of seamless digital interfaces, standard-issue loungewear, and automated conveniences that highlight the human weight of memory and confession.",
+    "query_handle": "Shelly in study pod retrieves and reads Michelle’s secret letter written on a Chinese takeout bag."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Physical fatigue in the pod",
+    "what_happens": "Shelly breaks from long study, body aching and numb, and triggers the hygienics unit.",
+    "involved_entities": ["shelly", "study-pod", "multifunc-hygienics-toilet"],
+    "stakes_or_conflict": "Overwork and discomfort signal isolation and strain."
+    },
+    {
+    "order": 2,
+    "label": "Old artifact recovered",
+    "what_happens": "She retrieves a folded paper she has carried for three years.",
+    "involved_entities": ["shelly", "michelle-letter-takeout-bag"],
+    "stakes_or_conflict": "Emotional risk of confronting family truth."
+    },
+    {
+    "order": 3,
+    "label": "Analog defiance",
+    "what_happens": "The note is handwritten by her mother on a Chinese takeout bag, a deliberate use of paper in a paperless society.",
+    "involved_entities": ["shelly", "michelle", "stella-ai", "michelle-letter-takeout-bag"],
+    "stakes_or_conflict": "Privacy and honesty versus an all-digital environment."
+    },
+    {
+    "order": 4,
+    "label": "Opening line",
+    "what_happens": "Shelly reads the first sentence promising a ‘last shot at honesty’ and continues.",
+    "involved_entities": ["shelly", "michelle-letter-takeout-bag"],
+    "stakes_or_conflict": "Readiness to face what the note reveals."
+    }
+    ],
+    "characters": [
+    {
+    "id": "shelly",
+    "display_name": "Shelly",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Find privacy and read the hidden letter from her mother.",
+    "obstacles": "Physical fatigue; emotional weight of the message; sterile, surveilled-feeling environment.",
+    "tactics": "Uses the pod’s hygienics stall for privacy; keeps the letter concealed for years.",
+    "relationships": [
+    {"with": "michelle", "type": "family", "state": "strained/longing", "evidence": "Carries Michelle’s note for years; seeks ‘one last shot at honesty’."},
+    {"with": "lucas", "type": "family", "state": "quiet tension (recalled)", "evidence": "Memory of bitter dinner conversation and resignation from her dad."}
+    ],
+    "emotional_arc": {
+    "start": "overworked, numb, irritable",
+    "turning_points": ["Recovers the paper; recognizes mother’s handwriting", "Reads the opening line promising honesty"],
+    "end": "braced, introspective, apprehensive"
+    },
+    "notable_actions": ["orders hygienics toilet", "retrieves folded paper", "unfolds and begins to read"],
+    "quotable_lines": [
+    "TOILET — EN ROUTE. Arrival: 00:06.",
+    "If you found this, it means fate gave us one last shot at honesty."
+    ]
+    },
+    {
+    "id": "michelle",
+    "display_name": "Michelle",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Convey a private, honest message to her daughter outside Stella’s digital systems.",
+    "obstacles": "Paperless norms; risk of the note being discarded; emotional fallout.",
+    "tactics": "Handwrites on a Chinese takeout bag; hides it among kitchen trash.",
+    "relationships": [
+    {"with": "shelly", "type": "family", "state": "seeking honesty", "evidence": "Opening line about ‘one last shot at honesty’."},
+    {"with": "lucas", "type": "family", "state": "tense (recalled)", "evidence": "Bitterness in her voice at the remembered dinner."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": ["writes and hides a physical letter"],
+    "quotable_lines": []
+    },
+    {
+    "id": "lucas",
+    "display_name": "Lucas",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "None in present scene (recalled presence during the takeout dinner).",
+    "obstacles": "Emotional strain in family context (recalled).",
+    "tactics": "Quiet resignation (recalled).",
+    "relationships": [
+    {"with": "shelly", "type": "family", "state": "supportive but distant (recalled)", "evidence": "Shelly’s memory of his quiet resignation."},
+    {"with": "michelle", "type": "family", "state": "strained", "evidence": "Dinner memory colored by bitterness and resignation."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "study-pod",
+    "name": "Study pod",
+    "category": "structure",
+    "capabilities": ["personal workspace", "integrated lighting", "menus for services"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "intact/sterile",
+    "scene_function": "Primary setting emphasizing isolation and routine."
+    },
+    {
+    "id": "multifunc-hygienics-toilet",
+    "name": "Multifunction hygienics unit (toilet)",
+    "category": "other",
+    "capabilities": ["on-demand deployment", "countdown arrival", "sanitized enclosure"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "intact",
+    "scene_function": "Provides privacy; its arrival cues Shelly reading the letter."
+    },
+    {
+    "id": "michelle-letter-takeout-bag",
+    "name": "Michelle’s letter on Chinese takeout bag",
+    "category": "other",
+    "capabilities": ["offline message", "evades digital logs", "emotional trigger"],
+    "owner_or_users": ["shelly", "michelle"],
+    "condition_or_state": "worn/grease- and soy-stained",
+    "scene_function": "Catalyst object; symbol of analog honesty in a digital society."
+    },
+    {
+    "id": "stella-loungewear",
+    "name": "Standard-issue Stella loungewear (shirt/shorts)",
+    "category": "other",
+    "capabilities": ["functional clothing", "orientation dots"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "intact",
+    "scene_function": "Reinforces institutional uniformity and routine."
+    }
+    ],
+    "locations": [
+    {
+    "id": "metrof-study-pod-shelly",
+    "name": "Shelly’s study pod",
+    "type": "room",
+    "descriptors": ["sterile lighting", "compact", "functional", "quiet"],
+    "in_scene_events": ["Shelly orders the toilet, retrieves and reads the note, recalls family tension."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "metrofederacy",
+    "name": "Metrofederacy",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Highly managed, paperless civic environment optimizing comfort and function.",
+    "actions_in_scene": ["Provides standard clothing and automated hygienics via integrated systems."]
+    },
+    {
+    "id": "stella-ai",
+    "name": "Stella (AI)",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Governance/automation layer; ubiquitous interface shaping daily life.",
+    "actions_in_scene": ["Implicit presence through standard issue and on-demand pod services."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["truth vs. convenience", "privacy vs. ubiquity of systems", "family honesty", "memory as resistance"],
+    "motifs_symbols": ["Chinese takeout bag as clandestine letter", "sterile light vs. grease stains", "countdown timer", "orientation dots/uniformity"],
+    "moral_questions": ["Can analog acts preserve honesty within totalizing digital systems?", "What do we owe family when truth is painful?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "intimate/clinical",
+    "pacing": "slow-burn",
+    "voice_traits": ["sensory detail", "ironic observation", "domestic techno-realism"],
+    "sensory_notes": ["aching joints", "crumb dryness", "sterile cool seat", "soy-sauce stains", "soft click and countdown"]
+    },
+    "causality": {
+    "prior_dependencies": ["Shelly has kept a secret paper note for three years; family tensions around a past dinner and Michelle’s message.",
+    "Metrofederacy/Stella context of paperless, automated living."],
+    "outcomes": ["Shelly commits to reading Michelle’s analog letter; the stage is set for revelations affecting family dynamics."],
+    "unanswered_questions": ["What does the rest of Michelle’s letter reveal?", "Why did Michelle choose an analog note and that specific moment?", "How will the letter change Shelly’s choices?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["shelly"],
+    "trigger": "Choosing to confront the contents of a long-saved letter.",
+    "resolution": "Unresolved; she begins to read."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["shelly", "paperless Metrofederacy/Stella norms"],
+    "trigger": "Analog letter in a fully digital society.",
+    "resolution": "Ongoing; the letter exists outside official channels."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["family conflict", "grief (implied history)"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Shelly study pod", "Michelle’s takeout-bag letter", "Chinese takeout note", "Metrofederacy paperless society", "Stella hygienics countdown"],
+    "keywords_dense": "Shelly, study pod, hygienics unit, Stella, Metrofederacy, Chinese takeout bag, handwritten letter, soy sauce stains, orientation dots, analog vs digital, family honesty",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Shelly", "Michelle", "Lucas"],
+    "places": ["Shelly’s study pod"],
+    "orgs": ["Metrofederacy", "Stella"],
+    "terms": ["orientation dots", "skin (clothing)", "hygienics menu", "multifunctional corner"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What object has Shelly carried for three years?", "a": "A folded scrap of paper—her mother Michelle’s handwritten note on a Chinese takeout bag."},
+    {"q": "Why is the note’s medium significant?", "a": "Paper and pens are unnecessary in the Metrofederacy, so using a takeout bag is a deliberate analog, private act."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "one-mans-trash-recap",
+    "type": "recap",
+    "text": "In a sterile study pod, Shelly orders the hygienics toilet and retrieves a folded paper she has carried for three years. Sitting in the stall, she unfolds a grease- and soy-stained Chinese takeout bag bearing her mother Michelle’s handwriting—an analog message in a paperless society. The bag was planted among kitchen trash to be found by chance, opening with, “If you found this, it means fate gave us one last shot at honesty.” Shelly swallows and begins to read."
+    },
+    {
+    "chunk_id": "one-mans-trash-entities",
+    "type": "entities_focus",
+    "text": "Shelly (POV) confronts a clandestine artifact from Michelle (mother); Lucas is recalled. Items: study pod, multifunction hygienics toilet, standard-issue Stella loungewear, Michelle’s takeout-bag letter. Orgs: Metrofederacy and Stella (ambient infrastructure). Setting underscores paperless automation vs. analog secrecy."
+    },
+    {
+    "chunk_id": "one-mans-trash-style-theme",
+    "type": "style_theme_focus",
+    "text": "Intimate third-person past with domestic techno-realism. Themes: truth vs. convenience; privacy inside ubiquitous systems; family honesty; memory as resistance. Motifs: sterile light, countdown timer, crumbs, grease-stained paper, orientation dots. The analog letter challenges a seamless, managed world."
+    }
+    ]
+    }

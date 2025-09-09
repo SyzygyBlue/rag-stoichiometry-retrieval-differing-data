@@ -1,0 +1,166 @@
+{
+    "doc_type": "neon_titan_character_v1",
+    "source": {
+    "dossier_file": "Romuald Anwar_dossier.md",
+    "scene_refs": []
+    },
+    "identity": {
+    "id": "romuald-anwar",
+    "display_name": "Romuald Anwar",
+    "aliases": [],
+    "mbti": "INTJ",
+    "age_bracket": "late-50s",
+    "gender": "male",
+    "origin": "Unknown"
+    },
+    "affiliations": ["industry-party", "stella-development-directorate", "metrofederacy", "teragen-development-corporation"],
+    "bio": {
+    "one_liner": "Senior engineer and AI specialist tied to the Industry Party and Teragen, tasked with preserving Stella and Metrofederacy stability.",
+    "summary": "Romuald Anwar is a senior engineer and AI specialist associated with the Industry Party, the Stella Development Directorate, the Metrofederacy, and Teragen Development Corporation. The dossier presents him as analytical, pragmatic, responsible, and burdened, with reluctant authoritarian tendencies imposed by crisis. He prioritizes system stability, especially the continued function of Stella, and protects his team while arguing against plans he believes risk collapse. As conditions deteriorate, he explores increasingly radical solutions, indicating flexibility under pressure despite an initial resistance to change. He communicates via localcasting, and his presence is one of weary authority rather than volume. Physically, he is lean, slightly stooped, with olive-toned skin, hazel-green eyes, dark hair streaked with silver, and a closely cropped salt-and-pepper beard. Personal habits—like twisting his wedding ring—emphasize internalized stress. Post–Fox River destruction, the dossier notes a dire, uncertain status and a likely displacement amid the collapse of systems he served.",
+    "narrative_gravity": 6
+    },
+    "personality": {
+    "traits": ["analytical", "logical", "pragmatic", "solution-oriented", "responsible", "dedicated", "weary-authoritative"],
+    "flaws": ["overreliance-on-logic", "resistance-to-change", "internalized-stress", "exhaustion"],
+    "values": ["system-stability", "duty-and-responsibility", "catastrophe-avoidance"],
+    "motivations_primary": ["prevent-system-collapse", "maintain-stella-and-metrofederacy-stability"],
+    "motivations_secondary": ["protect-team", "pursue-viable-alternatives-under-pressure"]
+    },
+    "appearance": {
+    "height_cm": 178,
+    "build": "lean, slightly stooped from long hours at consoles",
+    "hair": "dark brown streaked with silver, combed back; thinning at crown",
+    "eyes": "hazel-green with gray flecks; intelligent, often haunted",
+    "notable_marks": ["neatly trimmed salt-and-pepper beard", "eye sockets shadowed from lack of sleep", "habit of twisting a wedding ring", "slight sheen of sweat under cognitive load"],
+    "style": "dark gray minimalist Metrofederacy utility suits; Teragen lapel pin; ID badge with retinal lock; occasional lightweight neural interface shawl"
+    },
+    "skills": {
+    "combat": [],
+    "technical": ["ai-engineering", "systems-engineering", "localcasting-operations", "problem-decomposition"],
+    "tactics": ["strategic-thinking-under-pressure", "risk-analysis", "shielding-team-from-political-pressure"],
+    "limitations": ["logic-bias-over-human-factors", "change-resistance", "stress-related-fatigue"]
+    },
+    "relationships": [
+    {
+    "with": "cervantes-adlawan",
+    "label": "chairman/boss",
+    "state": "adversarial-respect",
+    "notes": "Respects authority but challenges decisions he deems flawed; dynamic mixes subordination with principled pushback."
+    },
+    {
+    "with": "deepak",
+    "label": "colleague",
+    "state": "protective",
+    "notes": "Part of the team he shields from the full weight of the crisis and morally dubious options."
+    },
+    {
+    "with": "xiaofeng",
+    "label": "colleague",
+    "state": "protective",
+    "notes": "Included in the group Romuald tries to insulate while seeking solutions."
+    },
+    {
+    "with": "qasim",
+    "label": "colleague",
+    "state": "protective",
+    "notes": "Colleague he guards as pressures escalate and options narrow."
+    }
+    ],
+    "arc": {
+    "status_now": "Unknown following the destruction of Fox River; dossier indicates likely displacement, profound loss, and uncertainty.",
+    "pre_pivot": "Reluctant participant arguing against a high-risk integration plan while maintaining Stella and shielding his team.",
+    "pivot_event": "destruction-of-fox-river",
+    "post_pivot": "Faces the failure of stabilization efforts amid system collapse; immediate circumstances unspecified.",
+    "future_vector": null
+    },
+    "items_and_tech": [
+    {
+    "id": "teragen-id-badge",
+    "name": "Teragen ID badge with retinal lock",
+    "category": "tool",
+    "capabilities": ["secure-identification", "access-control"],
+    "condition": "",
+    "notes": "Worn on a collar tag; part of senior engineer kit."
+    },
+    {
+    "id": "neural-interface-shawl",
+    "name": "Lightweight neural interface shawl",
+    "category": "tool",
+    "capabilities": ["augmented-briefing-interface"],
+    "condition": "",
+    "notes": "Occasionally draped over shoulders during sensitive briefings."
+    },
+    {
+    "id": "teragen-lapel-pin",
+    "name": "Teragen-branded lapel pin",
+    "category": "other",
+    "capabilities": ["symbol-of-affiliation"],
+    "condition": "",
+    "notes": "Worn with minimalist Metrofederacy utility suits."
+    },
+    {
+    "id": "wedding-ring",
+    "name": "Wedding ring",
+    "category": "other",
+    "capabilities": ["personal-token"],
+    "condition": "",
+    "notes": "Frequently twisted unconsciously under stress."
+    }
+    ],
+    "themes": {
+    "keywords": ["system-stability", "responsibility", "logic-vs-emotion", "crisis-management", "technocracy-under-strain"],
+    "moral_tensions": ["efficiency-vs-empathy", "duty-vs-conscience", "means-vs-ends"]
+    },
+    "text_windows": {
+    "bio_200w": "Romuald Anwar is a senior engineer and AI specialist associated with the Industry Party, Stella Development Directorate, the Metrofederacy, and Teragen Development Corporation. He is analytical and pragmatic, responsible for arguing against destabilizing plans while still seeking solutions to prevent collapse. The dossier emphasizes his duty to maintain Stella’s stability and protect his team, even as pressure forces reluctant authoritarian choices. He communicates via localcasting and projects quiet, weary authority. Physically he is lean and slightly stooped, olive-toned, with hazel-green eyes, dark hair streaked with silver, and a close salt-and-pepper beard; stress shadows his eyes and he often twists a wedding ring. His wardrobe is minimalist utility suits with a Teragen pin and a retinal-locked ID badge, sometimes augmented by a neural interface shawl. After Fox River’s destruction, his status is uncertain and likely displaced, underscoring the collapse of the system he served.",
+    "arc_200w": "Romuald Anwar is positioned at the fault line between policy and infrastructure, beginning as a reluctant participant who argues with data against a high-risk integration plan. As conditions worsen, he remains responsible for Stella’s stability and shields colleagues while exploring increasingly radical options to avert catastrophe. The dossier marks the destruction of Fox River as a decisive break that collapses the system he dedicated his life to preserving. Post-event, his situation is described as dire and uncertain, with probable displacement and profound loss of purpose. The arc conveyed is not of triumph but of burden: logic stretched to its limits, authority assumed to prevent worse outcomes, and a final reckoning with failure once the core institutions fall. No forward program is stated beyond survival and adaptation in an altered landscape.",
+    "skills_120w": "Romuald Anwar’s skills include AI and systems engineering, localcasting proficiency for data/report communication, and strategic analysis of complex technical crises. Tactically, he dissects problems, evaluates risks, and shields his team from political pressure while he negotiates constraints. Limitations are explicit: bias toward logic over human factors, resistance to rapid change, and severe internalized stress leading to exhaustion. The dossier highlights problem-solving under pressure and willingness to consider radical measures when stability is at stake.",
+    "appearance_120w": "Romuald Anwar stands about 178 cm, lean and slightly stooped from long console work. He has olive-toned skin, an angular face, and hazel-green eyes that read intelligent and haunted. Dark brown hair, streaked with silver and thinning at the crown, is combed back; a neatly trimmed salt-and-pepper beard adds austere polish. He wears dark gray minimalist Metrofederacy utility suits with a Teragen lapel pin and a collar-tag ID badge featuring a retinal lock. At times he drapes a lightweight neural interface shawl during sensitive briefings. Stress shadows his eyes and he unconsciously twists a wedding ring.",
+    "relationships_180w": "Romuald Anwar’s key ties center on hierarchy and stewardship. With Cervantes Adlawan, Industry Party chairman, he maintains subordination tempered by adversarial respect, challenging decisions he judges unsound while accepting responsibility for outcomes. With colleagues Deepak, Xiaofeng, and Qasim, he exhibits a protective stance, buffering them from political and moral fallout while they contribute to technical work. The dossier frames these relationships as duty-bound and crisis-shaped: he is the senior engineer who carries decisions up the chain and shields those below, balancing data-driven objections with execution once directives solidify. These bonds illustrate his dual role as skeptic and caretaker inside a stressed institution."
+    },
+    "qa_pairs": [
+    {"q": "What organizations is Romuald associated with?", "a": "The Industry Party, the Stella Development Directorate, the Metrofederacy, and Teragen Development Corporation."},
+    {"q": "What does Romuald prioritize in his work?", "a": "Maintaining Stella’s stability and preventing system collapse while protecting his team."},
+    {"q": "How does the dossier describe his decision style under pressure?", "a": "Analytical and pragmatic, willing to consider radical options when stability is threatened."},
+    {"q": "What event defines his recent situation?", "a": "The destruction of Fox River, after which his status is uncertain and likely displaced."},
+    {"q": "What tools or devices are noted with his appearance?", "a": "A Teragen ID badge with retinal lock and an occasional lightweight neural interface shawl."}
+    ],
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Romuald Anwar", "Industry Party", "Stella Development Directorate", "Teragen", "Metroferedacy", "Stella AI", "senior engineer", "AI specialist", "localcasting"],
+    "keywords_dense": "Romuald Anwar, INTJ, senior engineer, AI specialist, Industry Party, Stella Development Directorate, Teragen Development Corporation, Metrofederacy, Stella AI, system stability, localcasting, Fox River destruction, crisis management, risk analysis",
+    "spoiler_level": "book1_end",
+    "named_entities": {
+    "people": ["Romuald Anwar", "Cervantes Adlawan", "Deepak", "Xiaofeng", "Qasim"],
+    "places": ["Fox River", "Metrofederacy"],
+    "orgs": ["Industry Party", "Stella Development Directorate", "Teragen Development Corporation"],
+    "terms": ["Stella AI", "localcasting", "neural interface shawl", "retinal lock"]
+    }
+    },
+    "embedding_payloads": [
+    {
+    "chunk_id": "romuald-anwar-1",
+    "type": "bio",
+    "text": "Romuald Anwar is a senior engineer and AI specialist tied to the Industry Party, the Stella Development Directorate, the Metrofederacy, and Teragen Development Corporation. He emphasizes system stability, argues against risky plans, and protects his team while communicating via localcasting. His presence is quiet authority marked by stress and ritual habits like twisting a wedding ring."
+    },
+    {
+    "chunk_id": "romuald-anwar-2",
+    "type": "arc",
+    "text": "Romuald Anwar contests a high-risk integration effort before conditions deteriorate, then explores radical mitigations to prevent collapse. The destruction of Fox River marks a breaking point that leaves his status uncertain and likely displaced, closing an arc defined by responsibility under crisis."
+    },
+    {
+    "chunk_id": "romuald-anwar-3",
+    "type": "relationships",
+    "text": "Romuald Anwar maintains adversarial respect with Industry Party chairman Cervantes Adlawan and a protective stance toward colleagues Deepak, Xiaofeng, and Qasim. He channels objections upward and shields his team downward, balancing skepticism with execution."
+    },
+    {
+    "chunk_id": "romuald-anwar-4",
+    "type": "skills_cybernetics",
+    "text": "Romuald Anwar’s capabilities include AI and systems engineering, localcasting operations, and strategic risk analysis. Limitations include bias toward logic, resistance to change, and internalized stress leading to exhaustion. No cybernetics are indicated."
+    },
+    {
+    "chunk_id": "romuald-anwar-5",
+    "type": "appearance",
+    "text": "Romuald Anwar is about 178 cm, lean and slightly stooped, with olive-toned skin, hazel-green eyes, dark hair streaked with silver, and a trimmed salt-and-pepper beard. He wears minimalist Metrofederacy utility suits with a Teragen pin, a retinal-locked ID badge, and occasionally a neural interface shawl."
+    }
+    ]
+    }

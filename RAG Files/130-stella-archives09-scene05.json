@@ -1,0 +1,335 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Routine",
+    "scene_id": "shelly-macrobus-tap-butter-chicken",
+    "chapter_number": "Stella Archives 09",
+    "scene_number": 5,
+    "date_in_universe": "2186-03-28",
+    "absolute_timeline_notes": "Shortly after Shelly accepts Michelle’s data-only terms; same general week."
+    },
+    "text_windows": {
+    "full_scene_clean": "The smell hit Shelly before she opened the takeout: butter chicken, garam masala, cardamom, ghee—grief and memory of the night the message came: Randy died. She forced bites down while waiting for Michelle’s promised access. A private-node message arrived with a bare subject string (TT7Lq9qLx75jgj.orionblue.ocherwood.ccnz): the jump point. A second private message followed: subject 23297 and pages of random text—likely the service port and certificate key. Shelly launched her connections toolkit, spun up a virtual tap using a pre-Metrofederacy *nix-style routing schema, static encryption, and Macrobus protocol—outside Stella’s jurisdiction. She color-tagged the tap from a sampled swatch of the food’s creamy orange-gold: “Butter chicken.” Connection established, tunnel up, encryption set. A prompt offered to browse a *nix file server; she agreed and saw a deep trove of raw surveillance data: packet captures, traffic logs, vision stills, heat maps, nested folders—much of it commented. Someone had mirrored a woman’s entire virtual presence before Stella scrubbed the logs. Appetite gone, Shelly thanked her mother under her breath, called her an asshole, tossed the meal into the recycler, and settled onto the couch to start digging.",
+    "dense_recap_250w": "Shelly self-triggers a hard memory by ordering butter chicken, the dish she last ate the night she learned Randy had died. While forcing herself through it, Michelle’s off-network delivery arrives in two pieces: an unlabeled jump point (a domain-like string) and, separately, a service port number with a long certificate block. Shelly configures an old-school virtual tap using pre-Metrofederacy *nix-style routing, static encryption, and the Macrobus protocol, deliberately operating outside Stella/StellaNet’s oversight. She color-codes the tap with a sampled swatch from the dish—“Butter chicken”—and brings the tunnel up. A detected *nix file server exposes a vast, organized surveillance archive: raw packet captures, decryption attempts, traffic logs, vision stills, heat maps, and deeply nested folders, many annotated. The set appears to be a complete mirror of a target woman’s virtual footprint captured before Stella’s later erasure. Emotionally conflicted—grateful for the access, bitter toward her mother—Shelly discards the food and immerses herself in the data. The scene turns her pain ritual into an activation ritual, transitioning from grief to analysis and marking the investigation’s concrete re-ignition via Macrobus.",
+    "query_handle": "Shelly receives jump point and key, builds Macrobus tunnel, accesses mirrored surveillance archive, and begins analysis."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Grief trigger",
+    "what_happens": "Shelly orders butter chicken, reliving the night she learned Randy died, and forces herself to eat.",
+    "involved_entities": ["shelly", "randy", "meal-butter-chicken"],
+    "stakes_or_conflict": "Emotional regulation vs. traumatic memory."
+    },
+    {
+    "order": 2,
+    "label": "Access arrives",
+    "what_happens": "Two private-node messages deliver a jump point and a separate port/certificate key.",
+    "involved_entities": ["shelly", "michelle", "jump-point-string", "service-port-cert", "pid"],
+    "stakes_or_conflict": "Operational secrecy and correctness of setup under time/trace pressure."
+    },
+    {
+    "order": 3,
+    "label": "Old-school tunnel",
+    "what_happens": "Shelly spins up a pre-Metrofederacy *nix routing tap using Macrobus with static encryption.",
+    "involved_entities": ["shelly", "macrobus", "virtual-tap-butter-chicken", "connections-toolkit"],
+    "stakes_or_conflict": "Bypassing StellaNet while avoiding detection; technical precision required."
+    },
+    {
+    "order": 4,
+    "label": "Treasure trove",
+    "what_happens": "The *nix file server reveals deep, organized surveillance archives—packet captures, logs, images.",
+    "involved_entities": ["shelly", "nix-file-server", "offline-archive"],
+    "stakes_or_conflict": "Volume and sensitivity of data; potential to finally progress the Fay/Randy lines."
+    },
+    {
+    "order": 5,
+    "label": "Commit to the hunt",
+    "what_happens": "Shelly discards the food and begins digging through the archive.",
+    "involved_entities": ["shelly", "offline-archive"],
+    "stakes_or_conflict": "Focus over grief; investigation over resentment."
+    }
+    ],
+    "characters": [
+    {
+    "id": "shelly",
+    "display_name": "Shelly",
+    "aliases": ["Shel"],
+    "role_in_scene": "POV",
+    "goals_now": "Establish off-network access and mine the mirrored dataset for leads.",
+    "obstacles": "Grief trigger; technical risk; distrust of Michelle; sheer data volume.",
+    "tactics": "Ritualize discomfort; configure a Macrobus tunnel; color-code the tap; methodical browsing.",
+    "relationships": [
+    {"with": "michelle", "type": "family", "state": "estranged/transactional", "evidence": "Separate jump point and key from private nodes; “Thanks, Mom… and you’re still an asshole.”"},
+    {"with": "randy", "type": "lost-loved-one", "state": "grief/drive", "evidence": "Butter chicken tied to the night of the death message."}
+    ],
+    "emotional_arc": {
+    "start": "anxious, grieving, defiant",
+    "turning_points": ["Access arrives in two parts", "Tunnel and server mount succeed"],
+    "end": "focused, activated, grimly energized"
+    },
+    "notable_actions": ["configures Macrobus tap", "tags tap color from meal", "mounts *nix server", "begins triage of surveillance data"],
+    "quotable_lines": [
+    "“Butter chicken.”",
+    "“Time to dumpster dive.”",
+    "“Thanks, Mom… Don’t know how you did it. And you’re still an asshole.”"
+    ]
+    },
+    {
+    "id": "michelle",
+    "display_name": "Michelle",
+    "aliases": ["Mom"],
+    "role_in_scene": "supporting",
+    "goals_now": "Deliver access while maintaining operational security and deniability.",
+    "obstacles": "Need for strict opsec; emotional distance from Shelly.",
+    "tactics": "Split delivery (jump point vs. key), private nodes, unlabeled sources.",
+    "relationships": [
+    {"with": "shelly", "type": "family", "state": "arm’s-length/controlled", "evidence": "“Classic cold-world opsec. No breadcrumbs.”"}
+    ],
+    "emotional_arc": {
+    "start": "opaque",
+    "turning_points": ["Dispatches jump point and key separately"],
+    "end": "opaque"
+    },
+    "notable_actions": ["sends jump point", "sends port/key from separate source"],
+    "quotable_lines": []
+    },
+    {
+    "id": "fay",
+    "display_name": "Fay",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [],
+    "emotional_arc": {
+    "start": "",
+    "turning_points": [],
+    "end": ""
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "randy",
+    "display_name": "Randy",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [],
+    "emotional_arc": {
+    "start": "",
+    "turning_points": [],
+    "end": ""
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "pid",
+    "name": "PID (Personal Interface Display)",
+    "category": "comms",
+    "capabilities": ["receive private-node messages", "store strings locally", "session control UI"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "intact",
+    "scene_function": "Receives jump point and key; launch point for tooling."
+    },
+    {
+    "id": "jump-point-string",
+    "name": "Jump point string (TT7Lq9qLx75jgj.orionblue.ocherwood.ccnz)",
+    "category": "comms",
+    "capabilities": ["endpoint addressing", "entry to Macrobus pathing"],
+    "owner_or_users": ["shelly", "michelle"],
+    "condition_or_state": "active",
+    "scene_function": "First half of access, delivered opsec-clean."
+    },
+    {
+    "id": "service-port-cert",
+    "name": "Port 23297 + certificate block",
+    "category": "comms",
+    "capabilities": ["service port specification", "preshared certificate/key"],
+    "owner_or_users": ["shelly", "michelle"],
+    "condition_or_state": "secure/off-Stella",
+    "scene_function": "Second half of access; keying material."
+    },
+    {
+    "id": "connections-toolkit",
+    "name": "Connections toolkit",
+    "category": "tool",
+    "capabilities": ["virtual tap creation", "*nix routing profiles", "static encryption options"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "operational",
+    "scene_function": "Builds Macrobus tunnel outside StellaNet."
+    },
+    {
+    "id": "virtual-tap-butter-chicken",
+    "name": "Virtual tap “Butter chicken” (color-tagged)",
+    "category": "other",
+    "capabilities": ["routing via Macrobus", "static crypto session", "endpoint browse"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "established",
+    "scene_function": "Named/color-coded conduit to the *nix file server."
+    },
+    {
+    "id": "macrobus-tunnel",
+    "name": "Macrobus protocol tunnel",
+    "category": "comms",
+    "capabilities": ["peer network to StellaNet", "reduced visibility to Stella oversight"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "up",
+    "scene_function": "Jurisdictional bypass; enables access to mirrored archive."
+    },
+    {
+    "id": "nix-file-server",
+    "name": "*nix file server",
+    "category": "other",
+    "capabilities": ["hierarchical data store", "surveillance artifacts hosting"],
+    "owner_or_users": ["unknown-team", "michelle"],
+    "condition_or_state": "mounted/browsable",
+    "scene_function": "Holds raw mirrored surveillance dataset."
+    },
+    {
+    "id": "offline-archive",
+    "name": "Mirrored surveillance archive",
+    "category": "other",
+    "capabilities": ["packet captures", "traffic logs", "vision stills", "heat maps", "annotated folders"],
+    "owner_or_users": ["unknown-team", "michelle"],
+    "condition_or_state": "curated, extensive",
+    "scene_function": "Potential key to Fay’s scrubbed trail."
+    },
+    {
+    "id": "meal-butter-chicken",
+    "name": "Butter chicken (takeout)",
+    "category": "other",
+    "capabilities": ["none"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "discarded",
+    "scene_function": "Sensory/ritual trigger; provides the color motif for the tap."
+    }
+    ],
+    "locations": [
+    {
+    "id": "shelly-apartment",
+    "name": "Shelly’s apartment",
+    "type": "structure",
+    "descriptors": ["small table", "recycler", "couch", "quiet interior"],
+    "in_scene_events": ["Message receipt, tunnel creation, archive browsing begins."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "stella",
+    "name": "Stella",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "System governance and records; scrubbed related identifiers post-fact.",
+    "actions_in_scene": ["Referenced as not caring about Macrobus; prior scrubbing context."]
+    },
+    {
+    "id": "stellanet",
+    "name": "StellaNet",
+    "alignment": "neutral",
+    "agents_present": [],
+    "motives_inferred": "Primary network; subsequent erasures made the offline mirror valuable.",
+    "actions_in_scene": ["Referenced as jurisdiction avoided by Macrobus."]
+    },
+    {
+    "id": "macrobus",
+    "name": "Macrobus",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Peer network enabling off-Stella transport.",
+    "actions_in_scene": ["Carries Shelly’s tunnel to the *nix server."]
+    },
+    {
+    "id": "unknown-team",
+    "name": "Michelle’s team (unspecified)",
+    "alignment": "unknown",
+    "agents_present": ["michelle"],
+    "motives_inferred": "Maintain opsec while arming Shelly with actionable data.",
+    "actions_in_scene": ["Provides jump point/key; hosts mirrored archive."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["grief as activation", "trust vs. surveillance", "systems and jurisdiction", "data as intimacy substitute", "rituals of control"],
+    "motifs_symbols": ["butter chicken color tag", "split-key delivery", "old-tech *nix + static crypto", "recycler as purge"],
+    "moral_questions": ["Is clandestine surveillance justified to preserve truth against institutional erasure?", "What is owed between estranged kin when information is the only bridge?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "intimate, tech-literate, noir-tinged",
+    "pacing": "brisk setup then patient dig",
+    "voice_traits": ["dry gallows humor", "procedural specificity", "sensory anchors"],
+    "sensory_notes": ["garam masala/cardamom aroma", "creamy orange-gold visual swatch", "quiet apartment hum"]
+    },
+    "causality": {
+    "prior_dependencies": ["Shelly’s data-only agreement with Michelle; Fay’s identifiers wiped from StellaNet; Randy’s death as emotional driver."],
+    "outcomes": ["Operational Macrobus tunnel established; access to mirrored surveillance archive obtained; investigation restarts with significant data volume."],
+    "unanswered_questions": ["Who exactly built and curated the archive?", "What risks accompany Macrobus access?", "What in the archive will link to Fay/Randy?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["shelly"],
+    "trigger": "Eating the dish tied to Randy’s death-night while working.",
+    "resolution": "Discards the meal and channels energy into analysis."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["shelly", "stellanet"],
+    "trigger": "Stella’s jurisdiction and prior scrub force off-network access.",
+    "resolution": "Bypass via Macrobus and a *nix server mirror."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["shelly", "opsec constraints"],
+    "trigger": "Split delivery and unlabeled nodes demand precise, covert setup.",
+    "resolution": "Properly configures tunnel and gains access."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["bereavement/grief", "family estrangement", "surveillance/privacy"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Shelly", "Michelle", "Macrobus tunnel", "jump point string", "port 23297 certificate", "nix file server", "mirrored surveillance archive", "butter chicken color tag", "Randy", "Fay"],
+    "keywords_dense": "Shelly, Michelle, Randy, Fay, Macrobus, Stella, StellaNet, jump point, port 23297, certificate, virtual tap, nix server, packet captures, surveillance archive, butter chicken",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Shelly", "Michelle", "Randy", "Fay"],
+    "places": ["Shelly’s apartment"],
+    "orgs": ["Stella", "StellaNet", "Macrobus"],
+    "terms": ["jump point", "Macrobus protocol", "*nix-style routing", "virtual tap", "packet captures"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What two components did Shelly receive to establish access?", "a": "A jump point string and a separate message with port 23297 plus a certificate/key block."},
+    {"q": "Why did Shelly choose a pre-Metrofederacy *nix routing schema and Macrobus?", "a": "To operate outside StellaNet’s jurisdiction with low-profile, static encryption and reach the off-network mirror."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "shelly-butter-chicken-macrobus-recap",
+    "type": "recap",
+    "text": "Shelly uses Michelle’s split delivery—a jump point plus port/cert—to configure a pre-Metrofederacy *nix-based virtual tap over Macrobus, deliberately avoiding StellaNet oversight. After color-tagging the tap “Butter chicken,” she brings the tunnel up, mounts a *nix file server, and finds a meticulously curated surveillance archive—packet captures, logs, and images—mirrored before Stella’s scrubs. She discards the grief-triggering meal and begins mining the data for leads."
+    },
+    {
+    "chunk_id": "shelly-butter-chicken-entities",
+    "type": "entities_focus",
+    "text": "Actors: Shelly (POV investigator), Michelle (off-screen provider), Randy (memory driver), Fay (surveilled target). Tech/Artifacts: PID; jump point string (TT7Lq9qLx75jgj.orionblue.ocherwood.ccnz); port 23297 + certificate; connections toolkit; virtual tap “Butter chicken”; Macrobus tunnel; *nix file server; mirrored surveillance archive. Systems: Stella/StellaNet (avoided jurisdiction)."
+    },
+    {
+    "chunk_id": "shelly-butter-chicken-style-themes",
+    "type": "style_theme_focus",
+    "text": "Close third with raw interiority and precise network tooling detail; grief ritual transmuted into activation. Themes: estrangement and opsec, jurisdictional workarounds, data as intimacy stand-in. Motifs: butter chicken as color and trigger, split-key delivery, recycler as purge. Moral tension: leveraging clandestine surveillance to overcome institutional erasure."
+    }
+    ]
+    }

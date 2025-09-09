@@ -1,0 +1,228 @@
+{
+  "doc_type": "neon_titan_character_v1",
+  "source": {
+    "dossier_file": "gavin_dossier.md",
+    "scene_refs": []
+  },
+  "identity": {
+    "id": "gavin",
+    "display_name": "Gavin",
+    "aliases": [],
+    "mbti": "ESTJ",
+    "age_bracket": null,
+    "gender": "male",
+    "origin": "Three Shovels Caravan"
+  },
+  "affiliations": [
+    "three-shovels-caravan"
+  ],
+  "bio": {
+    "one_liner": "Caravanner of the Three Shovels; jealous rival to Quincy and volatile arranged match to Robyn.",
+    "summary": "Gavin is a caravanner under Mama Valorie and Davian. He fixates on Robyn and treats the imposed arrangement as an entitlement, provoking Quincy with public taunts, an ultimatum at the Wildebeest, and later violence and theft during a ravager crisis. Although he can cooperate briefly under fire, he reverts to self\u2011serving choices and resurfaces later with heavier weapons, remaining a catalytic antagonist.",
+    "narrative_gravity": 7
+  },
+  "personality": {
+    "traits": [
+      "jealous",
+      "territorial",
+      "volatile",
+      "impulsive",
+      "opportunistic",
+      "vindictive"
+    ],
+    "flaws": [
+      "alcohol-abuse",
+      "poor-impulse-control",
+      "violent-escalation",
+      "insecure-masculinity"
+    ],
+    "values": [
+      "status",
+      "possession",
+      "self-preservation"
+    ],
+    "motivations_primary": [
+      "dominate-quincy",
+      "control-robyn"
+    ],
+    "motivations_secondary": [
+      "save-face",
+      "survive"
+    ]
+  },
+  "appearance": {
+    "height_cm": null,
+    "build": null,
+    "hair": null,
+    "eyes": null,
+    "notable_marks": [],
+    "style": null
+  },
+  "skills": {
+    "combat": [
+      "pistol",
+      "smg-9mm"
+    ],
+    "technical": [],
+    "tactics": [
+      "brief-field-cooperation"
+    ],
+    "limitations": [
+      "impulsive",
+      "betrays-allies"
+    ]
+  },
+  "relationships": [
+    {
+      "with": "robyn",
+      "label": "arranged-match",
+      "state": "rejected",
+      "notes": "Leadership imposed match; Robyn refused."
+    },
+    {
+      "with": "quincy",
+      "label": "rival",
+      "state": "violent",
+      "notes": "Taunts, threatens, assaults, and steals from Quincy."
+    },
+    {
+      "with": "mama-valorie",
+      "label": "leadership",
+      "state": "invoked",
+      "notes": "Invokes her authority to justify the arrangement."
+    },
+    {
+      "with": "davian",
+      "label": "leadership",
+      "state": "invoked",
+      "notes": "Part of leadership backing the arrangement."
+    },
+    {
+      "with": "demmy",
+      "label": "threatened",
+      "state": "violent",
+      "notes": "Threatens Demmy during the assault episode."
+    }
+  ],
+  "arc": {
+    "status_now": "Alive; whereabouts unresolved; last seen armed and mentioned alongside Blacklight Syndicate context.",
+    "pre_pivot": "Leans on leadership\u2019s arrangement to claim Robyn and posture over Quincy.",
+    "pivot_event": "Wildebeest dice ultimatum followed by ravager ambush and assault on Quincy.",
+    "post_pivot": "Escalates to theft and violence; later reappears with an SMG and is disarmed by Lesha.",
+    "future_vector": "Potential vector for outside interference; recurring threat to Quincy/Robyn."
+  },
+  "items_and_tech": [
+    {
+      "id": "pistol",
+      "name": "Pistol",
+      "category": "weapon",
+      "capabilities": [
+        "bludgeon",
+        "firearm"
+      ],
+      "condition": "functional",
+      "notes": "Used as a weapon against Quincy."
+    },
+    {
+      "id": "smg-9mm",
+      "name": "9mm SMG",
+      "category": "weapon",
+      "capabilities": [
+        "automatic-fire"
+      ],
+      "condition": "functional",
+      "notes": "Later seen with this weapon; disarmed by Lesha."
+    }
+  ],
+  "themes": {
+    "keywords": [
+      "jealousy",
+      "violence",
+      "betrayal",
+      "rivalry",
+      "addiction"
+    ],
+    "moral_tensions": [
+      "love-vs-possession",
+      "survival-vs-loyalty"
+    ]
+  },
+  "text_windows": {
+    "bio_200w": "Gavin is an ESTJ caravanner in the Three Shovels who becomes a persistent antagonist to Quincy. He treats an imposed arrangement with Robyn as proof of status and entitlement, using public taunts and an ultimatum at the Wildebeest to humiliate Quincy. During a subsequent ravager ambush, he briefly cooperates to clear a barricade but then turns on Quincy, striking her with a pistol. Evidence links him to theft of her toolbox and threats against Demmy, showing a pattern of escalation from swagger to violent abuse. Later, he resurfaces carrying a 9mm SMG and is disarmed by Lesha; in the same span, he is mentioned in proximity to the Blacklight Syndicate, leaving his outside connections ambiguous. Gavin\u2019s volatility, substance abuse, and insecure need for dominance make him unpredictable and dangerous, a catalyst for conflict around Quincy and Robyn.",
+    "arc_200w": "Gavin\u2019s trajectory begins with possessiveness and leadership\u2011backed entitlement. When challenged, he raises stakes from taunts to a dice ultimatum that frames Robyn as a prize, then escalates again under combat stress by attacking Quincy. The aftermath exposes theft and intimidation that confirm a pattern of self\u2011serving betrayal. His later appearance with an SMG, and a passing association with the Blacklight Syndicate, signal a drift toward harder edges and external actors. Across these turns, he remains a pressure point that tests Quincy\u2019s restraint and Robyn\u2019s boundaries while threatening the caravan\u2019s fragile order.",
+    "skills_120w": "Gavin\u2019s only reliable competencies are basic small\u2011arms use and momentary field cooperation when survival demands it. He carries a pistol and later a 9mm SMG but lacks discipline, judgment, or sustained teamwork. Alcohol abuse and volatile temperament undermine his effectiveness, turning any contribution into a liability. His tactical ceiling is low; his impact stems from social provocation and sudden violence rather than skill.",
+    "appearance_120w": "No defining physical details are provided in the dossier sources. Gavin is primarily characterized by behavior\u2014swaggering, taunting, drunk confrontations\u2014and by violent acts that brand him as a dangerous presence rather than a described figure.",
+    "relationships_180w": "Gavin invokes caravan leadership to legitimize an unwanted arrangement with Robyn, provoking Quincy as a rival. With Robyn he is possessive and entitled; with Quincy he is antagonistic and violent, culminating in assault and theft. He threatens Demmy, attempting dominance through fear. Lesha later disarms him, demonstrating his vulnerability when confronted by competent fighters. Leadership figures such as Mama Valorie and Davian are tools he cites rather than partners he serves. These ties sketch a man who leverages authority, exploits chaos, and erodes trust."
+  },
+  "qa_pairs": [
+    {
+      "q": "What is Gavin\u2019s main flaw?",
+      "a": "Jealousy and violent escalation, worsened by alcohol abuse."
+    },
+    {
+      "q": "Which weapons does he use?",
+      "a": "A pistol and later a 9mm SMG."
+    },
+    {
+      "q": "How does he relate to Robyn and Quincy?",
+      "a": "He treats Robyn as an entitlement from leadership and targets Quincy as a rival to humiliate and harm."
+    }
+  ],
+  "metadata_for_indexing": {
+    "retrieval_keys": [
+      "Gavin",
+      "Three Shovels Caravan",
+      "Quincy",
+      "Robyn"
+    ],
+    "keywords_dense": "Gavin, Three Shovels Caravan, Robyn, Quincy, Mama Valorie, Davian, jealousy, puro, violence, betrayal, Blacklight Syndicate",
+    "spoiler_level": "book1_end",
+    "named_entities": {
+      "people": [
+        "Gavin",
+        "Robyn",
+        "Quincy",
+        "Mama Valorie",
+        "Davian",
+        "Demmy",
+        "Lesha"
+      ],
+      "places": [
+        "Three Shovels Caravan"
+      ],
+      "orgs": [
+        "Blacklight Syndicate"
+      ],
+      "terms": [
+        "puro"
+      ]
+    }
+  },
+  "embedding_payloads": [
+    {
+      "chunk_id": "gavin-1",
+      "type": "bio",
+      "text": "Gavin is an ESTJ caravanner who antagonizes Quincy over Robyn, escalating from taunts to violence and theft; later he reappears with an SMG and is disarmed by Lesha."
+    },
+    {
+      "chunk_id": "gavin-2",
+      "type": "arc",
+      "text": "Begins entitled by leadership\u2019s arrangement; triggers dice ultimatum; attacks Quincy during an ambush; later surfaces armed with hints of outside ties."
+    },
+    {
+      "chunk_id": "gavin-3",
+      "type": "relationships",
+      "text": "Possessive toward Robyn; violent rival to Quincy; invokes Mama Valorie/Davian; threatens Demmy; disarmed by Lesha."
+    },
+    {
+      "chunk_id": "gavin-4",
+      "type": "skills_cybernetics",
+      "text": "Limited small\u2011arms use (pistol, 9mm SMG); impulsive, unreliable; cooperation collapses under stress."
+    },
+    {
+      "chunk_id": "gavin-5",
+      "type": "appearance",
+      "text": "No notable physical description; presence defined by volatile actions rather than looks."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+    "doc_type": "neon_titan_character_v1",
+    "source": {
+    "dossier_file": "Werner_dossier.md",
+    "scene_refs": []
+    },
+    "identity": {
+    "id": "werner",
+    "display_name": "Werner",
+    "aliases": [],
+    "mbti": "ISTJ",
+    "age_bracket": "late-40s-to-mid-50s",
+    "gender": "male",
+    "origin": "Unknown"
+    },
+    "affiliations": ["stellanet"],
+    "bio": {
+    "one_liner": "StellaNet cameraman–drone operator and forensic photographer driven to document the Fox River destruction.",
+    "summary": "Werner is a hyper-competent, emotionally withheld cameraman, drone operator, and forensic photographer formerly affiliated with StellaNet. He values proof over ideology and processes trauma through meticulous work, using drones and layered data capture to frame and analyze scenes. His eyes are fully synthetic—perfect silver disks etched with “Nikon”—that shutter during drone operation while he sees via two micro fly-eye drones. He is tall, pale, lean, with wild curls and a disrepaired, loose-fit wardrobe, often shielding his eyes from light with a clipboard. Personality notes stress cynicism, precision, privacy, and social reserve. Fox River’s destruction transforms him from background technician to frontline witness; his surviving recordings form a rare evidence trail. Post-event, he is alive but strained, a nomadic operator with damaged yet salvageable rigs, surviving with Alejandro and Shelly and positioned to investigate what happened and why.",
+    "narrative_gravity": 8
+    },
+    "personality": {
+    "traits": ["methodical", "precise", "detached", "private", "cynical-wry", "justice-driven"],
+    "flaws": ["emotional-avoidance", "inflexible-in-chaos", "social-awkwardness"],
+    "values": ["truth-via-data", "professionalism", "accountability"],
+    "motivations_primary": ["document-evidence", "seek-accountability-for-fox-river"],
+    "motivations_secondary": ["protect-integrity-of-records", "survive-and-continue-investigation"]
+    },
+    "appearance": {
+    "height_cm": 183,
+    "build": "tall, angular, lean",
+    "hair": "wild, unkempt curls",
+    "eyes": "fully synthetic; reflective silver disks with black central lenses; “Nikon” etched on inner rim",
+    "notable_marks": ["eye shutters render eyes solid silver during drone control", "frequent micro-muscle twitches under stress", "light sensitivity (uses clipboard as shade)"],
+    "style": "loose, ill-fitting clothes suggesting disrepair; prefers to stay in the background"
+    },
+    "skills": {
+    "combat": [],
+    "technical": ["drone-operation", "forensic-photography", "data-collection-and-transmission", "mind–machine-interface-operation", "advanced-scanning", "forensic-investigation"],
+    "tactics": ["tactical-scene-reconstruction", "layered-mind-map-overlays (temp/audio/motion)", "verification-and-proof-centric-thinking"],
+    "limitations": ["reliance-on-cybernetics-for-vision", "cannot-use-eye-vision-and-drone-vision-simultaneously", "difficulty-improvising-in-fluid-social-contexts", "risk-of-emotional-collapse-without-work-structure"]
+    },
+    "relationships": [
+    {
+    "with": "alejandro",
+    "label": "friend/field-partner",
+    "state": "symbiotic-professional",
+    "notes": "Closest partner; Alejandro reads people while Werner reads systems, forming a balanced reporting team."
+    },
+    {
+    "with": "shelly",
+    "label": "colleague",
+    "state": "easy-cooperation",
+    "notes": "Recognizes like-minded rigor; they coordinate investigation work smoothly."
+    }
+    ],
+    "arc": {
+    "status_now": "Alive, strained, and effectively nomadic after Fox River; rigs damaged but salvageable; operates alongside Alejandro and Shelly.",
+    "pre_pivot": "Behind-the-scenes StellaNet technician focused on documentation and analysis, avoiding the spotlight.",
+    "pivot_event": "destruction-of-fox-river",
+    "post_pivot": "Reluctant frontline witness whose surviving recordings become key evidence; shifts from observer to investigator under trauma.",
+    "future_vector": "Likely to continue pursuing answers and accountability for Fox River, following leads surfaced with Alejandro and Shelly."
+    },
+    "items_and_tech": [
+    {
+    "id": "synthetic-eyes-nikon",
+    "name": "Synthetic silver eyes (etched “Nikon”)",
+    "category": "cybernetics",
+    "capabilities": ["enhanced-visual-capture", "shuttering-to-solid-silver-during-drone-link"],
+    "condition": "",
+    "notes": "Vision switches to external drones when shutters close."
+    },
+    {
+    "id": "fly-eye-micro-drones",
+    "name": "Fly-eye micro drones (pair)",
+    "category": "tool",
+    "capabilities": ["local-visual-perception-when-eyes-shuttered", "close-quarters-navigation"],
+    "condition": "operational",
+    "notes": "Cannot be used simultaneously with direct eye vision."
+    },
+    {
+    "id": "stella-drone-rigs",
+    "name": "Field drone rigs",
+    "category": "tool",
+    "capabilities": ["aerial-recon", "data-capture", "live-transmission"],
+    "condition": "damaged-but-salvageable",
+    "notes": "Core to evidence gathering around Fox River."
+    },
+    {
+    "id": "clipboard-sun-shield",
+    "name": "Clipboard (improvised sun shield)",
+    "category": "tool",
+    "capabilities": ["glare-reduction", "note-taking"],
+    "condition": "",
+    "notes": "Used to block sunlight and attention."
+    }
+    ],
+    "themes": {
+    "keywords": ["truth-via-evidence", "witness-to-atrocity", "trauma-and-duty", "systems-over-ideology", "documentation-as-justice"],
+    "moral_tensions": ["observer-vs-actor", "means-of-exposure-vs-personal-safety", "structure-vs-emotional-needs"]
+    },
+    "text_windows": {
+    "bio_200w": "Werner is a StellaNet cameraman, drone operator, and forensic photographer who prioritizes proof over ideology. He is methodical, precise, and emotionally withheld, processing pain through taskwork and documentation. His fully synthetic eyes—silver disks etched with “Nikon”—shutter to solid silver during drone operation while he sees through two micro fly-eye drones. Tall, lean, pale, and unkempt, he favors loose clothing and the background, often shielding his eyes from light with a clipboard. Fox River’s destruction moves him from backend technician to reluctant frontline witness whose recordings form a rare evidence trail. Post-event he remains alive yet strained, a nomadic operator with damaged but salvageable rigs, surviving with Alejandro and Shelly. The dossier emphasizes a justice-through-data ethic: he frames, captures, and verifies rather than theorizes, and his detachment masks survivor guilt that now fuels an investigative drive.",
+    "arc_200w": "Werner is a behind-the-scenes documentarian whose worldview is transformed by witnessing Fox River’s fall. Before the pivot he excelled at structured capture and analysis, avoiding improvisation and visibility. The catastrophe forces proximity to horror, turning his camera from routine reporting to evidence gathering essential for accountability. He becomes a reluctant witness, his surviving footage and layered reconstructions among the few records of the event. In the aftermath, StellaNet’s collapse leaves him institutionless and mobile, his rigs damaged but repairable. He survives with Alejandro and Shelly, facing the choice of fading into obscurity or continuing as a truth-teller in a hostile landscape. The dossier frames his forward motion as investigation-first: pursue verification, map what happened and why, and maintain chain-of-evidence discipline despite trauma and resource scarcity.",
+    "skills_120w": "Werner’s core skills include multi-platform drone operation, forensic photography, and high-fidelity data capture/transmission. He builds tactical mind maps using overlays of temperature, audio, and motion vectors, and he operates mind–machine interfaces and advanced scanners. He excels at verification and reconstruction over improvisation. Limitations include dependence on cybernetics for vision, inability to use his own eyes and drone vision simultaneously, and difficulty in fluid social or moral situations. Emotional avoidance is a risk if deprived of structured work.",
+    "appearance_120w": "Werner is 183 cm, angular, and lean, with pale skin and wild, unkempt curls. His eyes are fully synthetic, silver, perfectly circular, etched with “Nikon,” and can shutter to solid silver during drone control. Under stress his face shows micro-muscle twitches. He wears loose, ill-fitting clothes as if borrowed, evoking disrepair, and often uses a clipboard to block sunlight or attention. He avoids eye contact, moves minimally when interfacing with machines, and prefers to stand behind others during interactions.",
+    "relationships_180w": "Werner’s closest bond is with Alejandro, his field partner and friend; Alejandro interprets people while Werner interprets systems, creating a symbiotic pairing for reporting and investigation. With Shelly he finds immediate professional alignment and easy cooperation grounded in shared rigor and a data-first ethic. These working relationships stabilize Werner after Fox River’s destruction, offering both logistical support and ethical ballast as he shifts from observer to investigator. The dossier notes survival and continued movement together, positioning the trio to follow leads and protect the integrity of records amid institutional collapse. Werner’s trust is hard-won and narrowly granted, but once given, he contributes discipline, documentation, and analysis that others rely on to navigate crisis."
+    },
+    "qa_pairs": [
+    {"q": "What are Werner’s primary roles?", "a": "Cameraman, drone operator, and forensic photographer formerly with StellaNet."},
+    {"q": "How do Werner’s synthetic eyes affect his fieldwork?", "a": "They shutter to solid silver during drone control, and he sees via two micro fly-eye drones; he cannot use both modes simultaneously."},
+    {"q": "What event shifts Werner from observer to investigator?", "a": "The destruction of Fox River, which he records and analyzes extensively."},
+    {"q": "Who are Werner’s key partners after Fox River?", "a": "Alejandro (closest friend and field partner) and Shelly (like-minded colleague)."},
+    {"q": "What vulnerabilities limit Werner in the field?", "a": "Dependence on cybernetics for vision, difficulty improvising in fluid social contexts, and risk of emotional collapse without structured work."}
+    ],
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Werner", "StellaNet", "cameraman", "drone operator", "forensic photographer", "synthetic Nikon eyes", "fly-eye drones", "Fox River evidence"],
+    "keywords_dense": "Werner, ISTJ, StellaNet, cameraman, drone operator, forensic photographer, synthetic eyes, Nikon etched, fly-eye micro drones, Fox River, evidence, mind–machine interface, tactical overlays, data verification",
+    "spoiler_level": "book1_end",
+    "named_entities": {
+    "people": ["Werner", "Alejandro", "Shelly"],
+    "places": ["Fox River", "Metrofederacy"],
+    "orgs": ["StellaNet"],
+    "terms": ["fly-eye drones", "mind–machine interface", "TriD"]
+    }
+    },
+    "embedding_payloads": [
+    {
+    "chunk_id": "werner-1",
+    "type": "bio",
+    "text": "Werner is a StellaNet cameraman, drone operator, and forensic photographer who values proof over ideology and documents crises with precision. He relies on synthetic silver eyes that shutter during drone links while he sees through micro drones."
+    },
+    {
+    "chunk_id": "werner-2",
+    "type": "arc",
+    "text": "Werner turns from background technician to reluctant frontline witness after Fox River’s destruction. His surviving footage becomes rare evidence, and post-collapse he continues alive but strained, operating nomadically with Alejandro and Shelly."
+    },
+    {
+    "chunk_id": "werner-3",
+    "type": "relationships",
+    "text": "Werner works symbiotically with Alejandro, who interprets people while Werner interprets systems, and he collaborates easily with Shelly due to shared rigor. These ties stabilize his investigative push after Fox River."
+    },
+    {
+    "chunk_id": "werner-4",
+    "type": "skills_cybernetics",
+    "text": "Werner’s capabilities include multi-platform drone piloting, forensic photography, data capture/transmission, and overlay-based scene reconstruction. Cybernetics include synthetic Nikon-etched eyes; limitations include dependence on tech and non-simultaneous eye/drone vision."
+    },
+    {
+    "chunk_id": "werner-5",
+    "type": "appearance",
+    "text": "Werner is 183 cm, lean and pale with wild curls and synthetic silver eyes that can shutter to solid disks. He dresses in loose, ill-fitting clothes, avoids eye contact, and often shades himself with a clipboard."
+    }
+    ]
+    }

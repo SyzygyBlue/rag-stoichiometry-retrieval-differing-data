@@ -1,0 +1,172 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "End of Innocence",
+    "scene_id": "2186-11-27-evelyn-end-of-innocence",
+    "chapter_number": "32",
+    "scene_number": "01",
+    "date_in_universe": "2186-11-27",
+    "absolute_timeline_notes": "POV: Evelyn. Intimate morning-after reflection focused on Demmy; no external setting markers beyond a private room/bed."
+    },
+    "text_windows": {
+    "full_scene_clean": "She floated up from sleep, warm and weightless. In her dream, she traced the outline of his face, a familiar landscape etched in her memory. She wasn't ready to wake. She remained under her covers, recalling his piercing eyes, a shocking depth for such a young soul. Demmy, an ocean of complexity in a world of shallow puddles. Being near him was intoxicating. Rolling onto her side, she reached for her shirt on the floor and brought it to her nose. Inhaling deeply, she caught the scent of sandalwood and spice, mingled with the dust of crawlspaces. A happy sigh escaped as she dropped the shirt and stretched, breath hitching at the memory of his kisses. She licked her lips, recalling the taste of him, the way his mouth had moved against hers. Shivers traced her spine. The fire blooming in her belly coexisted beside giddy waves that threatened to wash her away. She wanted to squeal and kick her feet like a schoolgirl. Yet a knot of anxiety tightened in her chest, a counterpoint to the lingering euphoria. It was a dizzying loss of control, exhilarating and terrifying in equal measure. One part of her wanted to slow down, the other to plunge headlong into the unknown. It felt... unsafe.",
+    "dense_recap_250w": "On November 27, 2186, Evelyn wakes in a private room and lingers between sleep and memory, immersed in the sensory afterglow of time spent with Demmy. She recalls his eyes, the complexity she perceives in him, and the intoxicating pull of his presence. Small physical actions—bringing her shirt to her nose, inhaling sandalwood and spice mixed with dust from crawlspaces, stretching under the covers—reinforce a vivid, intimate atmosphere. Memories of kissing emphasize mutual closeness and desire. Alongside this euphoria, an anxiety knot forms: the relationship’s speed and intensity feel like a loss of control. Evelyn experiences a clear, internal split—part of her wants to slow down and protect herself; another part wants to surrender to the momentum and plunge forward. The scene contains no external interruptions, decisions, or overt plot mechanics; instead, it captures a concentrated, interior moment where exhilaration and fear coexist. The final note lands on ambiguity and caution: the connection feels thrilling but unsafe. This snapshot establishes Evelyn’s emotional baseline toward Demmy, flags a looming tension between desire and self-protection, and sets up future choices about pace, boundaries, and risk in their developing relationship.",
+    "query_handle": "Evelyn wakes after intimacy with Demmy, savoring him while fearing the dizzying loss of control."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Waking drift",
+    "what_happens": "Evelyn surfaces from sleep and lingers in a warm, weightless state, holding onto a dream of Demmy.",
+    "involved_entities": ["evelyn", "demmy"],
+    "stakes_or_conflict": "Maintaining emotional safety versus indulging attachment."
+    },
+    {
+    "order": 2,
+    "label": "Sensory anchor",
+    "what_happens": "She brings her shirt to her nose, inhaling sandalwood, spice, and dust; memories of kisses intensify.",
+    "involved_entities": ["evelyn", "demmy"],
+    "stakes_or_conflict": "Desire deepens attachment, raising vulnerability."
+    },
+    {
+    "order": 3,
+    "label": "Euphoria crest",
+    "what_happens": "Joy and arousal swell—she wants to squeal and kick her feet like a schoolgirl.",
+    "involved_entities": ["evelyn"],
+    "stakes_or_conflict": "Emotional momentum versus measured restraint."
+    },
+    {
+    "order": 4,
+    "label": "Anxiety counterpoint",
+    "what_happens": "A knot of anxiety tightens; the speed and intensity feel like a loss of control.",
+    "involved_entities": ["evelyn"],
+    "stakes_or_conflict": "Safety and control at risk."
+    },
+    {
+    "order": 5,
+    "label": "Ambivalent resolution",
+    "what_happens": "She recognizes a split impulse: slow down or plunge ahead; labels the feeling unsafe.",
+    "involved_entities": ["evelyn", "demmy"],
+    "stakes_or_conflict": "Boundary-setting vs surrender remains unresolved."
+    }
+    ],
+    "characters": [
+    {
+    "id": "evelyn",
+    "display_name": "Evelyn",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Savor closeness while assessing personal safety and boundaries.",
+    "obstacles": "Overwhelming desire; fear of losing control; uncertainty about pace.",
+    "tactics": "Pause in bed; sensory recall; introspection to weigh impulses.",
+    "relationships": [
+    {
+    "with": "demmy",
+    "type": "lover",
+    "state": "intense, new, precarious",
+    "evidence": "“the memory of his kisses”; “Being near him was intoxicating.”"
+    }
+    ],
+    "emotional_arc": {
+    "start": "warm, blissful, intoxicated",
+    "turning_points": ["sensory memory sharpens desire", "anxiety knot forms about speed/control"],
+    "end": "exhilarated yet wary; calls it unsafe"
+    },
+    "notable_actions": ["sniffs shirt for scent memory", "reminisces kisses", "assesses risk of moving too fast"],
+    "quotable_lines": [
+    "Demmy, an ocean of complexity in a world of shallow puddles.",
+    "Being near him was intoxicating.",
+    "It felt... unsafe."
+    ]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": null,
+    "obstacles": null,
+    "tactics": null,
+    "relationships": [],
+    "emotional_arc": { "start": null, "turning_points": [], "end": null },
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [],
+    "locations": [
+    {
+    "id": "private-room",
+    "name": "Private room",
+    "type": "room",
+    "descriptors": ["warm", "covers", "shirt on floor", "quiet"],
+    "in_scene_events": ["Evelyn wakes, recalls intimacy, weighs desire against safety"]
+    }
+    ],
+    "factions_orgs": [],
+    "themes_and_motifs": {
+    "themes": ["innocence vs experience", "desire vs self-protection", "control vs surrender", "intimacy and risk"],
+    "motifs_symbols": ["sandalwood and spice scent", "shirt on floor", "warm covers", "knot in chest"],
+    "moral_questions": ["How fast is too fast when safety feels at risk?", "Can exhilaration justify surrendering control?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "lyrical",
+    "pacing": "slow-burn",
+    "voice_traits": ["sensory-rich", "intimate", "introspective"],
+    "sensory_notes": ["sandalwood and spice scent", "dust from crawlspaces", "warmth under covers", "shivers along spine"]
+    },
+    "causality": {
+    "prior_dependencies": ["Evelyn and Demmy have kissed and shared close time previously (evidenced by memory)."],
+    "outcomes": ["Evelyn identifies the relationship’s pace as potentially unsafe.", "She recognizes an internal split between caution and surrender."],
+    "unanswered_questions": ["Will Evelyn slow the relationship or plunge ahead?", "What specific risks make it feel unsafe?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["evelyn"],
+    "trigger": "Intense desire collides with fear of losing control.",
+    "resolution": "Unresolved; she labels it unsafe and remains ambivalent."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "implied",
+    "sensitive_topics": ["emotional vulnerability", "boundary-setting"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["evelyn", "demmy", "intimacy", "anxiety", "loss of control", "sandalwood scent"],
+    "keywords_dense": "Evelyn, Demmy, intimacy, morning-after, anxiety, loss of control, innocence, desire, boundaries, lyrical interiority",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Evelyn", "Demmy"],
+    "places": ["Private room"],
+    "orgs": [],
+    "terms": []
+    }
+    },
+    "qa_pairs": [
+    { "q": "What conflicting impulses does Evelyn experience?", "a": "She wants to slow down for safety but also to plunge ahead into the relationship’s intensity." },
+    { "q": "Which sensory cue anchors Evelyn’s memory of Demmy?", "a": "The scent of sandalwood and spice on her shirt, mixed with dust." }
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-11-27-evelyn-end-of-innocence-1",
+    "type": "recap",
+    "text": "Evelyn wakes in a private room on November 27, 2186, basking in the intimate afterglow of time with Demmy. She lingers under the covers, inhales sandalwood and spice from her shirt, and recalls his kisses. Euphoria and arousal crest, yet a knot of anxiety forms as she recognizes a dizzying loss of control. She feels torn between slowing the relationship to protect herself and plunging ahead into its intoxicating momentum. The moment ends unresolved, marked by the word ‘unsafe.’"
+    },
+    {
+    "chunk_id": "2186-11-27-evelyn-end-of-innocence-2",
+    "type": "entities_focus",
+    "text": "Primary entity: Evelyn (POV). Referenced: Demmy (lover). Location: a quiet private room with covers and a shirt on the floor. No tools, factions, or tech surface explicitly. Actions are interior: scent-triggered memory, recollection of kisses, and evaluation of risk. State: heightened desire paired with caution; boundary-setting conflict not yet resolved."
+    },
+    {
+    "chunk_id": "2186-11-27-evelyn-end-of-innocence-3",
+    "type": "style_theme_focus",
+    "text": "Lyrical third-limited past tense emphasizes sensory detail—sandalwood, spice, dust, warmth—and interior thought. Themes: innocence versus experience, desire versus self-protection, control versus surrender. Motifs: shirt on floor, knot in chest, shivers along spine. Moral focus: whether exhilaration justifies ceding control and how to pace intimacy safely."
+    }
+    ]
+    }

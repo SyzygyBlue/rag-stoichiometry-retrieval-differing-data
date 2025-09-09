@@ -1,0 +1,333 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Article 18 Conspiracy",
+    "scene_id": "tahua-li-mei-briefing-faraday-2186-05-28",
+    "chapter_number": "Stella Balance Party One",
+    "scene_number": 3,
+    "date_in_universe": "2186-05-28",
+    "absolute_timeline_notes": "Same day as Romeijns’s arrival at Tahua Outpost; private briefing with Li Mei inside Special Projects (Faraday-caged room)."
+    },
+    "text_windows": {
+    "full_scene_clean": "Li Mei—petite, cane in hand, eyes like obsidian—meets Prime Minister Johannes Romeijns at Tahua Outpost and escorts him through armored access into Special Projects. A red SAIR warning flashes in his vision as they cross into a restricted zone; he spends party allowances to legalize his presence. Inside a Faraday‐caged interrogation room—drain in the floor, metal tie-downs, copper inlays—signal cuts to zero. Over tea, Li Mei briefs him: Councilor Nhan is likely alive. Logs show Nhan approved an Article 18 sealed rule and then walked alone into the wildlands; signs of a struggle, stolen vehicle and flier, both later found burned; the trail ends in a free city. Whoever took him isn’t chipped and doesn’t play by Stella’s rules. Romeijns wants to alert authorities, but there are none; Special Projects must act covertly. Li Mei argues they need time and leverage: delay the vote by breaking quorum—three more councilors must temporarily disappear. She suspects coordinated Humanity–Industry maneuvering and mentions encrypted traffic between Jinbar Falls and Deception Outpost; Teragen may be involved. She is activating an off-ledger operative—a “world-class cryptowitch”—engineered for loyalty and unaware they work for Balance. Operational security is absolute: no digital trails. For covert comms, Johannes must order snapdragons from a specific macrobus florist at the exact date/time; a fruit basket will signal when Li Mei needs him to return. Pressed for targets, Johannes offers Councilors Barnes, Saddleman, and Onyango, scheduled to visit Emma’s Gorge aquaponics in ~three weeks. Li Mei demands precise timing. She ends the meeting; signal returns as the door opens. Romeijns departs to rejoin Jackson, while Li Mei moves to activate her operative and handler down below.",
+    "dense_recap_250w": "At Tahua Outpost’s Special Projects, Li Mei escorts Prime Minister Johannes Romeijns into a Faraday-caged interrogation room and serves tea while delivering a classified briefing. Councilor Nhan approved an Article 18 sealed rule and almost immediately traveled alone into the wildlands; investigators found signs of struggle, tracked a stolen vehicle to a stolen flier, and lost the trail in a free city. Both craft were later recovered burned. The abductors are off-grid (unchipped) and outside Stella’s norms. Li Mei insists they cannot alert anyone and must operate covertly to counter what she believes is a Humanity–Industry push to force the sealed rule. To buy time, she proposes breaking quorum by making three Balance councilors “temporarily disappear.” She also flags heavy encrypted traffic between Jinbar Falls and Deception Outpost and suggests Teragen may be involved. Li Mei will deploy a deniable, engineered-loyalty “cryptowitch” operative with no visible link to Balance. She forbids any digital traces; for coordination, Johannes must place a covert order—snapdragons via a specified macrobus florist—set to the exact date/time when three councilors will be at Emma’s Gorge aquaponics. A fruit basket will be her recall signal. Romeijns, constrained without his infopanel, names Councilors Barnes, Saddleman, and Onyango for the site visit but lacks precise timing; Li Mei demands specifics. The meeting ends as signal is restored outside the room; Li Mei moves to activate the operative while Romeijns exits to keep his schedule.",
+    "query_handle": "Li Mei briefs Romeijns in a Faraday room: Nhan vanished post–Article 18; propose breaking quorum; activate deniable cryptowitch; covert snapdragon signal."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Entry to Special Projects",
+    "what_happens": "Li Mei escorts Romeijns through armored doors into Tahua’s restricted zone; he spends SAIR allowances to legitimize presence.",
+    "involved_entities": ["li-mei", "johannes-romeijns", "tahua-special-projects", "sair-allowance"],
+    "stakes_or_conflict": "Operating off-ledger without SAIR penalties."
+    },
+    {
+    "order": 2,
+    "label": "Faraday-caged briefing",
+    "what_happens": "Inside an interrogation room, signals drop to zero; over tea, Li Mei asserts Nhan is likely alive and outlines the timeline.",
+    "involved_entities": ["li-mei", "johannes-romeijns", "councilor-nhan", "faraday-room"],
+    "stakes_or_conflict": "Need for secrecy vs. urgent intelligence gaps."
+    },
+    {
+    "order": 3,
+    "label": "Plan to delay vote",
+    "what_happens": "Li Mei pushes to break quorum by disappearing three councilors; she requests names and locations.",
+    "involved_entities": ["li-mei", "johannes-romeijns", "balance-council"],
+    "stakes_or_conflict": "Ethical risk and SAIR fallout vs. political survival."
+    },
+    {
+    "order": 4,
+    "label": "Threat landscape",
+    "what_happens": "Humanity–Industry coordination suspected; encrypted traffic between Jinbar Falls and Deception Outpost; Teragen possibly involved.",
+    "involved_entities": ["humanity-party", "industry-party", "teragen", "jinbar-falls", "deception-outpost"],
+    "stakes_or_conflict": "Unknown adversaries with superior secrecy."
+    },
+    {
+    "order": 5,
+    "label": "Deniable operative & comms",
+    "what_happens": "Li Mei will activate a loyal, deniable cryptowitch; covert comms via ordering snapdragons; fruit basket is recall signal.",
+    "involved_entities": ["li-mei", "deniable-cryptowitch", "macrobus-florist-signal"],
+    "stakes_or_conflict": "Maintaining deniability and zero correlation trails."
+    },
+    {
+    "order": 6,
+    "label": "Targets named, timing demanded",
+    "what_happens": "Romeijns offers Barnes, Saddleman, Onyango at Emma’s Gorge in ~three weeks; Li Mei demands exact time.",
+    "involved_entities": ["johannes-romeijns", "councilor-barnes", "councilor-saddleman", "councilor-onyango", "emmas-gorge-aquaponics"],
+    "stakes_or_conflict": "Operational precision vs. reliance on tech aids."
+    }
+    ],
+    "characters": [
+    {
+    "id": "li-mei",
+    "display_name": "Li Mei",
+    "aliases": ["Secretary Mei"],
+    "role_in_scene": "major",
+    "goals_now": "Secure time and leverage to counter the sealed Article 18 rule; identify targets; activate a deniable operative; maintain deniability.",
+    "obstacles": "Comms blackout; unknown adversaries; need for absolute operational security.",
+    "tactics": "Operate in Faraday cage; forbid digital trails; propose breaking quorum; deploy off-ledger cryptowitch; covert signals via florist/fruit basket.",
+    "relationships": [
+    {"with": "johannes-romeijns", "type": "ally", "state": "pragmatic, domineering", "evidence": "“There can be no slips of the tongue… Now, I need three names.”"},
+    {"with": "councilor-nhan", "type": "ally (missing)", "state": "investigative focus", "evidence": "Provides reconstructed timeline and field findings."}
+    ],
+    "emotional_arc": {
+    "start": "controlled, icy",
+    "turning_points": ["Presses for disappearing councilors", "Reveals deniable operative", "Explodes at tech-dependence slip"],
+    "end": "resolute, operational"
+    },
+    "notable_actions": ["authenticates armored access", "cuts signals in Faraday room", "briefs on Nhan trail", "demands quorum-break plan", "issues covert comms protocol"],
+    "quotable_lines": [
+    "We need proof. Hard evidence.",
+    "Three more councilors must temporarily disappear.",
+    "There can be no slips of the tongue, Mister Prime Minister."
+    ]
+    },
+    {
+    "id": "johannes-romeijns",
+    "display_name": "Prime Minister Johannes Romeijns",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Understand Nhan’s disappearance; avoid catastrophic SAIR fallout; find a lawful-seeming path to delay the vote.",
+    "obstacles": "No authorities to alert; comms blackout; denied use of tech aids; moral qualms.",
+    "tactics": "Concede to covert approach; provide potential targets and location; accept analog signal plan.",
+    "relationships": [
+    {"with": "li-mei", "type": "ally", "state": "tense reliance", "evidence": "“Indeed, and we’re lucky to have you.”"},
+    {"with": "councilor-nhan", "type": "ally", "state": "concerned", "evidence": "“Good god, Li Mei, this was deeply intentional…”"}
+    ],
+    "emotional_arc": {
+    "start": "uneasy, hopeful for clarity",
+    "turning_points": ["Realizes ‘authorities’ don’t exist to alert", "Agrees to quorum-break tactic", "Accepts covert florist/fruit-basket signals"],
+    "end": "apprehensive but committed"
+    },
+    "notable_actions": ["spends allowances to enter", "offers three councilor names", "accepts snapdragon protocol", "exits to rejoin schedule"],
+    "quotable_lines": [
+    "If only we could talk to Teragen.",
+    "We must uncover their plan—whatever it takes."
+    ]
+    },
+    {
+    "id": "councilor-nhan",
+    "display_name": "Councilor Nhan",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "unnamed-guard",
+    "display_name": "Special Projects Guard",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Secure access point.",
+    "obstacles": "",
+    "tactics": "Authenticate and open door.",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": ["opens secured door"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "onyx-cane",
+    "name": "Onyx-Black Cane with Silver Tip",
+    "category": "other",
+    "capabilities": ["mobility aid", "symbol of authority (implied)"],
+    "owner_or_users": ["li-mei"],
+    "condition_or_state": "intact",
+    "scene_function": "Auditory motif punctuating Li Mei’s control."
+    },
+    {
+    "id": "security-door-system",
+    "name": "Armored Access: Card + Keypad + Solenoids",
+    "category": "other",
+    "capabilities": ["tiered authentication", "physical lockdown"],
+    "owner_or_users": ["tahua-special-projects"],
+    "condition_or_state": "operational",
+    "scene_function": "Gates entry to Special Projects restricted zone."
+    },
+    {
+    "id": "faraday-room",
+    "name": "Faraday-Caged Interrogation Room",
+    "category": "other",
+    "capabilities": ["full signal isolation", "detention fixtures", "acoustic privacy"],
+    "owner_or_users": ["tahua-special-projects"],
+    "condition_or_state": "sealed/active",
+    "scene_function": "Enables untraceable conversation and planning."
+    },
+    {
+    "id": "sair-allowance",
+    "name": "SAIR Allowance Authorization",
+    "category": "comms",
+    "capabilities": ["offset SAIR penalties for restricted actions"],
+    "owner_or_users": ["johannes-romeijns", "balance-party"],
+    "condition_or_state": "consumed in-scene",
+    "scene_function": "Legalizes Romeijns’s presence in the restricted zone."
+    },
+    {
+    "id": "macrobus-florist-signal",
+    "name": "Covert Florist Order (Snapdragons)",
+    "category": "comms",
+    "capabilities": ["analog-coded scheduling signal via macrobus address"],
+    "owner_or_users": ["johannes-romeijns", "li-mei"],
+    "condition_or_state": "planned",
+    "scene_function": "Transmits exact timing/location for extractions without digital trails."
+    },
+    {
+    "id": "fruit-basket-signal",
+    "name": "Fruit Basket Recall",
+    "category": "comms",
+    "capabilities": ["out-of-band summon/recall signal"],
+    "owner_or_users": ["li-mei", "johannes-romeijns"],
+    "condition_or_state": "planned",
+    "scene_function": "Signals Romeijns to return to Tahua."
+    }
+    ],
+    "locations": [
+    {
+    "id": "tahua-special-projects",
+    "name": "Tahua Outpost Special Projects (Restricted Zone)",
+    "type": "structure",
+    "descriptors": ["armored doors", "sterile corridors", "SAIR penalty for loitering"],
+    "in_scene_events": ["Entry authenticated; allowances authorized."]
+    },
+    {
+    "id": "interrogation-suite-faraday",
+    "name": "Faraday Interrogation Room",
+    "type": "room",
+    "descriptors": ["no-signal", "floor drain", "tie-down loops", "copper traces", "hooded light"],
+    "in_scene_events": ["Private briefing; quorum-break plan; covert comms protocol agreed."]
+    },
+    {
+    "id": "emmas-gorge-aquaponics",
+    "name": "Emma’s Gorge Aquaponics Facility (Western Australia)",
+    "type": "structure",
+    "descriptors": ["routine inspection target", "councilor site visit"],
+    "in_scene_events": ["Named as future extraction site (timing TBD)."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "balance-party",
+    "name": "Balance Party",
+    "alignment": "ally",
+    "agents_present": ["johannes-romeijns", "li-mei"],
+    "motives_inferred": "Preserve Stella’s equilibrium; avoid being outmaneuvered by sealed-rule push.",
+    "actions_in_scene": ["Authorizes allowances", "Plans quorum-break", "Activates deniable asset"]
+    },
+    {
+    "id": "humanity-party",
+    "name": "Humanity Party",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Win vote for sealed Article 18 rule via political bargains.",
+    "actions_in_scene": ["(Alleged) bought Industry’s support; advancing sealed bill"]
+    },
+    {
+    "id": "industry-party",
+    "name": "Industry Party",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Aligned with Humanity for passage of sealed rule.",
+    "actions_in_scene": ["(Alleged) accepting favors to secure votes"]
+    },
+    {
+    "id": "teragen",
+    "name": "Teragen",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Possible role in encrypted ops; unclear intent.",
+    "actions_in_scene": ["Referenced as potential actor; originators of Stella (historic)"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["secrecy vs. transparency", "ends vs. means", "surveillance and deniability", "dependency on technology vs. tradecraft", "power politics under AI governance"],
+    "motifs_symbols": ["Faraday silence", "tea in a harsh room", "cane cracks on concrete", "flowers as codes", "fruit basket summons"],
+    "moral_questions": ["Is breaking quorum by disappearing colleagues justified to protect systemic balance?", "How much privacy can be sacrificed to safeguard society designed around transparency?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "political/technical thriller",
+    "pacing": "slow-burn",
+    "voice_traits": ["clinical detail", "cold pragmatism", "covert-ops lexicon"],
+    "sensory_notes": ["tap of cane", "clank of solenoids and thunks of locks", "steam of tea", "pressure change on seal, then signal blackout"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Article 18 sealed rule submission and Nhan’s prior approval.",
+    "Johannes’s decision to visit Tahua and consult Li Mei."
+    ],
+    "outcomes": [
+    "Plan to delay vote by breaking quorum (need exact timing).",
+    "Activation of a deniable cryptowitch operative.",
+    "Covert communication protocol established (snapdragons/fruit basket)."
+    ],
+    "unanswered_questions": [
+    "Who abducted (or recruited) Councilor Nhan and why?",
+    "What is inside the sealed Article 18 rule?",
+    "How are Jinbar Falls and Deception Outpost connected, and is Teragen complicit?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["li-mei", "johannes-romeijns"],
+    "trigger": "Li Mei’s demand to disappear three councilors and ban tech use for planning.",
+    "resolution": "Tentative alignment; Johannes provides names but must get exact timing later."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["balance-party leadership", "Stella rules/SAIR"],
+    "trigger": "Restrictions on communication and SAIR exposure.",
+    "resolution": "Workaround via allowances and analog signals."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mentioned",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["kidnapping/abduction", "torture (implied by room fixtures)", "mass surveillance", "political coercion"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Li Mei briefing", "Faraday interrogation room", "Councilor Nhan disappearance", "Article 18 sealed rule", "break quorum plan", "snapdragons florist signal", "fruit basket recall", "Teragen involvement", "Jinbar Falls", "Deception Outpost", "Emma’s Gorge aquaponics", "cryptowitch operative"],
+    "keywords_dense": "Li Mei, Johannes Romeijns, Tahua Outpost Special Projects, Faraday cage, SAIR allowances, Councilor Nhan missing, Article 18 sealed rule, break quorum, Humanity and Industry coalition, Teragen, encrypted traffic Jinbar Falls Deception Outpost, cryptowitch operative, snapdragons florist signal, fruit basket recall, Emma’s Gorge aquaponics",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Li Mei", "Prime Minister Johannes Romeijns", "Councilor Nhan", "Councilor Barnes", "Councilor Saddleman", "Councilor Onyango"],
+    "places": ["Tahua Outpost Special Projects", "Emma’s Gorge Aquaponics", "Jinbar Falls", "Deception Outpost"],
+    "orgs": ["Balance Party", "Humanity Party", "Industry Party", "Teragen", "Stella"],
+    "terms": ["SAIR", "Article 18", "Macrobus", "Faraday cage"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What immediate action does Li Mei propose to delay the sealed rule vote?", "a": "Break quorum by making three councilors temporarily disappear."},
+    {"q": "How must Johannes covertly communicate the exact timing of the councilors’ visit?", "a": "Order snapdragons from a specified macrobus florist set to the precise date/time."},
+    {"q": "When did Nhan go into the wildlands relative to approving Article 18?", "a": "Almost immediately after approving it."},
+    {"q": "Which three councilors does Johannes name as potential targets?", "a": "Barnes, Saddleman, and Onyango at Emma’s Gorge aquaponics."},
+    {"q": "What off-ledger resource does Li Mei intend to deploy?", "a": "A deniable, engineered-loyalty cryptowitch operative."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "tahua-li-mei-briefing-faraday-2186-05-28-1",
+    "type": "recap",
+    "text": "In a Faraday-caged room inside Tahua Special Projects, Li Mei briefs Prime Minister Johannes Romeijns: Councilor Nhan vanished after approving an Article 18 sealed rule; evidence points to a planned abduction by off-grid actors. With a Humanity–Industry coalition pushing the sealed bill, Li Mei urges delaying the vote by breaking quorum via three temporary disappearances. She activates a deniable, loyal cryptowitch to investigate encrypted activity between Jinbar Falls and Deception Outpost and forbids any digital trails. Covert coordination will use an analog signal—ordering snapdragons at a macrobus florist—and a fruit basket will serve as recall. Romeijns supplies three councilor names for a future extraction at Emma’s Gorge and leaves to maintain his schedule."
+    },
+    {
+    "chunk_id": "tahua-li-mei-briefing-faraday-2186-05-28-2",
+    "type": "entities_focus",
+    "text": "Principals: Li Mei (Special Projects chief), Prime Minister Johannes Romeijns. Referenced: Councilor Nhan (missing), Councilors Barnes/Saddleman/Onyango (targets), Humanity Party, Industry Party, Teragen. Tech/Security: SAIR allowances, armored access, Faraday interrogation room, macrobus-based analog signals (snapdragons order, fruit basket recall). Places: Tahua Outpost Special Projects; Emma’s Gorge aquaponics; Jinbar Falls; Deception Outpost. Objective: delay vote, investigate Article 18 conspiracy with a deniable cryptowitch operative."
+    },
+    {
+    "chunk_id": "tahua-li-mei-briefing-faraday-2186-05-28-3",
+    "type": "style_theme_focus",
+    "text": "Third-person limited, cool and surgical. Themes: secrecy vs. transparency, ethical compromise to preserve systemic balance, surveillance and deniability, tech dependence vs. tradecraft. Motifs: cane’s crack on concrete, armored doors, copper tracery, tea in a brutal room, flowers-as-codes, fruit basket recall. Tension rises as political necessity collides with moral cost."
+    }
+    ]
+    }

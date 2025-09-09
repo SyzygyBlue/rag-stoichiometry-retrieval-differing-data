@@ -1,0 +1,194 @@
+{
+  "doc_type": "neon_titan_character_v1",
+  "source": {
+    "dossier_file": "robyn_dossier.md",
+    "scene_refs": []
+  },
+  "identity": {
+    "id": "robyn",
+    "display_name": "Robyn",
+    "aliases": [],
+    "mbti": "INFJ",
+    "age_bracket": null,
+    "gender": "female",
+    "origin": "Three Shovels Caravan"
+  },
+  "affiliations": [
+    "three-shovels-caravan"
+  ],
+  "bio": {
+    "one_liner": "Caravanner and lover of Quincy; empathetic, principled, and protective under harsh caravan politics.",
+    "summary": "Robyn is an INFJ caravanner in love with Quincy. When leadership forces an arrangement with Gavin, she prioritizes survival and Quincy\u2019s safety by compelling promises not to resist. She balances tenderness with firm boundaries, confronting Quincy when dignity is risked. Robyn personifies endurance and integrity within coercive systems.",
+    "narrative_gravity": 8
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "principled",
+      "protective",
+      "values-driven",
+      "long-horizon-thinker"
+    ],
+    "flaws": [
+      "conflict-averse",
+      "self-sacrificing",
+      "burdened-by-compromise"
+    ],
+    "values": [
+      "love",
+      "dignity",
+      "safety"
+    ],
+    "motivations_primary": [
+      "protect-quincy",
+      "preserve-relationship"
+    ],
+    "motivations_secondary": [
+      "maintain-dignity",
+      "avoid-catastrophe"
+    ]
+  },
+  "appearance": {
+    "height_cm": null,
+    "build": null,
+    "hair": null,
+    "eyes": null,
+    "notable_marks": [],
+    "style": null
+  },
+  "skills": {
+    "combat": [],
+    "technical": [
+      "emotional-steadiness",
+      "boundary-setting",
+      "resilience"
+    ],
+    "tactics": [
+      "quiet-influence",
+      "promise-contracts"
+    ],
+    "limitations": [
+      "non-combatant",
+      "burden-of-compromise"
+    ]
+  },
+  "relationships": [
+    {
+      "with": "quincy",
+      "label": "lover",
+      "state": "deep-love",
+      "notes": "Protects Quincy; demands promises for safety and survival."
+    },
+    {
+      "with": "gavin",
+      "label": "arranged-match",
+      "state": "unwanted",
+      "notes": "Arrangement imposed by leadership; Robyn rejects it."
+    },
+    {
+      "with": "mama-valorie",
+      "label": "leadership-pressure",
+      "state": "coerced",
+      "notes": "Imposes unwanted arrangement under the banner of caravan good."
+    },
+    {
+      "with": "davian",
+      "label": "leadership-pressure",
+      "state": "coerced",
+      "notes": "Part of leadership context pressuring Robyn and Quincy."
+    }
+  ],
+  "arc": {
+    "status_now": "Alive with caravan; fate unresolved in later arcs.",
+    "pre_pivot": "Loving partner to Quincy navigating leadership pressure.",
+    "pivot_event": "arranged-marriage-to-gavin",
+    "post_pivot": "Survival through promises and principled restraint; confrontation over dignity after Quincy's gamble.",
+    "future_vector": "Sustain love and dignity while minimizing catastrophic fallout in caravan politics."
+  },
+  "items_and_tech": [],
+  "themes": {
+    "keywords": [
+      "love",
+      "sacrifice",
+      "dignity",
+      "survival",
+      "integrity"
+    ],
+    "moral_tensions": [
+      "love-vs-duty",
+      "safety-vs-honesty"
+    ]
+  },
+  "text_windows": {
+    "bio_200w": "Robyn is an INFJ caravanner whose love for Quincy is tested by coercive leadership. Forced toward an arrangement with Gavin, she prioritizes survival by extracting a promise from Quincy not to fight, trading open defiance for a plan that keeps them together. She remains emotionally honest, reaffirming love through tenderness, but also confronts Quincy after a reckless gamble that made her feel cheap, reasserting boundaries and dignity. Robyn's presence is quiet yet decisive: she absorbs pressure, chooses survivable paths, and protects what matters without theatrics. Her integrity, patience, and protective instincts make her a stabilizing force within the caravan's brutal calculus.",
+    "arc_200w": "Robyn begins as Quincy's partner under constant scrutiny. Leadership's forced arrangement shifts her into crisis management, where she protects both of them by insisting on promises that avert exile or violence. As circumstances worsen, she balances secrecy and truth-telling, reaffirming their bond while demanding respect. After Quincy's reckless wager, Robyn reestablishes boundaries and insists on dignity. Going forward, she embodies endurance through principled restraint—holding the relationship steady against external coercion.",
+    "skills_120w": "Robyn's strengths are empathy, emotional steadiness, and principled boundaries. She influences quietly, using promises as survival contracts to prevent catastrophic outcomes. She lacks combat skills and carries the weight of compromise, which can strain her emotionally, yet her calm integrity helps the pair endure.",
+    "appearance_120w": "The sources do not emphasize physical description. Robyn is defined by presence: soft-spoken, resolute, and careful with truth in dangerous contexts.",
+    "relationships_180w": "Robyn loves Quincy deeply, alternating between tenderness and hard conversations that keep them safe. With Gavin, she rejects an imposed arrangement that treats her as leverage. With Mama Valorie and Davian, she navigates pressure without escalation, choosing promises and restraint over open rebellion. These ties define a person who protects love and dignity within an unforgiving system."
+  },
+  "qa_pairs": [
+    {
+      "q": "Why does Robyn insist on promises from Quincy?",
+      "a": "To prevent exile or violent retaliation from caravan leadership while preserving their relationship."
+    },
+    {
+      "q": "How does Robyn respond to Quincy's reckless wager?",
+      "a": "She confronts Quincy about dignity and sets firmer boundaries, while reaffirming love."
+    },
+    {
+      "q": "What best captures Robyn's approach to conflict?",
+      "a": "Quiet influence, principled restraint, and survival-minded commitments."
+    }
+  ],
+  "metadata_for_indexing": {
+    "retrieval_keys": [
+      "Robyn",
+      "Quincy",
+      "Three Shovels Caravan",
+      "arranged marriage"
+    ],
+    "keywords_dense": "Robyn, INFJ, Three Shovels Caravan, Quincy, arranged marriage, promises, dignity, survival, leadership pressure",
+    "spoiler_level": "book1_end",
+    "named_entities": {
+      "people": [
+        "Robyn",
+        "Quincy",
+        "Gavin",
+        "Mama Valorie",
+        "Davian"
+      ],
+      "places": [
+        "Three Shovels Caravan"
+      ],
+      "orgs": [],
+      "terms": []
+    }
+  },
+  "embedding_payloads": [
+    {
+      "chunk_id": "robyn-1",
+      "type": "bio",
+      "text": "INFJ caravanner in love with Quincy; forced arrangement with Gavin; protects love via promises and restraint."
+    },
+    {
+      "chunk_id": "robyn-2",
+      "type": "arc",
+      "text": "From partner under pressure to crisis manager using survival contracts; reasserts dignity after Quincy's gamble."
+    },
+    {
+      "chunk_id": "robyn-3",
+      "type": "relationships",
+      "text": "Deep bond with Quincy; rejects imposed tie to Gavin; navigates Mama Valorie/Davian without escalation."
+    },
+    {
+      "chunk_id": "robyn-4",
+      "type": "skills_cybernetics",
+      "text": "Empathy, boundary-setting, resilience, quiet influence; non-combatant."
+    },
+    {
+      "chunk_id": "robyn-5",
+      "type": "appearance",
+      "text": "Physicals not specified; presence is calm, principled, and protective."
+    }
+  ]
+}

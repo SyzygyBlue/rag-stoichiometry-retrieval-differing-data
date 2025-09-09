@@ -1,0 +1,245 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Space Between Us",
+    "scene_id": "the-space-between-us-2186-12-01",
+    "chapter_number": 41,
+    "scene_number": 1,
+    "date_in_universe": "2186-12-01",
+    "absolute_timeline_notes": "Two days after Evelyn’s abduction and rescue; early TRG training period for Demmy."
+    },
+    "text_windows": {
+    "full_scene_clean": "A soft knock startles Evelyn. She crosses her dorm, steadying her blouse with her good hand while the other is trapped in a rigid cast. Fear spikes—last time it was robed men—but she opens the door a crack and exhales: it’s Demmy, holding a single dandelion and wearing black cargo pants, knit shirt, and a nylon vest. They sit at the bed’s edge. He says he’s training with the TRiGgers’ spec-ops but is still an initiate in the Order. He asks about her hand; the doctor set the bones, no permanent damage. When she asks how he stays himself after so much pain, he says, \"Nostalgia is for people with happy memories.\" Emotion breaks through; she climbs into his lap and sobs while he holds and rubs her back in silence. When she whispers she’s ugly, he lifts her and sways; at her request he carries her to the hallway outside the women’s lavatory, waits, and then she wipes his neck dry. The dandelion is bent and broken; they place it in water. She calls it the most beautiful thing; he replies, \"Second. And it’s not close.\" She kisses him. She asks him to hold her a while so the world can edge back toward normal. He sits; she curls into his lap, and they stay there, wrapped together.",
+    "dense_recap_250w": "On December 1, 2186, Evelyn—still recovering from torture with a broken left hand in a cast—answers a tentative knock in her dorm, bracing for danger. It’s Demmy, not robed captors, carrying a single dandelion. He’s out of robes and in black TRG spec-ops training clothes; he clarifies he is training with the ‘TRiGgers’ while remaining an initiate of the Order. They sit at the edge of her bed. He checks on her hand; the doctor expects no permanent damage. When she asks how he remains himself after so much suffering, Demmy answers that ‘nostalgia is for people with happy memories.’ Overwhelmed, Evelyn climbs into his lap and sobs while he holds her silently, then carries her to the hallway outside the women’s lavatory at her request and waits. Back in the room, they place the battered dandelion in a small vase; she calls it the most beautiful thing, and he gently corrects her—\"Second. And it’s not close\"—affirming her worth over the flower. She kisses him and asks him to just hold her so the world can drift a bit closer to normal. The scene cements mutual trust, tenderness, and non-sexual physical comfort after trauma, while also noting Demmy’s ongoing TRG training and his continued affiliation with the Order.",
+    "query_handle": "Evelyn and Demmy reunite in her dorm; trauma comfort, dandelion symbol, TRG training mentioned."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Triggered fear at the door",
+    "what_happens": "A knock recalls Evelyn’s abduction; she opens the door cautiously and finds Demmy with a dandelion.",
+    "involved_entities": ["evelyn", "demmy", "evelyn-dorm-room"],
+    "stakes_or_conflict": "Safety vs. traumatic memory."
+    },
+    {
+    "order": 2,
+    "label": "Status check and roles",
+    "what_happens": "Demmy explains he’s training with TRG spec-ops but remains an Order initiate; he asks about her injured hand.",
+    "involved_entities": ["demmy", "evelyn", "trg", "order-of-the-sanctifying-flame"],
+    "stakes_or_conflict": "Fear of future violence vs. need for protection."
+    },
+    {
+    "order": 3,
+    "label": "Emotional collapse and comfort",
+    "what_happens": "Evelyn breaks down; Demmy silently holds her and later carries her to the hallway outside the lavatory.",
+    "involved_entities": ["evelyn", "demmy", "hallway", "womens-lavatory"],
+    "stakes_or_conflict": "Healing through trust vs. lingering shame and fear."
+    },
+    {
+    "order": 4,
+    "label": "Dandelion ritual",
+    "what_happens": "They place the bent flower in water; he tells her it’s ‘second’ to her, affirming her worth.",
+    "involved_entities": ["evelyn", "demmy", "dandelion", "vase"],
+    "stakes_or_conflict": "Self-worth vs. trauma-imposed self-loathing."
+    },
+    {
+    "order": 5,
+    "label": "Holding the space",
+    "what_happens": "Evelyn asks to be held so the world can feel normal again; Demmy agrees and they remain embraced.",
+    "involved_entities": ["evelyn", "demmy"],
+    "stakes_or_conflict": "Recovery requires safety and time."
+    }
+    ],
+    "characters": [
+    {
+    "id": "evelyn",
+    "display_name": "Evelyn",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Feel safe; re-regulate after trauma; reconnect with Demmy.",
+    "obstacles": "PTSD-like triggers; injured hand in cast; shame about appearance.",
+    "tactics": "Seeks proximity and gentle touch; establishes small rituals (vase for dandelion).",
+    "relationships": [
+    {"with": "demmy", "type": "romantic/ally", "state": "tender, trusting", "evidence": "Climbs into his lap, asks him to hold her; accepts his affirmations."}
+    ],
+    "emotional_arc": {
+    "start": "anxious, fearful, hypervigilant",
+    "turning_points": ["Recognizes Demmy at the door", "Breaks down and receives comfort", "Accepts affirmation via dandelion ritual"],
+    "end": "calmer, held, cautiously hopeful"
+    },
+    "notable_actions": ["opens door despite fear", "weeps openly", "directs bathroom assist", "curates flower in vase", "initiates kiss", "asks to be held"],
+    "quotable_lines": ["I'm ugly… don't look at me.", "I'd like for you just to hold me for a little while…"]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Check on Evelyn; offer comfort; maintain gentleness despite violent training past.",
+    "obstacles": "Association with violence; her triggers; his own painful past.",
+    "tactics": "Nonverbal soothing; carrying her when asked; symbolic gift (dandelion); affirming language.",
+    "relationships": [
+    {"with": "evelyn", "type": "romantic/ally", "state": "devoted, protective", "evidence": "Holds her silently; says the flower is ‘second’ to her; brings gentle gift."},
+    {"with": "trg", "type": "member/trainee", "state": "active training", "evidence": "Outfit and statement: training with TRiGgers spec-ops."},
+    {"with": "order-of-the-sanctifying-flame", "type": "initiate", "state": "ongoing", "evidence": "States he remains an initiate."}
+    ],
+    "emotional_arc": {
+    "start": "gentle, focused",
+    "turning_points": ["Admits bleak view of nostalgia", "Provides affirmation via ‘Second’ line"],
+    "end": "steadfast, nurturing"
+    },
+    "notable_actions": ["brings dandelion", "checks medical status", "holds and comforts", "carries her to hallway", "places flower in water", "accepts prolonged embrace"],
+    "quotable_lines": ["Nostalgia is for people with happy memories.", "Second. And it’s not close.", "I don’t know. But I’d like to try."]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "dandelion",
+    "name": "Dandelion",
+    "category": "other",
+    "capabilities": ["symbolic comfort", "ritual focus"],
+    "owner_or_users": ["demmy", "evelyn"],
+    "condition_or_state": "bent/broken",
+    "scene_function": "Embodies fragility and affection; catalyzes affirmation of Evelyn’s worth."
+    },
+    {
+    "id": "hand-cast-left",
+    "name": "Rigid forearm/hand cast (left)",
+    "category": "medical",
+    "capabilities": ["stabilizes set bones"],
+    "owner_or_users": ["evelyn"],
+    "condition_or_state": "intact",
+    "scene_function": "Visible injury from prior torture; grounds recovery status."
+    },
+    {
+    "id": "trg-training-attire",
+    "name": "TRG spec-ops training clothes",
+    "category": "other",
+    "capabilities": ["nonverbal affiliation; mobility"],
+    "owner_or_users": ["demmy"],
+    "condition_or_state": "intact",
+    "scene_function": "Signals Demmy’s current training and dual identity."
+    },
+    {
+    "id": "small-vase",
+    "name": "Small vase with water",
+    "category": "other",
+    "capabilities": ["displays flower"],
+    "owner_or_users": ["evelyn", "demmy"],
+    "condition_or_state": "intact",
+    "scene_function": "Creates a simple ritual that reframes brokenness as beauty."
+    }
+    ],
+    "locations": [
+    {
+    "id": "evelyn-dorm-room",
+    "name": "Evelyn’s dormitory room",
+    "type": "room",
+    "descriptors": ["small", "bed as seating", "intimate, quiet"],
+    "in_scene_events": ["Reunion; comfort; dandelion ritual; prolonged embrace."]
+    },
+    {
+    "id": "hallway",
+    "name": "Dorm hallway",
+    "type": "structure",
+    "descriptors": ["access to lavatories", "quiet corridor"],
+    "in_scene_events": ["Demmy carries Evelyn to the women’s lavatory entrance and waits."]
+    },
+    {
+    "id": "womens-lavatory",
+    "name": "Women’s lavatory (dorm)",
+    "type": "room",
+    "descriptors": ["private", "adjacent to hallway"],
+    "in_scene_events": ["Brief separation and return; cleanup after tears."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "trg",
+    "name": "TRG (spec-ops unit)",
+    "alignment": "ally",
+    "agents_present": ["demmy"],
+    "motives_inferred": "Train Demmy for high-risk operations.",
+    "actions_in_scene": ["Referenced training; informs attire and identity."]
+    },
+    {
+    "id": "order-of-the-sanctifying-flame",
+    "name": "Divine Order of the Sanctifying Flame",
+    "alignment": "ally",
+    "agents_present": ["demmy"],
+    "motives_inferred": "Religious affiliation; Demmy remains an initiate.",
+    "actions_in_scene": ["Referenced as ongoing role for Demmy."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["healing after trauma", "tenderness vs. violence", "trust and safety", "identity in transition"],
+    "motifs_symbols": ["bent dandelion as broken-beautiful", "cast as visible wound and recovery", "bed as contested intimacy turned sanctuary"],
+    "moral_questions": ["How do survivors reclaim safety and worth?", "Can a warrior remain gentle while training for violence?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "intimate/lyrical",
+    "pacing": "slow-burn",
+    "voice_traits": ["soft interiority", "sensory tenderness", "understated dialogue"],
+    "sensory_notes": ["weight and warmth of an embrace", "texture of cast and clothing", "visual of drooping yellow petals"]
+    },
+    "causality": {
+    "prior_dependencies": ["Evelyn’s abduction and torture; medical setting bones; Demmy’s TRG training status; their prior bond"],
+    "outcomes": ["Strengthened emotional bond and trust; symbolic reframing of brokenness; acknowledgment of Demmy’s dual roles (TRG and Order)"],
+    "unanswered_questions": ["How will Demmy’s training affect their relationship?", "Will Evelyn’s recovery be uncomplicated?", "When will outside threats intrude again?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["evelyn"],
+    "trigger": "Knock at the door triggers memories; shame about appearance.",
+    "resolution": "Grounded by Demmy’s gentleness and affirmation; requests to be held."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["evelyn", "violent world/TRG reality"],
+    "trigger": "Demmy’s spec-ops training clothes signal continued conflict.",
+    "resolution": "Unresolved; scene chooses intimacy and pause, not strategy."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["past torture/abduction (referenced)", "trauma responses", "body-image shame"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Evelyn & Demmy reunion", "dandelion symbol", "TRG training", "Evelyn recovery", "Order initiate mention"],
+    "keywords_dense": "Evelyn, Demmy, dandelion, cast, trauma, comfort, hug, kiss, TRG training, Order initiate, dorm room, hallway, vase ritual, healing, tenderness",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Evelyn", "Demmy"],
+    "places": ["Evelyn’s dormitory room", "Dorm hallway", "Women’s lavatory"],
+    "orgs": ["TRG (spec-ops unit)", "Divine Order of the Sanctifying Flame"],
+    "terms": ["TRiGgers", "initiate"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What small gift does Demmy bring to Evelyn?", "a": "A single dandelion, bent and broken."},
+    {"q": "Why is Demmy not wearing Order robes?", "a": "He’s training with the TRG spec-ops, though he remains an initiate in the Order."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "space-between-us-recap",
+    "type": "recap",
+    "text": "Evelyn, freshly traumatized and in a cast, opens her dorm door fearing captors but finds Demmy with a dandelion and in TRG training clothes. He confirms he’s training with spec-ops while still an Order initiate. He checks her injury; she asks how he stays himself after pain; he says nostalgia is for the happy. She breaks down, he holds her, carries her to the hallway for the lavatory, then waits. They place the bent flower in water; he tells her it’s ‘second’ to her. She kisses him and asks to be held so the world can feel normal again. The scene centers on healing, trust, and gentle intimacy."
+    },
+    {
+    "chunk_id": "space-between-us-entities",
+    "type": "entities_focus",
+    "text": "Characters: Evelyn (trauma recovery, POV), Demmy (gentle protector, TRG trainee, Order initiate). Items: bent dandelion (symbol), rigid left-hand cast, small vase, TRG training attire. Locations: Evelyn’s dorm room, dorm hallway, women’s lavatory. Orgs: TRG spec-ops unit (training), Divine Order of the Sanctifying Flame (initiate status)."
+    },
+    {
+    "chunk_id": "space-between-us-style-theme",
+    "type": "style_theme_focus",
+    "text": "Intimate 3rd-limited past with lyrical restraint and tactile details. Themes: healing after trauma, tenderness vs. violence, trust as medicine, identity in transition. Motifs: bent dandelion as broken-beautiful, cast as visible wound, bed redefined from ‘improper’ to sanctuary."
+    }
+    ]
+    }

@@ -1,0 +1,287 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "calum-tam-cellblock-froggy-song-diversion",
+    "chapter_number": 25,
+    "scene_number": 2,
+    "date_in_universe": "2186-10-29/2186-11-20",
+    "absolute_timeline_notes": "Night in Calum–Tam Holdfast cells; immediately follows field-labor days."
+    },
+    "text_windows": {
+    "full_scene_clean": "Chase wakes in his cell to faint rhythmic tapping from Quincy's adjoining cell. He whispers and finds Quincy shaping a piece of fence wire into a key. She explains she smuggled the wire past strip searches by hiding it between lip and gum, and that simple locks can be picked like any machine. Despite Chase’s warnings about armed guards and cameras, Quincy insists on escaping tonight—steal a cart from the motor pool and run for Broken Bow—because waiting endangers her missing family. She proves the method by opening and relocking her own door, then starts on his. Footsteps and a key rattle approach: Carl the overseer. Chase urges Quincy to hide. To buy her time, Chase deliberately provokes Carl—singing a loud, mocking Fox River folk song, “Froggy and the spider,” from his cot. Enraged, Carl unlocks Chase’s door, storms in, and drags him out into the hall as Chase keeps singing, accepting the imminent beating to divert attention from Quincy’s tampering.",
+    "dense_recap_250w": "In the Calum–Tam cellblock at night, Chase hears Quincy tapping and discovers she’s fashioned a makeshift key from fence wire she hid in her mouth to evade strip searches. Confident the slave-pen locks are simple, Quincy test-opens her own cell, relocks it, and moves to free Chase. He argues the escape plan is suicidal given guards and cameras, but Quincy rejects delay—she must try tonight to reach the motor pool, steal a cart, and race toward Broken Bow to find her family. As she works Chase’s lock, footsteps and a key ring approach: Carl, the violent overseer. Chase hisses for Quincy to hide. Knowing discovery would mean severe punishment or worse, Chase makes a deliberate, sacrificial distraction. He lies on his cot and belts a raucous Fox River folk tune—‘Froggy and the spider’—to draw Carl’s full fury. The plan works: Carl unlocks the door, storms inside, and hauls Chase into the corridor, threatening a beating while Chase keeps up the defiant singing. The scene leaves Quincy briefly unobserved with a smuggled wire key and motivation to act, while Chase intentionally becomes the target to protect her window of escape.",
+    "query_handle": "Night in Calum–Tam cells: Quincy lockpicks; Carl approaches; Chase sings ‘Froggy and the spider’ to draw him away."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Tapping in the dark",
+    "what_happens": "Chase wakes to rhythmic tapping and finds Quincy shaping a wire into a key.",
+    "involved_entities": ["chase", "quincy", "makeshift-wire-key"],
+    "stakes_or_conflict": "Risk of discovery vs. chance to escape."
+    },
+    {
+    "order": 2,
+    "label": "Method and motive",
+    "what_happens": "Quincy explains smuggling the wire and her lockpicking skill; insists on escaping tonight to find her family.",
+    "involved_entities": ["quincy", "chase", "cell-lock-simple"],
+    "stakes_or_conflict": "Urgency for family rescue vs. security and surveillance."
+    },
+    {
+    "order": 3,
+    "label": "Proof of concept",
+    "what_happens": "Quincy opens and relocks her cell, then starts on Chase’s door.",
+    "involved_entities": ["quincy", "cell-lock-simple", "makeshift-wire-key"],
+    "stakes_or_conflict": "Momentum toward escape vs. imminent patrols."
+    },
+    {
+    "order": 4,
+    "label": "Keys in the hall",
+    "what_happens": "Carl approaches; Quincy hides at Chase’s urging.",
+    "involved_entities": ["carl-overseer", "quincy", "chase"],
+    "stakes_or_conflict": "Discovery could mean severe punishment or death."
+    },
+    {
+    "order": 5,
+    "label": "Sung diversion",
+    "what_happens": "Chase sings a loud folk song to bait Carl, who unlocks the cell and drags him away.",
+    "involved_entities": ["chase", "carl-overseer"],
+    "stakes_or_conflict": "Chase sacrifices himself to buy Quincy time."
+    }
+    ],
+    "characters": [
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": ["Scion of Fox River (concealed)"],
+    "role_in_scene": "POV",
+    "goals_now": "Protect Quincy’s attempt and, if possible, facilitate escape.",
+    "obstacles": "Armed guards, cameras, Carl’s brutality, confined cell.",
+    "tactics": "Creates a high-volume distraction by defiantly singing to draw Carl away.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "tense but cooperative", "evidence": "Urges her to hide; accepts beating risk to cover her."},
+    {"with": "carl-overseer", "type": "adversary", "state": "volatile and violent", "evidence": "Carl drags him from the cell after the song."}
+    ],
+    "emotional_arc": {
+    "start": "sore, wary",
+    "turning_points": ["Realizes Quincy’s plan is in motion", "Chooses self-sacrifice via loud defiance"],
+    "end": "resigned, determined under imminent violence"
+    },
+    "notable_actions": ["alerts Quincy to hide", "sings ‘Froggy and the spider’ at full volume", "taunts Carl", "is dragged from the cell"],
+    "quotable_lines": [
+    "If I have to get a beating anyway, I need to make it count.",
+    "You can take my freedom, but you can’t take my right to sing."
+    ]
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Pick locks and escape immediately to search for her family.",
+    "obstacles": "Security patrols, cameras, simple but guarded locks, time pressure.",
+    "tactics": "Smuggles fence wire in mouth; hand-fabricates key; tests lock; stealth movement.",
+    "relationships": [
+    {"with": "chase", "type": "ally", "state": "driven; dismissive of delay", "evidence": "Insists on leaving tonight; starts on his lock."}
+    ],
+    "emotional_arc": {
+    "start": "desperate, focused",
+    "turning_points": ["Opens her cell", "Forced to hide as Carl arrives"],
+    "end": "poised, hidden, still determined"
+    },
+    "notable_actions": ["smuggles wire between lip and gum", "shapes makeshift key", "unlocks and relocks cell", "begins picking Chase’s lock"],
+    "quotable_lines": [
+    "I’m not staying here another night, Chase.",
+    "A lock is just a machine."
+    ]
+    },
+    {
+    "id": "carl-overseer",
+    "display_name": "Carl (overseer)",
+    "aliases": ["Carl"],
+    "role_in_scene": "supporting",
+    "goals_now": "Enforce order and punish defiance.",
+    "obstacles": "Momentarily diverted by Chase’s provocation; unaware of Quincy’s lockpick.",
+    "tactics": "Intimidation; physical force; immediate escalation.",
+    "relationships": [
+    {"with": "chase", "type": "antagonist", "state": "enraged", "evidence": "Unlocks cell and drags Chase down the hall."}
+    ],
+    "emotional_arc": {"start": "irritable patrol", "turning_points": ["Provoked by song"], "end": "violent rage"},
+    "notable_actions": ["approaches with keyring", "unlocks door", "drags Chase out"],
+    "quotable_lines": ["Shut up!", "Wake up, shitbirds!"]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "makeshift-wire-key",
+    "name": "Fence wire key",
+    "category": "tool",
+    "capabilities": ["manipulate simple tumblers", "concealable in mouth"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "hand-shaped improvised",
+    "scene_function": "Enables Quincy to open cell doors."
+    },
+    {
+    "id": "cell-lock-simple",
+    "name": "Simple cell-door lock",
+    "category": "other",
+    "capabilities": ["basic keyed mechanism; vulnerable to improvised picks"],
+    "owner_or_users": ["calum-tam-holdfast"],
+    "condition_or_state": "functional",
+    "scene_function": "Security obstacle Quincy defeats."
+    },
+    {
+    "id": "carl-keyring",
+    "name": "Overseer’s keyring",
+    "category": "tool",
+    "capabilities": ["access to cells and corridors"],
+    "owner_or_users": ["carl-overseer"],
+    "condition_or_state": "intact",
+    "scene_function": "Audible cue of patrol; grants Carl entry to Chase."
+    },
+    {
+    "id": "surveillance-cameras-calum-tam",
+    "name": "Calum–Tam camera network",
+    "category": "comms",
+    "capabilities": ["monitor cellblocks and corridors"],
+    "owner_or_users": ["calum-tam-guards"],
+    "condition_or_state": "aging but active",
+    "scene_function": "Elevates risk; fuels Chase’s warnings."
+    },
+    {
+    "id": "motor-pool-carts",
+    "name": "Holdfast motor-pool carts (referenced)",
+    "category": "vehicle",
+    "capabilities": ["rapid overland transport"],
+    "owner_or_users": ["calum-tam-holdfast"],
+    "condition_or_state": "unknown",
+    "scene_function": "Target for Quincy’s escape plan."
+    }
+    ],
+    "locations": [
+    {
+    "id": "calum-tam-cellblock",
+    "name": "Calum–Tam Holdfast cellblock",
+    "type": "structure",
+    "descriptors": ["dim brick corridors", "dripping water", "crickets outside", "keys rattling in the hall"],
+    "in_scene_events": ["Quincy crafts pick; opens cell; hides; Carl enters and removes Chase"]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "calum-tam-holdfast",
+    "name": "Calum–Tam Holdfast",
+    "alignment": "hostile",
+    "agents_present": ["carl-overseer"],
+    "motives_inferred": "Maintain slave labor and strict control.",
+    "actions_in_scene": ["Night patrols; enforcement via overseer"]
+    },
+    {
+    "id": "calum-tam-guards",
+    "name": "Calum–Tam Guards",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Surveil and prevent escape attempts.",
+    "actions_in_scene": ["Camera monitoring (implied)"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["sacrifice for allies", "defiance under oppression", "ingenuity vs. system control", "urgency of family rescue"],
+    "motifs_symbols": ["keys and locks", "song as weapon", "rattle of keys", "dripping water in darkness"],
+    "moral_questions": ["When is reckless sacrifice justified to protect an ally?", "Does urgency excuse high-risk action in captivity?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "slow-burn to sharp spike",
+    "voice_traits": ["interior monologue", "dry gallows humor", "sensory detail"],
+    "sensory_notes": ["crickets outside", "slow water drip", "metallic key rattle", "rough brick, dim light", "shouted threats vs. loud song"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Chase and Quincy enslaved at Calum–Tam following capture.",
+    "Existing surveillance and violent overseer culture.",
+    "Quincy’s desperation to find her missing family."
+    ],
+    "outcomes": [
+    "Quincy proves locks are pickable and has a working improvised key.",
+    "Chase diverts Carl, increasing Quincy’s immediate freedom to act.",
+    "Escalates risk to Chase, likely inviting punishment."
+    ],
+    "unanswered_questions": [
+    "Does Quincy capitalize on the distraction to free Chase or escape?",
+    "Will cameras or patrols detect the tampering?",
+    "Can Chase leverage Lenya later, or will Carl’s retaliation remove him from play?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy", "calum-tam-holdfast"],
+    "trigger": "Quincy attempts to defeat institutional confinement.",
+    "resolution": "Unresolved; initial success with lockpick."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["chase", "carl-overseer"],
+    "trigger": "Chase’s taunting song provokes Carl.",
+    "resolution": "Carl drags Chase from the cell; beating implied, not shown."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["chase"],
+    "trigger": "Choosing self-sacrifice to protect Quincy.",
+    "resolution": "He commits to the distraction despite expected pain."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["slavery/forced labor", "physical abuse and intimidation", "imminent torture/beating implied"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": [
+    "Quincy lockpicks with fence wire",
+    "Chase sings Froggy and the spider",
+    "Carl overseer drags Chase",
+    "Calum–Tam cellblock escape attempt",
+    "Motor pool cart plan",
+    "Surveillance cameras risk"
+    ],
+    "keywords_dense": "Calum–Tam Holdfast, cellblock, Quincy lockpick, fence wire key, simple locks, Chase distraction, folk song, Froggy and the spider, Carl overseer, cameras, motor pool, Broken Bow plan, escape attempt, slavery",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chase", "Quincy", "Carl"],
+    "places": ["Calum–Tam Holdfast cellblock", "Broken Bow (referenced)"],
+    "orgs": ["Calum–Tam Holdfast", "Calum–Tam Guards"],
+    "terms": ["Froggy and the spider", "motor pool"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "How did Quincy smuggle the wire into the cells?", "a": "She bent it into a U and hid it between her lip and gum during mouth checks."},
+    {"q": "Why does Chase start singing loudly?", "a": "To provoke Carl and distract him, buying Quincy time to hide and continue the escape attempt."},
+    {"q": "Does Quincy successfully open a cell lock in this scene?", "a": "Yes, she opens and relocks her own cell, then begins on Chase’s."},
+    {"q": "What escape route does Quincy propose?", "a": "Walk out, reach the motor pool, steal a cart, and drive toward Broken Bow."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "calum-tam-cellblock-recap-1",
+    "type": "recap",
+    "text": "At night in Calum–Tam’s cellblock, Quincy reveals a fence-wire pick she smuggled in her mouth and opens her cell’s simple lock, determined to escape immediately to search for her family. As she starts on Chase’s lock, overseer Carl approaches. Chase orders Quincy to hide and deliberately sings a loud Fox River folk song, baiting Carl into unlocking his door and dragging him away—accepting a beating to create a window for Quincy."
+    },
+    {
+    "chunk_id": "calum-tam-cellblock-entities-2",
+    "type": "entities_focus",
+    "text": "Chase (POV; sacrificial distraction); Quincy (lockpicker; urgent rescuer); Carl the overseer (violent enforcer). Tools: fence-wire improvised key; simple cell locks; overseer’s keyring; camera network (risk context). Location: Calum–Tam Holdfast cellblock. Plan: reach motor pool carts and flee toward Broken Bow."
+    },
+    {
+    "chunk_id": "calum-tam-cellblock-style-themes-3",
+    "type": "style_theme_focus",
+    "text": "Gritty third-limited past with tight interiority and sensory cues (dripping water, key rattle, shouted threats). Themes: defiance and sacrifice under oppression; ingenuity vs. surveillance; urgency of family rescue. Motifs: keys/locks; song as weapon; sounds in the dark amplifying danger."
+    }
+    ]
+    }

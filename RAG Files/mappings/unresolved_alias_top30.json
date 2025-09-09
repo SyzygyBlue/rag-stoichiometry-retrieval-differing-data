@@ -1,0 +1,325 @@
+{
+  "generated_at": "2025-09-02T11:31:05.737399",
+  "source_updated_at": "2025-09-02T11:27:00.237925",
+  "total_unresolved": 1111,
+  "top": [
+    {
+      "alias": "divine-order-sanctifying-flame",
+      "count": 8,
+      "category_hint": "organization",
+      "sample_scenes": [
+        "103-chapter30-scene03",
+        "133-chapter40-scene01",
+        "58-chapter28-scene01",
+        "78-chapter34-scene03",
+        "79-chapter34-scene04"
+      ]
+    },
+    {
+      "alias": "three-shovels",
+      "count": 6,
+      "category_hint": "organization",
+      "sample_scenes": [
+        "12-chapter05-scene02",
+        "13-chapter05-scene03",
+        "14-chapter05-scene04",
+        "15-chapter06-scene01",
+        "16-chapter06-scene02"
+      ]
+    },
+    {
+      "alias": "calum-tam-cellblock",
+      "count": 6,
+      "category_hint": "location",
+      "sample_scenes": [
+        "140-chapter42-scene01",
+        "141-chapter42-scene02",
+        "142-chapter42-scene03",
+        "81-chapter25-scene02",
+        "82-chapter25-scene03"
+      ]
+    },
+    {
+      "alias": "gooch-truck",
+      "count": 4,
+      "category_hint": "item",
+      "sample_scenes": [
+        "02-chapter02-scene01",
+        "24-chapter08-scene05",
+        "25-chapter09-scene01",
+        "63-chapter30-scene02"
+      ]
+    },
+    {
+      "alias": "quincys-toolbox",
+      "count": 4,
+      "category_hint": "item",
+      "sample_scenes": [
+        "05-chapter03-scene01",
+        "105-chapter31-scene02",
+        "106-chapter31-scene03",
+        "42-chapter15-scene01"
+      ]
+    },
+    {
+      "alias": "dinh-tam",
+      "count": 4,
+      "category_hint": "character",
+      "sample_scenes": [
+        "100-chapter29-scene02",
+        "106-chapter31-scene03",
+        "80-chapter25-scene01",
+        "95-chapter28-scene01"
+      ]
+    },
+    {
+      "alias": "neuroject",
+      "count": 4,
+      "category_hint": "item",
+      "sample_scenes": [
+        "104-chapter31-scene01",
+        "112-tahua-outpost-special-projects02-scene01",
+        "113-tahua-outpost-special-projects02-scene02",
+        "86-stella-archives07-scene02"
+      ]
+    },
+    {
+      "alias": "jejune",
+      "count": 4,
+      "category_hint": "character",
+      "sample_scenes": [
+        "112-tahua-outpost-special-projects02-scene01",
+        "113-tahua-outpost-special-projects02-scene02",
+        "114-tahua-outpost-special-projects02-scene03",
+        "115-tahua-outpost-special-projects02-scene04"
+      ]
+    },
+    {
+      "alias": "tri-d-simulation",
+      "count": 4,
+      "category_hint": "item",
+      "sample_scenes": [
+        "112-tahua-outpost-special-projects02-scene01",
+        "113-tahua-outpost-special-projects02-scene02",
+        "114-tahua-outpost-special-projects02-scene03",
+        "115-tahua-outpost-special-projects02-scene04"
+      ]
+    },
+    {
+      "alias": "warehouse-autopacker-bay",
+      "count": 4,
+      "category_hint": "location",
+      "sample_scenes": [
+        "120-chapter35-scene03",
+        "121-chapter35-scene04",
+        "122-chapter36-scene01",
+        "123-chapter36-scene02"
+      ]
+    },
+    {
+      "alias": "mctanner",
+      "count": 4,
+      "category_hint": "character",
+      "sample_scenes": [
+        "125-chapter38-scene01",
+        "132-chapter39-scene02",
+        "51-chapter18-scene04",
+        "52-chapter18-scene05"
+      ]
+    },
+    {
+      "alias": "stellanet-org",
+      "count": 4,
+      "category_hint": "organization",
+      "sample_scenes": [
+        "156-chapter48-scene01",
+        "157-chapter48-scene02",
+        "158-chapter49-scene01",
+        "159-chapter49-scene02"
+      ]
+    },
+    {
+      "alias": "wildebeest-trailer",
+      "count": 4,
+      "category_hint": "item",
+      "sample_scenes": [
+        "17-chapter06-scene03",
+        "20-chapter08-scene01",
+        "22-chapter08-scene03",
+        "24-chapter08-scene05"
+      ]
+    },
+    {
+      "alias": "unknown-hostiles",
+      "count": 4,
+      "category_hint": "organization",
+      "sample_scenes": [
+        "73-chapter33-scene03",
+        "74-chapter33-scene04",
+        "75-chapter33-scene05",
+        "75-chapter33-scene05"
+      ]
+    },
+    {
+      "alias": "calum-tam-guards",
+      "count": 4,
+      "category_hint": "organization",
+      "sample_scenes": [
+        "80-chapter25-scene01",
+        "81-chapter25-scene02",
+        "82-chapter25-scene03",
+        "83-chapter25-scene04"
+      ]
+    },
+    {
+      "alias": "andreus-45-automag",
+      "count": 3,
+      "category_hint": "item",
+      "sample_scenes": [
+        "01-chapter01-scene01",
+        "05-chapter03-scene01",
+        "06-chapter03-scene02"
+      ]
+    },
+    {
+      "alias": "quincy-tent",
+      "count": 3,
+      "category_hint": "location",
+      "sample_scenes": [
+        "10-chapter04-scene01",
+        "15-chapter06-scene01",
+        "16-chapter06-scene02"
+      ]
+    },
+    {
+      "alias": "chase-margdelain",
+      "count": 3,
+      "category_hint": "character",
+      "sample_scenes": [
+        "100-chapter29-scene02",
+        "101-chapter30-scene01",
+        "99-chapter29-scene01"
+      ]
+    },
+    {
+      "alias": "holos-currency",
+      "count": 3,
+      "category_hint": "item",
+      "sample_scenes": [
+        "100-chapter29-scene02",
+        "17-chapter06-scene03",
+        "46-chapter17-scene01"
+      ]
+    },
+    {
+      "alias": "fox-river-polity",
+      "count": 3,
+      "category_hint": "organization",
+      "sample_scenes": [
+        "100-chapter29-scene02",
+        "101-chapter30-scene01",
+        "102-chapter30-scene02"
+      ]
+    },
+    {
+      "alias": "ravager-datapad",
+      "count": 3,
+      "category_hint": "item",
+      "sample_scenes": [
+        "101-chapter30-scene01",
+        "110-chapter32-scene03",
+        "125-chapter38-scene01"
+      ]
+    },
+    {
+      "alias": "church-service-vents",
+      "count": 3,
+      "category_hint": "location",
+      "sample_scenes": [
+        "101-chapter30-scene01",
+        "101-chapter30-scene01",
+        "102-chapter30-scene02"
+      ]
+    },
+    {
+      "alias": "penlight",
+      "count": 3,
+      "category_hint": "item",
+      "sample_scenes": [
+        "102-chapter30-scene02",
+        "116-chapter34-scene01",
+        "117-chapter34-scene02"
+      ]
+    },
+    {
+      "alias": "repurposed-scissors",
+      "count": 3,
+      "category_hint": "item",
+      "sample_scenes": [
+        "124-chapter37-scene01",
+        "131-chapter39-scene01",
+        "132-chapter39-scene02"
+      ]
+    },
+    {
+      "alias": "shelly-apartment",
+      "count": 3,
+      "category_hint": "location",
+      "sample_scenes": [
+        "128-stella-archives09-scene03",
+        "129-stella-archives09-scene04",
+        "130-stella-archives09-scene05"
+      ]
+    },
+    {
+      "alias": "order-letter-openers",
+      "count": 3,
+      "category_hint": "item",
+      "sample_scenes": [
+        "131-chapter39-scene01",
+        "132-chapter39-scene02",
+        "133-chapter40-scene01"
+      ]
+    },
+    {
+      "alias": "chancellors-office",
+      "count": 3,
+      "category_hint": "location",
+      "sample_scenes": [
+        "134-chapter40-scene02",
+        "135-chapter40-scene03",
+        "136-chapter40-scene04"
+      ]
+    },
+    {
+      "alias": "fox-river-governance",
+      "count": 3,
+      "category_hint": "organization",
+      "sample_scenes": [
+        "139-chapter41-scene03",
+        "49-chapter18-scene01",
+        "50-chapter18-scene02"
+      ]
+    },
+    {
+      "alias": "ravagers-faction",
+      "count": 3,
+      "category_hint": "organization",
+      "sample_scenes": [
+        "24-chapter08-scene05",
+        "25-chapter09-scene01",
+        "26-chapter09-scene02"
+      ]
+    },
+    {
+      "alias": "teg-2",
+      "count": 3,
+      "category_hint": "item",
+      "sample_scenes": [
+        "36-chapter12-scene01",
+        "38-chapter12-scene03",
+        "39-chapter13-scene01"
+      ]
+    }
+  ]
+}

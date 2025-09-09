@@ -1,0 +1,411 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "The Devil's Bargain",
+    "scene_id": "24-11-2186-the-devils-bargain-warehouse-lesha",
+    "chapter_number": 31,
+    "scene_number": 1,
+    "date_in_universe": "2186-11-24",
+    "absolute_timeline_notes": "Daytime visit to Calum-Tam agriculture warehouse/machine shop; immediately precedes/aligns with efforts to get the autopacker working."
+    },
+    "text_windows": {
+    "full_scene_clean": "Lenya forces open a vast, decaying agriculture warehouse where food and old machines sit in disrepair: hydroponics vats, a monorail bucket line, fridges, and sorters. Quincy and Chase survey the space; Lenya says few can maintain it. Lesha, a hard-edged technician on a rolling stool, emerges and insults the visitors. Quincy notices hex-patterned skin and a neck cable. Lesha explains she was an ex-megacorp merc with full-body Dermoweave and a now-disabled neuroject; without its chems she suffers severe withdrawal. She injects Sykotiq with a chemjector, noting she works here for stims, food, and a bed, with no pay and no exit. Quincy condemns the holdfast for enslaving and cooking stims; Lenya fires back that caravanners let thousands die while hauling supplies. As the drug takes hold, Lesha watches them with weary detachment.",
+    "dense_recap_250w": "Lenya brings Quincy (POV) and Chase into a cavernous, dilapidated agriculture warehouse at the Calum-Tam holdfast: dead or dying hydroponics vats, a monorail bucket line, sorters, and old refrigerators. Maintenance has lapsed for years, and only Lesha tends to the equipment. Lesha arrives on a mechanic’s stool and immediately needles the group. Quincy spots a hex pattern on Lesha’s skin and a cable at her neck; Lesha demonstrates and explains her history: a former megacorp mercenary fitted with all-over Dermoweave and a neuroject that once balanced her biochemistry between combat stims and burnout. When she aged out, software keys were revoked, the pumps were disabled, and withdrawal set in. She now relies on injected Sykotiq to function. Desperate, she accepted a ‘devil’s bargain’ with the holdfast: stims, food, and a place to sleep in exchange for keeping their autopacker and related systems alive—no wages and effectively no freedom to leave. Quincy condemns Calum-Tam for enslaving people and manufacturing bathtub stims; Lenya counters that caravans routinely let the desperate die while transporting abundance. As Sykotiq hits, Lesha relaxes and watches, underscoring the moral rot and mutual hypocrisy surrounding survival, power, and dependency.",
+    "query_handle": "Quincy & Chase tour decayed agri warehouse; meet Lesha (Dermoweave ex-merc); stim dependency revealed; holdfast makes Sykotiq; moral clash with Lenya."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Reveal of decayed warehouse",
+    "what_happens": "Lenya opens a vast, stale warehouse of aging produce and rusted machinery.",
+    "involved_entities": ["lenya", "quincy", "chase", "agri-warehouse"],
+    "stakes_or_conflict": "Resource scarcity; lack of maintenance; hints of systemic neglect."
+    },
+    {
+    "order": 2,
+    "label": "Lesha arrives",
+    "what_happens": "Lesha rolls out on a stool, abrasive and suspicious of the visitors.",
+    "involved_entities": ["lesha", "lenya", "quincy", "chase"],
+    "stakes_or_conflict": "Social friction; gatekeeping of technical know-how."
+    },
+    {
+    "order": 3,
+    "label": "Dermoweave and neuroject backstory",
+    "what_happens": "Lesha shows her hex-pattern skin, unplugs a neck cable, and explains her ex-merc upgrades and disabled neuroject.",
+    "involved_entities": ["lesha", "dermoweave", "neuroject", "chemjector"],
+    "stakes_or_conflict": "Body autonomy vs corporate control; survival via stims."
+    },
+    {
+    "order": 4,
+    "label": "The bargain",
+    "what_happens": "Lesha injects Sykotiq and outlines her deal: maintenance for stims, food, and a bed, with no pay or exit.",
+    "involved_entities": ["lesha", "sykotiq", "autopacker", "calum-tam-holdfast"],
+    "stakes_or_conflict": "Addiction bondage; implied coercion."
+    },
+    {
+    "order": 5,
+    "label": "Moral crossfire",
+    "what_happens": "Quincy condemns slavery and stimulant production; Lenya counters with caravanners’ hypocrisy.",
+    "involved_entities": ["quincy", "lenya", "lesha"],
+    "stakes_or_conflict": "Ethical legitimacy of survival economies; reputational stakes."
+    },
+    {
+    "order": 6,
+    "label": "Aftermath",
+    "what_happens": "Lesha settles back as the stim takes hold, watching the tension.",
+    "involved_entities": ["lesha", "quincy", "lenya", "chase"],
+    "stakes_or_conflict": "Unresolved; future leverage around the autopacker and Lesha’s needs."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Assess the facility and its players; protect herself and challenge the holdfast’s abuses.",
+    "obstacles": "Captive status; lack of tools; moral rot around her; Lenya’s control.",
+    "tactics": "Sharp observations, moral confrontation, technical skepticism.",
+    "relationships": [
+    {
+    "with": "lenya",
+    "type": "adversaries/forced-collaborators",
+    "state": "tense",
+    "evidence": "“So forcing slaves to work for you wasn’t reprehensible enough…?”"
+    },
+    {
+    "with": "chase",
+    "type": "ally",
+    "state": "strained but aligned",
+    "evidence": "Shared survey of the warehouse; aligned need to leverage Lenya/Lesha."
+    },
+    {
+    "with": "lesha",
+    "type": "potential-ally",
+    "state": "cautious, curious",
+    "evidence": "Notices Dermoweave; engages with her story."
+    }
+    ],
+    "emotional_arc": {
+    "start": "awestruck, wary",
+    "turning_points": ["Shock at Lesha’s cybernetics and injection", "Moral clash with Lenya"],
+    "end": "angry, resolved"
+    },
+    "notable_actions": ["surveys machines", "calls out slavery and stim production"],
+    "quotable_lines": [
+    "Really, Lenya? So forcing slaves to work for you wasn’t reprehensible enough—you decided to manufacture Sykotiq, too?"
+    ]
+    },
+    {
+    "id": "lenya",
+    "display_name": "Lenya Tam",
+    "aliases": ["Lenya"],
+    "role_in_scene": "major",
+    "goals_now": "Secure help for the autopacker; keep control over Quincy and Chase; defend the holdfast.",
+    "obstacles": "Scarce skilled labor; decaying infrastructure; moral scrutiny.",
+    "tactics": "Pragmatic deflection, leveraging Lesha, counter-accusations against caravanners.",
+    "relationships": [
+    {
+    "with": "quincy",
+    "type": "adversaries/forced-collaborators",
+    "state": "combative",
+    "evidence": "“We’re a holdfast… We’re lucky to have Lesha.”"
+    },
+    {
+    "with": "chase",
+    "type": "cautious-ally",
+    "state": "strategic",
+    "evidence": "Guides him through; seeks his buy-in on repairs."
+    },
+    {
+    "with": "lesha",
+    "type": "employer-dependency",
+    "state": "utilitarian",
+    "evidence": "Relies on Lesha to keep equipment running."
+    }
+    ],
+    "emotional_arc": {
+    "start": "businesslike",
+    "turning_points": ["Confronted by Quincy’s accusations"],
+    "end": "defensive, resolute"
+    },
+    "notable_actions": ["opens warehouse", "positions Lesha as maintenance resource"],
+    "quotable_lines": [
+    "We’re a holdfast in the middle of the wildlands… We’re lucky to have Lesha."
+    ]
+    },
+    {
+    "id": "lesha",
+    "display_name": "Lesha",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Stabilize via Sykotiq; secure ongoing access to stims, food, and shelter; keep machines alive.",
+    "obstacles": "Disabled neuroject; addiction withdrawals; economic captivity.",
+    "tactics": "Bluntness, intimidation, engineered body advantages, technical leverage.",
+    "relationships": [
+    {
+    "with": "lenya",
+    "type": "supplier-client (coercive)",
+    "state": "resentful dependence",
+    "evidence": "“Shitty deal: stims, food, and a place to sleep for me doing the maintenance.”"
+    },
+    {
+    "with": "quincy",
+    "type": "wary acquaintances",
+    "state": "abrasive",
+    "evidence": "Insults the group; later explains background."
+    },
+    {
+    "with": "chase",
+    "type": "neutral",
+    "state": "observant",
+    "evidence": "Watches his reactions while injecting."
+    }
+    ],
+    "emotional_arc": {
+    "start": "hostile, weary",
+    "turning_points": ["Recounting merc past and corporate lockout", "Sykotiq injection hits"],
+    "end": "chemically calmed, detached"
+    },
+    "notable_actions": ["disconnects neck cable", "demonstrates Dermoweave access point", "injects Sykotiq", "details ‘retired’ merc story"],
+    "quotable_lines": [
+    "They call it Dermoweave—fully integrated, all over me.",
+    "Within a week, most retirees take matters into their own hands—you know, lead injection to the mouth."
+    ]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Observe capabilities; gauge leverage points (Lesha, machinery).",
+    "obstacles": "Captive context; decayed infrastructure; Lenya’s agenda.",
+    "tactics": "Observation, vision-casting of potential operations, restraint.",
+    "relationships": [
+    {
+    "with": "quincy",
+    "type": "ally",
+    "state": "strategic alignment",
+    "evidence": "Shared assessment of the warehouse’s state."
+    },
+    {
+    "with": "lenya",
+    "type": "cautious-ally",
+    "state": "measured",
+    "evidence": "Engages about making the place work again."
+    }
+    ],
+    "emotional_arc": {
+    "start": "curious, impressed by scale",
+    "turning_points": ["Imagines full operations", "Learns about Lesha’s dependency"],
+    "end": "sober, calculating"
+    },
+    "notable_actions": ["surveys machines", "remarks on potential farm-to-market ops"],
+    "quotable_lines": [
+    "Just imagine this place fully operational. Trucks loaded daily, delivering produce from farm to market."
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "dermoweave",
+    "name": "Dermoweave",
+    "category": "cybernetics",
+    "capabilities": ["armored subdermal mesh", "limited puncture access points", "power/data interfacing via neck port"],
+    "owner_or_users": ["lesha"],
+    "condition_or_state": "intact (aging implant)",
+    "scene_function": "Visual proof of Lesha’s augmentation; grounds her mercenary backstory and medical constraints."
+    },
+    {
+    "id": "neuroject",
+    "name": "Neuroject (retired merc biochem system)",
+    "category": "medical",
+    "capabilities": ["auto-dosing stims/balancers", "maintains reaction time and stability"],
+    "owner_or_users": ["lesha"],
+    "condition_or_state": "disabled by revoked software keys",
+    "scene_function": "Explains Lesha’s dependency and withdrawal risk."
+    },
+    {
+    "id": "chemjector",
+    "name": "Chemjector",
+    "category": "medical",
+    "capabilities": ["inject Sykotiq through Dermoweave-accessible site"],
+    "owner_or_users": ["lesha"],
+    "condition_or_state": "intact, in use",
+    "scene_function": "Delivers stims; demonstrates immediate behavioral shift."
+    },
+    {
+    "id": "sykotiq",
+    "name": "Sykotiq (bathtub stim)",
+    "category": "other",
+    "capabilities": ["powerful stimulant; withdrawal mitigation for ex-neuroject users (implied)"],
+    "owner_or_users": ["lesha", "calum-tam-holdfast"],
+    "condition_or_state": "present/consumed",
+    "scene_function": "Currency of coercion; ties holdfast to illicit manufacture."
+    },
+    {
+    "id": "autopacker",
+    "name": "Autopacker",
+    "category": "tool",
+    "capabilities": ["automated packing/sorting of produce"],
+    "owner_or_users": ["calum-tam-holdfast", "lesha"],
+    "condition_or_state": "temperamental/needs maintenance",
+    "scene_function": "Pretext for bringing Quincy/Chase; Lesha’s leverage."
+    },
+    {
+    "id": "warehouse-sorter",
+    "name": "Legacy Sorting Machine",
+    "category": "tool",
+    "capabilities": ["mechanical sorting via belts, pulleys, bins"],
+    "owner_or_users": ["calum-tam-holdfast"],
+    "condition_or_state": "mostly defunct, rusted",
+    "scene_function": "Visualizes decay and resource gap."
+    },
+    {
+    "id": "monorail-bucket-line",
+    "name": "Ceiling Monorail Bucket Line",
+    "category": "other",
+    "capabilities": ["move loads along track"],
+    "owner_or_users": ["calum-tam-holdfast"],
+    "condition_or_state": "idle",
+    "scene_function": "Shows former industrial scale."
+    },
+    {
+    "id": "hydroponic-vats",
+    "name": "Hydroponics Vats",
+    "category": "tool",
+    "capabilities": ["grow produce indoors"],
+    "owner_or_users": ["calum-tam-holdfast"],
+    "condition_or_state": "mostly dormant; few active",
+    "scene_function": "Signals diminished food output."
+    }
+    ],
+    "locations": [
+    {
+    "id": "agri-warehouse",
+    "name": "Calum-Tam Agriculture Warehouse/Machine Shop",
+    "type": "structure",
+    "descriptors": ["vast, stale air", "rusted machinery", "broken roof panel light shaft", "echoing concrete", "aging produce stores"],
+    "in_scene_events": ["Tour by Lenya; Lesha’s reveal, injection, and backstory; moral confrontation."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "calum-tam-holdfast",
+    "name": "Calum-Tam Holdfast",
+    "alignment": "hostile",
+    "agents_present": ["lenya", "lesha"],
+    "motives_inferred": "Survival via forced labor and illicit stimulant production; maintain minimal agricultural throughput.",
+    "actions_in_scene": ["Hosts warehouse; relies on Lesha for maintenance; implicated in Sykotiq manufacture."]
+    },
+    {
+    "id": "ravagers",
+    "name": "Ravagers",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Consumers of bathtub stims; violent wildland actors (context).",
+    "actions_in_scene": ["Referenced as market for stims."]
+    },
+    {
+    "id": "unnamed-megacorp",
+    "name": "Unspecified Megacorp (Lesha’s former employer)",
+    "alignment": "unknown",
+    "agents_present": [],
+    "motives_inferred": "Decommission augmented mercs by revoking software keys, externalizing costs.",
+    "actions_in_scene": ["Backstory only; disabled Lesha’s neuroject."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["survival vs morality", "coercion through dependency", "decay of infrastructure", "power asymmetry (tech and resources)", "hypocrisy of systems (holdfast vs caravans)"],
+    "motifs_symbols": ["hex-pattern Dermoweave", "rust and dust", "monorail buckets hanging idle", "chemjector hiss", "echoing warehouse"],
+    "moral_questions": ["Is survival a defense for enslavement and drug manufacturing?", "What responsibility do mobile traders have to the dying they pass?", "Who owns a body engineered by an employer?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "slow-burn",
+    "voice_traits": ["industrial decay imagery", "sharp dialogue clashes", "techno-physiology detail"],
+    "sensory_notes": ["squeal of hinges", "stale air with oil and rot", "dust motes in light shaft", "chemjector click"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Quincy and Chase’s captivity at Calum-Tam.",
+    "Earlier mention of an autopacker and need for maintenance.",
+    "Lenya’s leverage over Carl and her role in the holdfast."
+    ],
+    "outcomes": [
+    "Reveals holdfast’s link to Sykotiq production.",
+    "Introduces Lesha as a critical, compromised technical asset.",
+    "Heightens moral tension between Quincy and Lenya.",
+    "Establishes potential path to manipulate or ally with Lesha via maintenance needs."
+    ],
+    "unanswered_questions": [
+    "Will Quincy/Chase exploit Lesha’s need for stims to gain help?",
+    "Can the autopacker be restored and at what moral cost?",
+    "Who supplied Lesha’s Dermoweave and can its locks be bypassed?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "lenya"],
+    "trigger": "Quincy condemns slavery and stim production; Lenya counters with caravan hypocrisy.",
+    "resolution": "Unresolved verbal standoff."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["lesha", "corporate lockout & holdfast economy"],
+    "trigger": "Disabled neuroject and dependency force her into a no-pay maintenance role.",
+    "resolution": "Ongoing coercive arrangement."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["holdfast operations", "decayed machinery/infrastructure"],
+    "trigger": "Worn equipment lacks parts and skilled maintenance.",
+    "resolution": "Unresolved; autopacker pending repair."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mentioned",
+    "addiction_or_substances": "present",
+    "sexual_content": "none",
+    "sensitive_topics": ["slavery/forced labor", "drug manufacturing", "addiction/withdrawal", "involuntary body modification (corporate control)"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Lenya Tam", "Chase", "Lesha", "Dermoweave", "Neuroject", "Sykotiq", "autopacker", "Calum-Tam holdfast", "agri warehouse"],
+    "keywords_dense": "Quincy, Chase, Lenya Tam, Lesha, Calum-Tam Holdfast, agriculture warehouse, autopacker, hydroponics, Dermoweave, neuroject disabled, chemjector, Sykotiq, bathtub stims, moral confrontation, caravanners hypocrisy, rusted machinery",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Chase", "Lenya Tam", "Lesha"],
+    "places": ["Calum-Tam Agriculture Warehouse"],
+    "orgs": ["Calum-Tam Holdfast", "Ravagers", "Unspecified Megacorp"],
+    "terms": ["Dermoweave", "neuroject", "chemjector", "Sykotiq", "autopacker"]
+    }
+    },
+    "qa_pairs": [
+    { "q": "What visible augmentation does Lesha have?", "a": "Full-body Dermoweave with hex-patterned skin and a neck interface port." },
+    { "q": "Why does Lesha inject Sykotiq?", "a": "Because her neuroject was disabled after retirement, she needs stims to stave severe withdrawals." },
+    { "q": "What arrangement keeps Lesha at the holdfast?", "a": "She maintains equipment (like the autopacker) in exchange for stims, food, and lodging—no pay and effectively no exit." },
+    { "q": "What accusation does Quincy level at Lenya?", "a": "That the holdfast enslaves people and manufactures Sykotiq." },
+    { "q": "How does Lenya respond to Quincy’s moral criticism?", "a": "She says caravanners let thousands die while hauling supplies, calling Quincy hypocritical." }
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "24-11-2186-devils-bargain-recap",
+    "type": "recap",
+    "text": "Lenya shows Quincy and Chase a decayed agriculture warehouse. Lesha, an ex-megacorp merc with Dermoweave and a disabled neuroject, appears and injects Sykotiq. She explains her coerced arrangement: she keeps the autopacker and machines running for stims, food, and a place to sleep, with no wages or freedom. Quincy condemns the holdfast for enslavement and drug production; Lenya counters that caravans abandon the needy. The scene exposes Calum-Tam’s survival economy and positions Lesha as a compromised but pivotal technician."
+    },
+    {
+    "chunk_id": "24-11-2186-devils-bargain-entities",
+    "type": "entities_focus",
+    "text": "Actors: Quincy (POV, moral critic), Lenya Tam (holdfast operator), Chase (observer), Lesha (augmented technician, stim-dependent). Orgs: Calum-Tam Holdfast; Ravagers (stim market); unnamed megacorp (Lesha’s former employer). Tech/Items: Dermoweave, neuroject (disabled), chemjector, Sykotiq, autopacker, sorters, hydroponic vats, monorail bucket line. Location: Calum-Tam agriculture warehouse."
+    },
+    {
+    "chunk_id": "24-11-2186-devils-bargain-style-theme",
+    "type": "style_theme_focus",
+    "text": "Gritty third-limited past with industrial decay visuals and hard, clipped banter. Themes of survival vs morality, coercion via technological dependency, and institutional hypocrisy. Motifs: rust and dust, hex-patterned skin, the hiss/click of a chemjector, idle monorail buckets. Moral questions probe the legitimacy of enslavement, drug economies, and who owns augmented bodies after service."
+    }
+    ]
+    }

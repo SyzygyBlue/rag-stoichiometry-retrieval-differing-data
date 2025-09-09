@@ -1,0 +1,175 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Numbers 35:19-21",
+    "scene_id": "2186-11-27-fox-river-demmy-avenger-vow",
+    "chapter_number": 34,
+    "scene_number": 1,
+    "date_in_universe": "2186-11-27",
+    "absolute_timeline_notes": "Late morning at Fox River. Demmy wakes, reads three messages from Evelyn (incl. distress). Uses location tracking with Initiate Vance: dot appears beneath Fox River. Demmy consults Bible (Numbers 35:19-21), resolves to violent action to save Evelyn. Confronts Brother Olafsen, shares evidence (Evelyn messages, Chase’s note), requests delivery to Chancellor Margdelain. Receives flaming-sword pendant blessing; enters ventilation shaft."
+    },
+    "text_windows": {
+    "full_scene_clean": "Demmy finally slept after Evelyn left. Late morning, he woke smiling, warmth in his chest. He stared at the ceiling, incense and candles in the dorm, remembering her laughter, eyes, and fascination. He wished he could smell her on his pillow.\nHe saw the communicator she’d given him, powered it on, and saw two notifications: “User Evelyn enabled Location tracking” and “Three messages waiting from user Evelyn.” His heart pounded. He opened the first:\n“Hey Demmy, it’s Evelyn… I had a fantastic time… I can’t wait to see you again… I haven’t been able to stop smiling.”\nHe dropped back on the bed, whooped and danced, then restrained himself to savor the remaining messages. He ate the breakfast tray left at his door, marveling at how far he’d come. Then he opened the second message:\n“The Order is working with the ravagers… I don’t know what to do… it’s horrible.”\nHis happiness vanished. He opened the third:\n“Help they’re here”\nDemmy burst into the hall. Initiate Vance stood nearby. Demmy thrust the communicator at him, voice shaking, begging for help to use location services. Vance, frightened, navigated the device and opened a map: a dot showed “underneath Fox River,” deeper than known levels. Demmy snatched the device and ran back to his room, thanking Vance.\nHe heard Vance calling for help. Demmy needed guidance. He opened the Bible, searching, and stopped at Numbers 35:19–21. Horror and certainty mingled; tears flowed. He donned his robes. If this path would save Evelyn, God’s will be done.\nBrother Olafsen entered. Demmy confronted him, asking if the Order was in contact with ravagers. Olafsen denied knowledge. Demmy showed Evelyn’s messages and Chase’s note describing corruption, Margdelain, and Councilman Bivualier’s disappearance. Olafsen’s face fell. He admitted Evelyn sought places to show Demmy his faith; he’d suggested the records library.\nDemmy declared: he would “hurt some people real bad,” then save Evelyn. Olafsen read the passage: the avenger of blood shall put the murderer to death. Demmy asked Olafsen to carry the evidence to Chancellor Margdelain. Olafsen agreed.\nDemmy explained wildlanders were being murdered by suddenly organized ravagers; if the church was complicit, he would cut out the rot. Olafsen warned he couldn’t do it alone. Demmy replied he’d killed ravagers with stone and teeth; priests would fare worse. He showed the map again; Olafsen hadn’t known levels extended that deep.\nDemmy gave Olafsen his phone to capture photos of the map and messages for Margdelain. Olafsen offered his golden pendant with flaming sword, blessed Demmy: “May God guide your path.” Demmy answered, “His will be done.”\nWith a penlight, Demmy opened the vent and disappeared inside, the grate clicking shut.",
+    "dense_recap_250w": "Demmy wakes late at Fox River elated by Evelyn, powers on the communicator she gifted him, and finds location tracking enabled plus three messages. The first is affectionate; the second reveals Evelyn has discovered evidence tying the Order to ravagers; the third is a plea—“Help they’re here.” Demmy rushes into the hall and pressures Initiate Vance to use the device’s location services. A map shows Evelyn’s signal beneath Fox River, deeper than known levels. Demmy retreats to his room for guidance, opens a Bible, and lands on Numbers 35:19–21—the “avenger of blood” passage—experiencing horror but certainty that violent action may be required to save her. Brother Olafsen arrives, and Demmy confronts him about Order–ravager collusion, showing Evelyn’s messages and Chase’s note alleging corruption, hinting at Brother Jessop’s involvement, and recommending reporting to Chancellor Margdelain while investigating Councilman Bivualier’s disappearance. Olafsen appears shaken, admits he helped Evelyn plan faith exploration spots, and ultimately agrees to deliver Demmy’s evidence to Margdelain. Demmy states his intent to “hurt some people real bad” if necessary and to save Evelyn, describing prior lethal fights with ravagers. Olafsen lends Demmy a flaming-sword pendant and gives a blessing. Demmy equips a penlight, opens the room’s ventilation grate, and disappears inside toward the subterranean levels to rescue Evelyn.",
+    "query_handle": "Demmy reads Evelyn’s distress, tracks her beneath Fox River, vows ‘avenger of blood’ justice, enlists Brother Olafsen to alert Margdelain, enters vents to rescue her."
+    },
+    "narrative_beats": [
+    { "order": 1, "label": "Joyful awakening", "what_happens": "Demmy wakes elated by memories of Evelyn and powers on her gifted communicator.", "involved_entities": ["demmy", "evelyn", "handheld-communicator"], "stakes_or_conflict": "Hope of connection." },
+    { "order": 2, "label": "Distress revealed", "what_happens": "He reads two alarming messages: the Order’s ties to ravagers and a plea for help.", "involved_entities": ["demmy", "evelyn", "divine-order-of-the-sanctifying-flame", "ravagers"], "stakes_or_conflict": "Evelyn’s immediate danger; institutional betrayal." },
+    { "order": 3, "label": "Emergency tracking", "what_happens": "With Initiate Vance’s help, Demmy uses location services to find Evelyn’s signal beneath Fox River.", "involved_entities": ["demmy", "initiate-vance", "location-tracking-service", "fox-river"], "stakes_or_conflict": "Race to locate before capture/harm." },
+    { "order": 4, "label": "Scriptural mandate", "what_happens": "Demmy consults the Bible and lands on Numbers 35:19–21, embracing a violent, righteous mission.", "involved_entities": ["demmy", "bible"], "stakes_or_conflict": "Moral sanction vs horror at violence." },
+    { "order": 5, "label": "Confrontation & evidence handoff", "what_happens": "Demmy confronts Brother Olafsen, shows Evelyn’s messages and Chase’s note, and orders delivery to Chancellor Margdelain.", "involved_entities": ["demmy", "brother-olafsen", "evelyn", "chase", "chancellor-margdelain", "brother-jessop", "councilman-bivualier"], "stakes_or_conflict": "Trust vs betrayal; exposure vs cover-up." },
+    { "order": 6, "label": "Blessing & descent", "what_happens": "Olafsen gives a flaming-sword pendant and blessing; Demmy enters the vents with a penlight to rescue Evelyn.", "involved_entities": ["demmy", "brother-olafsen", "flaming-sword-pendant", "penlight", "fox-river-vent-shaft"], "stakes_or_conflict": "Risking life to save Evelyn; time pressure." }
+    ],
+    "characters": [
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Find and rescue Evelyn from beneath Fox River; expose/stop collusion with ravagers.",
+    "obstacles": "Unknown subterranean layout; institutional opposition; moral burden of violence; time pressure.",
+    "tactics": "Leverages location tracking; seeks scriptural guidance; confronts clergy; delegates evidence delivery; uses vents for covert approach.",
+    "relationships": [
+    {"with": "evelyn", "type": "lover/ally", "state": "devoted, urgent", "evidence": "“I have to go save Evelyn… If she’s alive, she’s going to need me.”"},
+    {"with": "brother-olafsen", "type": "ally (tentative)", "state": "trust tested", "evidence": "Requests delivery to Margdelain; accepts pendant and blessing."},
+    {"with": "initiate-vance", "type": "acquaintance", "state": "coerced cooperation", "evidence": "“Right now, Vance.”"},
+    {"with": "chancellor-margdelain", "type": "potential ally", "state": "indirect", "evidence": "Plans to route evidence to her for help."},
+    {"with": "brother-jessop", "type": "adversary (suspected)", "state": "accusation via Chase", "evidence": "Note suggests corruption may reach Jessop."}
+    ],
+    "emotional_arc": { "start": "joyful, lovestruck", "turning_points": ["reads distress messages", "finds location under Fox River", "accepts Numbers charge"], "end": "resolute, righteous and grim" },
+    "notable_actions": ["reads Evelyn’s messages", "tracks location on map", "opens Bible to Numbers 35:19–21", "confronts Brother Olafsen", "delegates evidence to Margdelain", "enters ventilation shaft"],
+    "quotable_lines": ["“I have to go save Evelyn.”", "“I’m going to go hurt some people real bad.”", "“Today, I am as inevitable as the sunrise.”"]
+    },
+    {
+    "id": "brother-olafsen",
+    "display_name": "Brother Olafsen",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Understand crisis; decide whether to aid Demmy.",
+    "obstacles": "Shock at evidence; risk of opposing corrupt elements.",
+    "tactics": "Listens; verifies passage; agrees to courier evidence; offers blessing and pendant.",
+    "relationships": [
+    {"with": "demmy", "type": "ally", "state": "cautious but supportive", "evidence": "Gives pendant; agrees to deliver to Margdelain."},
+    {"with": "evelyn", "type": "mentor/helper", "state": "helped her plan faith exploration", "evidence": "Recommended records library."}
+    ],
+    "emotional_arc": { "start": "concerned", "turning_points": ["reads messages/note", "reads Numbers passage"], "end": "sober, supportive" },
+    "notable_actions": ["reads evidence", "gives pendant blessing", "prepares to contact Margdelain"],
+    "quotable_lines": ["“May God guide your path, Demmy.”"]
+    },
+    {
+    "id": "initiate-vance",
+    "display_name": "Initiate Vance",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Diffuse Demmy’s intensity; comply.",
+    "obstacles": "Fear of Demmy; unfamiliar situation.",
+    "tactics": "Operates the communicator; reveals map anomaly.",
+    "relationships": [],
+    "emotional_arc": { "start": "startled", "turning_points": ["sees map showing ‘underneath’"], "end": "alarmed, calls for help" },
+    "notable_actions": ["navigates to location tracking", "shows Fox River map"],
+    "quotable_lines": ["“Says here she’s underneath Fox River.”"]
+    },
+    {
+    "id": "evelyn",
+    "display_name": "Evelyn",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Warn Demmy; survive capture (implied).",
+    "obstacles": "Order–ravager conspiracy; immediate threat.",
+    "tactics": "Sends messages; enables location tracking.",
+    "relationships": [
+    {"with": "demmy", "type": "lover/ally", "state": "affectionate, trusting", "evidence": "Affectionate first message; tracking enabled."}
+    ],
+    "emotional_arc": { "start": "affectionate", "turning_points": ["discovers conspiracy", "sends ‘Help they’re here’"], "end": "in peril (offstage)" },
+    "notable_actions": ["enables location tracking", "sends three messages"],
+    "quotable_lines": ["“Help they’re here”"]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Warn Demmy via note; direct investigation and evidence routing.",
+    "obstacles": "Danger at Fox River; Jessop’s suspected reach.",
+    "tactics": "Leaves detailed note.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "protective", "evidence": "Leaving with Quincy due to danger."},
+    {"with": "chancellor-margdelain", "type": "family", "state": "seeking help", "evidence": "Asks to share findings with his mother."}
+    ],
+    "emotional_arc": { "start": "concerned", "turning_points": [], "end": "absent (via note)" },
+    "notable_actions": ["names Councilman Bivualier", "points to Margdelain"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    { "id": "handheld-communicator", "name": "Handheld communicator (Evelyn’s old device)", "category": "comms", "capabilities": ["messaging", "location sharing/receiving"], "owner_or_users": ["demmy", "evelyn"], "condition_or_state": "intact", "scene_function": "Carries Evelyn’s messages and tracking beacon." },
+    { "id": "location-tracking-service", "name": "Location tracking", "category": "comms", "capabilities": ["device geolocation", "map overlay"], "owner_or_users": ["demmy", "evelyn", "initiate-vance"], "condition_or_state": "enabled", "scene_function": "Reveals Evelyn’s signal beneath Fox River." },
+    { "id": "bible", "name": "Bible (Numbers 35:19–21)", "category": "other", "capabilities": ["scriptural guidance"], "owner_or_users": ["demmy"], "condition_or_state": "worn", "scene_function": "Provides ‘avenger of blood’ mandate shaping Demmy’s decision." },
+    { "id": "flaming-sword-pendant", "name": "Golden pendant with flaming sword", "category": "other", "capabilities": ["religious emblem", "blessing"], "owner_or_users": ["brother-olafsen", "demmy"], "condition_or_state": "intact", "scene_function": "Symbolic sanction and protection." },
+    { "id": "penlight", "name": "Small penlight", "category": "tool", "capabilities": ["illumination"], "owner_or_users": ["demmy"], "condition_or_state": "intact", "scene_function": "Aids descent into vents." },
+    { "id": "fox-river-map-app", "name": "Fox River map overlay", "category": "tool", "capabilities": ["render structural levels", "display device dot"], "owner_or_users": ["initiate-vance", "demmy"], "condition_or_state": "active", "scene_function": "Shows anomalous ‘underneath’ location." }
+    ],
+    "locations": [
+    { "id": "fox-river-dormitory-room", "name": "Fox River dormitory room", "type": "room", "descriptors": ["candles", "incense", "small writing table"], "in_scene_events": ["Demmy reads messages; consults Bible; meets Brother Olafsen; enters vent."] },
+    { "id": "fox-river-hallway", "name": "Fox River hallway", "type": "structure", "descriptors": ["quiet", "adjacent cells"], "in_scene_events": ["Demmy confronts Initiate Vance; map shown."] },
+    { "id": "fox-river-vent-shaft", "name": "Fox River ventilation shaft", "type": "structure", "descriptors": ["narrow", "concealed"], "in_scene_events": ["Demmy descends to subterranean levels."] },
+    { "id": "fox-river-old-records-library", "name": "Old records library (basement church)", "type": "structure", "descriptors": ["archival", "basement"], "in_scene_events": ["Referenced by Olafsen as faith-exploration spot."] },
+    { "id": "fox-river-subterranean-depths", "name": "Beneath Fox River (unknown levels)", "type": "structure", "descriptors": ["deeper than known", "anomalous"], "in_scene_events": ["Map shows Evelyn’s signal location."] }
+    ],
+    "factions_orgs": [
+    { "id": "divine-order-of-the-sanctifying-flame", "name": "Divine Order of the Sanctifying Flame", "alignment": "unknown", "agents_present": ["brother-olafsen", "initiate-vance"], "motives_inferred": "Religious governance at Fox River; potential internal corruption per evidence.", "actions_in_scene": ["Holds Demmy at Fox River; implicated by messages/note."] },
+    { "id": "ravagers", "name": "Ravagers", "alignment": "hostile", "agents_present": [], "motives_inferred": "Organized violence against wildlanders; possible collusion with Order elements.", "actions_in_scene": ["(Implied) abduction of Evelyn; ongoing murders."] },
+    { "id": "fox-river", "name": "Fox River", "alignment": "neutral", "agents_present": ["demmy", "brother-olafsen", "initiate-vance"], "motives_inferred": "Settlement/stack with hidden subsurface areas.", "actions_in_scene": ["Serves as setting; hides lower levels."] }
+    ],
+    "themes_and_motifs": {
+    "themes": ["faith as decision engine", "love catalyzing action", "institutional betrayal vs personal righteousness", "vengeance and justice", "sacrifice and duty"],
+    "motifs_symbols": ["avenger of blood scripture", "flaming-sword pendant blessing", "dot beneath the map", "vent descent", "candles and incense"],
+    "moral_questions": ["When does scripture justify violence?", "Can a corrupt institution be redeemed from within?", "What is owed to the innocent when leaders collude with evil?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "cinematic-lyrical with religious cadence",
+    "pacing": "brisk",
+    "voice_traits": ["intense interiority", "sacred language juxtaposed with resolve", "urgent dialogue"],
+    "sensory_notes": ["incense and candle scent", "cold device screen glow", "click of grate", "paper whisper of thin Bible pages"]
+    },
+    "causality": {
+    "prior_dependencies": ["Evelyn previously enabled location tracking and discovered ravager–Order links.", "Demmy holds Chase’s note naming Margdelain and Bivualier.", "Demmy possesses Evelyn’s communicator."],
+    "outcomes": ["Demmy commits to violent rescue per Numbers 35:19–21.", "Evidence is entrusted to Brother Olafsen to reach Chancellor Margdelain.", "Operational clue: Evelyn’s beacon is beneath Fox River; Demmy infiltrates via vents."],
+    "unanswered_questions": ["What exactly lies beneath Fox River?", "Is Brother Olafsen trustworthy and will he reach Margdelain?", "Who within the Order collaborates with ravagers?", "Is Evelyn alive and where precisely is she held?", "What happened to Councilman Bivualier?"]
+    },
+    "conflicts": [
+    { "type": "person_vs_system", "parties": ["demmy", "divine-order-of-the-sanctifying-flame (corrupt elements)"], "trigger": "Evelyn’s messages alleging Order–ravager collusion.", "resolution": "Demmy chooses to expose/eradicate corruption; action pending." },
+    { "type": "person_vs_self", "parties": ["demmy"], "trigger": "Horror at Numbers 35:19–21 vs need to save Evelyn.", "resolution": "Accepts avenger mandate; channels faith into violent rescue." },
+    { "type": "person_vs_environment", "parties": ["demmy", "fox-river-subterranean-depths"], "trigger": "Evelyn’s signal is beneath known levels.", "resolution": "Infiltrates via vents; outcome unknown." }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["kidnapping/abduction", "religiously motivated violence", "institutional corruption", "vigilantism", "murder references"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["demmy", "evelyn", "fox-river", "location tracking", "Numbers 35:19-21", "avenger of blood", "brother-olafsen", "initiate-vance", "chancellor-margdelain", "brother-jessop", "councilman-bivualier", "ravagers", "divine-order-of-the-sanctifying-flame", "vent infiltration", "flaming-sword pendant"],
+    "keywords_dense": "Demmy, Evelyn, Fox River, location tracking, communicator, distress message, ravagers, Divine Order of the Sanctifying Flame, Numbers 35:19-21, avenger of blood, Brother Olafsen, Initiate Vance, Chancellor Margdelain, Brother Jessop, Councilman Bivualier, Chase note, pendant, vent, rescue vow",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Demmy", "Evelyn", "Brother Olafsen", "Initiate Vance", "Chase", "Chancellor Margdelain", "Brother Jessop", "Councilman Bivualier"],
+    "places": ["Fox River", "Old records library (basement church)"],
+    "orgs": ["Divine Order of the Sanctifying Flame", "Ravagers"],
+    "terms": ["avenger of blood", "location tracking", "ventilation shaft", "holocreds (mentioned in other scenes)"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What scripture shapes Demmy’s decision?", "a": "Numbers 35:19–21, the ‘avenger of blood’ passage."},
+    {"q": "How does Demmy determine Evelyn’s location?", "a": "By using location tracking on Evelyn’s communicator with Initiate Vance, showing a dot beneath Fox River."}
+    ],
+    "embedding_payloads": [
+    { "chunk_id": "2186-11-27-fox-river-demmy-avenger-vow-1", "type": "recap", "text": "Demmy wakes elated by Evelyn, then reads her urgent warnings that the Order works with ravagers and a final plea for help. With Initiate Vance, he uses location tracking on her communicator and sees her beacon beneath Fox River. Seeking moral clarity, he opens the Bible to Numbers 35:19–21 and accepts a grim mandate to act as an ‘avenger of blood’ to save her. Brother Olafsen arrives; Demmy confronts him, shares Evelyn’s messages and Chase’s note alleging Order corruption and requesting escalation to Chancellor Margdelain. Olafsen agrees, gives Demmy a flaming-sword pendant, and blesses him. Demmy takes a penlight, opens a ventilation grate, and descends to the hidden depths to rescue Evelyn." },
+    { "chunk_id": "2186-11-27-fox-river-demmy-avenger-vow-2", "type": "entities_focus", "text": "Key people: Demmy (POV rescuer), Evelyn (abducted, offstage), Brother Olafsen (cleric ally), Initiate Vance (assists with tracking), Chase (warns via note), Chancellor Margdelain (intended recipient), Brother Jessop (suspected), Councilman Bivualier (missing). Factions: Divine Order of the Sanctifying Flame (possibly compromised), Ravagers (hostile). Tech/objects: handheld communicator, location-tracking service, Fox River map overlay, Bible (Numbers 35:19–21), flaming-sword pendant, penlight, ventilation shaft. Places: Fox River dorm room and hallway, records library (referenced), unknown subterranean levels." },
+    { "chunk_id": "2186-11-27-fox-river-demmy-avenger-vow-3", "type": "style_theme_focus", "text": "Third-limited past with lyrical religious cadence turns into mission-cinematic urgency. Themes of love-forged resolve, faith as algorithm for action, and institutional rot facing personal righteousness. Motifs: avenger-of-blood scripture, blessing pendant, map dot ‘beneath,’ and vent-descent. Moral questions weigh whether holy text can sanction violence and how to excise corruption without harming innocents." }
+    ]
+    }

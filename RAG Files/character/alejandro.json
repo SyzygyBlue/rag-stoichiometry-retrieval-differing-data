@@ -1,0 +1,249 @@
+{
+    "doc_type": "neon_titan_character_v1",
+    "source": {
+    "dossier_file": "Alejandro_dossier.md",
+    "scene_refs": []
+    },
+    "identity": {
+    "id": "alejandro",
+    "display_name": "Alejandro",
+    "aliases": [],
+    "mbti": null,
+    "age_bracket": "adult",
+    "gender": "male",
+    "origin": "Unknown; speaks with a thick South American accent"
+    },
+    "affiliations": [
+    "stellanet"
+    ],
+    "bio": {
+    "one_liner": "StellaNet field presenter who pivots toward investigative reporting after Fox River, co-leading operations with Werner and coordinating with Shelly.",
+    "summary": "Alejandro is a StellaNet reporter and field presenter who covers the destruction of Fox River and chooses to escalate from standard broadcast work into a formal investigation. He proposes shifting his Stella career path to investigative reporting while Werner moves to forensic photography, and he registers a case to pursue accountability. In the field he plans operations, pilots a quadrafan during a rescue, and helps extract Evelyn, a survivor whose account becomes a lead. He works closely with Werner, whose systems focus complements Alejandro’s people focus, and he coordinates with Shelly after a producer-mandated detour adds her as a forensic investigator. Alejandro emphasizes witness development, evidence control, and next steps through Broken Bow to secure leads and proof rather than just a tri-D story.",
+    "narrative_gravity": 0
+    },
+    "personality": {
+    "traits": [
+    "compassionate",
+    "people-focused",
+    "calm on-camera",
+    "organized",
+    "supportive teammate",
+    "persuasive"
+    ],
+    "flaws": [
+    "physiological sensitivity to full-immersion tri-D",
+    "willing to risk safety for justice"
+    ],
+    "values": [
+    "truth",
+    "accountability",
+    "loyalty to colleagues and survivors"
+    ],
+    "motivations_primary": [
+    "investigate Fox River beyond broadcast",
+    "seek justice for victims"
+    ],
+    "motivations_secondary": [
+    "develop witnesses and preserve evidence",
+    "elevate reporting to proof"
+    ]
+    },
+    "appearance": {
+    "height_cm": null,
+    "build": "tall, athletic; confident posture",
+    "hair": "raven-black, ponytail",
+    "eyes": "",
+    "notable_marks": [],
+    "style": "tailored Savachini suit; polished on-camera presentation"
+    },
+    "skills": {
+    "combat": [],
+    "technical": [
+    "quadrafan piloting and flight planning",
+    "tri-D broadcast operations",
+    "PID usage for notes and coordinates",
+    "lingual interface control"
+    ],
+    "tactics": [
+    "case initiation and career-path shift planning",
+    "operational planning and resource allocation",
+    "witness development and evidence buys via fixer/mercenaries"
+    ],
+    "limitations": [
+    "nausea/retching from extreme tri-D immersion; paces exposure"
+    ]
+    },
+    "relationships": [
+    {
+    "with": "werner",
+    "label": "friend/field partner",
+    "state": "warm/supportive",
+    "notes": "Works as a complementary duo; Alejandro handles people and planning while Werner manages drones and forensic capture during Fox River coverage and rescue."
+    },
+    {
+    "with": "shelly",
+    "label": "colleague (forensic investigator)",
+    "state": "professional/coordinated",
+    "notes": "Adds Shelly per producer recommendation; coordinates investigative tasks with her while pursuing leads tied to Fox River."
+    },
+    {
+    "with": "evelyn",
+    "label": "rescued survivor",
+    "state": "protective/helpful",
+    "notes": "Pilots quadrafan and assists Werner and Shelly in extracting Evelyn from wreckage near Fox River; her account offers leads."
+    }
+    ],
+    "arc": {
+    "status_now": "Reporting partner with Werner and working with Shelly on the Fox River case after rescuing Evelyn.",
+    "pre_pivot": "Frontline StellaNet field reporter focused on broadcast coverage.",
+    "pivot_event": "Fox River devastation assignment and decision to register a case",
+    "post_pivot": "Shifts to investigative reporting, co-leads ops, and prioritizes witnesses and evidence control.",
+    "future_vector": "Travel toward Broken Bow to pursue leads and secure chain of evidence."
+    },
+    "items_and_tech": [
+    {
+    "id": "quadrafan",
+    "name": "Quadrafan VTOL",
+    "category": "vehicle",
+    "capabilities": [
+    "aerial survey",
+    "precision lifting via rope/rigging",
+    "rapid insertion/extraction"
+    ],
+    "condition": "",
+    "notes": "Used to lift debris during Evelyn’s rescue and to reposition upwind for reporting."
+    },
+    {
+    "id": "pid",
+    "name": "PID (personal interface device)",
+    "category": "tool",
+    "capabilities": [
+    "notes and scripting",
+    "coordinate calculation",
+    "career/case updates"
+    ],
+    "condition": "",
+    "notes": "Used to plan flight coordinates and register the investigative case."
+    },
+    {
+    "id": "lingual-interface",
+    "name": "Lingual interface",
+    "category": "tool",
+    "capabilities": [
+    "tongue-activated SAIR control",
+    "in-flight orders/menu access"
+    ],
+    "condition": "",
+    "notes": "Used for closing studies and ordering during operations."
+    },
+    {
+    "id": "tri-d-broadcast-drones",
+    "name": "Tri-D broadcast drones",
+    "category": "comms",
+    "capabilities": [
+    "on-scene tri-D capture",
+    "live broadcast framing"
+    ],
+    "condition": "",
+    "notes": "Deployed for the 90-second StellaNet segment from Fox River."
+    }
+    ],
+    "themes": {
+    "keywords": [
+    "investigative-journalism",
+    "justice",
+    "witness-development",
+    "evidence-chain",
+    "mass-casualty reportage"
+    ],
+    "moral_tensions": [
+    "risk-to-self vs duty to victims",
+    "reporting spectacle vs proving truth"
+    ]
+    },
+    "text_windows": {
+    "bio_200w": "Alejandro is a StellaNet reporter and field presenter who escalates a Fox River assignment into an investigative case. He proposes changing his Stella career path to investigative reporting while Werner shifts to forensic photography, and he registers the case to push for accountability. In the field he plans operations and pilots a quadrafan to lift debris during a survivor rescue. He works closely with Werner, whose systems work complements Alejandro’s people-centric approach, and coordinates with Shelly after a producer-mandated detour adds her as forensic investigator. His focus turns to developing witnesses, securing discretionary funds for a fixer or mercs to control evidence flow, and elevating the work from a ninety-second broadcast to proof. He emphasizes truth, accountability, and loyalty to colleagues and survivors while managing his sensitivity to extreme tri-D immersion.",
+    "arc_200w": "Alejandro is a frontline presenter who pivots when Fox River’s devastation demands more than a standard segment. He initiates a formal case, updates his track to investigative reporting, and aligns Werner toward forensic photography. A producer’s directive adds Shelly to the team, and Alejandro integrates her skills as they collect leads. He co-leads operations, flies the quadrafan during a live rescue, and helps extract Evelyn, turning raw footage into actionable investigation. His near-term plan is to move from broadcast impact to evidentiary rigor, travel to Broken Bow for fixers and leads, and build a chain of custody that can survive scrutiny. The arc reframes him from presenter to investigator whose choices balance public storytelling with securing proof and protecting survivors.",
+    "skills_120w": "Alejandro is a field presenter turned investigator with strengths in tri-D broadcast ops, quadrafan piloting, and rapid operational planning. He uses a PID for notes, coordinates, and case actions, and a lingual interface for SAIR control and inflight menus. He plans resource use, proposes discretionary funds and local support to secure artifacts before scavengers remove them, and focuses on witness development to convert scenes into testimony. Limitations include nausea and retching under extreme full-immersion tri-D; he manages exposure and leans on team support to maintain performance.",
+    "appearance_120w": "Alejandro is tall and athletic with raven-black hair worn in a ponytail and a poised, well-adjusted posture. He presents cleanly on camera with dark eyelashes, clear skin, and titanium-white teeth. His wardrobe includes a tailored Savachini suit for broadcasts, reinforcing a polished, credible presence. The overall effect is confident and composed, suited to high-pressure reporting and interviews, while remaining functional enough for field operations and rapid redeployments between flight deck, report area, and rescue sites.",
+    "relationships_180w": "Alejandro is partnered with Werner, forming a complementary duo: Alejandro manages people, interviews, and planning; Werner manages drones, tri-D stitching, and forensic capture. Their working bond is supportive and warm, with Alejandro mitigating Werner’s tri-D burden and nausea while coordinating tasks. Alejandro also collaborates with Shelly, a producer-recommended forensic investigator added before deeper fieldwork; he integrates her analysis and search protocols into the case. In the field, Alejandro, Werner, and Shelly jointly rescue Evelyn from debris near Fox River. Evelyn’s survival provides witness testimony and names that inform next steps. Together, these relationships drive the team from a fast broadcast package toward a structured investigation, with Alejandro balancing narrative needs against evidentiary control."
+    },
+    "qa_pairs": [
+    {
+    "q": "What is Alejandro’s occupation at the time of Fox River?",
+    "a": "He is a StellaNet reporter and field presenter."
+    },
+    {
+    "q": "Why does Alejandro pivot to investigative reporting?",
+    "a": "The Fox River atrocity compels him to seek accountability beyond a standard tri-D segment, so he registers a case and updates his career path."
+    },
+    {
+    "q": "Which key tools and vehicles does Alejandro operate?",
+    "a": "He pilots a quadrafan, uses a PID and a lingual interface, and works with tri-D broadcast drones."
+    },
+    {
+    "q": "Who are Alejandro’s primary collaborators on the case?",
+    "a": "Werner, his cameraman/forensic partner, and Shelly, the added forensic investigator; together they rescue Evelyn and pursue leads."
+    }
+    ],
+    "metadata_for_indexing": {
+    "retrieval_keys": [
+    "Alejandro",
+    "StellaNet",
+    "StellaNet reporter",
+    "investigative reporting",
+    "Fox River",
+    "quadrafan",
+    "tri-D broadcast"
+    ],
+    "keywords_dense": "Alejandro, StellaNet reporter, investigative journalism, Fox River case, quadrafan pilot, tri-D broadcast, PID, lingual interface, witness development, Broken Bow leads, forensic photography partnership",
+    "spoiler_level": "book1_end",
+    "named_entities": {
+    "people": [
+    "Werner",
+    "Shelly",
+    "Evelyn"
+    ],
+    "places": [
+    "Fox River",
+    "Broken Bow"
+    ],
+    "orgs": [
+    "StellaNet"
+    ],
+    "terms": [
+    "tri-D",
+    "quadrafan",
+    "PID",
+    "lingual interface"
+    ]
+    }
+    },
+    "embedding_payloads": [
+    {
+    "chunk_id": "alejandro-1",
+    "type": "bio",
+    "text": "Alejandro is a StellaNet reporter and field presenter who escalates a Fox River assignment into a formal investigation focused on truth, witnesses, and evidentiary proof."
+    },
+    {
+    "chunk_id": "alejandro-2",
+    "type": "arc",
+    "text": "Alejandro pivots from presenter to investigator after Fox River, updates his career track, registers a case, integrates Shelly, and co-leads operations toward leads in Broken Bow."
+    },
+    {
+    "chunk_id": "alejandro-3",
+    "type": "relationships",
+    "text": "Alejandro partners with Werner as a complementary duo and coordinates with Shelly; together they rescue Evelyn and convert broadcast coverage into an investigation."
+    },
+    {
+    "chunk_id": "alejandro-4",
+    "type": "skills_cybernetics",
+    "text": "Alejandro operates tri-D broadcast workflows, pilots a quadrafan for survey and rescue, uses a PID for coordination, and employs a lingual interface for hands-free control."
+    },
+    {
+    "chunk_id": "alejandro-5",
+    "type": "appearance",
+    "text": "Alejandro presents tall and athletic with raven-black ponytail, clear skin, dark lashes, and a tailored Savachini suit that underscores polished on-camera composure."
+    }
+    ]
+    }

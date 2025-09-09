@@ -1,0 +1,299 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "2186-10-12_point-blank_chase-knife-fight",
+    "chapter_number": 14,
+    "scene_number": 1,
+    "date_in_universe": "2186-10-12",
+    "absolute_timeline_notes": "Minutes into the Fox River/TRG relief of Three Shovels; immediately follows Chase’s long-range support."
+    },
+    "text_windows": {
+    "full_scene_clean": "The ejector burned his fingers as Chase withdrew the magazine and jammed fresh .50 caliber rounds in. Blood dripped from his fingertips. No time to think. He feared the two defenders might already be dead. This was all or nothing. In the grass depression, he steadied himself, praying McTanner would arrive. A shadow fell—wild eyes, a combat knife flashing. A tattooed ravager, teeth metal-tipped, dropped onto him with a high-pitched squeal. The hot .50 lay across Chase’s chest; he heaved it up to deflect the blade. They crashed together. He clamped the knife wrist while the rifle’s heat scorched them both. Sykotiq-wide pupils: no pain, inhuman strength. Dirt fell into his face as the knife tore free of the ground. Chase held the attacker suspended by the wrist, groped for his pistol—empty holster. The ravager’s free hand smashed his nose; blood flooded his throat. Blindly sweeping behind his back, Chase finally found the sidearm tucked at his spine. The click of the safety made the ravager glance; three 10mm shots dropped him. Chase scrambled to the crest. Through the scope he saw the emaciated kid down and the dark-haired woman still fighting. He resumed firing, cutting down ravagers as she bled and battled with a captured rifle. Suddenly she pointed frantically up at him. A blade bit his back—his attacker had staggered up again, switching the knife to his left hand. Armor didn’t stop it; pain flared as the knife pulled free. Chase rolled, drew, and put two more rounds center mass. The ravager collapsed. Blood oozed down Chase’s back and into his boots. He turned back to the fight below as TRG vehicles streamed over the ridgeline in single file, arcing clockwise and mowing down the remainder. It was over. Chase gathered his gear and staggered downslope, light-headed, trying to wave as TRG troopers ran toward him. His vision tunneled and the ground tilted.",
+    "dense_recap_250w": "Pinned on a hillside above a besieged caravan, Chase reloads his overheating .50 cal and fears the two defenders he’s been covering may already be dead. A Sykotiq-fueled ravager wearing a tattered leather coat and metal teeth ambushes him at the crest, crashing into his position with a combat knife. Using the hot rifle as a shield, Chase locks the man’s knife wrist while being punched and cut; unable to find his holstered sidearm, he finally locates it tucked at his back and fires three 10mm rounds to drop the attacker. He resumes sniping, seeing the emaciated youth down while the dark-haired woman continues fighting with a ravager rifle. She suddenly points toward him, warning of danger—the same ravager has staggered up again and stabs Chase between the shoulder blades, the blade penetrating his vest. Rolling away, Chase fires two more rounds center mass to finish the threat. Bleeding heavily, he keeps his focus on the caravan until Tactical Response Group (TRG) vehicles crest the hill in single file, encircle clockwise, and cut down the remaining ravagers. As the relief force parks and runs toward him, Chase, light-headed and soaked in blood, tries to wave before his vision blurs. The scene captures his near-fatal knife fight, sustained precision fire in support of the defenders, and the timely TRG arrival that ends the engagement.",
+    "query_handle": "Chase survives a knife ambush while sniping; holds line until TRG arrives and routs ravagers; Quincy fights on, Demmy down."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Reload under fire",
+    "what_happens": "Chase burns his fingers swapping a hot mag and recommits to covering the caravan despite fear the defenders are dead.",
+    "involved_entities": ["chase", "three-shovels-caravan"],
+    "stakes_or_conflict": "Ammo, heat, and time are running out."
+    },
+    {
+    "order": 2,
+    "label": "Knife ambush at the crest",
+    "what_happens": "A drug-fueled ravager tackles Chase; he blocks with the overheated rifle and grapples for control.",
+    "involved_entities": ["chase", "ravagers"],
+    "stakes_or_conflict": "Immediate lethal threat in close quarters."
+    },
+    {
+    "order": 3,
+    "label": "Pistol recovery and counter",
+    "what_happens": "Chase finds his 10mm and shoots the attacker off him, then returns to snipe for the defenders.",
+    "involved_entities": ["chase", "quincy", "demmy", "ravagers"],
+    "stakes_or_conflict": "Balance between self-preservation and protecting allies."
+    },
+    {
+    "order": 4,
+    "label": "Second stab and finish",
+    "what_happens": "The ravager rises again and stabs Chase in the back; Chase rolls away and puts him down for good.",
+    "involved_entities": ["chase", "ravagers"],
+    "stakes_or_conflict": "Severe injury vs mission continuation."
+    },
+    {
+    "order": 5,
+    "label": "TRG relief",
+    "what_happens": "TRG vehicles arrive in single file and sweep the remaining ravagers; Chase staggers toward friendly forces.",
+    "involved_entities": ["trg", "chase", "quincy", "demmy", "ravagers"],
+    "stakes_or_conflict": "Battle ends; medical/disciplinary consequences looming."
+    }
+    ],
+    "characters": [
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Keep the caravan defenders alive until TRG arrives; survive the ambush.",
+    "obstacles": "Overheating rifle, limited ammo, surprise knife attack, blood loss and impaired vision.",
+    "tactics": "Long-range driver shots, wrist control in grappling, emergency draw and close-quarters pistol fire, rapid target switching.",
+    "relationships": [
+    {"with": "quincy", "type": "ally (emergent)", "state": "protective", "evidence": "Resumes precision fire when he sees her still fighting; notes her pointing to warn him."},
+    {"with": "demmy", "type": "ally (emergent)", "state": "concerned/unknown status", "evidence": "Checks scope and sees the kid down; keeps covering."},
+    {"with": "trg", "type": "member", "state": "out of position, then relieved", "evidence": "Cheers as TRG vehicles crest and finish the fight."}
+    ],
+    "emotional_arc": {
+    "start": "determined, anxious",
+    "turning_points": ["Ambushed and nearly overpowered", "Stabbed in the back and bleeding", "Relief as TRG arrives"],
+    "end": "dizzy, relieved, near-collapse"
+    },
+    "notable_actions": ["reloads hot .50 cal", "blocks knife with rifle", "grapples and controls wrist", "retrieves 10mm and fires multiple shots", "continues sniping despite wounds", "attempts to link up with TRG"],
+    "quotable_lines": ["Too many ravagers, not enough bullets.", "Please, be alive!", "My God, it’s over!"]
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Hold her gun platform and survive the rush.",
+    "obstacles": "Exhaustion, bleeding wounds, jammed/glowing-hot gun, ammo depletion.",
+    "tactics": "Switch to a ravager rifle when heavy gun falters; signal warning by pointing at Chase.",
+    "relationships": [
+    {"with": "demmy", "type": "ally", "state": "worried", "evidence": "Fights on while the kid is down."},
+    {"with": "chase", "type": "unknown-to-ally", "state": "cooperative by circumstance", "evidence": "Points at danger behind him to warn him."}
+    ],
+    "emotional_arc": {"start": "furious focus", "turning_points": ["Gun jams; switches weapons", "Signals warning to sniper"], "end": "exhausted but alive"},
+    "notable_actions": ["fires from gun nest", "switches to captured rifle", "visually warns Chase"],
+    "quotable_lines": []
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Defend the caravan position (status deteriorates).",
+    "obstacles": "Overwhelming attackers; exhaustion; goes down during fight.",
+    "tactics": "Shotgun and knife work prior to collapse (observed state: down).",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "separated in separate nests", "evidence": "Both man caravan gun platforms."},
+    {"with": "chase", "type": "ally (indirect)", "state": "protected", "evidence": "Chase prioritizes picking attackers off his platform."}
+    ],
+    "emotional_arc": {"start": "resolute", "turning_points": ["Knocked out of action"], "end": "down/unknown"},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "ravagers",
+    "display_name": "Ravagers",
+    "aliases": [],
+    "role_in_scene": "antagonists",
+    "goals_now": "Overrun caravan trucks and kill defenders.",
+    "obstacles": "Chase’s precision fire; TRG arrival.",
+    "tactics": "Vehicle circling fire, close-quarters rush, knife ambush fueled by Sykotiq.",
+    "relationships": [],
+    "emotional_arc": {"start": "aggressive", "turning_points": ["Sniper attrition", "Encircled by TRG"], "end": "routed"},
+    "notable_actions": ["ambush Chase with knife", "charge platforms", "continue assault until TRG sweep"],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "chase-50cal-rifle",
+    "name": ".50 caliber sniper rifle",
+    "category": "weapon",
+    "capabilities": ["long-range precision", "driver neutralization at 500m+", "high penetration"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "overheated but functional",
+    "scene_function": "Primary tool enabling Chase to thin attackers and cover the caravan."
+    },
+    {
+    "id": "chase-10mm-pistol",
+    "name": "10mm sidearm",
+    "category": "weapon",
+    "capabilities": ["close-quarters defense", "semi-automatic fire"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "functional",
+    "scene_function": "Saves Chase during knife ambush; finishes attacker after back stab."
+    },
+    {
+    "id": "ravager-combat-knife",
+    "name": "Ravager combat knife",
+    "category": "weapon",
+    "capabilities": ["melee stabbing/slashing"],
+    "owner_or_users": ["ravagers"],
+    "condition_or_state": "bloodied",
+    "scene_function": "Primary threat in the ambush; penetrates Chase’s vest."
+    },
+    {
+    "id": "caravan-gun-nests",
+    "name": "Armored machine gun nests on trucks",
+    "category": "weapon",
+    "capabilities": ["sustained suppressive fire"],
+    "owner_or_users": ["quincy", "demmy"],
+    "condition_or_state": "overheated/jammed and ammo-low",
+    "scene_function": "Fixed defensive positions the ravagers attempt to overrun."
+    },
+    {
+    "id": "trg-convoy",
+    "name": "TRG vehicles (single-file sweep)",
+    "category": "vehicle",
+    "capabilities": ["rapid approach", "mounted weapons", "encirclement"],
+    "owner_or_users": ["trg"],
+    "condition_or_state": "intact",
+    "scene_function": "Arrive and complete the rout of remaining ravagers."
+    },
+    {
+    "id": "ballistic-vest",
+    "name": "Chase’s ballistic vest",
+    "category": "other",
+    "capabilities": ["stops/mitigates bullets (limited vs blades)"],
+    "owner_or_users": ["chase"],
+    "condition_or_state": "penetrated by knife",
+    "scene_function": "Illustrates vulnerability to edged weapons; injury vector."
+    }
+    ],
+    "locations": [
+    {
+    "id": "hill-crest-sniper-hide",
+    "name": "Hill crest sniper position",
+    "type": "wilderness",
+    "descriptors": ["grassy depression", "concealed crest", "good fields of fire"],
+    "in_scene_events": ["Chase ambushed by knife; continues precision shooting."]
+    },
+    {
+    "id": "valley-caravan-line",
+    "name": "Valley battlefield at caravan trucks",
+    "type": "wilderness",
+    "descriptors": ["flattened grass", "smoke plumes", "encircling ravager vehicles"],
+    "in_scene_events": ["Quincy fights on; Demmy down; TRG arrives and sweeps."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "trg",
+    "name": "Tactical Response Group (Fox River)",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Relieve besieged caravan and secure area.",
+    "actions_in_scene": ["arrive single-file", "clockwise encirclement", "suppress and finish remaining ravagers"]
+    },
+    {
+    "id": "ravagers",
+    "name": "Ravagers",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Plunder and kill caravan defenders.",
+    "actions_in_scene": ["circle fire on trucks", "close assault", "knife ambush on sniper"]
+    },
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": ["quincy", "demmy"],
+    "motives_inferred": "Survive attack and hold position until relief arrives.",
+    "actions_in_scene": ["man truck-mounted guns", "signal warnings", "resist final rush"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["survival under overwhelming odds", "courage and self-determination", "cost of heroism", "reliance vs autonomy (help finally arrives)"],
+    "motifs_symbols": ["overheated steel and burning skin", "metallic teeth of the ravager", "blood-soaked boots", "single-file TRG sweep"],
+    "moral_questions": ["What debt do we owe strangers at great personal risk?", "When does bravery become recklessness, and who decides?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "high-intensity",
+    "voice_traits": ["tactical detail", "interior resolve", "visceral combat imagery"],
+    "sensory_notes": ["rifle heat scalding through gear", "stimulant sour breath", "bullet whine and gun thunder", "blood pooling in boots", "knife bite through armor"]
+    },
+    "causality": {
+    "prior_dependencies": ["Chase previously engaged ravager drivers from standoff range; caravan already under assault; TRG en route from earlier scenes."],
+    "outcomes": ["Chase sustains a serious stab wound; ravager attacker neutralized; TRG completes rout; Quincy survives; Demmy’s condition unclear."],
+    "unanswered_questions": ["Is Demmy alive and how badly is he hurt?", "Will Chase face consequences or commendation?", "What caused the earlier mass vehicle freeze noted in the valley (broader arc)?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["chase", "ravager-knife-assailant"],
+    "trigger": "Ravager ambushes Chase at the crest with a combat knife.",
+    "resolution": "Chase shoots attacker multiple times; attacker dies after second engagement."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["trg", "ravagers"],
+    "trigger": "TRG arrives to relieve caravan and confront remaining attackers.",
+    "resolution": "TRG encircles and mows down remaining ravagers."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["chase"],
+    "trigger": "Pain, blood loss, fear of failing the defenders.",
+    "resolution": "Perseveres, continues covering fire until relief arrives."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "graphic",
+    "addiction_or_substances": "mentioned",
+    "sexual_content": "none",
+    "sensitive_topics": ["drug-induced psychosis (Sykotiq)", "stabbing and blood loss", "near-death experience"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Chase", "Quincy", "Demmy", "TRG arrival", "ravager knife ambush", ".50 cal sniper", "Three Shovels defense", "Sykotiq"],
+    "keywords_dense": "Chase, Quincy, Demmy, Tactical Response Group, TRG, ravagers, Sykotiq, knife ambush, .50 caliber rifle, 10mm pistol, caravan trucks, gun nests, single-file sweep, grasslands valley",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chase", "Quincy", "Demmy"],
+    "places": [],
+    "orgs": ["Tactical Response Group (TRG)", "Three Shovels Caravan"],
+    "terms": [".50 caliber", "10mm", "Sykotiq"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "How is Chase injured in this scene?", "a": "A ravager stabs him between the shoulder blades with a combat knife, penetrating his vest."},
+    {"q": "What weapon ultimately saves Chase during the ambush?", "a": "His 10mm sidearm, which he draws and fires multiple times at close range."},
+    {"q": "What signals the end of the battle?", "a": "TRG vehicles arrive in single file, encircle clockwise, and gun down the remaining ravagers."},
+    {"q": "Which defender is still fighting when Chase looks through his scope?", "a": "The dark-haired woman, Quincy."},
+    {"q": "What is Demmy’s status by the end of the scene?", "a": "He is down; exact condition is not confirmed."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-10-12-rumba-recap",
+    "type": "recap",
+    "text": "On a hill above a besieged caravan, Chase burns his hands reloading an overheated .50 cal and is ambushed by a Sykotiq-fueled ravager with a combat knife. He blocks with the hot rifle, wrestles the knife wrist, and, after being punched and cut, recovers his 10mm to shoot the attacker. He resumes sniping to protect the defenders—Quincy still fighting, Demmy down—until the attacker rises again and stabs him in the back. Rolling away, Chase finishes him with two more shots. Bleeding heavily, he keeps covering the caravan until TRG vehicles crest the hill in single file, sweep clockwise, and finish the ravagers. Chase staggers toward the relief force, on the edge of collapse."
+    },
+    {
+    "chunk_id": "2186-10-12-rumba-entities",
+    "type": "entities_focus",
+    "text": "POV: Chase (TRG apprentice). Allies: Quincy (dark-haired gunner), Demmy (emaciated youth gunner), TRG convoy (arrives to relieve). Antagonists: ravagers (one knife-wielding, Sykotiq-high attacker). Tech: .50 cal sniper rifle (overheats), 10mm pistol, ravager combat knife, caravan armored gun nests, TRG vehicles. Locations: hill-crest sniper hide; valley with caravan trucks and flattened grass. Actions: knife grapple and close-quarters shoot, sustained precision fire, TRG encirclement."
+    },
+    {
+    "chunk_id": "2186-10-12-rumba-style-theme",
+    "type": "style_theme_focus",
+    "text": "Tense, visceral 3rd-limited on Chase with tactical detail and interior mantras. Sensory focus on heat, blood, breath, and metal. Themes: survival against odds, self-determination expressed through action, cost of heroism, dependence on timely allies. Motifs: burning barrel on skin, metallic teeth, blood in boots, finger-on-safety click, single-file relief sweep."
+    }
+    ]
+    }

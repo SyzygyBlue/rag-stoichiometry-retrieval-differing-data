@@ -1,0 +1,234 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Scorched Earth",
+    "scene_id": "calum-tam-extraction-chase-perspective",
+    "chapter_number": 42,
+    "scene_number": 3,
+    "date_in_universe": "2186-12-03",
+    "absolute_timeline_notes": "Immediately after Demmy reaches the cells at Calum-Tam Holdfast; nighttime evacuation begins."
+    },
+    "text_windows": {
+    "full_scene_clean": "Pain saturates Chase as Quincy urges him up—Demmy has arrived. In total darkness he’s hauled to his feet; agony spikes through his left arm and a racking cough wrings more pain from his chest. Demmy warns of a dead body ahead; Chase’s feet bump over it as Quincy and Demmy drag him toward wooden steps linking the holding pens above to the cells below. Every step jolts his dangling arm. Disoriented, nauseated, and exhausted, Chase wants to sleep, but they keep him moving. They push through doors and emerge into the dimly lit streets of the holdfast.",
+    "dense_recap_250w": "From Chase’s pain-blurred perspective, Quincy rouses him with urgent news: Demmy is here. The cell block is in blackout, and Chase can barely see; one eye is blurry and both are nearly swollen shut. As Quincy and Demmy lift him under the arms, a spike of agony tears through his left arm and a violent cough compounds his pain. Demmy hisses a warning about a corpse up ahead—“don’t trip”—and the trio shuffle forward, Chase’s feet knocking against the body before they reach a flight of wooden stairs. The steps connect the upper holding pens to the lower cells; each upward movement sends fresh shockwaves through Chase’s injuries. Disoriented and nauseated, he fades in and out, whispers that it hurts, and nearly begs for oblivion, but Quincy and Demmy keep him moving. They shoulder him through interior doors and out into the dimly lit streets of the Calum-Tam Holdfast, transitioning the rescue from the subterranean confinement to the surface, where the escape will continue. The scene focuses on endurance, urgency, and teamwork under dire physical strain, with environmental hazards (darkness, obstacles, stairs) and the constant risk of collapse from Chase’s condition.",
+    "query_handle": "In blackout, Demmy and Quincy drag injured Chase past a corpse, up holding-pen stairs, and out to Calum-Tam’s streets."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Roused in darkness",
+    "what_happens": "Quincy wakes Chase and tells him Demmy is here; he’s lifted in pitch black and wracked with pain.",
+    "involved_entities": ["chase", "quincy", "demmy", "calum-tam-cellblock"],
+    "stakes_or_conflict": "Move now despite injuries or risk failing the escape."
+    },
+    {
+    "order": 2,
+    "label": "Obstacle in the corridor",
+    "what_happens": "Demmy warns about a dead body; Chase’s feet bump over it as they proceed.",
+    "involved_entities": ["demmy", "chase", "unknown-corpse"],
+    "stakes_or_conflict": "Navigating hazards blind could injure or slow them."
+    },
+    {
+    "order": 3,
+    "label": "The climb",
+    "what_happens": "They drag Chase up wooden steps linking pens to cells; each step amplifies his arm pain.",
+    "involved_entities": ["chase", "quincy", "demmy", "holding-pen-stairs"],
+    "stakes_or_conflict": "Physical endurance vs. collapse."
+    },
+    {
+    "order": 4,
+    "label": "Surface exit",
+    "what_happens": "They push through doors into dimly lit holdfast streets.",
+    "involved_entities": ["chase", "quincy", "demmy", "calum-tam-streets"],
+    "stakes_or_conflict": "Transition from confinement to open-area escape under time pressure."
+    }
+    ],
+    "characters": [
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Stay conscious and mobile enough to be evacuated.",
+    "obstacles": "Severe pain, likely arm and rib injuries, nausea, near-blindness in darkness.",
+    "tactics": "Yield to assistance; conserve energy; focus on breathing and steps.",
+    "relationships": [
+    {"with": "quincy", "type": "ally/friend", "state": "dependent trust", "evidence": "Quincy rouses and supports him physically."},
+    {"with": "demmy", "type": "rescuer-ally", "state": "urgent reliance", "evidence": "Demmy guides and warns him about hazards."}
+    ],
+    "emotional_arc": {
+    "start": "overwhelmed, disoriented, in agony",
+    "turning_points": ["Realizes allies are extracting him", "Reaches surface light from darkness"],
+    "end": "exhausted but moving, tenuous hope"
+    },
+    "notable_actions": ["attempts to stand despite pain", "endures stair climb", "follows guidance past a corpse"],
+    "quotable_lines": ["\"Hurts,\" he whispered."]
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Get Chase moving and out of the cell block.",
+    "obstacles": "Total darkness, Chase’s injuries, physical burden of lifting/dragging.",
+    "tactics": "Direct verbal prompts; lift under arms; steady him on stairs.",
+    "relationships": [
+    {"with": "chase", "type": "ally/friend", "state": "protective resolve", "evidence": "Get up, Chase… we have to go."},
+    {"with": "demmy", "type": "ally", "state": "coordinated action", "evidence": "They move Chase together through hazards."}
+    ],
+    "emotional_arc": {
+    "start": "urgent and apologetic",
+    "turning_points": ["Begins physical evacuation in darkness"],
+    "end": "focused, determined on the surface"
+    },
+    "notable_actions": ["lifts and drags Chase", "navigates stairs in blackout"],
+    "quotable_lines": ["Get up, Chase… we have to go."]
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Guide and extract Chase safely out of the cells.",
+    "obstacles": "Blackout conditions, obstacles, Chase’s limited mobility.",
+    "tactics": "Quiet navigation, hazard calls, coordinated lift with Quincy.",
+    "relationships": [
+    {"with": "chase", "type": "rescuer-ally", "state": "urgent caretaker", "evidence": "Dead guy up ahead… don’t trip."},
+    {"with": "quincy", "type": "ally", "state": "synchronized teamwork", "evidence": "Jointly move Chase through corridors and up stairs."}
+    ],
+    "emotional_arc": {
+    "start": "composed, mission-focused",
+    "turning_points": ["Guides past corpse; manages stair ascent"],
+    "end": "still urgent, moving to next phase outside"
+    },
+    "notable_actions": ["warns about corpse", "helps lift and guide", "leads exit to streets"],
+    "quotable_lines": ["Dead guy up ahead… don’t trip."]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "holding-pen-stairs",
+    "name": "Wooden stairs (pens↔cells)",
+    "category": "other",
+    "capabilities": ["vertical access between levels"],
+    "owner_or_users": ["calum-tam"],
+    "condition_or_state": "intact",
+    "scene_function": "Primary obstacle for moving an injured person during the escape."
+    },
+    {
+    "id": "cell-doors",
+    "name": "Cell doors and interior doors",
+    "category": "other",
+    "capabilities": ["secure/partition spaces"],
+    "owner_or_users": ["calum-tam"],
+    "condition_or_state": "unlocked/open during evacuation",
+    "scene_function": "Final barrier before reaching the streets."
+    },
+    {
+    "id": "unknown-corpse",
+    "name": "Unidentified dead body",
+    "category": "other",
+    "capabilities": ["n/a"],
+    "owner_or_users": [],
+    "condition_or_state": "deceased; obstacle on the floor",
+    "scene_function": "Hazard in the dark corridor that could slow or injure the evacuees."
+    }
+    ],
+    "locations": [
+    {
+    "id": "calum-tam-cellblock",
+    "name": "Calum-Tam Holdfast cells",
+    "type": "structure",
+    "descriptors": ["pitch black", "confining corridors", "link to upper holding pens via wooden stairs"],
+    "in_scene_events": ["Chase is roused and lifted; group traverses corridor past a corpse; climbs stairs."]
+    },
+    {
+    "id": "calum-tam-streets",
+    "name": "Calum-Tam Holdfast streets (exterior)",
+    "type": "structure",
+    "descriptors": ["dimly lit", "transition zone from interior to open area"],
+    "in_scene_events": ["Extraction team emerges to surface, continuing escape."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "calum-tam",
+    "name": "Calum-Tam Holdfast",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Detains outsiders; environment remains dangerous during escape.",
+    "actions_in_scene": ["Facility layout (cells, stairs, doors) shapes the evac route."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["endurance under duress", "loyalty and rescue", "navigation of danger in darkness"],
+    "motifs_symbols": ["blackout darkness", "stair-climb as ordeal", "corpse as hazard and omen"],
+    "moral_questions": ["How much pain should be risked to keep moving a wounded ally?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/visceral",
+    "pacing": "brisk",
+    "voice_traits": ["tight interiority", "sensory immediacy", "sparse dialogue under stress"],
+    "sensory_notes": ["total darkness", "wracking coughs", "jolts of stair pain", "door push into dim light"]
+    },
+    "causality": {
+    "prior_dependencies": ["Demmy previously reached the cells; Quincy resolved not to leave Chase; Chase was beaten earlier and severely injured."],
+    "outcomes": ["Team reaches the surface streets, continuing extraction.", "Chase remains in critical pain, limiting speed and options."],
+    "unanswered_questions": ["Can they maintain pace given Chase’s condition?", "What threats await them on the streets?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["chase"],
+    "trigger": "Overwhelming pain and exhaustion vs. need to move.",
+    "resolution": "Partial—he endures and is moved by allies."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy and demmy and chase", "blackout corridors, corpse obstacle, stairs"],
+    "trigger": "Navigating hazards while hauling an injured person.",
+    "resolution": "Partial—reach exterior but escape not yet complete."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["captivity", "injury", "corpse encountered in escape route"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Chase extraction begins", "Quincy and Demmy drag Chase", "Calum-Tam wooden stairs", "blackout cellblock escape", "corpse obstacle"],
+    "keywords_dense": "Chase, Quincy, Demmy, Calum-Tam Holdfast, cellblock, blackout, corpse in corridor, wooden stairs, pain, escape, dim streets",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chase", "Quincy", "Demmy"],
+    "places": ["Calum-Tam Holdfast"],
+    "orgs": ["Calum-Tam Holdfast"],
+    "terms": []
+    }
+    },
+    "qa_pairs": [
+    {"q": "Who helps move Chase out of the cell area?", "a": "Quincy and Demmy."},
+    {"q": "What hazard does Demmy warn about in the corridor?", "a": "A dead body on the floor."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "calum-tam-extraction-chase-recap",
+    "type": "recap",
+    "text": "Quincy rouses a badly hurt Chase in blackout conditions as Demmy arrives to extract them. They lift Chase under the arms, pass a corpse in the corridor, and climb the wooden stairs linking holding pens and cells. Each step intensifies Chase’s pain, but they push through interior doors into the dimly lit streets of the Calum-Tam Holdfast to continue the escape."
+    },
+    {
+    "chunk_id": "calum-tam-extraction-chase-entities",
+    "type": "entities_focus",
+    "text": "Actors: Chase (injured POV), Quincy (rescuer), Demmy (rescuer/guide). Locations: Calum-Tam cellblock (blackout), holding-pen stairs (vertical obstacle), Calum-Tam streets (exterior). Objects: doors, wooden stairs, unidentified corpse. Dynamics: urgent evacuation under injury and darkness."
+    },
+    {
+    "chunk_id": "calum-tam-extraction-chase-style-theme",
+    "type": "style_theme_focus",
+    "text": "Gritty third-limited through Chase’s pain-hazed senses; terse, urgent dialogue and heavy sensory detail (coughs, jolts, darkness). Themes of endurance and loyalty drive a hazardous ascent from confinement to open ground."
+    }
+    ]
+    }

@@ -1,0 +1,362 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "2186-10-09_blood-dust-and-a-toolbox",
+    "chapter_number": null,
+    "scene_number": null,
+    "date_in_universe": "2186-10-09",
+    "absolute_timeline_notes": "Immediately after a ravager assault; Quincy regains consciousness under collapsed sheet metal near a ravager camp as the Three Shovels Caravan flees."
+    },
+    "text_windows": {
+    "full_scene_clean": "Quincy awakens amid dust, gun smoke, and ringing pain beneath collapsed corrugated metal. A gaunt, wary skerv youth—ragged clothes, blue eyes—signals for silence beside her. Gavin is gone, but his pack remains nearby. The youth hands Quincy Andreu’s cocked .45 automag; memory flashes confirm Andreu’s death during the attack. As distant gunfire and vehicles fade—ravagers pursuing the fleeing Three Shovels Caravan—Quincy fights panic and focuses on slow breathing. She watches the youth use a shard of glass as a mirror to scan their rear. He whispers instructions: stay low, keep moving, don’t stop. With the camp quieting and a thicket of brambles and a far treeline offering cover, they decide to sprint for the brush. Quincy disengages the safety, crawls out, shoulders her pack, and bolts after the youth, expecting fire at any moment.",
+    "dense_recap_250w": "In the aftermath of a ravager attack, Quincy regains consciousness pinned beneath rusted sheet metal in a devastated encampment. Disoriented by pain, dust, and the stench of death, she recognizes a silent companion: a gaunt skerv youth who signals for quiet and gives her Andreu’s cocked .45 automag—confirming Andreu was killed earlier in the firefight. Gavin is absent but has left his canvas pack nearby, a reminder of recent betrayal and violence. As the gunfire and engine whine recede—the ravagers likely chasing the escaping Three Shovels Caravan—Quincy struggles against mounting panic, grounding herself through measured breathing. The youth methodically scouts their rear with a palm-sized mirror shard and whispers a simple plan: stay low, keep moving, don’t stop. With the immediate area momentarily still and only open ground between them and a snag of brambles leading to a distant treeline, the pair commit to a dash for concealment. Quincy disengages her pistol’s safety, crawls free, and runs after the youth, bracing for incoming fire. The scene focuses on sensory overload, trauma management, and a survival choice under extreme pressure.",
+    "query_handle": "Quincy wakes under wreckage post-ravager attack; skerv youth aids; she takes Andreu’s automag; they sprint for brambles toward the treeline."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Shock and disorientation",
+    "what_happens": "Quincy wakes beneath collapsed metal amid dust, gunfire echoes, and the smell of death.",
+    "involved_entities": ["quincy", "collapsed-sheet-metal", "ravagers"],
+    "stakes_or_conflict": "Immediate survival while disoriented and potentially exposed."
+    },
+    {
+    "order": 2,
+    "label": "Silent ally",
+    "what_happens": "A gaunt skerv youth signals quiet and passes Andreu’s cocked automag to Quincy.",
+    "involved_entities": ["quincy", "skerv-youth", "andreus-45-automag"],
+    "stakes_or_conflict": "Arming up vs drawing attention; processing Andreu’s death."
+    },
+    {
+    "order": 3,
+    "label": "Assess and regulate",
+    "what_happens": "Quincy controls panic with breathwork while the youth mirrorscopes their rear with a glass shard.",
+    "involved_entities": ["quincy", "skerv-youth", "mirror-shard"],
+    "stakes_or_conflict": "Maintaining stealth and composure to avoid detection."
+    },
+    {
+    "order": 4,
+    "label": "Decision to move",
+    "what_happens": "As pursuit noise fades, they choose a run to a bramble thicket and distant treeline.",
+    "involved_entities": ["quincy", "skerv-youth", "bramble-thicket", "treeline"],
+    "stakes_or_conflict": "Crossing exposed ground before ravagers return or spot them."
+    },
+    {
+    "order": 5,
+    "label": "Break from cover",
+    "what_happens": "The youth slides out with Gavin’s pack; Quincy disengages her safety, crawls free, and sprints.",
+    "involved_entities": ["quincy", "skerv-youth", "gavins-pack", "andreus-45-automag"],
+    "stakes_or_conflict": "Speed vs stealth; risk of being shot in the open."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Survive and escape the ravager camp perimeter to reach cover.",
+    "obstacles": "Concussion-like disorientation, pain, panic, exposed terrain, possible nearby enemies.",
+    "tactics": "Breath regulation, absolute stillness, quiet coordination, rapid low-profile movement with weapon ready.",
+    "relationships": [
+    {
+    "with": "skerv-youth",
+    "type": "ally-of-necessity",
+    "state": "tentative-trust",
+    "evidence": "Accepts Andreu’s automag and follows his whispered plan."
+    },
+    {
+    "with": "gavin",
+    "type": "rival/betrayer",
+    "state": "traumatized, angry",
+    "evidence": "Flashback to Gavin’s sneer and pistol; his pack remains while he is gone."
+    },
+    {
+    "with": "andreu",
+    "type": "fallen-ally",
+    "state": "grief/hardening",
+    "evidence": "Remembers Andreu’s death and his automag won in dice."
+    },
+    {
+    "with": "three-shovels-caravan",
+    "type": "family/community",
+    "state": "separated",
+    "evidence": "Realizes the caravan fled without her under fire."
+    }
+    ],
+    "emotional_arc": {
+    "start": "stunned, nauseated, overwhelmed",
+    "turning_points": ["Accepts the automag, grounding in action", "Commits to the sprint for the brambles"],
+    "end": "focused, determined, adrenalized"
+    },
+    "notable_actions": [
+    "checks-and-disengages-pistol-safety",
+    "controls-breathing-to-stabilize",
+    "crawls-from-wreckage",
+    "sprints-toward-cover"
+    ],
+    "quotable_lines": [
+    "Stay low, and keep moving. No matter what, don't stop.",
+    "They had left her. They can't be gone — but they were."
+    ]
+    },
+    {
+    "id": "skerv-youth",
+    "display_name": "Gaunt skerv youth",
+    "aliases": ["scarecrow kid", "gaunt-kid"],
+    "role_in_scene": "major",
+    "goals_now": "Escape detection and reach cover alive with Quincy.",
+    "obstacles": "Exposed approach to brambles; uncertain enemy proximity.",
+    "tactics": "Nonverbal coordination, mirrorscoping with glass, low-profile movement, arming Quincy.",
+    "relationships": [
+    {
+    "with": "quincy",
+    "type": "ally",
+    "state": "cautious-cooperative",
+    "evidence": "Hands over weapon; whispers movement plan; leads the exit."
+    }
+    ],
+    "emotional_arc": {
+    "start": "alert, controlled",
+    "turning_points": ["Decides it’s quiet enough to move"],
+    "end": "decisive, protective"
+    },
+    "notable_actions": [
+    "passes-andreus-automag-to-quincy",
+    "uses-mirror-shard-to-scout",
+    "leads-crab-shuffle-to-brush",
+    "grabs-gavins-pack"
+    ],
+    "quotable_lines": [
+    "Stay low, and keep moving. No matter what, don't stop."
+    ]
+    },
+    {
+    "id": "gavin",
+    "display_name": "Gavin",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": null,
+    "obstacles": null,
+    "tactics": null,
+    "relationships": [
+    {
+    "with": "quincy",
+    "type": "antagonist/betrayer",
+    "state": "absent-but-haunting",
+    "evidence": "Quincy recalls his sneer and raised pistol; his pack remains at the site."
+    }
+    ],
+    "emotional_arc": {
+    "start": "offstage",
+    "turning_points": [],
+    "end": "offstage"
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "andreu",
+    "display_name": "Andreu",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": null,
+    "obstacles": null,
+    "tactics": null,
+    "relationships": [
+    {
+    "with": "quincy",
+    "type": "ally",
+    "state": "deceased",
+    "evidence": "His automag is passed to Quincy; she remembers his death."
+    }
+    ],
+    "emotional_arc": {
+    "start": "offstage",
+    "turning_points": [],
+    "end": "offstage"
+    },
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "andreus-45-automag",
+    "name": "Andreu’s .45 automag",
+    "category": "weapon",
+    "capabilities": ["semi-automatic pistol", "close-range lethality"],
+    "owner_or_users": ["quincy", "andreu"],
+    "condition_or_state": "cocked/ready",
+    "scene_function": "Weapon passed to Quincy, catalyzing her shift from panic to action."
+    },
+    {
+    "id": "rusty-shiv",
+    "name": "Rusty shiv",
+    "category": "weapon",
+    "capabilities": ["silent stabbing/cutting"],
+    "owner_or_users": ["skerv-youth"],
+    "condition_or_state": "crude but usable",
+    "scene_function": "Backup weapon signaling the youth’s survivalist background."
+    },
+    {
+    "id": "mirror-shard",
+    "name": "Palm-sized mirror shard",
+    "category": "tool",
+    "capabilities": ["rear-area visual scan from cover"],
+    "owner_or_users": ["skerv-youth"],
+    "condition_or_state": "intact",
+    "scene_function": "Used to scout behind their cover without exposure."
+    },
+    {
+    "id": "gavins-pack",
+    "name": "Gavin’s canvas pack",
+    "category": "other",
+    "capabilities": ["unknown contents"],
+    "owner_or_users": ["gavin", "skerv-youth"],
+    "condition_or_state": "present, recovered",
+    "scene_function": "Evidence of Gavin’s recent presence; carried along during escape."
+    },
+    {
+    "id": "collapsed-sheet-metal",
+    "name": "Collapsed corrugated metal wall",
+    "category": "other",
+    "capabilities": ["improvised cover"],
+    "owner_or_users": [],
+    "condition_or_state": "damaged",
+    "scene_function": "Provides initial concealment; obstacle Quincy must escape."
+    }
+    ],
+    "locations": [
+    {
+    "id": "ravager-camp-outskirts",
+    "name": "Ravager camp outskirts / ruined encampment",
+    "type": "wilderness",
+    "descriptors": ["dust-choked", "smell of gun smoke and death", "spent gunfire echoes", "collapsed metal and debris", "near firepit with burned remains"],
+    "in_scene_events": ["Quincy awakens under wreckage; silence falls as pursuit moves away."]
+    },
+    {
+    "id": "bramble-thicket",
+    "name": "Bramble thicket",
+    "type": "wilderness",
+    "descriptors": ["snarled thorns", "broken earth and jutting rocks"],
+    "in_scene_events": ["Chosen as the first waypoint for concealment during the escape run."]
+    },
+    {
+    "id": "distant-treeline",
+    "name": "Distant treeline",
+    "type": "wilderness",
+    "descriptors": ["greater cover beyond brambles"],
+    "in_scene_events": ["Ultimate short-term objective for safety and concealment."]
+    },
+    {
+    "id": "firepit-ruins",
+    "name": "Charred firepit",
+    "type": "wilderness",
+    "descriptors": ["burned limbs", "blistered hand", "ash and heat shimmer"],
+    "in_scene_events": ["Visual shock reinforcing urgency and trauma."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "ravagers",
+    "name": "Ravagers",
+    "alignment": "hostile",
+    "agents_present": [],
+    "motives_inferred": "Pursue and destroy caravans; loot and kill.",
+    "actions_in_scene": ["Assaulted the area earlier; chasing the fleeing caravan; leave the camp briefly quiet."]
+    },
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": [],
+    "motives_inferred": "Survival and escape from ravagers.",
+    "actions_in_scene": ["Flees under fire, leaving Quincy separated."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Survival under fire", "Trauma and composure", "Trust born of necessity", "Separation and abandonment", "Choice under extreme pressure"],
+    "motifs_symbols": ["dust and gun smoke (chaos)", "thorns/brambles (painful passage to safety)", "mirror shard (cunning and caution)"],
+    "moral_questions": ["When panic surges, what choices keep you alive?", "How do you trust a stranger when your world collapses?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty-cinematic",
+    "pacing": "high-intensity with brief regulation lulls",
+    "voice_traits": ["sensory overload", "interior flashbacks", "survival pragmatism"],
+    "sensory_notes": ["ringing ears", "acrid gun smoke", "hot dusty air", "sunbeam through bullet hole", "scratch of brittle grass"]
+    },
+    "causality": {
+    "prior_dependencies": ["Ravager ambush on the caravan precedes this scene", "Andreu has been shot and killed off-page moments earlier", "Gavin’s betrayal/violence foreshadowed in prior scenes"],
+    "outcomes": ["Quincy arms herself with Andreu’s automag", "Quincy and the skerv youth commit to an escape sprint toward cover", "Gavin’s pack is recovered"],
+    "unanswered_questions": ["Where is Gavin now?", "What is in Gavin’s pack?", "Will Quincy reunite with the Three Shovels Caravan?", "Are ravagers still nearby watching?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy", "open-ground/exposure"],
+    "trigger": "Need to cross exposed terrain to reach brambles",
+    "resolution": "In progress; they sprint for cover."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["quincy", "ravagers"],
+    "trigger": "Aftermath of attack and pursuit",
+    "resolution": "Temporary lull as ravagers chase the caravan; threat persists."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy", "panic/trauma"],
+    "trigger": "Concussive shock, memories of Gavin and Andreu",
+    "resolution": "Breathwork and action focus restore function enough to move."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "graphic",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["death imagery", "burned remains", "combat aftermath", "trauma/panic"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "skerv youth", "Andreu’s automag", "Gavin’s pack", "ravager camp", "bramble sprint", "breath regulation", "post-ambush aftermath"],
+    "keywords_dense": "Quincy, skerv youth, Andreu, automag, Gavin, canvas pack, ravagers, Three Shovels Caravan, brambles, treeline, mirror shard, corrugated metal, gun smoke, panic control",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Gavin", "Andreu"],
+    "places": ["Ravager camp outskirts", "Bramble thicket", "Distant treeline", "Charred firepit"],
+    "orgs": ["Three Shovels Caravan", "Ravagers"],
+    "terms": ["automag", "skerv"]
+    }
+    },
+    "qa_pairs": [
+    {
+    "q": "What weapon does Quincy receive and from whom?",
+    "a": "Andreu’s cocked .45 automag, passed to her by the gaunt skerv youth."
+    },
+    {
+    "q": "How do they assess if it’s safe to move?",
+    "a": "The skerv youth uses a palm-sized mirror shard to scout behind cover, and they wait until gunfire and vehicle sounds fade."
+    }
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-10-09_blood-dust-and-a-toolbox-1",
+    "type": "recap",
+    "text": "Quincy wakes beneath collapsed corrugated metal after a ravager assault. A gaunt skerv youth silently aids her, handing over Andreu’s cocked .45 automag and scouting their rear with a mirror shard. With pursuit noise fading and the caravan gone, they choose to sprint across exposed ground toward a bramble thicket and a distant treeline. Quincy fights panic with breathwork, disengages the pistol’s safety, crawls free, and runs after the youth."
+    },
+    {
+    "chunk_id": "2186-10-09_blood-dust-and-a-toolbox-2",
+    "type": "entities_focus",
+    "text": "Entities: Quincy (POV survivor), gaunt skerv youth (silent ally), Gavin (absent betrayer; pack left behind), Andreu (fallen ally; weapon now with Quincy). Tech/Items: Andreu’s .45 automag (weapon), mirror shard (scouting tool), rusty shiv (backup weapon), Gavin’s canvas pack, collapsed corrugated metal (cover). Locations: ravager camp outskirts, bramble thicket, distant treeline, charred firepit. Factions: Ravagers (hostile), Three Shovels Caravan (ally, fled)."
+    },
+    {
+    "chunk_id": "2186-10-09_blood-dust-and-a-toolbox-3",
+    "type": "style_theme_focus",
+    "text": "Gritty, sensory-overloaded survival vignette in close 3rd past: dust, smoke, ringing ears, sunlight through a bullet hole. Themes include survival under fire, trauma regulation, trust by necessity, and separation. Motifs: brambles as painful passage; mirror shard as cunning; burned remains as urgency. Moral question: When your world has just burned, how do you decide who to trust and when to run?"
+    }
+    ]
+    }

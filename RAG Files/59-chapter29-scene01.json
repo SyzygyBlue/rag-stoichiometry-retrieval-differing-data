@@ -1,0 +1,267 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "2186-10-27-puro-blood-and-bad-decisions",
+    "chapter_number": 29,
+    "scene_number": 1,
+    "date_in_universe": "2186-10-27",
+    "absolute_timeline_notes": "Evening at a Fox River workers’ bar; shortly after Quincy’s meeting with Chancellor Margdelain."
+    },
+    "text_windows": {
+    "full_scene_clean": "Quincy perched on a barstool in a shadowed nook favored by Fox River’s laborers. She wanted something punishing—“rattlesnake piss” that burned like a road flare—and asked for a straw, showing her bandaged hands. The friendly, gray-templed bartender produced a repurposed jar of harsh, clear homemade liquor and poured her a double. She drank by straw, embracing the astringent burn that evoked caravan nights gambling on the Wildebeest and swigs of puro. A nearby welder asked about her hands; she deflected. Quincy toasted absent friends—especially Robyn—vowing she was coming. The bartender quietly kept an eye on her and later slipped the jar into her jacket as a gift, saying few liked it and that memories sometimes lived in bottles. Quincy paid with a holocred chip (the reader flashing green) and thanked him. On her way out, she regarded the bar—imagining her caravanner friends at the back tables—then left to visit the silent Three Shovels trucks.",
+    "dense_recap_250w": "At a blue-collar bar in Fox River, Quincy seeks numbing fire by requesting the harshest liquor available and a straw to accommodate her bandaged hands. The seasoned bartender retrieves a dusty, repurposed jar of clear homemade spirits and pours her a double, warning it isn’t good; Quincy insists. The drink’s bite triggers vivid memories of caravan life—gambling aboard the Wildebeest and swigs of puro—along with the names and faces of friends now missing. A welder tries small talk about her injuries; she shuts it down, preferring silence. She privately toasts Andreu, the rest of the caravan, and Robyn, reaffirming her promise to find them. Sensing her grief, the bartender shows quiet solidarity: he tucks the jar into her jacket “to keep your memories company,” sharing that he, too, carries memories. Quincy pays via holocred (reader yellow to green) and thanks him. Buoyed by the small kindness yet still aching, she steps into the night, deciding to visit the parked, lifeless Three Shovels trucks—symbols of the community and family she’s lost. The scene underscores class-solidarity warmth contrasted with recent political chess: Quincy’s coping, resolve, and the tools she clings to—memories and motion—toward finding Robyn and the abducted caravanners.",
+    "query_handle": "Quincy drinks harsh moonshine at a Fox River workers’ bar; recalls caravan life; bartender gifts the jar; she heads to visit the silent trucks."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Order and threshold",
+    "what_happens": "Quincy requests the harshest liquor and a straw due to bandaged hands.",
+    "involved_entities": ["quincy", "bartender-fox-river", "homemade-swill-jar", "plastic-straw"],
+    "stakes_or_conflict": "Self-soothing vs. spiraling; maintaining control while injured."
+    },
+    {
+    "order": 2,
+    "label": "Memory ignition",
+    "what_happens": "The drink’s burn pulls up memories of puro, gambling, and caravan camaraderie aboard the Wildebeest.",
+    "involved_entities": ["quincy", "andreu", "robyn", "wildebeest"],
+    "stakes_or_conflict": "Grief vs. resolve; past joy vs. present loss."
+    },
+    {
+    "order": 3,
+    "label": "Boundary with strangers",
+    "what_happens": "A welder probes about her hands; Quincy declines engagement.",
+    "involved_entities": ["quincy", "welder-patron"],
+    "stakes_or_conflict": "Privacy vs. connection in a vulnerable moment."
+    },
+    {
+    "order": 4,
+    "label": "Quiet solidarity",
+    "what_happens": "The bartender undercharges and slips the jar into her jacket, acknowledging shared burdens.",
+    "involved_entities": ["quincy", "bartender-fox-river", "homemade-swill-jar", "holocred-reader", "holocred-chip"],
+    "stakes_or_conflict": "Isolation eased by human kindness; transactional vs. compassionate exchange."
+    },
+    {
+    "order": 5,
+    "label": "Next step",
+    "what_happens": "Quincy leaves to visit the silent Three Shovels trucks, renewing her commitment to find Robyn and the caravan.",
+    "involved_entities": ["quincy", "three-shovels-caravan"],
+    "stakes_or_conflict": "Action over stagnation; memory as fuel for the search."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Blunt the immediate pain and reconnect with purpose before visiting the trucks; hold onto memories while renewing her vow to find Robyn and the caravaners.",
+    "obstacles": "Physical injury (bandaged hands), loneliness, grief, and lack of leads.",
+    "tactics": "Seek punishing liquor; control interactions; ritual toasts; keep moving.",
+    "relationships": [
+    {"with": "robyn", "type": "lover", "state": "separated/missing", "evidence": "“I’m coming soon, my love.”"},
+    {"with": "andreu", "type": "friend/comrade", "state": "missing (inferred)", "evidence": "Private toast to Andreu among others."},
+    {"with": "bartender-fox-river", "type": "momentary-ally", "state": "warm/respectful", "evidence": "He gifts the jar and undercharges her."}
+    ],
+    "emotional_arc": {
+    "start": "raw, defiant, hurting",
+    "turning_points": ["Liquor triggers caravan memories and vow", "Bartender’s kindness softens isolation"],
+    "end": "steadied and purposeful; heading to the trucks"
+    },
+    "notable_actions": ["orders extreme liquor", "drinks via straw with bandaged hands", "toasts friends and Robyn", "pays with holocred", "leaves to visit trucks"],
+    "quotable_lines": [
+    "Got something that tastes like rattlesnake piss and burns like a road flare going down?",
+    "Old friends and memories live in bottles like that."
+    ]
+    },
+    {
+    "id": "bartender-fox-river",
+    "display_name": "Fox River Bartender",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Serve, keep patrons safe, extend quiet empathy.",
+    "obstacles": "Quincy’s pain and desire for isolation.",
+    "tactics": "Gentle warnings, fair pricing (undercharge), discreet gift of the jar, friendly tone.",
+    "relationships": [
+    {"with": "quincy", "type": "compassionate-stranger", "state": "kind/observant", "evidence": "Tucks homemade jar into her jacket; charges for three shots only."}
+    ],
+    "emotional_arc": {"start": "warm/professional", "turning_points": ["Recognizes her grief; offers tangible kindness"], "end": "warm/professional"},
+    "notable_actions": ["pours homemade liquor from jar", "provides straw", "places jar in her pocket", "processes holocred payment"],
+    "quotable_lines": [
+    "Maybe it will help you keep your memories company."
+    ]
+    },
+    {
+    "id": "welder-patron",
+    "display_name": "Welder Patron",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Casual conversation.",
+    "obstacles": "Quincy’s boundary-setting.",
+    "tactics": "Brief question; backs off when rebuffed.",
+    "relationships": [],
+    "emotional_arc": {"start": "curious", "turning_points": [], "end": "disengaged"},
+    "notable_actions": ["asks about her hands"],
+    "quotable_lines": []
+    },
+    {
+    "id": "robyn",
+    "display_name": "Robyn",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "quincy", "type": "lover", "state": "missing/separated", "evidence": "Quincy’s vow: “I’m coming soon, my love.”"}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "andreu",
+    "display_name": "Andreu",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "quincy", "type": "friend/comrade", "state": "deceased", "evidence": "Quincy toasts Andreu and others from the caravan."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "homemade-swill-jar",
+    "name": "Repurposed jar of harsh homemade liquor",
+    "category": "other",
+    "capabilities": ["intoxicating burn", "memory trigger", "comfort through ritual"],
+    "owner_or_users": ["bartender-fox-river", "quincy"],
+    "condition_or_state": "intact",
+    "scene_function": "Catalyst for memory, grief processing, and a small act of kindness when gifted."
+    },
+    {
+    "id": "plastic-straw",
+    "name": "Plastic straw",
+    "category": "tool",
+    "capabilities": ["enables drinking with bandaged hands"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "intact",
+    "scene_function": "Workaround for injury; underscores her determination to proceed."
+    },
+    {
+    "id": "holocred-chip",
+    "name": "Holocred chip",
+    "category": "other",
+    "capabilities": ["payment credential"],
+    "owner_or_users": ["quincy"],
+    "condition_or_state": "active",
+    "scene_function": "Completes the transaction; signals setting’s tech baseline."
+    },
+    {
+    "id": "holocred-reader",
+    "name": "Holocred reader",
+    "category": "other",
+    "capabilities": ["processes payment; status display"],
+    "owner_or_users": ["bartender-fox-river"],
+    "condition_or_state": "operational",
+    "scene_function": "Visual cue (yellow→green) that concludes the scene’s exchange."
+    }
+    ],
+    "locations": [
+    {
+    "id": "fox-river-workers-bar",
+    "name": "Workers’ bar, Fox River",
+    "type": "structure",
+    "descriptors": ["shadowed nook", "dusty bottom shelf bottles", "blue-collar clientele", "warm, friendly barkeep"],
+    "in_scene_events": ["Quincy orders extreme liquor, drinks by straw, pays, and receives the jar as a gift; departs for the trucks."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": ["quincy"],
+    "motives_inferred": "Community/family to Quincy; currently missing/abducted (established previously).",
+    "actions_in_scene": ["Referenced in memories; motivates her vow and next stop at the trucks."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["grief and coping", "working-class solidarity", "memory as anchor", "agency through small steps"],
+    "motifs_symbols": ["burning liquor as pain/resolve", "straw as adaptation to injury", "gifted jar as communal care", "silent trucks as absent family"],
+    "moral_questions": ["When does self-medication become self-harm?", "How much should memory fuel action vs. trap us in the past?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/intimate",
+    "pacing": "slow-burn",
+    "voice_traits": ["sardonic deadpan", "sensory-forward", "subtext of loss"],
+    "sensory_notes": ["astringent alcohol burn", "paint-thinner aftertaste", "glass clink", "holocred reader flash from yellow to green", "bar’s muted chatter"]
+    },
+    "causality": {
+    "prior_dependencies": ["Quincy’s injuries and missing caravan; tense meeting with Margdelain earlier the same day."],
+    "outcomes": ["Quincy receives a jar of liquor as a talisman of memory; emotional resolve steadied; decides to visit the trucks next."],
+    "unanswered_questions": ["Will Quincy accept funding or sell the caravan to finance a search?", "What concrete lead will visiting the trucks provide?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Overwhelming grief and isolation post-abduction.",
+    "resolution": "Partial; liquor and kindness stabilize her enough to continue."
+    },
+    {
+    "type": "person_vs_environment",
+    "parties": ["quincy", "Fox River setting"],
+    "trigger": "Injury limits; unfamiliar city; social scrutiny.",
+    "resolution": "Adapts (straw, boundaries) and moves on purposefully."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "present",
+    "sexual_content": "none",
+    "sensitive_topics": ["missing loved ones/abduction", "alcohol use as coping"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Fox River bar", "homemade liquor jar", "puro", "Wildebeest gambling", "bandaged hands", "holocred payment", "toast to Robyn and Andreu", "visit to trucks"],
+    "keywords_dense": "Quincy, Fox River, workers bar, bartender, homemade moonshine, puro, Wildebeest, caravan memories, holocred reader, straw, bandaged hands, Three Shovels trucks, grief, promise to Robyn",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Robyn", "Andreu", "Fox River Bartender", "Welder Patron"],
+    "places": ["Fox River", "Wildebeest"],
+    "orgs": ["Three Shovels Caravan"],
+    "terms": ["puro", "holocred"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Why does Quincy ask for a straw with her drink?", "a": "Her hands are bandaged, so she needs a straw to drink."},
+    {"q": "What does the bartender give Quincy before she leaves?", "a": "He discreetly tucks the jar of homemade liquor into her jacket as a gift."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-10-27-puro-recap",
+    "type": "recap",
+    "text": "In a Fox River workers’ bar, Quincy orders the harshest liquor and drinks via straw due to bandaged hands. The burn recalls caravan nights, puro, and friends like Andreu—and fuels her vow to reach Robyn. A welder’s small talk is rebuffed; the bartender shows quiet empathy, undercharging and gifting the jar of moonshine. Quincy pays with a holocred chip and leaves to visit the silent Three Shovels trucks, steadied by the momentary solidarity."
+    },
+    {
+    "chunk_id": "2186-10-27-puro-entities",
+    "type": "entities_focus",
+    "text": "Key entities: Quincy (injured, determined), Fox River Bartender (kind ally), Welder Patron (brief), Robyn (absent lover), Andreu (absent friend). Items: repurposed jar of homemade liquor, plastic straw, holocred chip/reader. Locations: Fox River workers’ bar; implied destination—Three Shovels trucks. Concepts: caravan memories, Wildebeest gambling, puro. Actions: order, drink, toast, gift acceptance, payment, departure."
+    },
+    {
+    "chunk_id": "2186-10-27-puro-style",
+    "type": "style_theme_focus",
+    "text": "Third-limited, past tense with gritty, intimate texture. Themes of grief coping, working-class solidarity, and memory-as-anchor surface through sensory detail—the caustic burn of liquor, the hush of the bar, the reader’s green flash. Motifs: straw as adaptation, jar as talisman, silent trucks as absent family. Tone balances sardonic deadpan with quiet tenderness."
+    }
+    ]
+    }

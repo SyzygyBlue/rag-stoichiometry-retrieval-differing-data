@@ -1,0 +1,260 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "fox-river-vent-return-handheld-setup",
+    "chapter_number": null,
+    "scene_number": null,
+    "date_in_universe": "2186-11-26",
+    "absolute_timeline_notes": "Night. Immediately after Demmy and Evelyn’s covert crawl to the Order archives; return to Demmy’s dorm via vent."
+    },
+    "text_windows": {
+    "full_scene_clean": "The vent in Demmy's dormitory clicked open and he climbed out. Evelyn's head appeared but she refused to enter the room, warning they might do something they would regret. They had just spent over an hour in the deepest recesses of the Divine Order of the Sanctifying Flame—an archives room of births, deaths, baptisms, marriages, and a few divorces, boxes stacked by the hundreds, going back nearly to Fox River’s founding. Nothing seemed irregular; only ordinary records. Back at the vent, Evelyn produced a newer handheld device, a small black rectangle, and told Demmy to keep it secret so they could message each other. She reconfigured it and had him enroll his face; the screen turned green with a beep. Demmy worried she wouldn’t have one, but she promised to get another tomorrow. She urged him not to be sad—“We’ve got all the tomorrows in the world”—tapped his nose, mouthed ‘soon,’ and withdrew into the dark crawlspace. Demmy closed the vent, undressed, and lay in bed, drifting to sleep thinking of the sweetness of her kisses.",
+    "dense_recap_250w": "Demmy returns through the hidden vent to his dorm room while Evelyn remains within the wall to avoid temptation. The pair had spent more than an hour in a deep, restricted area of the Divine Order of the Sanctifying Flame, which proved to be a large records archive containing decades of vital records—births, deaths, baptisms, marriages, and some divorces—stacked in labeled boxes. They discover nothing suspicious, reinforcing the appearance of an ordinary religious bureaucracy. Before leaving, Evelyn gives Demmy a secret handheld communicator—a newer device than his scavenged datapad—so they can message each other. She configures it on the spot and enrolls Demmy’s facial unlock; the device confirms with a green screen and a beep. Demmy protests that she will be without one, but she promises to acquire another unit the next day. At the threshold, Evelyn refuses to step into his room, saying it would lead to something they would regret, then reassures him that they have “all the tomorrows in the world,” mouths ‘soon,’ and disappears back into the maintenance crawlspace. Demmy closes the vent, undresses, and falls asleep, his thoughts lingering on Evelyn’s kisses. The scene cements covert communications, affirms the present lack of incriminating evidence in the archives, and advances Demmy and Evelyn’s burgeoning intimacy alongside operational caution.",
+    "query_handle": "Demmy and Evelyn exit vent; archives show only ordinary records; Evelyn gives Demmy a secret handheld with face unlock; promises ‘soon’; Demmy falls asleep."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Return through vent",
+    "what_happens": "Demmy re-enters his dorm; Evelyn stays in the wall to avoid crossing a personal boundary.",
+    "involved_entities": ["demmy", "evelyn", "service-vent"],
+    "stakes_or_conflict": "Risk of discovery; emotional restraint."
+    },
+    {
+    "order": 2,
+    "label": "Archives revealed",
+    "what_happens": "They had searched a deep Order records room and found only ordinary vital records.",
+    "involved_entities": ["demmy", "evelyn", "order-archives", "divine-order-sanctifying-flame"],
+    "stakes_or_conflict": "Demmy’s doubts vs. benign evidence."
+    },
+    {
+    "order": 3,
+    "label": "Covert comms provisioned",
+    "what_happens": "Evelyn gifts a newer handheld, configures it, and enrolls Demmy’s face for unlock.",
+    "involved_entities": ["demmy", "evelyn", "handheld-messenger"],
+    "stakes_or_conflict": "Secret device must remain hidden."
+    },
+    {
+    "order": 4,
+    "label": "Promise of ‘soon’",
+    "what_happens": "Evelyn declines to enter, reassures Demmy about tomorrow, and withdraws into the wall.",
+    "involved_entities": ["demmy", "evelyn", "service-vent"],
+    "stakes_or_conflict": "Desire vs. prudence; maintaining cover."
+    },
+    {
+    "order": 5,
+    "label": "Quiet closure",
+    "what_happens": "Demmy seals the vent and goes to sleep, thinking of her kisses.",
+    "involved_entities": ["demmy"],
+    "stakes_or_conflict": "Emotional vulnerability; impending secrecy challenges."
+    }
+    ],
+    "characters": [
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Confirm or dispel suspicion about the Order; maintain covert contact with Evelyn.",
+    "obstacles": "Need for secrecy; emotional pull toward Evelyn; risk of device discovery.",
+    "tactics": "Stealthy vent use, concealment, accepting secure comms, emotional self-control.",
+    "relationships": [
+    {
+    "with": "evelyn",
+    "type": "ally/potential romantic",
+    "state": "tender, self-restrained, trusting",
+    "evidence": "He aches for her warmth; accepts secret device; exchanges ‘soon’ goodnights."
+    },
+    {
+    "with": "divine-order-sanctifying-flame",
+    "type": "institution",
+    "state": "skeptical but placated by current evidence",
+    "evidence": "Archives appear ordinary; ‘had to agree’ nothing seems wrong."
+    }
+    ],
+    "emotional_arc": {
+    "start": "cautious, hopeful",
+    "turning_points": ["Finding only ordinary records reduces suspicion", "Receiving secret communicator strengthens bond and operational confidence"],
+    "end": "melancholy but reassured; quietly content"
+    },
+    "notable_actions": ["exits/closures of vent", "accepts and enrolls facial unlock", "chooses restraint"],
+    "quotable_lines": [
+    "Goodnight, Evelyn. Soon."
+    ]
+    },
+    {
+    "id": "evelyn",
+    "display_name": "Evelyn",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Reassure Demmy via evidence; establish secure, deniable communications; maintain boundaries.",
+    "obstacles": "Need for secrecy, risk of being seen, emotional temptation.",
+    "tactics": "Stays in wall, provides covert device, frames future with ‘soon’ and optimism.",
+    "relationships": [
+    {
+    "with": "demmy",
+    "type": "ally/potential romantic",
+    "state": "warm, careful, encouraging",
+    "evidence": "Refuses to enter room; gives device; ‘We’ve got all the tomorrows in the world.’"
+    },
+    {
+    "with": "divine-order-sanctifying-flame",
+    "type": "member/loyalist",
+    "state": "confident in goodness",
+    "evidence": "Believes records reflect ordinary, benevolent operations."
+    }
+    ],
+    "emotional_arc": {
+    "start": "purposeful, affectionate",
+    "turning_points": ["Confirms ordinary archives", "Hands over secret communicator"],
+    "end": "optimistic, disciplined"
+    },
+    "notable_actions": ["provides handheld", "configures messaging", "keeps to vent to avoid escalation"],
+    "quotable_lines": [
+    "If I step in your room, we’re going to do something we both regret.",
+    "We’ve got all the tomorrows in the world. Don’t waste tonight being sad."
+    ]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "handheld-messenger",
+    "name": "Secret Handheld Communicator",
+    "category": "comms",
+    "capabilities": ["secure messaging (implied)", "facial recognition unlock"],
+    "owner_or_users": ["demmy", "evelyn"],
+    "condition_or_state": "intact",
+    "scene_function": "Enables covert contact between Demmy and Evelyn without physical meetings."
+    },
+    {
+    "id": "service-vent",
+    "name": "Maintenance Vent Access",
+    "category": "other",
+    "capabilities": ["covert ingress/egress to rooms and hidden spaces"],
+    "owner_or_users": ["demmy", "evelyn"],
+    "condition_or_state": "intact",
+    "scene_function": "Discreet movement; allows Evelyn to avoid entering Demmy’s room."
+    },
+    {
+    "id": "order-archive-boxes",
+    "name": "Order Vital Records Boxes",
+    "category": "other",
+    "capabilities": ["store births, deaths, baptisms, marriages, divorces"],
+    "owner_or_users": [],
+    "condition_or_state": "intact/organized",
+    "scene_function": "Evidence context—appears ordinary, reducing suspicion."
+    }
+    ],
+    "locations": [
+    {
+    "id": "fox-river-dorm-demmy",
+    "name": "Demmy’s Dormitory Room (Fox River Church)",
+    "type": "room",
+    "descriptors": ["small dorm room", "vent access point", "private but surveillable"],
+    "in_scene_events": ["Demmy exits vent; receives device; goodnight exchange; sleeps."]
+    },
+    {
+    "id": "order-archives",
+    "name": "Divine Order Archives Room",
+    "type": "structure",
+    "descriptors": ["deep/restricted", "records stacked by hundreds", "organized by date and last name"],
+    "in_scene_events": ["Demmy and Evelyn examine records; find nothing irregular."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "divine-order-sanctifying-flame",
+    "name": "The Divine Order of the Sanctifying Flame",
+    "alignment": "neutral",
+    "agents_present": ["evelyn"],
+    "motives_inferred": "Religious administration maintaining vital records; appears benevolent in this sample.",
+    "actions_in_scene": ["Passive setting; archives accessed (covertly)."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["verification vs faith", "secrecy and surveillance", "young love under constraint", "tools of connection vs discipline"],
+    "motifs_symbols": ["vent as threshold", "green-beep facial unlock", "boxed records as institutional memory", "the word ‘soon’ as promise"],
+    "moral_questions": ["Does absence of evidence justify trust?", "When is covert communication warranted in a ‘good’ institution?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "intimate/cinematic",
+    "pacing": "slow-burn",
+    "voice_traits": ["quiet tension", "tender interiority", "procedural details (device setup)"],
+    "sensory_notes": ["vent click", "device warmth in hand", "soft whispers through the wall", "beep on unlock"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Demmy and Evelyn’s earlier crawl through service spaces.",
+    "Decision to verify the Order by direct observation."
+    ],
+    "outcomes": [
+    "Covert messaging channel established between Demmy and Evelyn.",
+    "Current investigation yields no evidence of wrongdoing.",
+    "Relationship deepens while maintaining operational caution."
+    ],
+    "unanswered_questions": [
+    "Will the handheld be detected or traced?",
+    "Are there hidden areas beyond the archives with different truths?",
+    "How will their relationship impact operational judgment?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["demmy"],
+    "trigger": "Desire for intimacy vs. caution and secrecy.",
+    "resolution": "Accepts boundaries; parting through the vent."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["demmy-and-evelyn", "institutional rules/privacy norms"],
+    "trigger": "Covert access to restricted archives and secret communications.",
+    "resolution": "Proceed discreetly; device hidden; unresolved risk."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "none",
+    "addiction_or_substances": "none",
+    "sexual_content": "implied",
+    "sensitive_topics": ["religious institution infiltration", "surveillance/privacy concerns"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Demmy", "Evelyn", "vent access", "secret handheld", "face unlock", "Order archives", "Fox River", "covert messaging", "goodnight ‘soon’"],
+    "keywords_dense": "Demmy, Evelyn, Fox River, Divine Order of the Sanctifying Flame, archives, vital records, vent, handheld communicator, facial recognition, covert messaging, promise of soon",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Demmy", "Evelyn"],
+    "places": ["Fox River", "Demmy’s Dormitory Room", "Divine Order Archives"],
+    "orgs": ["The Divine Order of the Sanctifying Flame"],
+    "terms": ["facial unlock", "records room"]
+    }
+    },
+    "qa_pairs": [
+    { "q": "What did Demmy and Evelyn find in the Order’s deepest area?", "a": "A records room of vital records with nothing suspicious apparent." },
+    { "q": "Why does Evelyn refuse to step into Demmy’s room?", "a": "She says they would do something they would regret; she maintains boundaries." },
+    { "q": "What device does Evelyn give Demmy and how is it secured?", "a": "A newer handheld communicator set up with facial recognition unlock for messaging." },
+    { "q": "What reassurance does Evelyn give before leaving?", "a": "She says they have ‘all the tomorrows in the world’ and mouths ‘soon.’" },
+    { "q": "How does the scene end for Demmy?", "a": "He closes the vent, undresses, and falls asleep thinking of Evelyn’s kisses." }
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "fox-river-vent-return-handheld-setup-recap",
+    "type": "recap",
+    "text": "Demmy returns to his Fox River dorm via the secret vent while Evelyn remains in the wall. They had just searched a deep Order archives room and found only ordinary vital records. At the vent, Evelyn hands over a newer handheld communicator, configures it, and enrolls Demmy’s face so they can message covertly. She refuses to step into his room, promises ‘soon,’ and departs back through the crawlspace. Demmy seals the vent and goes to sleep, comforted and cautious."
+    },
+    {
+    "chunk_id": "fox-river-vent-return-handheld-setup-entities",
+    "type": "entities_focus",
+    "text": "Key actors: Demmy (POV, cautious, reassured), Evelyn (Order loyalist, covert facilitator). Orgs: Divine Order of the Sanctifying Flame (archives appear benign). Items/Tech: secret handheld communicator with facial recognition; maintenance vent access; archive boxes. Locations: Demmy’s dorm room (vent access); Order archives (deep, organized)."
+    },
+    {
+    "chunk_id": "fox-river-vent-return-handheld-setup-style-theme",
+    "type": "style_theme_focus",
+    "text": "Quiet, intimate third-limited past tense with procedural detail (device setup) and tender restraint. Themes: verification vs faith; secrecy as protection; young love under constraint; institutional memory vs suspicion. Motifs: vent as threshold, green-beep facial unlock, boxed records, the whispered promise of ‘soon.’"
+    }
+    ]
+    }

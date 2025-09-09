@@ -1,0 +1,273 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "2186-10-13_retrospectives_quincy-trailer",
+    "chapter_number": 18,
+    "scene_number": 1,
+    "date_in_universe": "2186-10-13",
+    "absolute_timeline_notes": "Night of 13 Oct 2186 at the Three Shovels Caravan site, after TRG forensics report sedatives in soil/grass."
+    },
+    "text_windows": {
+    "full_scene_clean": "Quincy lies curled in the dark of a caravan trailer, holding the blanket she and Robyn shared and breathing its fading scent. McTanner has just told her forensics found traces of a fast-acting sedative in the grass and soil; based on Davian’s last call time and dissipation, the quantities must have been huge. Robyn and the rest of the caravan are gone; Quincy is alone. Anger flares, but she forces herself to focus. Davian’s remembered rebuke snaps her from grief. She notes TRG will take the trucks, weapons, and supplies to Fox River. The name Margdelain sticks—if Fox River has answers, that’s where she must go. Decision: go to Fox River, find Chancellor Margdelain, get answers, and find her family. In the trailer’s darkness, after resolving to act, Quincy finally lets herself cry.",
+    "dense_recap_250w": "In a dark caravan trailer, Quincy processes the TRG’s forensic findings delivered by McTanner: the grass and soil around the Three Shovels site contain residues of a fast-acting sedative in quantities large enough, given half-life and dissipation, to suggest a mass incapacitation. With Davian’s last call to Fox River as the time anchor, Quincy concludes that Robyn and the rest of her people were deliberately taken, not killed, and that she has been left behind. While TRG prepares to move the caravan’s trucks, weapons, and supplies to Fox River for safekeeping and investigation, Quincy fights the urge to lash out and instead forces herself into pragmatic problem-solving. The name Margdelain—repeated by McTanner—fixes in her mind as the likely center of authority at Fox River. Quincy resolves on a concrete plan: travel to Fox River, confront Chancellor Margdelain, and use any information available to locate Robyn and the missing caravan members. After committing to this course, she allows herself a rare moment of vulnerability and weeps in the darkness, then steels herself to act. The scene frames grief turning into determined intent and sets the next waypoint in the search: Fox River.",
+    "query_handle": "Quincy grieves, learns sedatives took her caravan, resolves to go to Fox River to confront Margdelain and find Robyn."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Forensic revelation",
+    "what_happens": "McTanner informs Quincy that fast-acting sedatives were detected in grass and soil; the amounts imply mass incapacitation.",
+    "involved_entities": ["quincy", "jeb-mctanner", "three-shovels-caravan"],
+    "stakes_or_conflict": "Confirms abduction scenario; raises urgency to act."
+    },
+    {
+    "order": 2,
+    "label": "Grief vs. focus",
+    "what_happens": "Quincy fights despair, recalls Davian’s admonishing voice, and forces herself back to pragmatic thinking.",
+    "involved_entities": ["quincy", "davian"],
+    "stakes_or_conflict": "Internal struggle between rage/grief and strategic action."
+    },
+    {
+    "order": 3,
+    "label": "Choose a path",
+    "what_happens": "Hearing Margdelain’s name repeatedly, Quincy decides to go to Fox River for answers and to find Robyn.",
+    "involved_entities": ["quincy", "margdelain", "fox-river"],
+    "stakes_or_conflict": "Sets direction toward potential allies or obstacles."
+    },
+    {
+    "order": 4,
+    "label": "Release and resolve",
+    "what_happens": "Alone in the trailer, Quincy weeps briefly, then commits to her plan.",
+    "involved_entities": ["quincy"],
+    "stakes_or_conflict": "Emotional reset to sustain upcoming search."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Find Robyn and the missing caravan; get answers from Fox River/Margdelain.",
+    "obstacles": "No clear perpetrator or trail; isolation; emotional shock; TRG relocating assets.",
+    "tactics": "Recenter via internal admonition; identify decision makers; plan to travel to Fox River.",
+    "relationships": [
+    {"with": "robyn", "type": "lover/partner", "state": "separated/missing", "evidence": "Clutches shared blanket; vow to find Robyn."},
+    {"with": "jeb-mctanner", "type": "uneasy-allies", "state": "strained but useful", "evidence": "Receives sedative findings and logistics from him."},
+    {"with": "margdelain", "type": "target-for-answers", "state": "unknown", "evidence": "Resolves to seek Margdelain in Fox River."},
+    {"with": "davian", "type": "leader/mentor-figure", "state": "absent; internalized guidance", "evidence": "Davian’s voice rebukes her in memory; his last call timestamps the event."}
+    ],
+    "emotional_arc": {
+    "start": "grief-stricken, overwhelmed",
+    "turning_points": ["McTanner’s sedative report reframes event as abduction", "Davian’s remembered rebuke shifts her to action"],
+    "end": "resolute, grieving-but-focused"
+    },
+    "notable_actions": ["clutches blanket imbued with Robyn’s scent", "evaluates forensic implication of sedatives", "decides to go to Fox River and seek Margdelain", "weeps, then commits to plan"],
+    "quotable_lines": ["Fox River. Find Margdelain. Get answers. Find them."]
+    },
+    {
+    "id": "jeb-mctanner",
+    "display_name": "Jebidiah McTanner",
+    "aliases": ["McTanner"],
+    "role_in_scene": "supporting",
+    "goals_now": "Report findings; move caravan assets to Fox River for investigation/safekeeping.",
+    "obstacles": "Limited intel on perpetrators; Quincy's acute grief.",
+    "tactics": "Deliver concise forensic summary; outline logistics.",
+    "relationships": [
+    {"with": "quincy", "type": "investigator-to-witness/survivor", "state": "professional, tense", "evidence": "Informs her of sedatives; mentions Margdelain and the move to Fox River."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": ["conveys sedative residue findings", "states plan to take trucks and supplies to Fox River"],
+    "quotable_lines": []
+    },
+    {
+    "id": "robyn",
+    "display_name": "Robyn",
+    "aliases": [],
+    "role_in_scene": "offstage",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "quincy", "type": "lover/partner", "state": "missing/abducted", "evidence": "Blanket scent; Quincy's vow to find her."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "davian",
+    "display_name": "Davian",
+    "aliases": [],
+    "role_in_scene": "offstage",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "quincy", "type": "leader/mentor", "state": "absent; internalized", "evidence": "His remembered rebuke spurs Quincy to refocus."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "margdelain",
+    "display_name": "Chancellor Margdelain",
+    "aliases": ["Chancellor"],
+    "role_in_scene": "offstage",
+    "goals_now": "",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "quincy", "type": "potential-ally-or-obstacle", "state": "unknown", "evidence": "Quincy decides to seek her for answers at Fox River."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "quincys-blanket",
+    "name": "Shared blanket",
+    "category": "other",
+    "capabilities": ["personal comfort; scent memory trigger"],
+    "owner_or_users": ["quincy", "robyn"],
+    "condition_or_state": "intact",
+    "scene_function": "Concrete anchor for grief and motivation."
+    },
+    {
+    "id": "caravan-trailer",
+    "name": "Three Shovels trailer (sleeping/storage)",
+    "category": "other",
+    "capabilities": ["shelter; storage"],
+    "owner_or_users": ["three-shovels-caravan"],
+    "condition_or_state": "intact",
+    "scene_function": "Scene setting for Quincy's solitude and decision."
+    },
+    {
+    "id": "field-gas-soil-analyzer",
+    "name": "Field gas/soil analyzer",
+    "category": "tool",
+    "capabilities": ["detects airborne/soil chemical residues", "quantifies sedative traces"],
+    "owner_or_users": ["trg", "investigators"],
+    "condition_or_state": "intact",
+    "scene_function": "Provides evidence of mass sedation leading to abduction inference."
+    }
+    ],
+    "locations": [
+    {
+    "id": "three-shovels-site-trailer",
+    "name": "Caravan trailer (Three Shovels site)",
+    "type": "structure",
+    "descriptors": ["dark interior", "quiet", "confined"],
+    "in_scene_events": ["Quincy grieves, then resolves to travel to Fox River for answers."]
+    },
+    {
+    "id": "fox-river",
+    "name": "Fox River",
+    "type": "city",
+    "descriptors": ["regional hub", "seat of Chancellor Margdelain"],
+    "in_scene_events": ["Identified by Quincy as destination to pursue answers."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Trade Caravan",
+    "alignment": "ally",
+    "agents_present": ["quincy", "robyn", "davian"],
+    "motives_inferred": "Survival, trade, and recovering abducted members.",
+    "actions_in_scene": ["Referenced as vanished; assets to be moved to Fox River by TRG."]
+    },
+    {
+    "id": "trg",
+    "name": "Tactical Response Group (TRG)",
+    "alignment": "ally",
+    "agents_present": ["jeb-mctanner"],
+    "motives_inferred": "Secure site, investigate incident, safeguard assets.",
+    "actions_in_scene": ["Reports sedative traces; plans convoy of vehicles/supplies to Fox River."]
+    },
+    {
+    "id": "fox-river-governance",
+    "name": "Fox River governance",
+    "alignment": "neutral",
+    "agents_present": ["margdelain"],
+    "motives_inferred": "Central authority likely to control investigation and resources.",
+    "actions_in_scene": ["Referenced as the power center Quincy will approach."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["grief into resolve", "agency vs. helplessness", "evidence-driven inference", "found family and duty"],
+    "motifs_symbols": ["scented blanket", "dark trailer", "hawk and rabbit metaphor", "sedative residue/half-life"],
+    "moral_questions": ["When grief demands action, how far should one go to recover loved ones?", "What power would abduct an entire caravan and why?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "intimate/lyrical with procedural notes",
+    "pacing": "slow-burn",
+    "voice_traits": ["introspective interiority", "pragmatic reframing", "sparse external detail"],
+    "sensory_notes": ["touch of blanket", "fading scent", "enveloping darkness", "quiet after a hard day"]
+    },
+    "causality": {
+    "prior_dependencies": ["Earlier forensic directive to test for sedatives; Davian’s last call timing; TRG decision to relocate caravan assets."],
+    "outcomes": ["Quincy commits to go to Fox River and seek Margdelain; abduction hypothesis solidifies based on chemical evidence; emotional reset from grief to mission."],
+    "unanswered_questions": ["Who deployed the sedatives and why?", "Where are Robyn and the caravan now?", "Will Fox River help or hinder Quincy?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Overwhelming grief and anger after learning of mass sedation and disappearance.",
+    "resolution": "Chooses pragmatic action: go to Fox River, find Margdelain, pursue leads."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy", "unknown-abductors/systemic power"],
+    "trigger": "Evidence points to organized abduction.",
+    "resolution": "Unresolved; plan to seek institutional leverage at Fox River."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mentioned",
+    "addiction_or_substances": "mentioned",
+    "sexual_content": "none",
+    "sensitive_topics": ["abduction/mass disappearance", "grief and loss"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Robyn", "sedative residue", "Three Shovels Caravan disappearance", "McTanner report", "decision to go to Fox River", "seek Margdelain"],
+    "keywords_dense": "Quincy, Robyn, Jebidiah McTanner, Chancellor Margdelain, Davian, Three Shovels Caravan, Fox River, sedative residue, half-lives, abduction inference, grief to resolve, trailer, blanket",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Robyn", "Jebidiah McTanner", "Chancellor Margdelain", "Davian"],
+    "places": ["Fox River"],
+    "orgs": ["Tactical Response Group (TRG)", "Three Shovels Trade Caravan"],
+    "terms": ["fast-acting sedative", "half-life", "forensics"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What evidence suggests the caravan was abducted rather than killed?", "a": "TRG found fast-acting sedative residues in grass and soil in large quantities relative to dissipation and timing."},
+    {"q": "What decision does Quincy make at the end of the scene?", "a": "Travel to Fox River to find Chancellor Margdelain and pursue leads to locate Robyn and the missing caravan."},
+    {"q": "Who is Robyn to Quincy?", "a": "Her romantic partner; one of the missing caravan members."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-10-13-retrospectives_recap",
+    "type": "recap",
+    "text": "In a dark trailer, Quincy learns from McTanner that massive residues of a fast-acting sedative were detected at the Three Shovels site, implying mass incapacitation and abduction. Grieving for her missing partner Robyn, she forces herself into pragmatic focus, decides to go to Fox River, and resolve to seek Chancellor Margdelain for answers and help finding the caravan."
+    },
+    {
+    "chunk_id": "2186-10-13-retrospectives_entities",
+    "type": "entities_focus",
+    "text": "Quincy (POV survivor); Robyn (missing partner); Jebidiah McTanner (TRG lead delivering forensics and logistics); Davian (caravan leader whose last call times the event); Chancellor Margdelain (Fox River authority Quincy will approach). Orgs: Three Shovels Caravan; TRG; Fox River governance. Objects/tech: trailer; shared blanket; field gas/soil analyzer (sedative detection)."
+    },
+    {
+    "chunk_id": "2186-10-13-retrospectives_style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-limited, intimate and reflective. Themes of grief transforming into agency; evidence shaping action; duty to found family. Motifs include the scented blanket, darkness, and chemical traces/half-life language, emphasizing the pivot from emotion to forensic-driven resolve."
+    }
+    ]
+    }

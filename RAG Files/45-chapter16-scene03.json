@@ -1,0 +1,265 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "2186-10-13_medbus-reprimand-pentafan-lead",
+    "chapter_number": 16,
+    "scene_number": 3,
+    "date_in_universe": "2186-10-13",
+    "absolute_timeline_notes": "Med-bus recovery site, evening of the day after the battle; salvage and forensics ongoing."
+    },
+    "text_windows": {
+    "full_scene_clean": "A nurse changes Chase’s bandages on the bullet-scarred med bus while Quincy recounts to Investigator Liebold how she was left behind by a man named Gavin, then fought back with Demmy by stealing and repairing carts. Outside, TRG mechanics and salvage crews work; a quadrafan lands with supplies. Quincy mentions a huge pentafan that flew over from this direction. Liebold orders gas analysis of grass/topsoil for fast-acting sedatives. McTanner posits the pentafan could have carried off the entire caravan and says they’ll wait on forensics. Quincy, shaken, agrees—reluctantly and for lack of options—to let TRG drivers take the Three Shovels Caravan to Fox River for safekeeping and investigation, then goes to be alone in a nearby trailer. McTanner sits with Chase and delivers a hard reprimand: Chase disobeyed scouting orders, forced a hot entry, and risked the team. He ends Chase’s TRG apprenticeship despite acknowledging his marksmanship, and tells him they roll out tomorrow for Fox River.",
+    "dense_recap_250w": "On the Dorothea Dix med bus, a nurse tends Chase’s stab wound while Quincy, McTanner, and Investigator Liebold debrief. Quincy explains she was knocked out and abandoned by Gavin, then, with Demmy, infiltrated a ravager camp, killed hostiles, and limped stolen carts back toward the caravan. Activity outside underscores TRG control of the site as salvage crews and mechanics work and a quadrafan brings supplies. Quincy recalls a massive five-rotor aircraft—a pentafan—flying overhead, likely from the valley’s direction. Seizing on the lead, Liebold orders a gas analyzer check of flattened grass and topsoil for fast-acting sedatives, probing a theory that the missing caravaners were rendered unconscious and airlifted. McTanner connects the dots: downdraft-flattened grass and the pentafan’s size could explain the disappearance. Quincy, rattled, agrees that TRG drivers can convoy the entire Three Shovels Caravan to Fox River for safekeeping and investigation, though she hates the necessity. After Quincy leaves to gather herself, McTanner confronts Chase: instead of scouting as ordered, Chase initiated long-range engagements that forced TRG to attack blind, risking everyone. McTanner ends Chase’s provisional apprenticeship, telling him they depart tomorrow and to try not to take it too hard—while stressing the lesson in team risk over individual heroics.",
+    "query_handle": "Nurse tends Chase; Quincy details Gavin/return; pentafan sedative theory; caravan to Fox River; McTanner ends Chase’s apprenticeship."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Medical stabilization",
+    "what_happens": "Nurse changes bandages; Chase is sore but ambulatory pending dermahesive patch and IV antibiotics.",
+    "involved_entities": ["chase", "nurse", "dorothea-dix-med-bus", "antibiotic-iv", "dermahesive-patch"],
+    "stakes_or_conflict": "Infection risk and recovery vs. urge to reengage."
+    },
+    {
+    "order": 2,
+    "label": "Quincy’s account and Gavin reveal",
+    "what_happens": "Quincy tells Liebold she was knocked out and left by Gavin, then escaped with Demmy by stealing carts and fighting through.",
+    "involved_entities": ["quincy", "investigator-liebold", "gavin", "demmy", "two-seater-cart", "phase-coil"],
+    "stakes_or_conflict": "Establishing credibility and context for missing caravaners."
+    },
+    {
+    "order": 3,
+    "label": "Pentafan clue",
+    "what_happens": "Quincy reports a massive pentafan overflight; Liebold orders soil/grass testing for sedatives.",
+    "involved_entities": ["quincy", "investigator-liebold", "pentafan-superheavy", "gas-analyzer"],
+    "stakes_or_conflict": "Lead toward mass abduction vs. uncertainty."
+    },
+    {
+    "order": 4,
+    "label": "Working theory",
+    "what_happens": "McTanner posits the pentafan could have lifted the entire caravan; they await forensics.",
+    "involved_entities": ["jeb-mctanner", "quincy", "investigator-liebold", "three-shovels-caravan"],
+    "stakes_or_conflict": "Hope for answers vs. fear of large-scale capture."
+    },
+    {
+    "order": 5,
+    "label": "Reluctant consent",
+    "what_happens": "Quincy agrees to let TRG convoy the caravan to Fox River for safekeeping despite misgivings.",
+    "involved_entities": ["quincy", "trg", "three-shovels-caravan"],
+    "stakes_or_conflict": "Protect assets vs. loss of autonomy."
+    },
+    {
+    "order": 6,
+    "label": "Termination",
+    "what_happens": "McTanner reprimands Chase for reckless action and ends his apprenticeship.",
+    "involved_entities": ["jeb-mctanner", "chase", "trg"],
+    "stakes_or_conflict": "Individual valor vs. team safety; identity crisis looming."
+    }
+    ],
+    "characters": [
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Recover; grasp investigation developments; preserve standing with TRG.",
+    "obstacles": "Injury and pain; command judgment; lack of leverage.",
+    "tactics": "Observes, asks for sequence details; maintains composure at reprimand.",
+    "relationships": [
+    {"with": "jeb-mctanner", "type": "mentor/authority", "state": "strained", "evidence": "“Your apprenticeship is over.”"},
+    {"with": "quincy", "type": "ally-in-formation", "state": "respectful", "evidence": "Acknowledges her fight; listens to her lead."},
+    {"with": "investigator-liebold", "type": "subordinate/security", "state": "distant", "evidence": "Watches Liebold drive forensics without engaging."}
+    ],
+    "emotional_arc": {
+    "start": "sore, unsettled",
+    "turning_points": ["Hears pentafan theory", "Receives termination"],
+    "end": "stunned, searching for footing"
+    },
+    "notable_actions": ["endures treatment", "asks 'What happened next?'", "absorbs reprimand without outburst"],
+    "quotable_lines": []
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Find her family; secure caravan; be believed.",
+    "obstacles": "Shock and fear; limited power; missing evidence.",
+    "tactics": "Provides concrete timeline; offers actionable clue (pentafan); reluctantly consents to TRG convoy.",
+    "relationships": [
+    {"with": "investigator-liebold", "type": "subject/investigator", "state": "tense-professional", "evidence": "Answers pointed questions; Liebold pursues forensics."},
+    {"with": "jeb-mctanner", "type": "civilian/commander", "state": "uneasy trust", "evidence": "Agrees to Fox River transfer for safety."},
+    {"with": "gavin", "type": "enemy/betrayer", "state": "vengeful", "evidence": "“He knocked me out… I owe Gavin some payback.”"},
+    {"with": "demmy", "type": "ally", "state": "protective", "evidence": "Recounts fighting back together to reach caravan."}
+    ],
+    "emotional_arc": {
+    "start": "defiant, weary",
+    "turning_points": ["Recalls pentafan", "Accepts convoy plan"],
+    "end": "shaken, seeking solitude"
+    },
+    "notable_actions": ["reports pentafan overflight", "reluctantly authorizes caravan transfer", "leaves to think alone"],
+    "quotable_lines": ["It was weird… a pentafan. Big fucker.", "I'd rather do anything than let your drivers take the Three Shovels Caravan… but I don't think I have any other choice."]
+    },
+    {
+    "id": "jeb-mctanner",
+    "display_name": "Jebidiah McTanner",
+    "aliases": ["Master McTanner"],
+    "role_in_scene": "major",
+    "goals_now": "Advance investigation; secure assets; enforce discipline.",
+    "obstacles": "Uncertain facts; civilian distress; subordinate’s breach.",
+    "tactics": "Hypothesis-driven reasoning; forensics handoff; firm, personal reprimand.",
+    "relationships": [
+    {"with": "chase", "type": "mentor/disciplinarian", "state": "decisive but caring", "evidence": "Ends apprenticeship yet says, “I’ll always be here for you.”"},
+    {"with": "quincy", "type": "commander/civilian", "state": "measured support", "evidence": "Promises timely updates; offers asset protection."}
+    ],
+    "emotional_arc": {
+    "start": "controlled",
+    "turning_points": ["Forms pentafan lift theory", "Delivers termination"],
+    "end": "weary, resolute"
+    },
+    "notable_actions": ["proposes abduction hypothesis", "coordinates convoy plan", "terminates apprenticeship"],
+    "quotable_lines": ["Did you think about your team?", "That wasn’t courage. It was selfish. Reckless."]
+    },
+    {
+    "id": "investigator-liebold",
+    "display_name": "Investigator Liebold",
+    "aliases": ["Chief of Fox River Security"],
+    "role_in_scene": "supporting",
+    "goals_now": "Validate abduction theory; gather forensic evidence.",
+    "obstacles": "Sparse physical clues; time decay at scene.",
+    "tactics": "Orders gas/soil analysis; leaves to direct fieldwork.",
+    "relationships": [
+    {"with": "quincy", "type": "investigator/subject", "state": "probing", "evidence": "Presses on Gavin; follows up pentafan clue."},
+    {"with": "jeb-mctanner", "type": "peers-in-command", "state": "coordinated", "evidence": "Aligned on forensics priority."}
+    ],
+    "emotional_arc": {
+    "start": "cool, clinical",
+    "turning_points": ["Receives pentafan intel", "Activates field test"],
+    "end": "task-focused"
+    },
+    "notable_actions": ["requests gas analyzer scan for sedatives", "departs to supervise digging/tests"],
+    "quotable_lines": ["Do we have a gas analyzer with us? Check the grass… for sedatives."]
+    },
+    {
+    "id": "gavin",
+    "display_name": "Gavin",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Absent; referenced as betrayer.",
+    "obstacles": "",
+    "tactics": "",
+    "relationships": [
+    {"with": "quincy", "type": "rival/betrayer", "state": "hostile", "evidence": "Knocked her out and left her."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    },
+    {
+    "id": "demmy",
+    "display_name": "Demmy",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Referenced ally; currently evacuated for surgery (offstage).",
+    "obstacles": "Severe injuries (prior scene).",
+    "tactics": "Referenced: helped fight/escape.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "trusted", "evidence": "Hid and fought alongside Quincy."}
+    ],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": [],
+    "quotable_lines": []
+    }
+    ],
+    "items_and_tech": [
+    {"id": "dorothea-dix-med-bus", "name": "Dorothea Dix (med bus)", "category": "medical", "capabilities": ["mobile care bays", "IV support", "basic surgery prep"], "owner_or_users": ["three-shovels-caravan", "trg"], "condition_or_state": "damaged but functional", "scene_function": "Setting for treatment, interrogation, and decisions."},
+    {"id": "antibiotic-iv", "name": "Antibiotic IV drip", "category": "medical", "capabilities": ["infection control"], "owner_or_users": ["chase"], "condition_or_state": "in use", "scene_function": "Stabilizes stab wound risk."},
+    {"id": "dermahesive-patch", "name": "Dermahesive patch", "category": "medical", "capabilities": ["wound sealing"], "owner_or_users": ["medical"], "condition_or_state": "pending application", "scene_function": "Planned closure after infection check."},
+    {"id": "scrub-brush-med", "name": "Medical scrub brush", "category": "medical", "capabilities": ["debridement/cleaning"], "owner_or_users": ["medical"], "condition_or_state": "used", "scene_function": "Painful cleaning of contaminated knife wound (recounted)."},
+    {"id": "datapad", "name": "Investigator datapad", "category": "comms", "capabilities": ["note-taking", "voice relay", "tasking field teams"], "owner_or_users": ["investigator-liebold"], "condition_or_state": "active", "scene_function": "Directs forensics and logs testimony."},
+    {"id": "gas-analyzer", "name": "Portable gas/soil analyzer", "category": "tool", "capabilities": ["detect airborne/soil chemicals", "sedative residues"], "owner_or_users": ["fox-river-security", "trg"], "condition_or_state": "deployed", "scene_function": "Test for sedatives to support abduction theory."},
+    {"id": "pentafan-superheavy", "name": "Pentafan superheavy flier", "category": "vehicle", "capabilities": ["mass lift", "strong downdraft"], "owner_or_users": [], "condition_or_state": "observed overflight (unknown operator)", "scene_function": "Clue toward mass abduction of caravaners."},
+    {"id": "quadrafan-flier", "name": "Quadrafan flier", "category": "vehicle", "capabilities": ["medevac", "supply drop"], "owner_or_users": ["trg", "fox-river-security"], "condition_or_state": "operational", "scene_function": "Delivers supplies; earlier evac context."},
+    {"id": "two-seater-cart", "name": "Ravager two-seater carts", "category": "vehicle", "capabilities": ["light transport"], "owner_or_users": ["quincy", "demmy"], "condition_or_state": "half-busted then swapped", "scene_function": "Escape and return vehicles in Quincy’s account."},
+    {"id": "phase-coil", "name": "Phase coil (cart part)", "category": "other", "capabilities": ["power/drive component (implied)"], "owner_or_users": [], "condition_or_state": "burned", "scene_function": "Repair obstacle mentioned by Quincy."}
+    ],
+    "locations": [
+    {"id": "medbus-interior", "name": "Dorothea Dix med bus interior", "type": "structure", "descriptors": ["antiseptic reek", "bullet-holed windows", "dim light"], "in_scene_events": ["Treatment, debrief, reprimand, convoy decision."]},
+    {"id": "caravan-valley-site", "name": "Caravan valley site", "type": "wilderness", "descriptors": ["flattened grass patches", "salvage noise", "dust from rotorcraft"], "in_scene_events": ["Salvage operations; forensics to test sedatives; quadrafan lands."]},
+    {"id": "quincy-trailer", "name": "Quincy’s chosen trailer (with bedroll hidey-hole)", "type": "structure", "descriptors": ["parked near trucks", "privacy for thinking"], "in_scene_events": ["Quincy withdraws to regroup."]}
+    ],
+    "factions_orgs": [
+    {"id": "trg", "name": "Tactical Response Group (TRG)", "alignment": "ally", "agents_present": ["jeb-mctanner"], "motives_inferred": "Secure scene, move assets to Fox River, enforce discipline.", "actions_in_scene": ["medical support", "salvage/repair operations", "plan convoy", "terminate Chase’s apprenticeship"]},
+    {"id": "fox-river-security", "name": "Fox River Security", "alignment": "ally", "agents_present": ["investigator-liebold"], "motives_inferred": "Determine cause of disappearance; gather evidence.", "actions_in_scene": ["orders gas/soil tests", "coordinates forensics"]},
+    {"id": "three-shovels-caravan", "name": "Three Shovels Caravan", "alignment": "ally", "agents_present": ["quincy"], "motives_inferred": "Recover missing people; protect property.", "actions_in_scene": ["cedes convoy under protest for safety"]},
+    {"id": "ravagers", "name": "Ravagers", "alignment": "hostile", "agents_present": [], "motives_inferred": "Predation (from testimony).", "actions_in_scene": ["Referenced in Quincy’s escape account."]},
+    {"id": "metrofederacy", "name": "Stella Metrofederacy (referenced)", "alignment": "unknown", "agents_present": [], "motives_inferred": "Quincy suspects tech origin of pentafan (inferred).", "actions_in_scene": []}
+    ],
+    "themes_and_motifs": {
+    "themes": ["authority vs autonomy", "consequences of disobedience", "search for the missing", "evidence-driven truth", "protection of civilians/assets"],
+    "motifs_symbols": ["flattened grass (downdraft)", "rotor hums and clangs", "bandages and stitches", "pentafan shadow"],
+    "moral_questions": ["When does individual heroism endanger the team?", "Is coercive custody justified to protect an investigation and survivors’ assets?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic/technical",
+    "pacing": "brisk",
+    "voice_traits": ["procedural detail", "hard-edged dialogue", "introspective beats under pressure"],
+    "sensory_notes": ["antiseptic sting", "memory of scrub-brush pain", "metal clangs", "quadrafan rotor hum", "distant shouts/orders"]
+    },
+    "causality": {
+    "prior_dependencies": ["After the valley battle and initial verification scene; Demmy medevaced; salvage teams on-site."],
+    "outcomes": ["Pentafan/sedative abduction theory initiated; forensics ordered; caravan to be convoyed to Fox River; Chase’s apprenticeship terminated."],
+    "unanswered_questions": ["Did tests find sedatives?", "Who operated the pentafan?", "Where are the caravaners?", "Will Chase find another path at Fox River?"]
+    },
+    "conflicts": [
+    {"type": "person_vs_person", "parties": ["quincy", "investigator-liebold"], "trigger": "Demand for details about why she was left; probing about Gavin.", "resolution": "Quincy provides info; focus shifts to pentafan lead."},
+    {"type": "person_vs_person", "parties": ["jeb-mctanner", "chase"], "trigger": "Disobedience of scouting orders leading to team risk.", "resolution": "McTanner terminates Chase’s apprenticeship."},
+    {"type": "person_vs_system", "parties": ["quincy", "trg/fox-river procedures"], "trigger": "Decision to convoy caravan to Fox River.", "resolution": "Reluctant consent for safety and investigation."},
+    {"type": "person_vs_environment", "parties": ["missing caravaners vs unknown abductors/tech"], "trigger": "Suspected sedative and mass airlift.", "resolution": "Unresolved; forensics pending."}
+    ],
+    "safety_and_content_tags": {
+    "violence": "mild",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["medical procedures/pain", "abduction implication", "strong profanity", "termination of livelihood/apprenticeship"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["pentafan abduction theory", "gas analyzer sedatives", "Quincy left by Gavin", "Demmy escape account", "caravan convoy to Fox River", "McTanner ends apprenticeship"],
+    "keywords_dense": "Chase, Quincy, Jebidiah McTanner, Investigator Liebold, Gavin, Demmy, med bus, pentafan, quadrafan, gas analyzer, sedatives, flattened grass, Fox River, Three Shovels Caravan, reprimand, apprenticeship terminated",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Chase", "Quincy", "Jebidiah McTanner", "Investigator Liebold", "Gavin", "Demmy", "Nurse"],
+    "places": ["Dorothea Dix med bus", "Fox River", "Caravan valley site"],
+    "orgs": ["Tactical Response Group (TRG)", "Fox River Security", "Three Shovels Caravan", "Stella Metrofederacy"],
+    "terms": ["dermahesive patch", "pentafan", "quadrafan", "phase coil"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "Who left Quincy behind and why?", "a": "Gavin; after she humiliated him and he wanted her girl, he knocked her out and abandoned her."},
+    {"q": "What aircraft clue did Quincy report?", "a": "A massive five-rotor pentafan flying over from the valley’s direction."},
+    {"q": "What forensic test did Liebold order?", "a": "Gas/soil analysis of grass and topsoil for fast-acting sedatives."},
+    {"q": "What decision did McTanner make about the caravan?", "a": "TRG drivers will convoy the entire Three Shovels Caravan to Fox River for safekeeping and investigation."},
+    {"q": "What did McTanner decide about Chase’s status?", "a": "He ended Chase’s TRG apprenticeship for reckless disobedience."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "2186-10-13-medbus-reprimand-recap",
+    "type": "recap",
+    "text": "On the med bus, Chase is treated as Quincy describes being abandoned by Gavin and escaping with Demmy. She recalls a huge pentafan overflight. Investigator Liebold orders gas/soil tests for sedatives, developing a theory that the missing caravaners were drugged and airlifted. McTanner plans to convoy the Three Shovels Caravan to Fox River; Quincy agrees reluctantly. After she departs to compose herself, McTanner reprimands Chase for forcing a hot engagement and ends his apprenticeship."
+    },
+    {
+    "chunk_id": "2186-10-13-medbus-reprimand-entities",
+    "type": "entities_focus",
+    "text": "Actors: Chase (injured ex-apprentice), Quincy (caravan member), Jebidiah McTanner (TRG lead), Investigator Liebold (Fox River Security), Gavin (betrayer, offstage), Demmy (ally, evac). Orgs: TRG, Fox River Security, Three Shovels Caravan, Metrofederacy (suspected tech origin). Tech/Items: Dorothea Dix med bus, antibiotic IV, dermahesive patch, datapad, gas analyzer, quadrafan flier, pentafan superheavy, two-seater carts, burned phase coil. Places: med bus interior; caravan valley site; Quincy’s trailer."
+    },
+    {
+    "chunk_id": "2186-10-13-medbus-reprimand-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-limited past through Chase; gritty, procedural details against a backdrop of clangs and rotor hums. Themes: authority vs autonomy; team safety vs individual valor; evidence-driven truth; protection of civilian assets; grief and uncertainty over missing kin. Motifs: flattened grass, bandages and stitches, pentafan shadow, formal reprimand as rite of passage."
+    }
+    ]
+    }

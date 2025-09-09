@@ -1,0 +1,291 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": "Forty-Nine Wildflowers",
+    "scene_id": "49-wildflowers-06dec2186",
+    "chapter_number": 49,
+    "scene_number": 1,
+    "date_in_universe": "2186-12-06",
+    "absolute_timeline_notes": "Day after Shelly’s deployment to Broken Bow; aerial arrival with StellaNet crew to Fox River ruins."
+    },
+    "text_windows": {
+    "full_scene_clean": "Shelly arrives on a wildlands tarmac under harsh sun and meets two StellaNet journalists: Alejandro (confident anchor) and Werner (gaunt cameraman with synthetic Nikon-labeled eyes). A cyan dispatch path leads her aboard their quadrafan. In flight toward Fox River, the devastation eclipses her expectations: a blackened expanse of twisted metal, shattered containers, collapsed concrete, and visible bodies in sludge. She loads her PID’s Explosive Vector Analysis Toolkit (EVAT), inputs crater geometry, fracture vectors, char patterns, debris arcs, terrain overlays, and produces a model indicating massive yield from explosives buried meters deep beneath the city core—likely ammonium-nitrate based, pre-placed, and remote-fused. She concludes it was deliberate and required insider infrastructure access over months. Shelly proposes witness interviews on the outskirts beyond the core blast radius where survivors might exist. She asks Werner to retask a thermal drone for low-altitude IR sweeps along the edge and to stream data to her for filtering. Alejandro and Werner agree as the quadrafan banks over the ruins.",
+    "dense_recap_250w": "On 6 Dec 2186, Shelly disembarks at a wildlands airstrip and meets StellaNet reporters Alejandro and Werner, then lifts off in their quadrafan for Fox River. From the air she observes catastrophic destruction: peeled infrastructure, rebar like ribs, shipping containers crushed, visible corpses in pooled sludge. Initiating her PID’s Explosive Vector Analysis Toolkit, Shelly maps blast radius, fracture vectors, char patterning, debris arcs, and overlays terrain from Werner’s drone feeds. Iterations converge on a deep-buried, high-tonnage explosive—likely ammonium nitrate—placed under the city’s core and remote-fused. She rejects a surface car bomb theory and asserts an inside job requiring months of prep, heavy logistics, and privileged access. To build leads, she targets the periphery rather than the crater: anyone at the edges might have been knocked out, trapped, or displaced but still alive. Shelly requests Werner reprogram a thermal drone for low-altitude IR scans around the blast boundary and pipe the stream to her for triage of false positives. Alejandro underscores the human toll and lack of a census; Shelly focuses on locating witnesses whose accounts could point to responsible insiders. The team aligns on immediate next steps: IR grid sweeps, survivor identification, and witness interviews to crack a deliberately engineered mass-casualty event.",
+    "query_handle": "Shelly meets StellaNet crew, flies over Fox River ruins, models deep-buried blast as inside job, orders IR periphery scan to find witnesses."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Arrival and introductions",
+    "what_happens": "Shelly lands, meets Alejandro and Werner beside a quadrafan, and boards.",
+    "involved_entities": ["shelly", "alejandro", "werner", "quadrafan"],
+    "stakes_or_conflict": "Professional alignment under fatigue; first contact with media partners."
+    },
+    {
+    "order": 2,
+    "label": "Aerial assessment",
+    "what_happens": "The quadrafan overflies Fox River; vast devastation and bodies are visible.",
+    "involved_entities": ["shelly", "alejandro", "werner", "fox-river-ruins"],
+    "stakes_or_conflict": "Emotional shock vs. need for analytic detachment."
+    },
+    {
+    "order": 3,
+    "label": "Forensic modeling",
+    "what_happens": "Shelly runs EVAT, converging on a deep-buried, high-tonnage detonation.",
+    "involved_entities": ["shelly", "pid", "evat-toolkit"],
+    "stakes_or_conflict": "Determining cause mechanism to guide investigation."
+    },
+    {
+    "order": 4,
+    "label": "Inside job inference",
+    "what_happens": "She concludes months of insider prep and infrastructure access were required.",
+    "involved_entities": ["shelly", "fox-river-ruins"],
+    "stakes_or_conflict": "Implication of internal actors heightens danger and scope."
+    },
+    {
+    "order": 5,
+    "label": "Plan to find witnesses",
+    "what_happens": "Shelly directs Werner to retask a thermal drone to scan the perimeter for survivors.",
+    "involved_entities": ["shelly", "werner", "thermal-drone"],
+    "stakes_or_conflict": "Time-critical search amid false positives and hostile conditions."
+    }
+    ],
+    "characters": [
+    {
+    "id": "shelly",
+    "display_name": "Shelly",
+    "aliases": ["Shel"],
+    "role_in_scene": "POV",
+    "goals_now": "Determine blast mechanism; locate survivors/witnesses to identify perpetrators.",
+    "obstacles": "Overwhelming devastation, emotional shock, limited ground truth, likely false positives in IR data.",
+    "tactics": "Aerial forensic modeling with EVAT; direct equipment retasking; prioritize edge scans for survivability.",
+    "relationships": [
+    {"with": "alejandro", "type": "ally", "state": "professional, aligned", "evidence": "Coordinated flight and reporting context."},
+    {"with": "werner", "type": "ally", "state": "technical coordination", "evidence": "Requests reprogramming thermal drone and data stream."}
+    ],
+    "emotional_arc": {
+    "start": "gaunt, skeptical, fatigued",
+    "turning_points": ["Shock at aerial view of bodies", "EVAT locks on deep-buried blast model"],
+    "end": "focused, clinical resolve"
+    },
+    "notable_actions": ["meets StellaNet crew", "deploys EVAT and inputs parameters", "infers inside job", "tasks IR perimeter sweep"],
+    "quotable_lines": [
+    "“This wasn’t a car bomb.”",
+    "“This was someone on the inside.”",
+    "“Witnesses.”"
+    ]
+    },
+    {
+    "id": "alejandro",
+    "display_name": "Alejandro",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Document the tragedy; enable investigative next steps.",
+    "obstacles": "Human toll, lack of census, limited access.",
+    "tactics": "Coordinate airframe and reporting; defer to forensic lead.",
+    "relationships": [
+    {"with": "werner", "type": "work-partners", "state": "seasoned team", "evidence": "Arrive and operate as a pair."},
+    {"with": "shelly", "type": "ally", "state": "supportive", "evidence": "Welcomes Shelly; aligns on witness search."}
+    ],
+    "emotional_arc": {"start": "composed professionalism", "turning_points": ["acknowledges unknown death toll"], "end": "somber focus"},
+    "notable_actions": ["flies with Shelly to site", "confirms lack of casualty numbers"],
+    "quotable_lines": ["“It is a tragedy here. A tragedy.”"]
+    },
+    {
+    "id": "werner",
+    "display_name": "Werner",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Capture high-fidelity visuals; provide technical feeds for analysis.",
+    "obstacles": "Signal fidelity, saturation drift, potential IR false positives.",
+    "tactics": "Deploy fly-eye drones; reprogram thermal drone for low-alt IR sweep; share streams.",
+    "relationships": [
+    {"with": "alejandro", "type": "work-partners", "state": "routine coordination", "evidence": "Operate quadrafan mission together."},
+    {"with": "shelly", "type": "ally", "state": "technical collaboration", "evidence": "Agrees to retask thermal drone and stream data."}
+    ],
+    "emotional_arc": {"start": "wary, dry", "turning_points": ["accepts Shelly’s IR plan"], "end": "engaged technician"},
+    "notable_actions": ["notes tri-D immersion severity", "detaches fly-eyes", "retasks thermal drone (planned)"],
+    "quotable_lines": ["“You should see it in full immersion tri-D.”"]
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "quadrafan",
+    "name": "Quadrafan flier",
+    "category": "vehicle",
+    "capabilities": ["VTOL transport", "aerial survey platform"],
+    "owner_or_users": ["alejandro", "werner", "shelly"],
+    "condition_or_state": "operational",
+    "scene_function": "Provides aerial vantage to assess blast effects and plan searches."
+    },
+    {
+    "id": "pid",
+    "name": "PID (personal interface device)",
+    "category": "comms",
+    "capabilities": ["HUD overlays", "toolkit launch", "data ingest from drones"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "active",
+    "scene_function": "Runs EVAT and displays models and paths."
+    },
+    {
+    "id": "evat-toolkit",
+    "name": "EVAT — Explosive Vector Analysis Toolkit",
+    "category": "tool",
+    "capabilities": ["blast modeling", "vector/char/debris analysis", "terrain overlay integration"],
+    "owner_or_users": ["shelly"],
+    "condition_or_state": "in use",
+    "scene_function": "Enables conclusion of deep-buried, high-tonnage detonation."
+    },
+    {
+    "id": "fly-eyes",
+    "name": "Fly-eye microdrones",
+    "category": "comms",
+    "capabilities": ["multi-angle video capture", "close-follow cinematography"],
+    "owner_or_users": ["werner"],
+    "condition_or_state": "deployed",
+    "scene_function": "Provide feeds and track operator actions."
+    },
+    {
+    "id": "thermal-drone",
+    "name": "Thermal reconnaissance drone",
+    "category": "tool",
+    "capabilities": ["low-altitude IR scanning", "survivor heat signature detection"],
+    "owner_or_users": ["werner"],
+    "condition_or_state": "to be reprogrammed",
+    "scene_function": "Perimeter search for potential witnesses/survivors."
+    },
+    {
+    "id": "nikon-oculars",
+    "name": "Nikon-marked optical processors",
+    "category": "cybernetics",
+    "capabilities": ["integrated imaging/control", "drone interfacing"],
+    "owner_or_users": ["werner"],
+    "condition_or_state": "active",
+    "scene_function": "Cameraman’s visual stack and drone control interface."
+    }
+    ],
+    "locations": [
+    {
+    "id": "wildlands-tarmac",
+    "name": "Wildlands tarmac/airstrip",
+    "type": "structure",
+    "descriptors": ["oven-hot wind", "dust spirals", "quadrafan idling"],
+    "in_scene_events": ["Shelly meets Alejandro and Werner; boards quadrafan."]
+    },
+    {
+    "id": "fox-river-ruins",
+    "name": "Fox River blast zone",
+    "type": "city",
+    "descriptors": ["blackened ruin", "twisted metal", "collapsed concrete", "shipping containers crumpled", "visible bodies in sludge"],
+    "in_scene_events": ["Aerial forensic assessment; inside-job inference; plan for IR witness search."]
+    },
+    {
+    "id": "quadrafan-cabin",
+    "name": "Quadrafan interior",
+    "type": "structure",
+    "descriptors": ["cool glass window", "drone hum", "HUD overlays"],
+    "in_scene_events": ["Shelly runs EVAT; coordinates with Werner."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "stellanet-org",
+    "name": "Stella/StellaNet",
+    "alignment": "neutral",
+    "agents_present": ["alejandro", "werner"],
+    "motives_inferred": "Report and investigate mass-casualty event; enable forensic coverage.",
+    "actions_in_scene": ["Provides transport and drone assets; collaborates with Shelly."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["truth-seeking after atrocity", "institutional access vs. vulnerability", "evidence over spectacle", "grief channeled into procedure"],
+    "motifs_symbols": ["cyan path (directed purpose)", "peeling earth/ribs of rebar", "IR heat as life signal", "cool glass vs. burning city"],
+    "moral_questions": ["When the crime requires insiders, who polices the gatekeepers?", "How far do you go to find witnesses in a mass-casualty zone?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "procedural/forensic",
+    "pacing": "brisk with reflective beats",
+    "voice_traits": ["dry wit under stress", "technical specificity", "somber imagery"],
+    "sensory_notes": ["oven-hot wind and dust", "pale sky glare", "cool cabin glass", "visual of blackened forms and sludge"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Fox River’s destruction days earlier.",
+    "Alejandro and Werner’s decision to add a forensic investigator.",
+    "Shelly’s acceptance of a FI-III deployment."
+    ],
+    "outcomes": [
+    "Determination: deep-buried high-tonnage detonation; likely ammonium nitrate.",
+    "Inference: inside job requiring months of insider access.",
+    "Operational plan: IR perimeter sweeps to locate survivors/witnesses."
+    ],
+    "unanswered_questions": [
+    "Which insiders authorized or enabled access for emplacement?",
+    "Who sourced materials and controlled the fusing system?",
+    "Will IR sweeps locate credible witnesses in time?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_environment",
+    "parties": ["shelly", "fox-river-ruins"],
+    "trigger": "Overwhelming destruction and hazardous conditions.",
+    "resolution": "Adopts aerial modeling and remote sensing; plans targeted ground follow-up."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["shelly", "unknown insider apparatus"],
+    "trigger": "Blast required privileged infrastructure access.",
+    "resolution": "Unresolved; begins witness-centric investigation."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["shelly"],
+    "trigger": "Shock at mass death vs. need to stay clinical.",
+    "resolution": "Maintains procedural focus through EVAT and tasking."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["mass casualty event", "graphic aftermath imagery"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Shelly", "Alejandro", "Werner", "Fox River explosion", "EVAT", "inside job inference", "thermal drone IR sweep", "quadrafan", "witness search"],
+    "keywords_dense": "Shelly, Alejandro, Werner, Fox River ruins, quadrafan, EVAT explosive analysis, deep-buried ammonium nitrate blast, inside job, infrastructure access, thermal drone IR scan, survivors, witnesses, fly-eye drones, StellaNet",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Shelly", "Alejandro", "Werner"],
+    "places": ["Fox River", "Wildlands tarmac"],
+    "orgs": ["StellaNet"],
+    "terms": ["PID", "EVAT", "fly-eye drones", "tri-D", "IR scan"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What does Shelly’s EVAT modeling indicate about the Fox River explosion?", "a": "A deep-buried, high-tonnage detonation—likely ammonium nitrate—placed under the city core and remote-fused."},
+    {"q": "Why does Shelly believe it was an inside job?", "a": "Such emplacement required months of prep, heavy materials, logistics, and privileged infrastructure access."},
+    {"q": "What immediate action does Shelly request from Werner?", "a": "Reprogram a thermal drone to run low-altitude IR sweeps along the blast perimeter and stream the data to her."},
+    {"q": "Where does Shelly expect to find potential witnesses?", "a": "On the outskirts of the blast zone where survival was more likely."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "49-wildflowers-1",
+    "type": "recap",
+    "text": "Shelly meets StellaNet’s Alejandro and Werner, lifts off by quadrafan, and overflies Fox River’s devastation. Using her PID’s EVAT toolkit she models the blast as a deep-buried, high-tonnage detonation—likely ammonium nitrate—requiring insider access over months. She rejects a car-bomb theory and orders Werner to retask a thermal drone for low-altitude IR scans around the periphery to find survivors and witnesses."
+    },
+    {
+    "chunk_id": "49-wildflowers-2",
+    "type": "entities_focus",
+    "text": "Actors: Shelly (forensic lead), Alejandro (reporter), Werner (cameraman with Nikon oculars). Tech: PID, EVAT, quadrafan, fly-eye microdrones, thermal drone, tri-D. Places: Wildlands tarmac, Fox River blast zone, quadrafan cabin. Orgs: Stella/StellaNet. Roles: Shelly concludes inside job; Werner provides sensor feeds; Alejandro anchors reporting. Plan: IR edge sweep to locate witnesses."
+    },
+    {
+    "chunk_id": "49-wildflowers-3",
+    "type": "style_theme_focus",
+    "text": "Third-limited procedural with restrained dread and technical specificity. Themes of truth-seeking after atrocity, insider power vs. public vulnerability, and evidence over spectacle. Motifs: cyan path as purpose, rebar like ribs, IR heat as life signal, cool glass vs. burning city. Moral tension: who guards the gates when the crime demands insiders?"
+    }
+    ]
+    }

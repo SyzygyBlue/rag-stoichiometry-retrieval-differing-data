@@ -1,0 +1,302 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "calum-tam-courtyard-lenya-vs-carl-autopacker-assignment",
+    "chapter_number": 25,
+    "scene_number": 5,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Courtyard confrontation immediately following dawn muster; public discipline of Carl; reassignment of Quincy and Chase to Production & Operations."
+    },
+    "text_windows": {
+    "full_scene_clean": "“Where is Carl!” Lenya shouted, rage clearing the courtyard as laborers and guards scrambled. Carl arrived eating a sandwich. Lenya pointed at the battered Chase: “What happened to him?” Carl shrugged. In one fluid motion she drew, cocked, and jammed her pistol under his chin. “Lie to me again.” Sweat beaded on Carl’s brow. He said Chase had disobeyed his orders. Lenya pressed: what orders could he disobey in a locked cell? Then the core question: did he hear her tell him to leave Chase alone, and that the two were not to be harmed? Carl nodded. She forced him to state the place—Calum-Tam Holdfast—and her name—Lenya Tam—then holstered the pistol with a threat: if either prisoner is harmed, Carl will live in a cell and dig in the fields forever. She ordered staff to clean Chase up and move both prisoners to Production & Operations to help Lesha fix an autopacker, noting they likely should have been housed there with bunks from the start. As they were pulled from the line, Quincy gave Chase a tiny, private acknowledgment; he returned a micro-gesture. Walking away, Quincy drifted closer to him. Chase felt their dynamic shift slightly for the better—even as Carl’s departing glare promised deadly enmity.",
+    "dense_recap_250w": "Lenya erupts into the Calum–Tam courtyard demanding Carl, the brutal overseer. When he appears eating a sandwich, she zeros in on Chase’s visible injuries and asks what happened. After Carl’s evasions, Lenya draws and cocks her sidearm in a blink, shoving the barrel under his chin before witnesses. She boxes him in with questions he can’t dodge: Chase was in a locked cell; had Carl heard her order to leave the two ‘important guests’ alone and unharmed? Carl wordlessly acknowledges. Lenya forces a public reaffirmation of authority—the place name and her full name—then threatens him with permanent demotion to prisoner labor if either Quincy or Chase is harmed. She immediately repositions the pair: they are to be cleaned up and taken to Production & Operations to assist Lesha with an autopacker fault, with bunks available there—an implicit upgrade in status and mobility. As guards escort them out, Quincy grants Chase a fleeting head-tilt and stays a step nearer, signaling begrudging respect. Chase reads the confrontation as a strategic win but also recognizes he has made a dangerous enemy in Carl. The scene resets the power dynamic: Lenya asserts control and protection, Carl is publicly checked, and Quincy and Chase gain access to a technical workspace that may present new leverage or escape opportunities.",
+    "query_handle": "Lenya guns Carl, declares Quincy & Chase protected ‘guests,’ reassigns them to P&O to fix an autopacker; Carl’s enmity hardens."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Summons and escalation",
+    "what_happens": "Lenya demands Carl in the courtyard and immediately confronts him over Chase’s injuries.",
+    "involved_entities": ["lenya-tam", "carl", "chase", "calum-tam-guards", "calum-tam-laborers"],
+    "stakes_or_conflict": "Leadership credibility vs. overseer impunity."
+    },
+    {
+    "order": 2,
+    "label": "Gunpoint accountability",
+    "what_happens": "Lenya plants a pistol under Carl’s chin and forces admissions about disobeying orders.",
+    "involved_entities": ["lenya-tam", "carl", "chase"],
+    "stakes_or_conflict": "Immediate threat of lethal force; chain-of-command reaffirmation."
+    },
+    {
+    "order": 3,
+    "label": "Public verdict and threat",
+    "what_happens": "Lenya makes Carl state her authority and threatens severe punishment for any harm to the two prisoners.",
+    "involved_entities": ["lenya-tam", "carl", "quincy", "chase"],
+    "stakes_or_conflict": "Deterrence vs. simmering retaliation."
+    },
+    {
+    "order": 4,
+    "label": "Operational reassignment",
+    "what_happens": "She orders Quincy and Chase cleaned up and moved to Production & Operations to help Lesha with a broken autopacker; bunks provided.",
+    "involved_entities": ["lenya-tam", "quincy", "chase", "lesha", "calum-tam-guards"],
+    "stakes_or_conflict": "Increased access and potential leverage vs. surveillance in a new area."
+    },
+    {
+    "order": 5,
+    "label": "Silent accord; new enemy",
+    "what_happens": "Quincy and Chase exchange subtle acknowledgments; Carl glares murderously as he exits.",
+    "involved_entities": ["quincy", "chase", "carl"],
+    "stakes_or_conflict": "Fragile allyship vs. personal vendetta."
+    }
+    ],
+    "characters": [
+    {
+    "id": "lenya-tam",
+    "display_name": "Lenya Tam",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Enforce her authority; protect designated ‘guests’; redeploy them productively.",
+    "obstacles": "Overseer defiance; public setting; need to maintain order without chaos.",
+    "tactics": "Rapid weapon draw, public interrogation, ritualized authority check, decisive reassignment.",
+    "relationships": [
+    {"with": "carl", "type": "commander-subordinate", "state": "strained/punitive", "evidence": "Pistol under chin; threats of life-long digging for harming prisoners."},
+    {"with": "chase", "type": "protector-asset", "state": "watchful authority", "evidence": "Declares him an important guest; orders cleanup and reassignment."},
+    {"with": "quincy", "type": "protector-asset", "state": "pragmatic", "evidence": "Includes her in protection and technical reassignment."}
+    ],
+    "emotional_arc": {
+    "start": "fiery rage",
+    "turning_points": ["Gunpoint confrontation yields admission", "Reassertion of authority with name/place ritual"],
+    "end": "controlled command"
+    },
+    "notable_actions": ["draws and cocks pistol", "forces acknowledgment of orders", "orders move to Production & Operations"],
+    "quotable_lines": [
+    "Lie to me again.",
+    "What is this place called? … And what is my full name?",
+    "If either of those two so much as stubs their toe…"
+    ]
+    },
+    {
+    "id": "carl",
+    "display_name": "Carl",
+    "aliases": [],
+    "role_in_scene": "supporting",
+    "goals_now": "Avoid punishment; preserve intimidation power.",
+    "obstacles": "Lenya’s direct oversight and armed threat.",
+    "tactics": "Evasion, silence, minimal admissions under duress.",
+    "relationships": [
+    {"with": "lenya-tam", "type": "subordinate", "state": "submissive/resentful", "evidence": "Nods under pistol; murderous glare after."},
+    {"with": "chase", "type": "enemy", "state": "murderous hostility", "evidence": "‘Murderous glare’ as he leaves."}
+    ],
+    "emotional_arc": {
+    "start": "smug/eating",
+    "turning_points": ["Pistol under chin; forced nods"],
+    "end": "humiliated and vengeful"
+    },
+    "notable_actions": ["admits disobeying orders", "glares at Chase"]
+    },
+    {
+    "id": "chase",
+    "display_name": "Chase",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Capitalize on Lenya’s reaction; secure better position; survive Carl.",
+    "obstacles": "Injuries; Carl’s vendetta; uncertainty in new post.",
+    "tactics": "Hold composure publicly; subtle acknowledgment with Quincy; accept reassignment.",
+    "relationships": [
+    {"with": "quincy", "type": "ally", "state": "warming/begrudging respect", "evidence": "Mutual small signals as they’re reassigned."},
+    {"with": "lenya-tam", "type": "potential-ally", "state": "protected asset", "evidence": "Lenya calls them guests and reassigns them."}
+    ],
+    "emotional_arc": {
+    "start": "tense anticipation",
+    "turning_points": ["Lenya defends him at gunpoint", "Reassignment ordered"],
+    "end": "cautious optimism with awareness of new enemies"
+    },
+    "notable_actions": ["maintains bearing under scrutiny", "exchanges subtle signals with Quincy"]
+    },
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Stay close to Chase; leverage new access to advance escape/rescue aims.",
+    "obstacles": "Holdfast control; Carl’s hostility to their pair.",
+    "tactics": "Low-profile acknowledgment; proximity; readiness to work on machinery.",
+    "relationships": [
+    {"with": "chase", "type": "ally", "state": "begrudging respect", "evidence": "Secret head-tilt and moving closer beside him."},
+    {"with": "lenya-tam", "type": "subject-of-authority", "state": "conditionally protected", "evidence": "Included in guest status and reassignment."}
+    ],
+    "emotional_arc": {
+    "start": "guarded",
+    "turning_points": ["Public protection declared", "Assignment to Production & Operations"],
+    "end": "quietly encouraged"
+    },
+    "notable_actions": ["signals acknowledgment", "accepts movement to P&O"]
+    },
+    {
+    "id": "lesha",
+    "display_name": "Lesha",
+    "aliases": [],
+    "role_in_scene": "cameo",
+    "goals_now": "Fix the autopacker (implied).",
+    "obstacles": "Faulty subsystem needing expertise.",
+    "tactics": "Await assistance from reassigned technicians (Quincy, Chase).",
+    "relationships": [],
+    "emotional_arc": {"start": "", "turning_points": [], "end": ""},
+    "notable_actions": []
+    }
+    ],
+    "items_and_tech": [
+    {
+    "id": "lenya-sidearm",
+    "name": "Lenya’s pistol",
+    "category": "weapon",
+    "capabilities": ["lethal force", "deterrence"],
+    "owner_or_users": ["lenya-tam"],
+    "condition_or_state": "ready/holstered then drawn",
+    "scene_function": "Enforces authority during the confrontation with Carl."
+    },
+    {
+    "id": "autopacker-unit",
+    "name": "Autopacker",
+    "category": "tool",
+    "capabilities": ["automated packing/processing (exact function unspecified)"],
+    "owner_or_users": ["lesha", "quincy", "chase"],
+    "condition_or_state": "malfunctioning",
+    "scene_function": "Pretext and placement for moving Quincy and Chase into Production & Operations with bunks."
+    },
+    {
+    "id": "p-and-o-bunks",
+    "name": "Production & Operations bunks",
+    "category": "other",
+    "capabilities": ["sleeping quarters near work area"],
+    "owner_or_users": ["quincy", "chase"],
+    "condition_or_state": "available",
+    "scene_function": "Signals upgraded status/access compared to the cellblock."
+    }
+    ],
+    "locations": [
+    {
+    "id": "calum-tam-courtyard",
+    "name": "Calum–Tam Courtyard",
+    "type": "structure",
+    "descriptors": ["public yard", "guards and laborers present", "tense, silent crowd"],
+    "in_scene_events": ["Lenya’s gunpoint confrontation with Carl", "Public orders protecting Quincy and Chase", "Reassignment directive issued"]
+    },
+    {
+    "id": "production-and-operations",
+    "name": "Production & Operations (P&O)",
+    "type": "structure",
+    "descriptors": ["work area", "technical equipment", "adjacent bunks"],
+    "in_scene_events": ["Quincy and Chase reassigned there to help fix autopacker (off-screen)"]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "calum-tam-holdfast",
+    "name": "Calum–Tam Holdfast",
+    "alignment": "hostile",
+    "agents_present": ["lenya-tam", "carl", "calum-tam-guards"],
+    "motives_inferred": "Exploit captive labor while maintaining internal order and production output.",
+    "actions_in_sc ene": ["Public discipline of overseer", "Operational reassignment of skilled prisoners", "Protection order for designated guests"]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["power and accountability", "oppression vs. agency", "leverage through usefulness", "public spectacle as control"],
+    "motifs_symbols": ["drawn pistol under chin", "naming place and name as authority ritual", "work-reassignment as soft privilege"],
+    "moral_questions": ["Is instrumental protection of prisoners ethical if it sustains the system?", "Does public humiliation deter abuse or seed retaliation?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/cinematic",
+    "pacing": "brisk with sharp escalation",
+    "voice_traits": ["precise action beats", "authority-charged dialogue", "subtext via micro-gestures"],
+    "sensory_notes": ["audible gasps from crowd", "click/cock of pistol", "sweat beading on brow", "court yard hush after threat"]
+    },
+    "causality": {
+    "prior_dependencies": [
+    "Chase was previously beaten; Lenya had earlier noticed and demanded answers.",
+    "Quincy and Chase are known to be technically capable per ‘info received’ by Holdfast."
+    ],
+    "outcomes": [
+    "Formal protection of Quincy and Chase as ‘guests’.",
+    "Transfer to Production & Operations with bunks and access to machinery.",
+    "Carl is publicly humiliated, deepening his personal vendetta against Chase.",
+    "Potential new opportunities for escape or influence within P&O."
+    ],
+    "unanswered_questions": [
+    "Who sent the information asserting their technical skills and guest status?",
+    "Will Carl seek covert revenge despite Lenya’s threat?",
+    "Can work in P&O be leveraged for communication, tools, or escape?"
+    ]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["lenya-tam", "carl"],
+    "trigger": "Carl harmed a protected prisoner against Lenya’s orders.",
+    "resolution": "Lenya subdues/overrides Carl publicly; hostility persists."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy", "chase", "calum-tam-holdfast"],
+    "trigger": "Captive status and forced labor regime.",
+    "resolution": "Partial mitigation via reassignment; core oppression remains."
+    },
+    {
+    "type": "person_vs_person",
+    "parties": ["chase", "carl"],
+    "trigger": "Carl’s resentment after being disciplined over Chase’s injuries.",
+    "resolution": "Unresolved; enmity escalates."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "moderate",
+    "addiction_or_substances": "none",
+    "sexual_content": "none",
+    "sensitive_topics": ["slavery/forced labor", "threat with firearm", "physical abuse aftermath"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": [
+    "Lenya pistol under Carl’s chin",
+    "Important guests protection order",
+    "Reassignment to Production & Operations",
+    "Autopacker repair with Lesha",
+    "Carl’s murderous glare",
+    "Quincy–Chase subtle acknowledgment"
+    ],
+    "keywords_dense": "Calum–Tam Holdfast, Lenya Tam, Carl overseer, pistol under chin, public discipline, protected guests, Production and Operations, autopacker fault, Lesha, prisoner reassignment, bunks, courtyard confrontation",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Lenya Tam", "Carl", "Chase", "Quincy", "Lesha"],
+    "places": ["Calum–Tam Courtyard", "Production & Operations"],
+    "orgs": ["Calum–Tam Holdfast"],
+    "terms": ["autopacker", "guests"]
+    }
+    },
+    "qa_pairs": [
+    {"q": "What immediate action does Lenya take against Carl?", "a": "She draws and cocks her pistol, shoving the barrel under his chin."},
+    {"q": "How does Lenya reassert her authority verbally?", "a": "She makes Carl state the holdfast’s name and her full name, then threatens punishment if the prisoners are harmed."},
+    {"q": "Where are Quincy and Chase reassigned after the confrontation?", "a": "To Production & Operations to help fix an autopacker under Lesha."},
+    {"q": "What change in living conditions is implied for them?", "a": "They’ll have access to bunks in Production & Operations instead of the cells."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "ct-lenya-carl-1",
+    "type": "recap",
+    "text": "Lenya storms the Calum–Tam courtyard and confronts overseer Carl over Chase’s injuries. In a rapid draw she presses a pistol under his chin, forces him to acknowledge prior orders not to harm the two ‘guests,’ and publicly threatens him with permanent demotion if they’re hurt. She orders Quincy and Chase cleaned up and reassigned to Production & Operations to help Lesha with a malfunctioning autopacker, with bunks provided. Quincy gives Chase a discreet nod as they’re escorted away, while Carl departs with a murderous glare—protection gained, enmity deepened."
+    },
+    {
+    "chunk_id": "ct-lenya-carl-2",
+    "type": "entities_focus",
+    "text": "Actors: Lenya Tam (command authority), Carl (overseer, humiliated), Chase (injured but strategic), Quincy (ally with begrudging respect), Lesha (P&O technician/lead, mentioned). Tech/props: Lenya’s sidearm; Autopacker (faulty); P&O bunks. Locations: Calum–Tam Courtyard (public discipline), Production & Operations (new duty station). Function: Public power assertion protects key prisoners and relocates them to a technical workspace that may expand their options."
+    },
+    {
+    "chunk_id": "ct-lenya-carl-3",
+    "type": "style_theme_focus",
+    "text": "Gritty, cinematic third-limited past with sharp, authoritative dialogue and precise action beats. Themes: power and accountability under oppression; usefulness as leverage; spectacle as discipline; retaliation risk. Motifs: gun under chin; ritual naming of place/authority; reassignment as soft privilege; exchanged micro-gestures signaling shifting alliance."
+    }
+    ]
+    }

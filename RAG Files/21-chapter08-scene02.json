@@ -1,0 +1,200 @@
+{
+    "doc_type": "neon_titan_scene_v1",
+    "source": {
+    "book_title": "Neon Titan Awakens",
+    "chapter_title": null,
+    "scene_id": "robyn-confronts-quincy-morning-slap-and-boundary",
+    "chapter_number": 8,
+    "scene_number": 2,
+    "date_in_universe": null,
+    "absolute_timeline_notes": "Morning after the Wildebeest dice wager; public confrontation inside the Three Shovels Caravan encampment."
+    },
+    "text_windows": {
+    "full_scene_clean": "The slap cracked through the morning air. Quincy stumbled, hand to her cheek, as onlookers peeked from tents and trailers. Robyn’s blazing eyes pinned her; then Robyn kissed her—hard, angry, desperate—before delivering a second slap. Robyn warned: “Don’t you ever do that again. Not to me. Not to anyone.” Quincy, ashamed, asked Robyn to say what she felt. Through tears, Robyn named sadness, betrayal, anger—and worst, feeling cheap and like she didn’t matter—then also admitted feeling loved, adored, sacrificed for, and important. She told Quincy the act was reckless and that Quincy had no right to risk their happiness and future. Quincy promised never again. Robyn’s anger eased; she squeezed Quincy’s hand, said she didn’t know how she’d get along without her. They shared a trembling kiss—apology and promise—then Robyn walked away lighter. Quincy stood trembling, exhausted but grateful.",
+    "dense_recap_250w": "At dawn in the Three Shovels encampment, Robyn publicly confronts Quincy over the previous night’s reckless dice wager that gambled their relationship. In full view of curious onlookers, Robyn slaps Quincy, kisses her, then slaps her again, and delivers a clear boundary: never do that again to her or anyone. Invited by Quincy to voice the harm, Robyn lays out complex emotions—sadness, betrayal, anger—but most painfully that the wager made her feel cheap and unimportant. She also acknowledges feeling loved and sacrificed for, revealing the contradictory impact of Quincy's act. Robyn frames the issue as consent and agency: Quincy didn’t have the right to risk their shared future without her. Quincy, shaken and remorseful, promises never to repeat it and accepts the rebuke. The confrontation softens into a fragile reconciliation: hand squeeze, shared kiss, and Robyn departing steadier, while Quincy remains trembling with relief and exhaustion. The scene resolves the immediate emotional fallout of the wager, establishes new boundaries in their relationship, and signals that their bond continues—conditional on Quincy’s restraint and respect.",
+    "query_handle": "Robyn confronts Quincy at dawn; slaps, kiss, boundary set; fragile reconciliation after dice wager."
+    },
+    "narrative_beats": [
+    {
+    "order": 1,
+    "label": "Public shock",
+    "what_happens": "Robyn slaps Quincy in the camp thoroughfare; onlookers peek and retreat.",
+    "involved_entities": ["robyn", "quincy", "three-shovels-onlookers"],
+    "stakes_or_conflict": "Public shame and relational rupture."
+    },
+    {
+    "order": 2,
+    "label": "Anger and intimacy collide",
+    "what_happens": "Robyn kisses Quincy hard, then slaps her again; demands the behavior never happen again.",
+    "involved_entities": ["robyn", "quincy"],
+    "stakes_or_conflict": "Boundary-setting versus Quincy's remorse."
+    },
+    {
+    "order": 3,
+    "label": "Naming the harm",
+    "what_happens": "Prompted by Quincy, Robyn articulates feeling cheap and betrayed, yet also loved.",
+    "involved_entities": ["robyn", "quincy"],
+    "stakes_or_conflict": "Emotional truth vs. defense; consent and agency."
+    },
+    {
+    "order": 4,
+    "label": "Terms of repair",
+    "what_happens": "Robyn states Quincy had no right to risk their future; Quincy promises never again.",
+    "involved_entities": ["robyn", "quincy"],
+    "stakes_or_conflict": "Recommitment conditioned on respect."
+    },
+    {
+    "order": 5,
+    "label": "Fragile peace",
+    "what_happens": "They share a trembling kiss; Robyn departs steadier; Quincy is left drained but grateful.",
+    "involved_entities": ["robyn", "quincy"],
+    "stakes_or_conflict": "Relationship continues under new boundary."
+    }
+    ],
+    "characters": [
+    {
+    "id": "quincy",
+    "display_name": "Quincy",
+    "aliases": [],
+    "role_in_scene": "POV",
+    "goals_now": "Accept accountability and preserve her relationship with Robyn.",
+    "obstacles": "Public shame, Robyn’s justified anger, her own guilt.",
+    "tactics": "Invites truth, listens without deflecting, promises specific behavior change.",
+    "relationships": [
+    {"with": "robyn", "type": "lover", "state": "strained-to-reconciling", "evidence": "Trembling kiss; vow: “I won’t, not ever.”"},
+    {"with": "three-shovels-caravan", "type": "community", "state": "watchful", "evidence": "Heads pop out of tents/trailers during confrontation."}
+    ],
+    "emotional_arc": {
+    "start": "stunned, ashamed, anxious",
+    "turning_points": ["Robyn’s slap–kiss–slap and boundary demand", "Quincy’s explicit promise to stop risking their future"],
+    "end": "exhausted, relieved, grateful"
+    },
+    "notable_actions": ["asks Robyn to name feelings", "accepts rebuke", "promises never to repeat behavior", "shares a restrained kiss"],
+    "quotable_lines": [
+    "Say it. Whatever you’re feeling… I earned it.",
+    "I do. I won’t, not ever. It was horrible."
+    ]
+    },
+    {
+    "id": "robyn",
+    "display_name": "Robyn",
+    "aliases": [],
+    "role_in_scene": "major",
+    "goals_now": "Confront harm, reclaim agency, and set a clear boundary for future safety.",
+    "obstacles": "Conflicting love and anger; public setting.",
+    "tactics": "Physical shock (slaps), stark honesty, conditional forgiveness, affectionate reassurance.",
+    "relationships": [
+    {"with": "quincy", "type": "lover", "state": "hurt but committed", "evidence": "“I felt cheap… but I feel loved… I feel like I matter.”"}
+    ],
+    "emotional_arc": {
+    "start": "furious, hurt",
+    "turning_points": ["States feeling cheap and betrayed", "Acknowledges love and sets boundary"],
+    "end": "calmer, resolute, lighter"
+    },
+    "notable_actions": ["slaps Quincy twice", "kisses Quincy", "states boundary and consent terms", "squeezes Quincy's hand", "departs upright"],
+    "quotable_lines": [
+    "Don’t you ever do that again. Not to me. Not to anyone.",
+    "I felt cheap. Like I didn’t matter.",
+    "You didn’t have the right to risk our happiness. Our love. Our future."
+    ]
+    }
+    ],
+    "items_and_tech": [],
+    "locations": [
+    {
+    "id": "three-shovels-camp-thoroughfare",
+    "name": "Three Shovels camp thoroughfare",
+    "type": "caravan",
+    "descriptors": ["morning light", "tents and trailers", "onlookers peeking out"],
+    "in_scene_events": ["Public confrontation; boundary set; tentative reconciliation."]
+    }
+    ],
+    "factions_orgs": [
+    {
+    "id": "three-shovels-caravan",
+    "name": "Three Shovels Caravan",
+    "alignment": "ally",
+    "agents_present": ["quincy", "robyn"],
+    "motives_inferred": "Community cohesion; social surveillance through visibility (inferred).",
+    "actions_in_scene": ["Passive witnessing by members from tents/trailers."]
+    }
+    ],
+    "themes_and_motifs": {
+    "themes": ["Consent and agency", "Accountability in love", "Public shame vs private repair", "Recklessness vs responsibility"],
+    "motifs_symbols": ["slap as boundary alarm", "kiss as conditional repair", "onlookers as social pressure", "morning light after a dark choice"],
+    "moral_questions": ["Who has the right to risk a shared future?", "Can love repair harm done under public pressure?", "What forms of apology match the harm?"]
+    },
+    "style_fingerprint": {
+    "pov_mode": "3rd limited",
+    "tense": "past",
+    "register": "gritty/lyrical",
+    "pacing": "brisk",
+    "voice_traits": ["sensory immediacy", "emotional candor", "compressed dialogue"],
+    "sensory_notes": ["sharp crack of a slap", "sting on skin", "warm breath at the cheek", "morning air and camp murmurs"]
+    },
+    "causality": {
+    "prior_dependencies": ["Quincy’s prior drunken dice wager staking their relationship", "Ongoing power pressures in the caravan around Robyn/Quincy"],
+    "outcomes": ["Explicit boundary established: Quincy must not risk their relationship again", "Relationship continues with conditions; public awareness of conflict increases"],
+    "unanswered_questions": ["Will Quincy uphold the boundary under future provocation?", "Will community gossip or leadership exploit the incident?"]
+    },
+    "conflicts": [
+    {
+    "type": "person_vs_person",
+    "parties": ["robyn", "quincy"],
+    "trigger": "Quincy’s reckless wager risking their future",
+    "resolution": "Robyn confronts; Quincy accepts fault and promises change; reconciliation tentative."
+    },
+    {
+    "type": "person_vs_system",
+    "parties": ["quincy and robyn", "caravan social gaze"],
+    "trigger": "Public spectacle of private relationship conflict",
+    "resolution": "Unresolved; witnessed by community members."
+    },
+    {
+    "type": "person_vs_self",
+    "parties": ["quincy"],
+    "trigger": "Shame and guilt vs desire to repair",
+    "resolution": "Commits to restraint; emotional relief follows."
+    }
+    ],
+    "safety_and_content_tags": {
+    "violence": "mild",
+    "addiction_or_substances": "none",
+    "sexual_content": "implied",
+    "sensitive_topics": ["public shaming", "relationship boundaries/consent"]
+    },
+    "metadata_for_indexing": {
+    "retrieval_keys": ["Quincy", "Robyn", "Three Shovels Caravan", "public confrontation", "relationship boundary", "morning camp"],
+    "keywords_dense": "Quincy, Robyn, slap, kiss, boundary, apology, public confrontation, Three Shovels Caravan, morning, shame, consent, reconciliation",
+    "spoiler_level": "scene_only",
+    "named_entities": {
+    "people": ["Quincy", "Robyn"],
+    "places": ["Three Shovels camp thoroughfare"],
+    "orgs": ["Three Shovels Caravan"],
+    "terms": []
+    }
+    },
+    "qa_pairs": [
+    {"q": "What does Robyn do when confronting Quincy?", "a": "She slaps Quincy, kisses her, slaps her again, and sets a boundary to never repeat the behavior."},
+    {"q": "Why does Robyn say she was most hurt?", "a": "She felt cheap, like she didn’t matter."},
+    {"q": "What promise does Quincy make?", "a": "Never to risk their happiness or future like that again."},
+    {"q": "How does the scene end?", "a": "They share a trembling kiss; Robyn walks away steadier, and Quincy is left exhausted but grateful."}
+    ],
+    "embedding_payloads": [
+    {
+    "chunk_id": "robyn-quincy-morning-1-recap",
+    "type": "recap",
+    "text": "At dawn in the Three Shovels camp, Robyn publicly confronts Quincy about the prior night’s reckless wager. She slaps Quincy, kisses her, then slaps her again, and demands it never happen again. Invited to speak, Robyn names feeling cheap and betrayed yet also loved. She insists Quincy had no right to risk their shared future. Quincy accepts the rebuke and promises never again. They share a tentative, apologetic kiss, and Robyn departs lighter while Quincy trembles with relief."
+    },
+    {
+    "chunk_id": "robyn-quincy-morning-2-entities",
+    "type": "entities_focus",
+    "text": "Key actors: Robyn (hurt lover asserting boundaries), Quincy (remorseful partner seeking repair). Setting: Three Shovels Caravan thoroughfare with tents and trailers; morning witnesses peek out. Objects/tech: none central. Faction: Three Shovels community as passive audience. Dynamics: personal accountability and consent clarified; public pressure underscores stakes."
+    },
+    {
+    "chunk_id": "robyn-quincy-morning-3-style-theme",
+    "type": "style_theme_focus",
+    "text": "Third-person limited past with gritty, lyrical immediacy. Motifs: slap as alarm, kiss as conditional repair, morning light as renewal. Themes: consent and agency in love, accountability, public shame vs. private healing, recklessness versus responsibility; the relationship continues under explicit boundaries."
+    }
+    ]
+    }
