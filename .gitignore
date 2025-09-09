@@ -55,3 +55,15 @@ RAG Files/entities/*.zip
 # Project-local temp
 previous_response.txt
 DevOps/push_to_github.cmd
+
+# Non-program project data (exclude from VCS)
+Beyond the Neon Veil/
+RAG Files/character/
+RAG Files/knowledgeFile/
+RAG Files/knowledge_qa.json
+RAG Files/*-scene*.json
+
+# Keep program/config files under RAG Files
+!RAG Files/project.config.json
+!RAG Files/scripts/**
+!RAG Files/mappings/**
