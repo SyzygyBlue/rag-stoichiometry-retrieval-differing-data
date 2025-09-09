@@ -4,7 +4,7 @@ setlocal EnableExtensions EnableDelayedExpansion
 REM Cleanup non-program data from Git repo and update tree
 REM - Deletes the local "Beyond the Neon Veil" folder
 REM - Untracks scenes (*.json with "-scene"), character folder, and knowledge JSONL from Git
-REM - Pushes changes to origin
+REM - Pushes changes to origin (optionally override remote URL as arg1)
 
 REM 1) Verify git
 where git >nul 2>nul
@@ -27,10 +27,7 @@ if exist "Beyond the Neon Veil" (
   echo [rm] Beyond the Neon Veil not present locally (ok)
 )
 
-REM 4) Ensure .gitignore has necessary rules (already edited in repo)
-REM    This script assumes .gitignore is updated to ignore scenes, character, knowledgeFile, knowledge_qa.json
-
-REM 5) Untrack data from Git index (keep files locally except the folder we removed)
+REM 4) Untrack data from Git index (keep files locally except the folder we removed)
 set ERR=0
 
 REM Untrack character folder
@@ -66,7 +63,7 @@ for /f "usebackq tokens=*" %%F in (`git ls-files "RAG Files/*-scene*.json"`) do 
 REM Stage .gitignore and any deletions/modifications
 git add -A || set ERR=1
 
-REM 6) Commit
+REM 5) Commit
 if %ERR% NEQ 0 (
   echo [warn] Some untrack operations returned errors; proceeding to commit what is staged.
 )
@@ -79,7 +76,7 @@ if errorlevel 1 (
   echo [git] nothing to commit (cleanup may already be applied)
 )
 
-REM 7) Push
+REM 6) Push (override remote URL if provided)
 if not "%~1"=="" (
   git remote set-url origin "%~1"
 )
@@ -89,9 +86,9 @@ git push -u origin main || goto :fail
 echo ---
 git remote -v
 echo ---
- git log -n 1 --oneline
+git log -n 1 --oneline
 echo ---
- git status -s
+git status -s
 
 REM Self-delete to keep repo clean
 set "SELF=%~f0"

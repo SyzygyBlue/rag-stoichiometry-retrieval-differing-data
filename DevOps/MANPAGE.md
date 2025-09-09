@@ -2,6 +2,12 @@
 
 This manual documents the end-to-end workflow and knobs for building and querying a local RAG index for projects ranging from novels to technical RFPs. It covers setup, building, querying, model providers, API key sourcing, context handling, and retrieval mixing strategies (flat and planned stratified retrieval).
 
+## Docs
+
+- Root overview: [README.md](../README.md)
+- Quick start and options: [DevOps/HOWTO.md](./HOWTO.md)
+- Orchestrator overview: [DevOps/README.md](./README.md)
+
 - Project root: `d:/Windsurf Projects/Create-RAG-Vector-Database/`
 - Data root: `RAG Files/`
 - DevOps scripts: `DevOps/`
